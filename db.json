@@ -1,20 +1,20 @@
 {
 	"obituario": [{
 			"id": 1,
-			"Nombre": "Alejandro",
-			"Apellido": "Chávez",
+			"nombre": "Alejandro",
+			"apellido": "Chávez",
 			"fecha": "Miércoles 4 de Octubre"
 		},
 		{
 			"id": 2,
-			"Nombre": "Manuel",
-			"Apellido": "Medina",
+			"nombre": "Manuel",
+			"apellido": "Medina",
 			"fecha": "Jueves 22 de Junio"
 		},
 		{
 			"id": 3,
-			"Nombre": "Armando",
-			"Apellido": "Torres",
+			"nombre": "Armando",
+			"apellido": "Torres",
 			"fecha": "Sábado 11 de Febrero"
 		}
 	]
