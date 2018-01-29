@@ -7,14 +7,14 @@
 		},
 		{
 			"id": 2,
-			"nombre": "Manuel",
-			"apellido": "Medina",
+			"nombre": "Otro nombre",
+			"apellido": "Otro apellido",
 			"fecha": "Jueves 22 de Junio"
 		},
 		{
 			"id": 3,
-			"nombre": "Armando",
-			"apellido": "Torres",
+			"nombre": "Tercero",
+			"apellido": "Otro",
 			"fecha": "Sábado 11 de Febrero"
 		}
 	]
