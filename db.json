@@ -1,0 +1,21 @@
+[{
+		"nombre": "Nombre",
+		"apellido": "del json local",
+		"fecha": "15 de enero"
+	},
+	{
+		"nombre": "Nombre",
+		"apellido": "del json 2",
+		"fecha": "25 de enero"
+	},
+	{
+		"nombre": "Nombre",
+		"apellido": "del json 3",
+		"fecha": "15 de febrero"
+	},
+	{
+		"nombre": "Nombre",
+		"apellido": "del json 4",
+		"fecha": "15 de marzo"
+	}
+]
