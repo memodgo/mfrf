@@ -1,13 +1,32 @@
 {
 	"obituario": [{
 			"id": 1,
-			"nombre": "SALIDA",
+			"nombre": "MARTES",
 			"apellido": "Chávez",
 			"fecha": "Miércoles 4 de Octubre"
 		},
 		{
 			"id": 2,
-			"nombre": "SALIDA",
+			"nombre": "OTRO MARTES",
+			"apellido": "Otro apellido",
+			"fecha": "Jueves 22 de Junio"
+		},
+		{
+			"id": 3,
+			"nombre": "PROBANDO",
+			"apellido": "Otro",
+			"fecha": "Sábado 11 de Febrero"
+		}
+	],
+	"obituario_ingles": [{
+			"id": 1,
+			"nombre": "inglés",
+			"apellido": "Chávez",
+			"fecha": "Miércoles 4 de Octubre"
+		},
+		{
+			"id": 2,
+			"nombre": "english",
 			"apellido": "Otro apellido",
 			"fecha": "Jueves 22 de Junio"
 		},
