@@ -1,15 +1,15 @@
 {
 	"obituario": [{
 			"id": 1,
-			"nombre": "MARTES",
-			"apellido": "Chávez",
+			"nombre": "´PRUEBA",
+			"apellido": "MIÉRCOLES",
 			"fecha": "Miércoles 4 de Octubre",
 			"mensaje_corto": "A LOS 88 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
 		},
 		{
 			"id": 2,
-			"nombre": "OTRO MARTES",
+			"nombre": "OTRO MIÉRCOLES",
 			"apellido": "Otro apellido",
 			"fecha": "Jueves 22 de Junio",
 			"mensaje_corto": "A LOS 90 AÑOS DE EDAD ",
@@ -27,7 +27,7 @@
 	"obituario_ingles": [{
 			"id": 1,
 			"nombre": "inglés",
-			"apellido": "Chávez",
+			"apellido": "WEDNESDAY",
 			"fecha": "Wednesday, October 18",
 			"mensaje_corto": "A LOS 88 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
@@ -35,7 +35,7 @@
 		{
 			"id": 2,
 			"nombre": "english",
-			"apellido": "Otro apellido",
+			"apellido": "another WEDNESDAY",
 			"fecha": "Thursday, October 18",
 			"mensaje_corto": "A LOS 90 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
