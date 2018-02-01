@@ -1,51 +1,67 @@
 {
 	"obituario": [{
 			"id": 1,
-			"nombre": "PRUEBA",
-			"apellido": "JUEVES",
-			"fecha": "Miércoles 4 de Octubre",
-			"mensaje_corto": "A LOS 88 AÑOS DE EDAD ",
+			"nombre": "SRA. JUANA",
+			"apellido": "BOLÍVAR CORRAL",
+			"fecha": "Jueves 1 de Febrero",
+			"mensaje_corto": "A LOS 86 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
 		},
 		{
 			"id": 2,
-			"nombre": "OTRO",
-			"apellido": "Otro JUEVES",
-			"fecha": "Jueves 22 de Junio",
-			"mensaje_corto": "A LOS 90 AÑOS DE EDAD ",
+			"nombre": "SRA. GUADALUPE",
+			"apellido": "MORALES HERRERA",
+			"fecha": "Jueves 1 de Febrero",
+			"mensaje_corto": "A LOS 89 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
 		},
 		{
 			"id": 3,
-			"nombre": "PROBANDO",
-			"apellido": "Otro",
-			"fecha": "Sábado 11 de Febrero",
-			"mensaje_corto": "A LOS 100 AÑOS DE EDAD ",
+			"nombre": "JOSUE",
+			"apellido": "FLORENTINO AGUIRRE",
+			"fecha": "Jueves 1 de Febrero",
+			"mensaje_corto": "A LOS 35 AÑOS DE EDAD ",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 4,
+			"nombre": "SR. ROBERTO",
+			"apellido": "HERRERA VELÁZQUEZ",
+			"fecha": "Jueves 1 de Febrero",
+			"mensaje_corto": "A LOS 62 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
 		}
 	],
 	"obituario_ingles": [{
 			"id": 1,
-			"nombre": "inglés",
-			"apellido": "THRUSDAY",
-			"fecha": "Wednesday, October 18",
+			"nombre": "SRA. JUANA",
+			"apellido": "BOLÍVAR CORRAL",
+			"fecha": "Thursday, February 1",
 			"mensaje_corto": "A LOS 88 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
 		},
 		{
 			"id": 2,
-			"nombre": "english",
-			"apellido": "another THRUSDAY",
-			"fecha": "Thursday, October 18",
-			"mensaje_corto": "A LOS 90 AÑOS DE EDAD ",
+			"nombre": "SRA. GUADALUPE",
+			"apellido": "MORALES HERRERA",
+			"fecha": "Thursday, February 1",
+			"mensaje_corto": "A LOS 89 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
 		},
 		{
 			"id": 3,
-			"nombre": "PROBANDO",
-			"apellido": "Otro",
-			"fecha": "Saturday, February 11",
-			"mensaje_corto": "A LOS 100 AÑOS DE EDAD ",
+			"nombre": "JOSUE",
+			"apellido": "FLORENTINO AGUIRRE",
+			"fecha": "Thursday, February 1",
+			"mensaje_corto": "A LOS 35 AÑOS DE EDAD ",
+			"descripcion": "Aquí van todos los demás datos"
+		}
+		{
+			"id": 4,
+			"nombre": "SR. ROBERTO",
+			"apellido": "HERRERA VELÁZQUEZ",
+			"fecha": "Thursday, February 1",
+			"mensaje_corto": "A LOS 62 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
 		}
 	]
