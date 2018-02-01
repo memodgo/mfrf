@@ -1,16 +1,16 @@
 {
 	"obituario": [{
 			"id": 1,
-			"nombre": "OTRA PRUEBA ASDAADS",
-			"apellido": "MIÉRCOLES",
+			"nombre": "PRUEBA",
+			"apellido": "JUEVES",
 			"fecha": "Miércoles 4 de Octubre",
 			"mensaje_corto": "A LOS 88 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
 		},
 		{
 			"id": 2,
-			"nombre": "OTRO MIÉRCOLES",
-			"apellido": "Otro apellido",
+			"nombre": "OTRO",
+			"apellido": "Otro JUEVES",
 			"fecha": "Jueves 22 de Junio",
 			"mensaje_corto": "A LOS 90 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
@@ -27,7 +27,7 @@
 	"obituario_ingles": [{
 			"id": 1,
 			"nombre": "inglés",
-			"apellido": "WEDNESDAY",
+			"apellido": "THRUSDAY",
 			"fecha": "Wednesday, October 18",
 			"mensaje_corto": "A LOS 88 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
@@ -35,7 +35,7 @@
 		{
 			"id": 2,
 			"nombre": "english",
-			"apellido": "another WEDNESDAY",
+			"apellido": "another THRUSDAY",
 			"fecha": "Thursday, October 18",
 			"mensaje_corto": "A LOS 90 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
