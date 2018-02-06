@@ -1,5 +1,37 @@
 {
 	"obituario": [{
+			"id": 5,
+			"nombre": "JOVEN ÁNGEL",
+			"apellido": "LEYVA MEDINA",
+			"fecha": "Sábado 3 de Febrero",
+			"mensaje_corto": "A LOS 22 AÑOS DE EDAD ",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 6,
+			"nombre": "NIÑO DAVID",
+			"apellido": "BUSTAMANTE ÁBREGO",
+			"fecha": "Sábado 3 de Febrero",
+			"mensaje_corto": "A LOS 11 AÑOS DE EDAD ",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 7,
+			"nombre": "SRA. MANUELA",
+			"apellido": "SANTOS DE LUNA",
+			"fecha": "Sábado 3 de Febrero",
+			"mensaje_corto": "A LOS 75 AÑOS DE EDAD ",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 8,
+			"nombre": "SR. APOLINAR",
+			"apellido": "CABRERA GALAVIZ",
+			"fecha": "Sábado 3 de Febrero",
+			"mensaje_corto": "A LOS 68 AÑOS DE EDAD ",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
 			"id": 1,
 			"nombre": "SRA. JUANA",
 			"apellido": "BOLÍVAR CORRAL",
@@ -33,6 +65,38 @@
 		}
 	],
 	"obituario_ingles": [{
+			"id": 5,
+			"nombre": "JOVEN ANGEL",
+			"apellido": "LEYVA MEDINA",
+			"fecha": "Saturday, February 3",
+			"mensaje_corto": "AT THE AGE OF 22 YEARS",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 6,
+			"nombre": "NIÑO DAVID",
+			"apellido": "BUSTAMANTE ÁBREGO",
+			"fecha": "Saturday, February 3",
+			"mensaje_corto": "AT THE AGE OF 11 YEARS",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 7,
+			"nombre": "SRA. MANUELA",
+			"apellido": "SANTOS DE LUNA",
+			"fecha": "Saturday, February 3",
+			"mensaje_corto": "AT THE AGE OF 75 YEARS",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 8,
+			"nombre": "SR. APOLINAR",
+			"apellido": "CABRERA GALAVIZ",
+			"fecha": "Saturday, February 3",
+			"mensaje_corto": "AT THE AGE OF 68 YEARS",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
 			"id": 1,
 			"nombre": "SRA. JUANA",
 			"apellido": "BOLÍVAR CORRAL",
