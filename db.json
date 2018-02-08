@@ -1,5 +1,29 @@
 {
 	"obituario": [{
+			"id": 12,
+			"nombre": "SRA. DAMIANA",
+			"apellido": "MATURINO MEDINA",
+			"fecha": "Miércoles 7 de Febrero",
+			"mensaje_corto": "A LOS 81 AÑOS DE EDAD ",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 13,
+			"nombre": "SR. JOSÉ DE JESÚS",
+			"apellido": "CEPEDA HERRERA",
+			"fecha": "Miércoles 7 de Febrero",
+			"mensaje_corto": "A LOS 86 AÑOS DE EDAD ",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 14,
+			"nombre": "SR. PEDRO",
+			"apellido": "SÁNCHEZ SEGOVIA",
+			"fecha": "Miércoles 7 de Febrero",
+			"mensaje_corto": "A LOS 93 AÑOS DE EDAD ",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
 			"id": 9,
 			"nombre": "SRA. AUSENCIA",
 			"apellido": "RUEDA GANDARA",
@@ -89,6 +113,30 @@
 		}
 	],
 	"obituario_ingles": [{
+			"id": 12,
+			"nombre": "SRA. DAMIANA",
+			"apellido": "MATURINO MEDINA",
+			"fecha": "Wednesday, February 7",
+			"mensaje_corto": "AT THE AGE OF 81 YEARS",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 13,
+			"nombre": "SR. JOSÉ DE JESÚS",
+			"apellido": "CEPEDA HERRERA",
+			"fecha": "Wednesday, February 7",
+			"mensaje_corto": "AT THE AGE OF 86 YEARS",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
+			"id": 14,
+			"nombre": "SR. PEDRO",
+			"apellido": "SÁNCHEZ SEGOVIA",
+			"fecha": "Wednesday, February 7",
+			"mensaje_corto": "AT THE AGE OF 93 YEARS",
+			"descripcion": "Aquí van todos los demás datos"
+		},
+		{
 			"id": 9,
 			"nombre": "SRA. AUSENCIA",
 			"apellido": "RUEDA GANDARA",
