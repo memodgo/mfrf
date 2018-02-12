@@ -1,5 +1,29 @@
 {
 	"obituario": [{
+			"id": 18,
+			"nombre": "SRA. MARÍA",
+			"apellido": "NÚÑEZ DELGADO",
+			"fecha": "Domingo 11 de Febrero",
+			"mensaje_corto": "A LOS 52 AÑOS DE EDAD ",
+			"descripcion": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO"
+		},
+		{
+			"id": 19,
+			"nombre": "SRA. MANUELA",
+			"apellido": "DÍAZ CARRASCO",
+			"fecha": "Domingo 11 de Febrero",
+			"mensaje_corto": "A LOS 81 AÑOS DE EDAD ",
+			"descripcion": "SE VELA EN PRESIDIOS TEPEHUANES"
+		},
+		{
+			"id": 20,
+			"nombre": "SRA. MARTHA",
+			"apellido": "ORTIZ RUIZ",
+			"fecha": "Domingo 11 de Febrero",
+			"mensaje_corto": "A LOS 86 AÑOS DE EDAD ",
+			"descripcion": "SE VELA EN CAPILLA ESMERALDA"
+		},
+		{
 			"id": 15,
 			"nombre": "SR. GALDINO",
 			"apellido": "ESCOBEDO LARRETA",
@@ -137,6 +161,30 @@
 		}
 	],
 	"obituario_ingles": [{
+			"id": 18,
+			"nombre": "SRA. MARÍA",
+			"apellido": "NÚÑEZ DELGADO",
+			"fecha": "Sunday, February 11",
+			"mensaje_corto": "AT THE AGE OF 52 YEARS",
+			"descripcion": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO"
+		},
+		{
+			"id": 19,
+			"nombre": "SRA. MANUELA",
+			"apellido": "DÍAZ CARRASCO",
+			"fecha": "Sunday, February 11",
+			"mensaje_corto": "AT THE AGE OF 81 YEARS",
+			"descripcion": "SE VELA EN PRESIDIOS TEPEHUANES"
+		},
+		{
+			"id": 20,
+			"nombre": "SRA. MARTHA",
+			"apellido": "ORTIZ RUIZ",
+			"fecha": "Sunday, February 11",
+			"mensaje_corto": "AT THE AGE OF 86 YEARS",
+			"descripcion": "SE VELA EN CAPILLA ESMERALDA"
+		},
+		{
 			"id": 15,
 			"nombre": "SR. GALDINO",
 			"apellido": "ESCOBEDO LARRETA",
