@@ -158,46 +158,6 @@
 			"fecha": "Sábado 3 de Febrero",
 			"mensaje_corto": "A LOS 68 AÑOS DE EDAD ",
 			"descripcion": "Aquí van todos los demás datos"
-		},
-		{
-			"id": 1,
-			"titulo": "SRA.",
-			"nombre": "JUANA",
-			"apellido_paterno": "BOLÍVAR",
-			"apellido_materno": "CORRAL",
-			"fecha": "Jueves 1 de Febrero",
-			"mensaje_corto": "A LOS 86 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
-		},
-		{
-			"id": 2,
-			"titulo": "SRA.",
-			"nombre": "GUADALUPE",
-			"apellido_paterno": "MORALES",
-			"apellido_materno": "HERRERA",
-			"fecha": "Jueves 1 de Febrero",
-			"mensaje_corto": "A LOS 89 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
-		},
-		{
-			"id": 3,
-			"titulo": "",
-			"nombre": "JOSUÉ",
-			"apellido_paterno": "FLORENTINO",
-			"apellido_materno": "AGUIRRE",
-			"fecha": "Jueves 1 de Febrero",
-			"mensaje_corto": "A LOS 35 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
-		},
-		{
-			"id": 4,
-			"titulo": "SR.",
-			"nombre": "ROBERTO",
-			"apellido_paterno": "HERRERA",
-			"apellido_materno": "VELÁZQUEZ",
-			"fecha": "Jueves 1 de Febrero",
-			"mensaje_corto": "A LOS 62 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
 		}
 	],
 	"obituario_ingles": [{
@@ -358,46 +318,6 @@
 			"apellido_materno": "GALAVIZ",
 			"fecha": "Saturday, February 3",
 			"mensaje_corto": "AT THE AGE OF 68 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
-		},
-		{
-			"id": 1,
-			"titulo": "SRA.",
-			"nombre": "JUANA",
-			"apellido_paterno": "BOLÍVAR",
-			"apellido_materno": "CORRAL",
-			"fecha": "Thursday, February 1",
-			"mensaje_corto": "AT THE AGE OF 86 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
-		},
-		{
-			"id": 2,
-			"titulo": "SRA.",
-			"nombre": "GUADALUPE",
-			"apellido_paterno": "MORALES",
-			"apellido_materno": "HERRERA",
-			"fecha": "Thursday, February 1",
-			"mensaje_corto": "AT THE AGE OF 89 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
-		},
-		{
-			"id": 3,
-			"titulo": "",
-			"nombre": "JOSUÉ",
-			"apellido_paterno": "FLORENTINO",
-			"apellido_materno": "AGUIRRE",
-			"fecha": "Thursday, February 1",
-			"mensaje_corto": "AT THE AGE OF 35 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
-		},
-		{
-			"id": 4,
-			"titulo": "SR.",
-			"nombre": "ROBERTO",
-			"apellido_paterno": "HERRERA",
-			"apellido_materno": "VELÁZQUEZ",
-			"fecha": "Thursday, February 1",
-			"mensaje_corto": "AT THE AGE OF 62 YEARS",
 			"descripcion": "Aquí van todos los demás datos"
 		}
 	]
