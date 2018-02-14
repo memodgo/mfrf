@@ -1,6 +1,6 @@
 {
 	"obituario": [{
-			"id": 21,
+			"id": 20,
 			"titulo": "SR.",
 			"nombre": "CAMERINO",
 			"apellido_paterno": "TORRES",
@@ -12,7 +12,7 @@
 			"descripcion": ""
 		},
 		{
-			"id": 22,
+			"id": 21,
 			"titulo": "SR.",
 			"nombre": "PAULIN",
 			"apellido_paterno": "RAMÍREZ",
@@ -26,18 +26,6 @@
 		{
 			"id": 18,
 			"titulo": "SRA.",
-			"nombre": "MARÍA",
-			"apellido_paterno": "NÚÑEZ",
-			"apellido_materno": "DELGADO",
-			"fecha": "Domingo 11 de Febrero",
-			"mensaje_corto": "A LOS 52 AÑOS DE EDAD ",
-			"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
-			"id": 19,
-			"titulo": "SRA.",
 			"nombre": "MANUELA",
 			"apellido_paterno": "DÍAZ",
 			"apellido_materno": "CARRASCO",
@@ -48,7 +36,7 @@
 			"descripcion": ""
 		},
 		{
-			"id": 20,
+			"id": 19,
 			"titulo": "SRA.",
 			"nombre": "MARTHA",
 			"apellido_paterno": "ORTIZ",
@@ -87,11 +75,11 @@
 			"id": 17,
 			"titulo": "SRA.",
 			"nombre": "MARÍA",
-			"apellido_paterno": "NUÑEZ",
+			"apellido_paterno": "NÚÑEZ",
 			"apellido_materno": "DELGADO",
 			"fecha": "Sábado 10 de Febrero",
 			"mensaje_corto": "A LOS 52 AÑOS DE EDAD ",
-			"se_vela_en": "PENDIENTES",
+			"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO",
 			"honras": "PENDIENTES",
 			"descripcion": ""
 		},
@@ -193,7 +181,7 @@
 		}
 	],
 	"obituario_ingles": [{
-			"id": 21,
+			"id": 20,
 			"titulo": "SR.",
 			"nombre": "CAMERINO",
 			"apellido_paterno": "TORRES",
@@ -205,7 +193,7 @@
 			"descripcion": ""
 		},
 		{
-			"id": 22,
+			"id": 21,
 			"titulo": "SR.",
 			"nombre": "PAULIN",
 			"apellido_paterno": "RAMÍREZ",
@@ -219,18 +207,6 @@
 		{
 			"id": 18,
 			"titulo": "SRA.",
-			"nombre": "MARÍA",
-			"apellido_paterno": "NÚÑEZ",
-			"apellido_materno": "DELGADO",
-			"fecha": "Sunday, February 11",
-			"mensaje_corto": "AT THE AGE OF 52 YEARS",
-			"se_vela_en": "PENDIENTES",
-			"honras": "PENDIENTES",
-			"descripcion": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO"
-		},
-		{
-			"id": 19,
-			"titulo": "SRA.",
 			"nombre": "MANUELA",
 			"apellido_paterno": "DÍAZ",
 			"apellido_materno": "CARRASCO",
@@ -241,7 +217,7 @@
 			"descripcion": "SE VELA EN PRESIDIOS TEPEHUANES"
 		},
 		{
-			"id": 20,
+			"id": 19,
 			"titulo": "SRA.",
 			"nombre": "MARTHA",
 			"apellido_paterno": "ORTIZ",
@@ -284,7 +260,7 @@
 			"apellido_materno": "DELGADO",
 			"fecha": "Saturday, February 10",
 			"mensaje_corto": "AT THE AGE OF 52 YEARS",
-			"se_vela_en": "PENDIENTES",
+			"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO",
 			"honras": "PENDIENTES",
 			"descripcion": ""
 		},
