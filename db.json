@@ -7,7 +7,9 @@
 			"apellido_materno": "ÁVILA",
 			"fecha": "Martes 13 de Febrero",
 			"mensaje_corto": "A LOS 60 AÑOS DE EDAD ",
-			"descripcion": "SE VELA PRIV. SIMÓN BOLIVAR #112 COL. ARTURO GÁMIZ. HONRAS 12:00 HRS. TEMPLO SAN RAFAEL. SE DESPIDE EN PANTEÓN GETSEMANÍ"
+			"se_vela_en": "SE VELA PRIV. SIMÓN BOLIVAR #112 COL. ARTURO GÁMIZ.",
+			"honras": "HONRAS 12:00 HRS. TEMPLO SAN RAFAEL. SE DESPIDE EN PANTEÓN GETSEMANÍ",
+			"descripcion": ""
 		},
 		{
 			"id": 22,
@@ -17,7 +19,9 @@
 			"apellido_materno": "BENAVENTE",
 			"fecha": "Martes 13 de Febrero",
 			"mensaje_corto": "A LOS 77 AÑOS DE EDAD ",
-			"descripcion": "SE VELA EN POBLADO EMILIANO ZAPATA, CUENCAME DGO"
+			"se_vela_en": "SE VELA EN POBLADO EMILIANO ZAPATA, CUENCAME DGO",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 18,
@@ -27,7 +31,9 @@
 			"apellido_materno": "DELGADO",
 			"fecha": "Domingo 11 de Febrero",
 			"mensaje_corto": "A LOS 52 AÑOS DE EDAD ",
-			"descripcion": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO"
+			"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 19,
@@ -37,7 +43,9 @@
 			"apellido_materno": "CARRASCO",
 			"fecha": "Domingo 11 de Febrero",
 			"mensaje_corto": "A LOS 81 AÑOS DE EDAD ",
-			"descripcion": "SE VELA EN PRESIDIOS TEPEHUANES"
+			"se_vela_en": "SE VELA EN PRESIDIOS TEPEHUANES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 20,
@@ -47,7 +55,9 @@
 			"apellido_materno": "RUIZ",
 			"fecha": "Domingo 11 de Febrero",
 			"mensaje_corto": "A LOS 86 AÑOS DE EDAD ",
-			"descripcion": "SE VELA EN CAPILLA ESMERALDA"
+			"se_vela_en": "SE VELA EN CAPILLA ESMERALDA",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 15,
@@ -57,7 +67,9 @@
 			"apellido_materno": "LARRETA",
 			"fecha": "Sábado 10 de Febrero",
 			"mensaje_corto": "A LOS 73 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 16,
@@ -67,7 +79,9 @@
 			"apellido_materno": "MENDOZA",
 			"fecha": "Sábado 10 de Febrero",
 			"mensaje_corto": "A LOS 71 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 17,
@@ -77,7 +91,9 @@
 			"apellido_materno": "DELGADO",
 			"fecha": "Sábado 10 de Febrero",
 			"mensaje_corto": "A LOS 52 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 12,
@@ -87,7 +103,9 @@
 			"apellido_materno": "MEDINA",
 			"fecha": "Miércoles 7 de Febrero",
 			"mensaje_corto": "A LOS 81 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 13,
@@ -97,7 +115,9 @@
 			"apellido_materno": "HERRERA",
 			"fecha": "Miércoles 7 de Febrero",
 			"mensaje_corto": "A LOS 86 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 14,
@@ -107,7 +127,9 @@
 			"apellido_materno": "SEGOVIA",
 			"fecha": "Miércoles 7 de Febrero",
 			"mensaje_corto": "A LOS 93 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 9,
@@ -117,7 +139,9 @@
 			"apellido_materno": "GANDARA",
 			"fecha": "Martes 6 de Febrero",
 			"mensaje_corto": "A LOS 90 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 10,
@@ -127,7 +151,9 @@
 			"apellido_materno": "PALACIOS",
 			"fecha": "Martes 6 de Febrero",
 			"mensaje_corto": "A LOS 63 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 11,
@@ -137,7 +163,9 @@
 			"apellido_materno": "SARIÑANA",
 			"fecha": "Martes 6 de Febrero",
 			"mensaje_corto": "A LOS 83 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 7,
@@ -147,7 +175,9 @@
 			"apellido_materno": "DE LUNA",
 			"fecha": "Sábado 3 de Febrero",
 			"mensaje_corto": "A LOS 75 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 8,
@@ -157,7 +187,9 @@
 			"apellido_materno": "GALAVIZ",
 			"fecha": "Sábado 3 de Febrero",
 			"mensaje_corto": "A LOS 68 AÑOS DE EDAD ",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		}
 	],
 	"obituario_ingles": [{
@@ -168,7 +200,9 @@
 			"apellido_materno": "ÁVILA",
 			"fecha": "Tuesday, February 13",
 			"mensaje_corto": "AT THE AGE OF 60 YEARS",
-			"descripcion": "SE VELA PRIV. SIMÓN BOLIVAR #112 COL. ARTURO GÁMIZ. HONRAS 12:00 HRS. TEMPLO SAN RAFAEL. SE DESPIDE EN PANTEÓN GETSEMANÍ"
+			"se_vela_en": "SE VELA PRIV. SIMÓN BOLIVAR #112 COL. ARTURO GÁMIZ.",
+			"honras": "HONRAS 12:00 HRS. TEMPLO SAN RAFAEL. SE DESPIDE EN PANTEÓN GETSEMANÍ",
+			"descripcion": ""
 		},
 		{
 			"id": 22,
@@ -178,7 +212,9 @@
 			"apellido_materno": "BENAVENTE",
 			"fecha": "Tuesday, February 13",
 			"mensaje_corto": "AT THE AGE OF 77 YEARS",
-			"descripcion": "SE VELA EN POBLADO EMILIANO ZAPATA, CUENCAME DGO"
+			"se_vela_en": "SE VELA EN POBLADO EMILIANO ZAPATA, CUENCAME DGO",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 18,
@@ -188,6 +224,8 @@
 			"apellido_materno": "DELGADO",
 			"fecha": "Sunday, February 11",
 			"mensaje_corto": "AT THE AGE OF 52 YEARS",
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
 			"descripcion": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO"
 		},
 		{
@@ -198,6 +236,8 @@
 			"apellido_materno": "CARRASCO",
 			"fecha": "Sunday, February 11",
 			"mensaje_corto": "AT THE AGE OF 81 YEARS",
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
 			"descripcion": "SE VELA EN PRESIDIOS TEPEHUANES"
 		},
 		{
@@ -208,6 +248,8 @@
 			"apellido_materno": "RUIZ",
 			"fecha": "Sunday, February 11",
 			"mensaje_corto": "AT THE AGE OF 86 YEARS",
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
 			"descripcion": "SE VELA EN CAPILLA ESMERALDA"
 		},
 		{
@@ -218,7 +260,9 @@
 			"apellido_materno": "LARRETA",
 			"fecha": "Saturday, February 10",
 			"mensaje_corto": "AT THE AGE OF 73 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 16,
@@ -228,7 +272,9 @@
 			"apellido_materno": "MENDOZA",
 			"fecha": "Saturday, February 10",
 			"mensaje_corto": "AT THE AGE OF 71 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 17,
@@ -238,7 +284,9 @@
 			"apellido_materno": "DELGADO",
 			"fecha": "Saturday, February 10",
 			"mensaje_corto": "AT THE AGE OF 52 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 12,
@@ -248,7 +296,9 @@
 			"apellido_materno": "MEDINA",
 			"fecha": "Wednesday, February 7",
 			"mensaje_corto": "AT THE AGE OF 81 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 13,
@@ -258,7 +308,9 @@
 			"apellido_materno": "HERRERA",
 			"fecha": "Wednesday, February 7",
 			"mensaje_corto": "AT THE AGE OF 86 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 14,
@@ -268,7 +320,9 @@
 			"apellido_materno": "SEGOVIA",
 			"fecha": "Wednesday, February 7",
 			"mensaje_corto": "AT THE AGE OF 93 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 9,
@@ -278,7 +332,9 @@
 			"apellido_materno": "GANDARA",
 			"fecha": "Tuesday, February 6",
 			"mensaje_corto": "AT THE AGE OF 90 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 10,
@@ -288,7 +344,9 @@
 			"apellido_materno": "PALACIOS",
 			"fecha": "Tuesday, February 6",
 			"mensaje_corto": "AT THE AGE OF 63 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 11,
@@ -298,7 +356,9 @@
 			"apellido_materno": "SARIÑANA",
 			"fecha": "Tuesday, February 6",
 			"mensaje_corto": "AT THE AGE OF 83 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 7,
@@ -308,7 +368,9 @@
 			"apellido_materno": "DE LUNA",
 			"fecha": "Saturday, February 3",
 			"mensaje_corto": "AT THE AGE OF 75 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		},
 		{
 			"id": 8,
@@ -318,7 +380,9 @@
 			"apellido_materno": "GALAVIZ",
 			"fecha": "Saturday, February 3",
 			"mensaje_corto": "AT THE AGE OF 68 YEARS",
-			"descripcion": "Aquí van todos los demás datos"
+			"se_vela_en": "PENDIENTES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
 		}
 	]
 }
