@@ -1,5 +1,29 @@
 {
 	"obituario": [{
+			"id": 22,
+			"titulo": "SRA.",
+			"nombre": "MARÍA ISABEL",
+			"apellido_paterno": "SALAZAR",
+			"apellido_materno": "DE LA TORRE",
+			"fecha": "Miércoles 21 de Febrero",
+			"mensaje_corto": "A LOS 78 AÑOS DE EDAD ",
+			"se_vela_en": "SE VELA EN CAPILLA PLATA",
+			"honras": "HONRAS: 12:00 HRS. CATEDRAL BASÍLICA MENOR, SE DESPIDE EN PANTEÓN DE ORIENTE",
+			"descripcion": ""
+		},
+		{
+			"id": 23,
+			"titulo": "SRA.",
+			"nombre": "SILBERIA",
+			"apellido_paterno": "BELTRÁN",
+			"apellido_materno": "BALTASAR",
+			"fecha": "Miércoles 21 de Febrero",
+			"mensaje_corto": "A LOS 67 AÑOS DE EDAD ",
+			"se_vela_en": "SE VELA EN FRESNILLO ZACATECAS",
+			"honras": "PENDIENTES",
+			"descripcion": ""
+		},
+		{
 			"id": 20,
 			"titulo": "SR.",
 			"nombre": "CAMERINO",
@@ -154,33 +178,33 @@
 			"se_vela_en": "PENDIENTE",
 			"honras": "PENDIENTES",
 			"descripcion": ""
-		},
-		{
-			"id": 7,
-			"titulo": "SRA.",
-			"nombre": "MANUELA",
-			"apellido_paterno": "SANTOS",
-			"apellido_materno": "DE LUNA",
-			"fecha": "Sábado 3 de Febrero",
-			"mensaje_corto": "A LOS 75 AÑOS DE EDAD ",
-			"se_vela_en": "PENDIENTE",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
-			"id": 8,
-			"titulo": "SR.",
-			"nombre": "APOLINAR",
-			"apellido_paterno": "CABRERA",
-			"apellido_materno": "GALAVIZ",
-			"fecha": "Sábado 3 de Febrero",
-			"mensaje_corto": "A LOS 68 AÑOS DE EDAD ",
-			"se_vela_en": "PENDIENTE",
-			"honras": "PENDIENTES",
-			"descripcion": ""
 		}
 	],
 	"obituario_ingles": [{
+			"id": 22,
+			"titulo": "SRA.",
+			"nombre": "MARÍA ISABEL",
+			"apellido_paterno": "SALAZAR",
+			"apellido_materno": "DE LA TORRE",
+			"fecha": "Wednesday, February 21",
+			"mensaje_corto": "AT THE AGE OF 78 YEARS",
+			"se_vela_en": "SE VELA EN CAPILLA PLATA",
+			"honras": "HONRAS: 12:00 HRS. CATEDRAL BASÍLICA MENOR, SE DESPIDE EN PANTEÓN DE ORIENTE",
+			"descripcion": ""
+		},
+		{
+			"id": 23,
+			"titulo": "SRA.",
+			"nombre": "SILBERIA",
+			"apellido_paterno": "BELTRÁN",
+			"apellido_materno": "BALTASAR",
+			"fecha": "Wednesday, February 21",
+			"mensaje_corto": "AT THE AGE OF 67 YEARS",
+			"se_vela_en": "SE VELA EN FRESNILLO ZACATECAS",
+			"honras": "PENDIENTES",
+			"descripcion": ""
+		},
+		{
 			"id": 20,
 			"titulo": "SR.",
 			"nombre": "CAMERINO",
@@ -332,30 +356,6 @@
 			"apellido_materno": "SARIÑANA",
 			"fecha": "Tuesday, February 6",
 			"mensaje_corto": "AT THE AGE OF 83 YEARS",
-			"se_vela_en": "PENDIENTE",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
-			"id": 7,
-			"titulo": "SRA.",
-			"nombre": "MANUELA",
-			"apellido_paterno": "SANTOS",
-			"apellido_materno": "DE LUNA",
-			"fecha": "Saturday, February 3",
-			"mensaje_corto": "AT THE AGE OF 75 YEARS",
-			"se_vela_en": "PENDIENTE",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
-			"id": 8,
-			"titulo": "SR.",
-			"nombre": "APOLINAR",
-			"apellido_paterno": "CABRERA",
-			"apellido_materno": "GALAVIZ",
-			"fecha": "Saturday, February 3",
-			"mensaje_corto": "AT THE AGE OF 68 YEARS",
 			"se_vela_en": "PENDIENTE",
 			"honras": "PENDIENTES",
 			"descripcion": ""
