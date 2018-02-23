@@ -144,18 +144,6 @@
 			"descripcion": ""
 		},
 		{
-			"id": 12,
-			"titulo": "SRA.",
-			"nombre": "DAMIANA",
-			"apellido_paterno": "MATURINO",
-			"apellido_materno": "MEDINA",
-			"fecha": "Miércoles 7 de Febrero",
-			"mensaje_corto": "A LOS 81 AÑOS DE EDAD",
-			"se_vela_en": "PENDIENTE",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
 			"id": 13,
 			"titulo": "SR.",
 			"nombre": "JOSÉ DE JESÚS",
@@ -321,18 +309,6 @@
 			"fecha": "Saturday, February 10",
 			"mensaje_corto": "AT THE AGE OF 52 YEARS",
 			"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
-			"id": 12,
-			"titulo": "SRA.",
-			"nombre": "DAMIANA",
-			"apellido_paterno": "MATURINO",
-			"apellido_materno": "MEDINA",
-			"fecha": "Wednesday, February 7",
-			"mensaje_corto": "AT THE AGE OF 81 YEARS",
-			"se_vela_en": "PENDIENTE",
 			"honras": "PENDIENTES",
 			"descripcion": ""
 		},
