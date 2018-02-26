@@ -1,5 +1,16 @@
 {
-	"obituario": [{
+	"obituario": [{	"id": 27,
+			"titulo": "SR.",
+			"nombre": "JESÚS",
+			"apellido_paterno": "FLORES",
+			"apellido_materno": "OCHOA",
+			"fecha": "Lunes 26 de Febrero",
+			"mensaje_corto": "A LOS 49 AÑOS DE EDAD",
+			"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
+		},		
+		{
 			"id": 24,
 			"titulo": "SR.",
 			"nombre": "SIMÓN",
