@@ -1,5 +1,29 @@
 	{
-	"obituario": [{ "id": 27,
+	"obituario": [{ "id": 29,
+			"titulo": "SR.",
+			"nombre": "LEÓN PEDRO",
+			"apellido_paterno": "RAMÍREZ",
+			"apellido_materno": "RAMÍREZ",
+			"fecha": "Lunes 27 de Febrero",
+			"mensaje_corto": "A LOS 73 AÑOS DE EDAD",
+			"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
+		},
+		{ 
+			"id": 28,
+			"titulo": "SR.",
+			"nombre": "PEDRO",
+			"apellido_paterno": "OROPEZA",
+			"apellido_materno": "VÁZQUEZ",
+			"fecha": "Lunes 27 de Febrero",
+			"mensaje_corto": "A LOS 96 AÑOS DE EDAD",
+			"se_vela_en": "SE VELA EN D. MIGUEL HIDALGO #702 COL. FRANCISCO ZARCO",
+			"honras": "A LAS 12:30 HRS. EN EL TEMPLO DE SANTA CECILIA, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
+			"descripcion": ""
+		},
+		{
+			"id": 27,
 			"titulo": "SR.",
 			"nombre": "JESÚS",
 			"apellido_paterno": "FLORES",
@@ -48,6 +72,30 @@
 		}
 	],
 	"obituario_ingles": [
+		{ 
+			"id": 29,
+			"titulo": "SR.",
+			"nombre": "LEÓN PEDRO",
+			"apellido_paterno": "RAMÍREZ",
+			"apellido_materno": "RAMÍREZ",
+			"fecha": "Tuesday, February 27",
+			"mensaje_corto": "AT THE AGE OF 73",
+			"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+			"honras": "PENDIENTES",
+			"descripcion": ""
+		},
+		{ 
+			"id": 28,
+			"titulo": "SR.",
+			"nombre": "PEDRO",
+			"apellido_paterno": "OROPEZA",
+			"apellido_materno": "VÁZQUEZ",
+			"fecha": "Tuesday, February 27",
+			"mensaje_corto": "AT THE AGE OF 96",
+			"se_vela_en": "SE VELA EN D. MIGUEL HIDALGO #702 COL. FRANCISCO ZARCO",
+			"honras": "12:30 HRS. EN EL TEMPLO DE SANTA CECILIA, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
+			"descripcion": ""
+		},
 		{
 			"id": 27,
 			"titulo": "SR.",
