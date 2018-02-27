@@ -163,42 +163,6 @@
 			"se_vela_en": "PENDIENTE",
 			"honras": "PENDIENTES",
 			"descripcion": ""
-		},
-		{
-			"id": 17,
-			"titulo": "SRA.",
-			"nombre": "MARÍA",
-			"apellido_paterno": "NÚÑEZ",
-			"apellido_materno": "DELGADO",
-			"fecha": "Sábado 10 de Febrero",
-			"mensaje_corto": "A LOS 52 AÑOS DE EDAD",
-			"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
-			"id": 13,
-			"titulo": "SR.",
-			"nombre": "JOSÉ DE JESÚS",
-			"apellido_paterno": "CEPEDA",
-			"apellido_materno": "HERRERA",
-			"fecha": "Miércoles 7 de Febrero",
-			"mensaje_corto": "A LOS 86 AÑOS DE EDAD",
-			"se_vela_en": "PENDIENTE",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
-			"id": 14,
-			"titulo": "SR.",
-			"nombre": "PEDRO",
-			"apellido_paterno": "SÁNCHEZ",
-			"apellido_materno": "SEGOVIA",
-			"fecha": "Miércoles 7 de Febrero",
-			"mensaje_corto": "A LOS 93 AÑOS DE EDAD",
-			"se_vela_en": "PENDIENTE",
-			"honras": "PENDIENTES",
-			"descripcion": ""
 		}
 	],
 	"obituario_ingles": [
@@ -364,42 +328,6 @@
 			"apellido_materno": "MENDOZA",
 			"fecha": "Saturday, February 10",
 			"mensaje_corto": "AT THE AGE OF 71 YEARS",
-			"se_vela_en": "PENDIENTE",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
-			"id": 17,
-			"titulo": "SRA.",
-			"nombre": "MARÍA",
-			"apellido_paterno": "NUÑEZ",
-			"apellido_materno": "DELGADO",
-			"fecha": "Saturday, February 10",
-			"mensaje_corto": "AT THE AGE OF 52 YEARS",
-			"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO SIERRA SANTA OTAES, DGO",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
-			"id": 13,
-			"titulo": "SR.",
-			"nombre": "JOSÉ DE JESÚS",
-			"apellido_paterno": "CEPEDA",
-			"apellido_materno": "HERRERA",
-			"fecha": "Wednesday, February 7",
-			"mensaje_corto": "AT THE AGE OF 86 YEARS",
-			"se_vela_en": "PENDIENTE",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		},
-		{
-			"id": 14,
-			"titulo": "SR.",
-			"nombre": "PEDRO",
-			"apellido_paterno": "SÁNCHEZ",
-			"apellido_materno": "SEGOVIA",
-			"fecha": "Wednesday, February 7",
-			"mensaje_corto": "AT THE AGE OF 93 YEARS",
 			"se_vela_en": "PENDIENTE",
 			"honras": "PENDIENTES",
 			"descripcion": ""
