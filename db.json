@@ -1,5 +1,53 @@
 		{
-		"obituario": [{ "id": 30,
+		"obituario": [{	"id": 34,
+				"titulo": "SR.",
+				"nombre": "AURELIO",
+				"apellido_paterno": "VÁZQUEZ",
+				"apellido_materno": "MUÑOZ",
+				"fecha": "Miércoles 01 de Marzo",
+				"mensaje_corto": "A LOS 67 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{	
+				"id": 33,
+				"titulo": "SR.",
+				"nombre": "MAURO",
+				"apellido_paterno": "GONZÁLEZ",
+				"apellido_materno": "LUGO",
+				"fecha": "Miércoles 01 de Marzo",
+				"mensaje_corto": "A LOS 36 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN EL SALTO, PUEBLO NUEVO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{	
+				"id": 32,
+				"titulo": "SRITA.",
+				"nombre": "BLASA",
+				"apellido_paterno": "CASTAÑEDA",
+				"apellido_materno": "VALLEZ",
+				"fecha": "Miércoles 01 de Marzo",
+				"mensaje_corto": "A LOS 97 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAUL FLORES Y A LAS 930 AM SE RETIRA DE LA CAPILLA PARA SER TRANSLADADA A GUALTERIO, ZAC.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 31,
+				"titulo": "SR.",
+				"nombre": "JOSÉ ÁNGEL",
+				"apellido_paterno": "SEGOVIA",
+				"apellido_materno": "REYES",
+				"fecha": "Miércoles 01 de Marzo",
+				"mensaje_corto": "A LOS 80 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN C. 2 DE OCTUBRE MZ 38 COL. TIERRA Y LIBERTAD",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 30,
 				"titulo": "SR.",
 				"nombre": "CRESCENCIANO",
 				"apellido_paterno": "RETANA",
@@ -7,7 +55,7 @@
 				"fecha": "Miércoles 28 de Febrero",
 				"mensaje_corto": "A LOS 86 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN DOM.CON. SAUZ DE ABAJO, MPIO. SAN JUAN DEL RIO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE SAN ISIDRO LABRADOR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{ 
@@ -45,55 +93,65 @@
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
 				"honras": "A LAS 15 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LA SALUD",
 				"descripcion": ""
-			},		
-			{
-				"id": 24,
+			}		
+		],
+		"obituario_ingles": [{	"id": 34,
 				"titulo": "SR.",
-				"nombre": "SIMÓN",
-				"apellido_paterno": "ARZOLA",
-				"apellido_materno": "MARES",
-				"fecha": "Jueves 22 de Febrero",
-				"mensaje_corto": "A LOS 88 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM. CONOCIDO. GUANACEVÍ, DGO.",
+				"nombre": "AURELIO",
+				"apellido_paterno": "VÁZQUEZ",
+				"apellido_materno": "MUÑOZ",
+				"fecha": "Thursday, March 01",
+				"mensaje_corto": "AT THE AGE OF 67 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{	
+				"id": 33,
+				"titulo": "SR.",
+				"nombre": "MAURO",
+				"apellido_paterno": "GONZÁLEZ",
+				"apellido_materno": "LUGO",
+				"fecha": "Thursday, March 01",
+				"mensaje_corto": "AT THE AGE OF 36 YEARS",
+				"se_vela_en": "SE VELA EN EL SALTO, PUEBLO NUEVO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{	
+				"id": 32,
+				"titulo": "SRITA.",
+				"nombre": "BLASA",
+				"apellido_paterno": "CASTAÑEDA",
+				"apellido_materno": "VALLEZ",
+				"fecha": "Thursday, March 01",
+				"mensaje_corto": "AT THE AGE OF 97 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAUL FLORES Y A LAS 930 AM SE RETIRA DE LA CAPILLA PARA SER TRANSLADADA A GUALTERIO, ZAC.",
 				"honras": "PENDIENTES",
 				"descripcion": ""
 			},
 			{
-				"id": 25,
-				"titulo": "SRA.",
-				"nombre": "PAULA",
-				"apellido_paterno": "CASAS",
-				"apellido_materno": "",
-				"fecha": "Jueves 22 de Febrero",
-				"mensaje_corto": "A LOS 89 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN C. FRANCISCO I. MADERO #203 COL. VILLA DE GUADALUPE",
-				"honras": "12:00 HRS TEMPLO DE LA SALUD. SE DESPIDE EN PANTEÓN DEL POBLADO 18 DE AGOSTO",
+				"id": 31,
+				"titulo": "SR.",
+				"nombre": "JOSÉ ÁNGEL",
+				"apellido_paterno": "SEGOVIA",
+				"apellido_materno": "REYES",
+				"fecha": "Thursday, March 01",
+				"mensaje_corto": "AT THE AGE OF 80 YEARS",
+				"se_vela_en": "SE VELA EN C. 2 DE OCTUBRE MZ 38 COL. TIERRA Y LIBERTAD",
+				"honras": "PENDIENTES",
 				"descripcion": ""
 			},
-			{
-				"id": 26,
-				"titulo": "SR.",
-				"nombre": "VICENTE",
-				"apellido_paterno": "ROSALES",
-				"apellido_materno": "CARRILLO",
-				"fecha": "Jueves 22 de Febrero",
-				"mensaje_corto": "A LOS 89 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA",
-				"honras": "15:00 HRS TEMPLO SAN JOSÉ OBRERO. SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS",
-				"descripcion": ""
-			}
-		],
-		"obituario_ingles": [
 			{
 				"id": 30,
 				"titulo": "SR.",
 				"nombre": "CRESCENCIANO",
 				"apellido_paterno": "RETANA",
 				"apellido_materno": "SOTO",
-				"fecha": "Wednesday, February 28",
+				"fecha": "Webnesday, February 28",
 				"mensaje_corto": "AT THE AGE OF 86 YEARS",
 				"se_vela_en": "SE VELA EN DOM.CON. SAUZ DE ABAJO, MPIO. SAN JUAN DEL RIO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "16:00 HRS. EN EL TEMPLO DE SAN ISIDRO LABRADOR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{ 
@@ -130,42 +188,6 @@
 				"mensaje_corto": "AT THE AGE OF 49 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
 				"honras": "15 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LA SALUD, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 24,
-				"titulo": "SR.",
-				"nombre": "SIMÓN",
-				"apellido_paterno": "ARZOLA",
-				"apellido_materno": "MARES",
-				"fecha": "Thursday, February 22",
-				"mensaje_corto": "AT THE AGE OF 88 YEARS",
-				"se_vela_en": "SE VELA EN DOM. CONOCIDO. GUANACEVÍ, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 25,
-				"titulo": "SRA.",
-				"nombre": "PAULA",
-				"apellido_paterno": "CASAS",
-				"apellido_materno": "",
-				"fecha": "Thursday, February 22",
-				"mensaje_corto": "AT THE AGE OF 89 YEARS",
-				"se_vela_en": "SE VELA EN C. FRANCISCO I. MADERO #203 COL. VILLA DE GUADALUPE",
-				"honras": "12:00 HRS TEMPLO DE LA SALUD. SE DESPIDE EN PANTEÓN DEL POBLADO 18 DE AGOSTO",
-				"descripcion": ""
-			},
-			{
-				"id": 26,
-				"titulo": "SR.",
-				"nombre": "VICENTE",
-				"apellido_paterno": "ROSALES",
-				"apellido_materno": "CARRILLO",
-				"fecha": "Thursday, February 22",
-				"mensaje_corto": "AT THE AGE OF 89 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA",
-				"honras": "15:00 HRS TEMPLO SAN JOSÉ OBRERO. SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS",
 				"descripcion": ""
 			}
 		]
