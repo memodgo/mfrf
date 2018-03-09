@@ -1,5 +1,41 @@
 		{
-		"obituario": [{	"id": 52,
+		"obituario": [{	"id": 55,
+				"titulo": "SR.",
+				"nombre": "ONÉSIMO",
+				"apellido_paterno": "ADAME",
+				"apellido_materno": "DÍAZ",
+				"fecha": "Viernes 09 de Marzo",
+				"mensaje_corto": "A LOS 45 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA RAUL FLORES, SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 54,
+				"titulo": "SR.",
+				"nombre": "ÁNGEL",
+				"apellido_paterno": "CARRERA",
+				"apellido_materno": "GARCÍA",
+				"fecha": "Viernes 09 de Marzo",
+				"mensaje_corto": "A LOS 79 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM.CON. LOS BAGRES, TEPEHUANES, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 53,
+				"titulo": "SR.",
+				"nombre": "JOSÉ LUIS",
+				"apellido_paterno": "MARTÍNEZ",
+				"apellido_materno": "SOLORZANO",
+				"fecha": "Viernes 09 de Marzo",
+				"mensaje_corto": "A LOS 64 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN AV. ALVARO OBREGON, BARRIO EL PARAÍSO, FCO. I. MADERO,DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 52,
 				"titulo": "SR.",
 				"nombre": "PEDRO",
 				"apellido_paterno": "DÍAZ",
@@ -54,7 +90,7 @@
 				"fecha": "Miércoles 07 de Marzo",
 				"mensaje_corto": "A LOS 54 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN DOM. CON. TEXCALILLO, NOMBRE DE DIOS, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 15:00 HRS. EN EL TEMPLO SAN JOSE DE TEXCALILLO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -66,7 +102,7 @@
 				"fecha": "Miércoles 07 de Marzo",
 				"mensaje_corto": "A LOS 82 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN GUANACEVÍ, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO INMACULADA CONCEPCIÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -92,44 +128,45 @@
 				"se_vela_en": "SE VELA EN C. JOSÉ REVUELTAS #303, COL. LUCIO CABAÑAS",
 				"honras": "PENDIENTES",
 				"descripcion": ""
-			},
-			{	"id": 44,
+			}		
+		],
+		"obituario_ingles": [{	"id": 55,
 				"titulo": "SR.",
-				"nombre": "RICHARD EUGENE",
-				"apellido_paterno": "SHORT",
-				"apellido_materno": "",
-				"fecha": "Martes 06 de Marzo",
-				"mensaje_corto": "A LOS 79 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"nombre": "ONÉSIMO",
+				"apellido_paterno": "ADAME",
+				"apellido_materno": "DÍAZ",
+				"fecha": "Friday, March 09",
+				"mensaje_corto": "AT THE AGE OF 45 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA RAUL FLORES, SANTIAGO PAPASQUIARO, DGO.",
 				"honras": "PENDIENTES",
 				"descripcion": ""
 			},
-			{	
-				"id": 43,
-				"titulo": "SRA.",
-				"nombre": "ROSA ESTELA",
-				"apellido_paterno": "DUARTE",
-				"apellido_materno": "VÁZQUEZ",
-				"fecha": "Martes 06 de Marzo",
-				"mensaje_corto": "A LOS 68 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN GUANACEVI, DGO",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE LA INMACULADA CONCEPCIÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+			{
+				"id": 54,
+				"titulo": "SR.",
+				"nombre": "ÁNGEL",
+				"apellido_paterno": "CARRERA",
+				"apellido_materno": "GARCÍA",
+				"fecha": "Friday, March 09",
+				"mensaje_corto": "AT THE AGE OF 79 YEARS",
+				"se_vela_en": "SE VELA EN DOM.CON. LOS BAGRES, TEPEHUANES, DGO.",
+				"honras": "PENDIENTES",
 				"descripcion": ""
 			},
-			{	
-				"id": 42,
-				"titulo": "SRA.",
-				"nombre": "MARÍA TERESA",
-				"apellido_paterno": "RAMÍREZ",
-				"apellido_materno": "RUBI",
-				"fecha": "Lunes 05 de Marzo",
-				"mensaje_corto": "A LOS 71 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CALLE 16 DE SEPTIEMBRE #217, COL. JOSÉ REVUELTAS",
-				"honras": "A LAS 13:00 EN EL TEMPLO DE SAN ANTONIO DE PADUA, SE DESPIDE EN EL PANTEÓN DE GETSEMANÍ",
+			{
+				"id": 53,
+				"titulo": "SR.",
+				"nombre": "JOSÉ LUIS",
+				"apellido_paterno": "MARTÍNEZ",
+				"apellido_materno": "SOLORZANO",
+				"fecha": "Friday, March 09",
+				"mensaje_corto": "AT THE AGE OF 64 YEARS",
+				"se_vela_en": "SE VELA EN AV. ALVARO OBREGON, BARRIO EL PARAÍSO, FCO. I. MADERO,DGO.",
+				"honras": "PENDIENTES",
 				"descripcion": ""
-			}		
-		],
-		"obituario_ingles": [{	"id": 52,
+			},
+			{
+				"id": 52,
 				"titulo": "SR.",
 				"nombre": "PEDRO",
 				"apellido_paterno": "DÍAZ",
@@ -184,7 +221,7 @@
 				"fecha": "Wednesday, March 07",
 				"mensaje_corto": "AT THE AGE OF 54 YEARS",
 				"se_vela_en": "SE VELA EN DOM. CON. TEXCALILLO, NOMBRE DE DIOS, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 15:00 HRS. EN EL TEMPLO SAN JOSE DE TEXCALILLO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -196,7 +233,7 @@
 				"fecha": "Wednesday, March 07",
 				"mensaje_corto": "AT THE AGE OF 82 YEARS",
 				"se_vela_en": "SE VELA EN GUANACEVÍ, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS EN EL TEMPLO INMACULADA CONCEPCIÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -221,42 +258,6 @@
 				"mensaje_corto": "RECIÉN NACIDA",
 				"se_vela_en": "SE VELA EN C. JOSÉ REVUELTAS #303, COL. LUCIO CABAÑAS",
 				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 44,
-				"titulo": "SR.",
-				"nombre": "RICHARD EUGENE",
-				"apellido_paterno": "SHORT",
-				"apellido_materno": "",
-				"fecha": "Tuesday, March 06",
-				"mensaje_corto": "AT THE AGE OF 79 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{	
-				"id": 43,
-				"titulo": "SRA.",
-				"nombre": "ROSA ESTELA",
-				"apellido_paterno": "DUARTE",
-				"apellido_materno": "VÁZQUEZ",
-				"fecha": "Tuesday, March 06",
-				"mensaje_corto": "AT THE AGE OF 68 YEARS",
-				"se_vela_en": "SE VELA EN GUANACEVI, DGO",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE LA INMACULADA CONCEPCIÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 42,
-				"titulo": "SRA.",
-				"nombre": "MARÍA TERESA",
-				"apellido_paterno": "RAMÍREZ",
-				"apellido_materno": "RUBI",
-				"fecha": "Monday, March 5",
-				"mensaje_corto": "AT THE AGE OF 71 YEARS",
-				"se_vela_en": "SE VELA EN CALLE 16 DE SEPTIEMBRE #217, COL. JOSÉ REVUELTAS",
-				"honras": "A LAS 13:00 EN EL TEMPLO DE SAN ANTONIO DE PADUA, SE DESPIDE EN EL PANTEÓN DE GETSEMANÍ",
 				"descripcion": ""
 			}
 		]
