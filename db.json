@@ -1,5 +1,41 @@
 		{
-		"obituario": [{	"id": 55,
+		"obituario": [{	"id": 58,
+				"titulo": "SRA.",
+				"nombre": "MARIA GABRIELA",
+				"apellido_paterno": "ACOSTA",
+				"apellido_materno": "PÉREZ",
+				"fecha": "Sábado 10 de Marzo",
+				"mensaje_corto": "A LOS 39 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 57,
+				"titulo": "SRA.",
+				"nombre": "ALICIA",
+				"apellido_paterno": "MARTÍNEZ",
+				"apellido_materno": "RODRÍGUEZ",
+				"fecha": "Sábado 10 de Marzo",
+				"mensaje_corto": "A LOS 73 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 56,
+				"titulo": "SR.",
+				"nombre": "ADOLFO",
+				"apellido_paterno": "FLORES",
+				"apellido_materno": "VILLARREAL",
+				"fecha": "Sábado 10 de Marzo",
+				"mensaje_corto": "A LOS 68 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA RAUL FLORES, SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO SANTO DOMINGO APOSTOL, SE DESPIDE EN EL PANTEÓN LOS NOGALES",
+				"descripcion": ""
+			},
+			{
+				"id": 55,
 				"titulo": "SR.",
 				"nombre": "ONÉSIMO",
 				"apellido_paterno": "ADAME",
@@ -7,7 +43,7 @@
 				"fecha": "Viernes 09 de Marzo",
 				"mensaje_corto": "A LOS 45 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA RAUL FLORES, SANTIAGO PAPASQUIARO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 15:00 HRS. EN EL TEMPLO CRISTO REY, SE DESPIDE EN EL PANTEÓN VÍCTOR NEVÁREZ",
 				"descripcion": ""
 			},
 			{
@@ -31,7 +67,7 @@
 				"fecha": "Viernes 09 de Marzo",
 				"mensaje_corto": "A LOS 64 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN AV. ALVARO OBREGON, BARRIO EL PARAÍSO, FCO. I. MADERO,DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 14:00 HRS. EN EL TEMPLO IGLESIA DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -68,69 +104,45 @@
 				"se_vela_en": "SE VELA EN NICOLAS BRAVO, CANATLÁN, DGO.",
 				"honras": "A LAS 13:00 HRS. EN EL TEMPLO DE SAN NICOLAS DE BARI, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
-			},
-			{
-				"id": 49,
-				"titulo": "SRA.",
-				"nombre": "JUANA",
-				"apellido_paterno": "LUNA",
-				"apellido_materno": "SALAZAR",
-				"fecha": "Miércoles 07 de Marzo",
-				"mensaje_corto": "A LOS 62 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 12:00 HRS. EN EL TEMPLO DE SANTO DOMINGO, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 48,
-				"titulo": "SRA.",
-				"nombre": "MARÍA ELENA",
-				"apellido_paterno": "ZÚÑIGA",
-				"apellido_materno": "NAJERA",
-				"fecha": "Miércoles 07 de Marzo",
-				"mensaje_corto": "A LOS 54 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM. CON. TEXCALILLO, NOMBRE DE DIOS, DGO.",
-				"honras": "A LAS 15:00 HRS. EN EL TEMPLO SAN JOSE DE TEXCALILLO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 47,
-				"titulo": "SR.",
-				"nombre": "ALFONSO",
-				"apellido_paterno": "FLORES",
-				"apellido_materno": "VARELA",
-				"fecha": "Miércoles 07 de Marzo",
-				"mensaje_corto": "A LOS 82 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN GUANACEVÍ, DGO.",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO INMACULADA CONCEPCIÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-			        "id": 46,
-				"titulo": "SRA.",
-				"nombre": "MA. CONCEPCIÓN",
-				"apellido_paterno": "CALDERON",
-				"apellido_materno": "MUÑOZ",
-				"fecha": "Miércoles 07 de Marzo",
-				"mensaje_corto": "A LOS 81 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 15:00 HRS. EN EL TEMPLO DE NTRA. SRA. DEL SAGRADO CORAZÓN, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 45,
-				"titulo": "R.N.",
-				"nombre": "VALENTINA",
-				"apellido_paterno": "SÁNCHEZ",
-				"apellido_materno": "ESPINOZA",
-				"fecha": "Miércoles 07 de Marzo",
-				"mensaje_corto": "RECIÉN NACIDA",
-				"se_vela_en": "SE VELA EN C. JOSÉ REVUELTAS #303, COL. LUCIO CABAÑAS",
-				"honras": "PENDIENTES",
-				"descripcion": ""
 			}		
 		],
-		"obituario_ingles": [{	"id": 55,
+		"obituario_ingles": [{	"id": 58,
+				"titulo": "SRA.",
+				"nombre": "MARIA GABRIELA",
+				"apellido_paterno": "ACOSTA",
+				"apellido_materno": "PÉREZ",
+				"fecha": "Saturday, March 10",
+				"mensaje_corto": "AT THE AGE OF 39 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 57,
+				"titulo": "SRA.",
+				"nombre": "ALICIA",
+				"apellido_paterno": "MARTÍNEZ",
+				"apellido_materno": "RODRÍGUEZ",
+				"fecha": "Saturday, March 10",
+				"mensaje_corto": "AT THE AGE OF 73 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 56,
+				"titulo": "SR.",
+				"nombre": "ADOLFO",
+				"apellido_paterno": "FLORES",
+				"apellido_materno": "VILLARREAL",
+				"fecha": "Saturday, March 10",
+				"mensaje_corto": "AT THE AGE OF 68 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA RAUL FLORES, SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO SANTO DOMINGO APOSTOL, SE DESPIDE EN EL PANTEÓN LOS NOGALES",
+				"descripcion": ""
+			},
+			{
+				"id": 55,
 				"titulo": "SR.",
 				"nombre": "ONÉSIMO",
 				"apellido_paterno": "ADAME",
@@ -138,7 +150,7 @@
 				"fecha": "Friday, March 09",
 				"mensaje_corto": "AT THE AGE OF 45 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA RAUL FLORES, SANTIAGO PAPASQUIARO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 15 HRS. EN EL TEMPLO DE CRISTO REY, SE DESPIDE EN EL PANTEÓN VÍCTOR NEVÁREZ",
 				"descripcion": ""
 			},
 			{
@@ -162,7 +174,7 @@
 				"fecha": "Friday, March 09",
 				"mensaje_corto": "AT THE AGE OF 64 YEARS",
 				"se_vela_en": "SE VELA EN AV. ALVARO OBREGON, BARRIO EL PARAÍSO, FCO. I. MADERO,DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 14 HRS. EN EL TEMPLO IGLESIA DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -198,66 +210,6 @@
 				"mensaje_corto": "AT THE AGE OF 77 YEARS",
 				"se_vela_en": "SE VELA EN NICOLAS BRAVO, CANATLÁN, DGO.",
 				"honras": "A LAS 13:00 HRS. EN EL TEMPLO DE SAN NICOLAS DE BARI, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 49,
-				"titulo": "SRA.",
-				"nombre": "JUANA",
-				"apellido_paterno": "LUNA",
-				"apellido_materno": "SALAZAR",
-				"fecha": "Wednesday, March 07",
-				"mensaje_corto": "AT THE AGE OF 62 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 12:00 EN EL TEMPLO DE SANTO DOMINGO, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 48,
-				"titulo": "SRA.",
-				"nombre": "MARÍA ELENA",
-				"apellido_paterno": "ZÚÑIGA",
-				"apellido_materno": "NAJERA",
-				"fecha": "Wednesday, March 07",
-				"mensaje_corto": "AT THE AGE OF 54 YEARS",
-				"se_vela_en": "SE VELA EN DOM. CON. TEXCALILLO, NOMBRE DE DIOS, DGO.",
-				"honras": "A LAS 15:00 HRS. EN EL TEMPLO SAN JOSE DE TEXCALILLO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 47,
-				"titulo": "SR.",
-				"nombre": "ALFONSO",
-				"apellido_paterno": "FLORES",
-				"apellido_materno": "VARELA",
-				"fecha": "Wednesday, March 07",
-				"mensaje_corto": "AT THE AGE OF 82 YEARS",
-				"se_vela_en": "SE VELA EN GUANACEVÍ, DGO.",
-				"honras": "A LAS 16:00 HRS EN EL TEMPLO INMACULADA CONCEPCIÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-			        "id": 46,
-				"titulo": "SRA.",
-				"nombre": "MA. CONCEPCIÓN",
-				"apellido_paterno": "CALDERON",
-				"apellido_materno": "MUÑOZ",
-				"fecha": "Wednesday, March 07",
-				"mensaje_corto": "AT THE AGE OF 81 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 15:00 HRS. EN EL TEMPLO DE NTRA. SRA. DEL SAGRADO CORAZÓN, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 45,
-				"titulo": "R.N.",
-				"nombre": "VALENTINA",
-				"apellido_paterno": "SÁNCHEZ",
-				"apellido_materno": "ESPINOZA",
-				"fecha": "Wednesday, March 07",
-				"mensaje_corto": "RECIÉN NACIDA",
-				"se_vela_en": "SE VELA EN C. JOSÉ REVUELTAS #303, COL. LUCIO CABAÑAS",
-				"honras": "PENDIENTES",
 				"descripcion": ""
 			}
 		]
