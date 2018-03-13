@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 61,
+		"obituario": [{	"id": 63,
+				"titulo": "SR.",
+				"nombre": "RUBÉN",
+				"apellido_paterno": "RIVERA",
+				"apellido_materno": "CARDOZA",
+				"fecha": "Martes 13 de Marzo",
+				"mensaje_corto": "A LOS 41 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA RAÚL FLORES, GUANACEVI, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 62,
+				"titulo": "SRA.",
+				"nombre": "FRANCISCA",
+				"apellido_paterno": "RIVERA",
+				"apellido_materno": "CORRAL",
+				"fecha": "Martes 13 de Marzo",
+				"mensaje_corto": "A LOS 88 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM. CON. LOS HERRERA, SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 61,
 				"titulo": "SR.",
 				"nombre": "ADRIAN RENE",
 				"apellido_paterno": "RAUDRY",
@@ -7,19 +31,19 @@
 				"fecha": "Lunes 12 de Marzo",
 				"mensaje_corto": "A LOS 39 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO NTRA. SRA. DE LOS ÁNGELES, SE DESPIDE PARA SU CREMACIÓN",
 				"descripcion": ""
 			},
 			{
 				"id": 60,
 				"titulo": "SRA.",
-				"nombre": "JUANA",
+				"nombre": "JULIANA",
 				"apellido_paterno": "FIGUEROA",
 				"apellido_materno": "HERNÁNDEZ",
 				"fecha": "Lunes 12 de Marzo",
 				"mensaje_corto": "A LOS 87 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN DOM.CON. YERBANIS, PEÑON BLANCO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:30 HRS. EN LA PARROQUIA SAN JOSÉ, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -31,7 +55,7 @@
 				"fecha": "Lunes 12 de Marzo",
 				"mensaje_corto": "A LOS 21 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:HRS. EN EL TEMPLO NTRA. SRA.DEL PERPETUO SOCORRO (SOCORRITO), SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			},
 			{
@@ -107,7 +131,31 @@
 				"descripcion": ""
 			}		
 		],
-		"obituario_ingles": [{	"id": 61,
+		"obituario_ingles": [{	"id": 63,
+				"titulo": "SR.",
+				"nombre": "RUBÉN",
+				"apellido_paterno": "RIVERA",
+				"apellido_materno": "CARDOZA",
+				"fecha": "Tuesday, March 13",
+				"mensaje_corto": "AT THE AGE OF 41 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA RAÚL FLORES, GUANACEVI, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 62,
+				"titulo": "SRA.",
+				"nombre": "FRANCISCA",
+				"apellido_paterno": "RIVERA",
+				"apellido_materno": "CORRAL",
+				"fecha": "Tuesday, March 13",
+				"mensaje_corto": "AT THE AGE OF 88 YEARS",
+				"se_vela_en": "SE VELA EN DOM. CON. LOS HERRERA, SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 61,
 				"titulo": "SR.",
 				"nombre": "ADRIAN RENE",
 				"apellido_paterno": "RAUDRY",
@@ -115,19 +163,19 @@
 				"fecha": "Monday, March 12",
 				"mensaje_corto": "AT THE AGE OF 39 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO NTRA. SRA. DE LOS ÁNGELES, SE DESPIDE PARA SU CREMACIÓN",
 				"descripcion": ""
 			},
 			{
 				"id": 60,
 				"titulo": "SRA.",
-				"nombre": "JUANA",
+				"nombre": "JULIANA",
 				"apellido_paterno": "FIGUEROA",
 				"apellido_materno": "HERNÁNDEZ",
 				"fecha": "Monday, March 12",
 				"mensaje_corto": "AT THE AGE OF 87 YEARS",
 				"se_vela_en": "SE VELA EN DOM.CON. YERBANIS, PEÑON BLANCO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:30 HRS. EN LA PARROQUIA SAN JOSÉ, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -139,7 +187,7 @@
 				"fecha": "Monday, March 12",
 				"mensaje_corto": "AT THE AGE OF 21 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS EN EL TEMPLO NTRA. SRA.DEL PERPETUO SOCORRO (SOCORRITO), SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			},
 			{
