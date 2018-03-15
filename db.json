@@ -1,7 +1,19 @@
 		{
-		"obituario": [{	"id": 64,
+		"obituario": [{	"id": 65,
 				"titulo": "SR.",
-				"nombre": "ANTONIO",
+				"nombre": "JOSE GUADALUPE",
+				"apellido_paterno": "VÁZQUEZ",
+				"apellido_materno": "HERNÁNDEZ",
+				"fecha": "Jueves 15 de Marzo",
+				"mensaje_corto": "A LOS 52 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM. CON. LOS HERRERA, MPIO. DE SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 64,
+				"titulo": "SRA.",
+				"nombre": "ANTONIA",
 				"apellido_paterno": "VALLES",
 				"apellido_materno": "GAYTAN",
 				"fecha": "Miércoles 14 de Marzo",
@@ -71,7 +83,19 @@
 				"descripcion": ""
 			}		
 		],
-		"obituario_ingles": [{	"id": 64,
+		"obituario_ingles": [{	"id": 65,
+				"titulo": "SR.",
+				"nombre": "JOSE GUADALUPE",
+				"apellido_paterno": "VÁZQUEZ",
+				"apellido_materno": "HERNÁNDEZ",
+				"fecha": "Thursday, March 15",
+				"mensaje_corto": "AT THE AGE OF 52 YEARS",
+				"se_vela_en": "SE VELA EN DOM. CON. LOS HERRERA, MPIO. DE SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 64,
 				"titulo": "SR.",
 				"nombre": "ANTONIO",
 				"apellido_paterno": "VALLES",
