@@ -1,5 +1,41 @@
 		{
-		"obituario": [{	"id": 67,
+		"obituario": [{	"id": 70,
+				"titulo": "SR.",
+				"nombre": "TOMAS",
+				"apellido_paterno": "RETANA",
+				"apellido_materno": "SARIÑANA",
+				"fecha": "Sábado 17 de Marzo",
+				"mensaje_corto": "A LOS 63 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM.CON. FELIPE ANGELES S/N COL. ETA, RODEO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 69,
+				"titulo": "SR.",
+				"nombre": "SANTOS",
+				"apellido_paterno": "ROMERO",
+				"apellido_materno": "CASAS",
+				"fecha": "Sábado 17 de Marzo",
+				"mensaje_corto": "A LOS 96 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN VALENTÍN GÓMEZ FARIAS 110 COL. ARROYO SECO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 68,
+				"titulo": "SRA.",
+				"nombre": "MARIA DE LOS ÁNGELES",
+				"apellido_paterno": "NATERA",
+				"apellido_materno": "CASTILLO",
+				"fecha": "Sábado 17 de Marzo",
+				"mensaje_corto": "A LOS 84 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM.CON. IGNACIO ALLENDE, GPE. VICTORIA, DGO.",
+				"honras": "A LAS 15:30 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+				"descripcion": ""
+			},
+			{
+				"id": 67,
 				"titulo": "SRA.",
 				"nombre": "CATALINA",
 				"apellido_paterno": "JIMÉNEZ",
@@ -7,7 +43,7 @@
 				"fecha": "Viernes 16 de Marzo",
 				"mensaje_corto": "A LOS 95 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 10:00 HRS. EN EL TEMPLO SANTO NIÑO DE ATOCHA, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			},
 			{
@@ -47,7 +83,43 @@
 				"descripcion": ""
 			}		
 		],
-		"obituario_ingles": [{	"id": 67,
+		"obituario_ingles": [{	"id": 70,
+				"titulo": "SR.",
+				"nombre": "TOMAS",
+				"apellido_paterno": "RETANA",
+				"apellido_materno": "SARIÑANA",
+				"fecha": "Saturday, March 17",
+				"mensaje_corto": "AT THE AGE OF 63 YEARS",
+				"se_vela_en": "SE VELA EN DOM.CON. FELIPE ANGELES S/N COL. ETA, RODEO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 69,
+				"titulo": "SR.",
+				"nombre": "SANTOS",
+				"apellido_paterno": "ROMERO",
+				"apellido_materno": "CASAS",
+				"fecha": "Saturday, March 17",
+				"mensaje_corto": "AT THE AGE OF 96 YEARS",
+				"se_vela_en": "SE VELA EN VALENTÍN GÓMEZ FARIAS 110 COL. ARROYO SECO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 68,
+				"titulo": "SRA.",
+				"nombre": "MARIA DE LOS ÁNGELES",
+				"apellido_paterno": "NATERA",
+				"apellido_materno": "CASTILLO",
+				"fecha": "Saturday, March 17",
+				"mensaje_corto": "AT THE AGE OF 84 YEARS",
+				"se_vela_en": "SE VELA EN DOM.CON. IGNACIO ALLENDE, GPE. VICTORIA, DGO.",
+				"honras": "A LAS 15:30 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+				"descripcion": ""
+			},
+			{	
+				"id": 67,
 				"titulo": "SRA.",
 				"nombre": "CATALINA",
 				"apellido_paterno": "JIMÉNEZ",
@@ -55,7 +127,7 @@
 				"fecha": "Friday, March 16",
 				"mensaje_corto": "AT THE AGE OF 95 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 10:00 HRS. EN EL TEMPLO SANTO NIÑO DE ATOCHA, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			},
 			{
