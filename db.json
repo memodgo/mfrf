@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 79,
+		"obituario": [{	"id": 81,
+				"titulo": "SR.",
+				"nombre": "LUIS",
+				"apellido_paterno": "GARCÍA",
+				"apellido_materno": "ANDRADE",
+				"fecha": "Jueves 22 de Marzo",
+				"mensaje_corto": "A LOS 95 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN C. DELFINA ARROYO #412 COL. J. GPE. RODRIGUEZ",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 80,
+				"titulo": "SR.",
+				"nombre": "EPIFANIO",
+				"apellido_paterno": "PUENTES",
+				"apellido_materno": "MARTÍNEZ",
+				"fecha": "Jueves 22 de Marzo",
+				"mensaje_corto": "A LOS 70 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM. CON. PAJARITOS, NAZAS, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 79,
 				"titulo": "SR.",
 				"nombre": "ENRIQUE",
 				"apellido_paterno": "PÉREZ",
@@ -79,11 +103,35 @@
 				"fecha": "Miércoles 21 de Marzo",
 				"mensaje_corto": "A LOS 32 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN DOM. CON. TOMAS URBINA, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 15:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 79,
+		"obituario_ingles": [{	"id": 81,
+				"titulo": "SR.",
+				"nombre": "LUIS",
+				"apellido_paterno": "GARCÍA",
+				"apellido_materno": "ANDRADE",
+				"fecha": "Thursday, March 22",
+				"mensaje_corto": "AT THE AGE OF 95 YEARS",
+				"se_vela_en": "SE VELA EN C. DELFINA ARROYO #412 COL. J. GPE. RODRIGUEZ",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 80,
+				"titulo": "SR.",
+				"nombre": "EPIFANIO",
+				"apellido_paterno": "PUENTES",
+				"apellido_materno": "MARTÍNEZ",
+				"fecha": "Jueves 22 de Marzo",
+				"mensaje_corto": "AT THE AGE OF 70 YEARS",
+				"se_vela_en": "SE VELA EN DOM. CON. PAJARITOS, NAZAS, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 79,
 				"titulo": "SR.",
 				"nombre": "ENRIQUE",
 				"apellido_paterno": "PÉREZ",
@@ -163,7 +211,7 @@
 				"fecha": "Wednesday, March 21",
 				"mensaje_corto": "AT THE AGE OF 32 YEARS",
 				"se_vela_en": "SE VELA EN DOM. CON. TOMAS URBINA, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 15:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			}
 		]
