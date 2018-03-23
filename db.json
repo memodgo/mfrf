@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 81,
+		"obituario": [{	"id": 83,
+				"titulo": "SR.",
+				"nombre": "JAVIER",
+				"apellido_paterno": "GÓMEZ",
+				"apellido_materno": "MONCADA",
+				"fecha": "Viernes 23 de Marzo",
+				"mensaje_corto": "A LOS 77 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 82,
+				"titulo": "SR.",
+				"nombre": "FRANCISCO",
+				"apellido_paterno": "GONZÁLEZ",
+				"apellido_materno": "VILLA",
+				"fecha": "Viernes 23 de Marzo",
+				"mensaje_corto": "A LOS 62 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 81,
 				"titulo": "SR.",
 				"nombre": "LUIS",
 				"apellido_paterno": "GARCÍA",
@@ -19,7 +43,7 @@
 				"fecha": "Jueves 22 de Marzo",
 				"mensaje_corto": "A LOS 70 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN DOM. CON. PAJARITOS, NAZAS, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 17:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -107,7 +131,31 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 81,
+		"obituario_ingles": [{	"id": 83,
+				"titulo": "SR.",
+				"nombre": "JAVIER",
+				"apellido_paterno": "GÓMEZ",
+				"apellido_materno": "MONCADA",
+				"fecha": "Friday, March 23",
+				"mensaje_corto": "AT THE AGE OF 77 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 82,
+				"titulo": "SR.",
+				"nombre": "FRANCISCO",
+				"apellido_paterno": "GONZÁLEZ",
+				"apellido_materno": "VILLA",
+				"fecha": "Friday, March 23",
+				"mensaje_corto": "AT THE AGE OF 62 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 81,
 				"titulo": "SR.",
 				"nombre": "LUIS",
 				"apellido_paterno": "GARCÍA",
@@ -127,7 +175,7 @@
 				"fecha": "Jueves 22 de Marzo",
 				"mensaje_corto": "AT THE AGE OF 70 YEARS",
 				"se_vela_en": "SE VELA EN DOM. CON. PAJARITOS, NAZAS, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 17:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
