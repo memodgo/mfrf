@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 91,
+		"obituario": [{	"id": 93,
+				"titulo": "JOVEN",
+				"nombre": "RAYMUNDO",
+				"apellido_paterno": "RIOS",
+				"apellido_materno": "RODRÍGUEZ",
+				"fecha": "Martes 27 de Marzo",
+				"mensaje_corto": "A LOS 26 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 92,
+				"titulo": "SR.",
+				"nombre": "MIGUEL",
+				"apellido_paterno": "MATA",
+				"apellido_materno": "ZAMORA",
+				"fecha": "Martes 27 de Marzo",
+				"mensaje_corto": "A LOS 83 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN C. INDEPENDENCIA S/N COL. JOSE MA. MORELOS, LA TINAJA, DGO.",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DEL SAGRADO CORAZÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+				"descripcion": ""
+			},
+			{
+				"id": 91,
 				"titulo": "SRA.",
 				"nombre": "DOLORES",
 				"apellido_paterno": "REZA",
@@ -31,7 +55,7 @@
 				"fecha": "Lunes 26 de Marzo",
 				"mensaje_corto": "A LOS 20 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN TEPEHUANES, DGO.",
-				"honras": "A LAS 14:00 HRS. EN EL TEMPLO DE SANTA CATARINA, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DE SANTA CATARINA, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -81,33 +105,32 @@
 				"se_vela_en": "SE VELA EN C. COAHUILA #800 COL. MORGA",
 				"honras": "PENDIENTES",
 				"descripcion": ""
-			},
-			{
-				"id": 83,
-				"titulo": "SR.",
-				"nombre": "XAVIER",
-				"apellido_paterno": "GÓMEZ",
-				"apellido_materno": "MONCADA",
-				"fecha": "Viernes 23 de Marzo",
-				"mensaje_corto": "A LOS 77 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO SAN JOSÉ, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 82,
-				"titulo": "SR.",
-				"nombre": "FRANCISCO",
-				"apellido_paterno": "GONZÁLEZ",
-				"apellido_materno": "VILLA",
-				"fecha": "Viernes 23 de Marzo",
-				"mensaje_corto": "A LOS 62 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 10:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE FÁTIMA Y DEL CARMEN, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 91,
+		"obituario_ingles": [{	"id": 93,
+				"titulo": "JOVEN",
+				"nombre": "RAYMUNDO",
+				"apellido_paterno": "RIOS",
+				"apellido_materno": "RODRÍGUEZ",
+				"fecha": "Tuesday, March 27",
+				"mensaje_corto": "AT THE AGE OF 26 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 92,
+				"titulo": "SR.",
+				"nombre": "MIGUEL",
+				"apellido_paterno": "MATA",
+				"apellido_materno": "ZAMORA",
+				"fecha": "Tuesday, March 27",
+				"mensaje_corto": "AT THE AGE OF 83 YEARS",
+				"se_vela_en": "SE VELA EN C. INDEPENDENCIA S/N COL. JOSE MA. MORELOS, LA TINAJA, DGO.",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DEL SAGRADO CORAZÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+				"descripcion": ""
+			},
+			{	"id": 91,
 				"titulo": "SRA.",
 				"nombre": "DOLORES",
 				"apellido_paterno": "REZA",
@@ -139,7 +162,7 @@
 				"fecha": "Monday, March 26",
 				"mensaje_corto": "AT THE AGE OF 20 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN TEPEHUANES, DGO.",
-				"honras": "A LAS 14:00 HRS. EN EL TEMPLO DE SANTA CATARINA, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DE SANTA CATARINA, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -187,90 +210,6 @@
 				"fecha": "Saturday, March 24",
 				"mensaje_corto": "AT THE AGE OF 74 YEARS",
 				"se_vela_en": "SE VELA EN C. COAHUILA #800 COL. MORGA",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 83,
-				"titulo": "SR.",
-				"nombre": "XAVIER",
-				"apellido_paterno": "GÓMEZ",
-				"apellido_materno": "MONCADA",
-				"fecha": "Friday, March 23",
-				"mensaje_corto": "AT THE AGE OF 77 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO SAN JOSÉ, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 82,
-				"titulo": "SR.",
-				"nombre": "FRANCISCO",
-				"apellido_paterno": "GONZÁLEZ",
-				"apellido_materno": "VILLA",
-				"fecha": "Friday, March 23",
-				"mensaje_corto": "AT THE AGE OF 62 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 10:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE FÁTIMA Y DEL CARMEN, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 81,
-				"titulo": "SR.",
-				"nombre": "LUIS",
-				"apellido_paterno": "GARCÍA",
-				"apellido_materno": "ANDRADE",
-				"fecha": "Thursday, March 22",
-				"mensaje_corto": "AT THE AGE OF 95 YEARS",
-				"se_vela_en": "SE VELA EN C. DELFINA ARROYO #412 COL. J. GPE. RODRIGUEZ",
-				"honras": "A LAS 14:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DEL SAGRADO CORAZÓN, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 80,
-				"titulo": "SR.",
-				"nombre": "EPIFANIO",
-				"apellido_paterno": "PUENTES",
-				"apellido_materno": "MARTÍNEZ",
-				"fecha": "Jueves 22 de Marzo",
-				"mensaje_corto": "AT THE AGE OF 70 YEARS",
-				"se_vela_en": "SE VELA EN DOM. CON. PAJARITOS, NAZAS, DGO.",
-				"honras": "A LAS 17:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 79,
-				"titulo": "SR.",
-				"nombre": "ENRIQUE",
-				"apellido_paterno": "PÉREZ",
-				"apellido_materno": "ÁLVAREZ",
-				"fecha": "Thursday, March 22",
-				"mensaje_corto": "AT THE AGE OF 83 YEARS",
-				"se_vela_en": "SE VELA EN VILLITA DE SAN ATENOGENES, POANAS, DGO.",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 78,
-				"titulo": "SRA.",
-				"nombre": "MA. DEL SOCORRO",
-				"apellido_paterno": "BETANCOURT",
-				"apellido_materno": "ALDANA",
-				"fecha": "Thursday, March 22",
-				"mensaje_corto": "AT THE AGE OF 60 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAUL FLORES",
-				"honras": "A LAS 12:00 HRS. EN EL TEMPLO DE LA SANTA CRUZ, SE DESPIDE EN EL PANTEÓN DE NUEVO IDEAL, DGO.",
-				"descripcion": ""
-			},
-			{
-				"id": 77,
-				"titulo": "SR.",
-				"nombre": "ENEMESIO",
-				"apellido_paterno": "GARCÍA",
-				"apellido_materno": "FLORES",
-				"fecha": "Thursday, March 22",
-				"mensaje_corto": "AT THE AGE OF 48 YEARS",
-				"se_vela_en": "SE VELA EN SAN FRANCISCO DE LOS CANO, GUANACEVI, DGO.",
 				"honras": "PENDIENTES",
 				"descripcion": ""
 			}
