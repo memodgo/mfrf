@@ -1,5 +1,17 @@
 		{
-		"obituario": [{	"id": 93,
+		"obituario": [{	"id": 94,
+				"titulo": "SR.",
+				"nombre": "ISABEL",
+				"apellido_paterno": "SILVA",
+				"apellido_materno": "FRANCO",
+				"fecha": "Miércoles 28 de Marzo",
+				"mensaje_corto": "A LOS 82 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN SAN FRANCISCO DE ASÍS, INDE, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 93,
 				"titulo": "JOVEN",
 				"nombre": "RAYMUNDO",
 				"apellido_paterno": "RIOS",
@@ -43,7 +55,7 @@
 				"fecha": "Lunes 26 de Marzo",
 				"mensaje_corto": "A LOS 63 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN DOM. CON. CORRALES, TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 14:00 HRS. EN EL TEMPLO SAN MIGUEL ARCÁNGEL, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -69,45 +81,21 @@
 				"se_vela_en": "SE VELA EN COL. IGNACIO LOPEZ RAYON, MPIO. CUENCAME,DGO.",
 				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
-			},
-			{
-				"id": 86,
-				"titulo": "SRA.",
-				"nombre": "MARÍA ROSA",
-				"apellido_paterno": "GARCÍA",
-				"apellido_materno": "RUÍZ",
-				"fecha": "Sábado 24 de Marzo",
-				"mensaje_corto": "A LOS 61 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM. CON. EL ARENAL, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 85,
-				"titulo": "JOVEN",
-				"nombre": "JUAN CARLOS",
-				"apellido_paterno": "CHAVARRÍA",
-				"apellido_materno": "REYES",
-				"fecha": "Sábado 24 de Marzo",
-				"mensaje_corto": "A LOS 23 AÑOS DE EDAD",
-				"se_vela_en": "SE TRANSLADA A TORREÓN, COAH.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 84,
-				"titulo": "SR.",
-				"nombre": "JESÚS",
-				"apellido_paterno": "HERNÁNDEZ",
-				"apellido_materno": "GONZÁLEZ",
-				"fecha": "Sábado 24 de Marzo",
-				"mensaje_corto": "A LOS 74 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN C. COAHUILA #800 COL. MORGA",
-				"honras": "PENDIENTES",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 93,
+		"obituario_ingles": [{	"id": 94,
+				"titulo": "SR.",
+				"nombre": "ISABEL",
+				"apellido_paterno": "SILVA",
+				"apellido_materno": "FRANCO",
+				"fecha": "Wednesday, March 28",
+				"mensaje_corto": "AT THE AGE OF 82 YEARS",
+				"se_vela_en": "SE VELA EN SAN FRANCISCO DE ASÍS, INDE, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 93,
 				"titulo": "JOVEN",
 				"nombre": "RAYMUNDO",
 				"apellido_paterno": "RIOS",
@@ -150,7 +138,7 @@
 				"fecha": "Monday, March 26",
 				"mensaje_corto": "T THE AGE OF 63 YEARS",
 				"se_vela_en": "SE VELA EN DOM. CON. CORRALES, TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 14:00 HRS. EN EL TEMPLO SAN MIGUEL ARCÁNGEL, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -175,42 +163,6 @@
 				"mensaje_corto": "AT THE AGE OF 78 YEARS",
 				"se_vela_en": "SE VELA EN COL. IGNACIO LOPEZ RAYON, MPIO. CUENCAME,DGO.",
 				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 86,
-				"titulo": "SRA.",
-				"nombre": "MARÍA ROSA",
-				"apellido_paterno": "GARCÍA",
-				"apellido_materno": "RUÍZ",
-				"fecha": "Saturday, March 24",
-				"mensaje_corto": "AT THE AGE OF 61 YEARS",
-				"se_vela_en": "SE VELA EN DOM. CON. EL ARENAL, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 85,
-				"titulo": "JOVEN",
-				"nombre": "JUAN CARLOS",
-				"apellido_paterno": "CHAVARRÍA",
-				"apellido_materno": "REYES",
-				"fecha": "Saturday, March 24",
-				"mensaje_corto": "AT THE AGE OF 23 YEARS",
-				"se_vela_en": "SE TRANSLADA A TORREÓN, COAH.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 84,
-				"titulo": "SR.",
-				"nombre": "JESÚS",
-				"apellido_paterno": "HERNÁNDEZ",
-				"apellido_materno": "GONZÁLEZ",
-				"fecha": "Saturday, March 24",
-				"mensaje_corto": "AT THE AGE OF 74 YEARS",
-				"se_vela_en": "SE VELA EN C. COAHUILA #800 COL. MORGA",
-				"honras": "PENDIENTES",
 				"descripcion": ""
 			}
 		]
