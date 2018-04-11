@@ -1,5 +1,41 @@
 		{
-		"obituario": [{	"id": 117,
+		"obituario": [{	"id": 120,
+				"titulo": "SR.",
+				"nombre": "BONIFACIO",
+				"apellido_paterno": "SORIA",
+				"apellido_materno": "CARRERA",
+				"fecha": "Miércoles 11 de Abril",
+				"mensaje_corto": "A LOS 44 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 119,
+				"titulo": "SR.",
+				"nombre": "ÁNGEL",
+				"apellido_paterno": "CENICEROS",
+				"apellido_materno": "GARCÍA",
+				"fecha": "Miércoles 11 de Abril",
+				"mensaje_corto": "A LOS 94 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN J. GUADALUPE RODRIGUEZ, MPIO. DE GUADALUPE VICTORIA, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 118,
+				"titulo": "SRA.",
+				"nombre": "CARMEN",
+				"apellido_paterno": "VELÁZQUEZ",
+				"apellido_materno": "CALDERÓN",
+				"fecha": "Miércoles 11 de Abril",
+				"mensaje_corto": "A LOS 89 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN SANTA CRUZ DE LAS HUERTAS, CANATLAN, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 117,
 				"titulo": "SRA.",
 				"nombre": "GONZALA",
 				"apellido_paterno": "SOTO",
@@ -7,7 +43,7 @@
 				"fecha": "Martes 10 de Abril",
 				"mensaje_corto": "A LOS 61 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN C. AZTECA #202 COL. ESPAÑA, SANTIAGO PAPASQUIARO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. TEMPLO SANTO DOMINGO APOSTOL, SE DESPIDE EN EL PANTEÓN LOS NOGALES",
 				"descripcion": ""
 			},
 			{
@@ -81,45 +117,45 @@
 				"se_vela_en": "SE VELA EN DOM.CON. AMOLES, RODEO,DGO.",
 				"honras": "A LAS 11:00 HRS. EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
-			},
-			{
-				"id": 110,
-				"titulo": "SRA.",
-				"nombre": "MARTHA IRENE",
-				"apellido_paterno": "TRIANA",
-				"apellido_materno": "GALARZA",
-				"fecha": "Sábado 07 de Abril",
-				"mensaje_corto": "A LOS 75 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 109,
-				"titulo": "SR.",
-				"nombre": "NICOLAS",
-				"apellido_paterno": "MACIAS",
-				"apellido_materno": "SEGOVIA",
-				"fecha": "Sábado 07 de Abril",
-				"mensaje_corto": "A LOS 77 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 108,
-				"titulo": "SR.",
-				"nombre": "PEDRO",
-				"apellido_paterno": "VALENCIA",
-				"apellido_materno": "LOERA",
-				"fecha": "Sábado 07 de Abril",
-				"mensaje_corto": "A LOS 87 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN GUANACEVI, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 117,
+		"obituario_ingles": [{	"id": 120,
+				"titulo": "SR.",
+				"nombre": "BONIFACIO",
+				"apellido_paterno": "SORIA",
+				"apellido_materno": "CARRERA",
+				"fecha": "Wednesday, April 11",
+				"mensaje_corto": "AT THE AGE OF 44 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 119,
+				"titulo": "SR.",
+				"nombre": "ÁNGEL",
+				"apellido_paterno": "CENICEROS",
+				"apellido_materno": "GARCÍA",
+				"fecha": "Wednesday, April 11",
+				"mensaje_corto": "AT THE AGE OF 94 YEARS",
+				"se_vela_en": "SE VELA EN J. GUADALUPE RODRIGUEZ, MPIO. DE GUADALUPE VICTORIA, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 118,
+				"titulo": "SRA.",
+				"nombre": "CARMEN",
+				"apellido_paterno": "VELÁZQUEZ",
+				"apellido_materno": "CALDERÓN",
+				"fecha": "Wednesday, April 11",
+				"mensaje_corto": "AT THE AGE OF 89 YEARS",
+				"se_vela_en": "SE VELA EN SANTA CRUZ DE LAS HUERTAS, CANATLAN, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 117,
 				"titulo": "SRA.",
 				"nombre": "GONZALA",
 				"apellido_paterno": "SOTO",
@@ -127,7 +163,7 @@
 				"fecha": "Tuesday, April 10",
 				"mensaje_corto": "AT THE AGE OF 61 YEARS",
 				"se_vela_en": "SE VELA EN C. AZTECA #202 COL. ESPAÑA, SANTIAGO PAPASQUIARO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. TEMPLO SANTO DOMINGO APOSTOL, SE DESPIDE EN EL PANTEÓN LOS NOGALES",
 				"descripcion": ""
 			},
 			{
@@ -200,42 +236,6 @@
 				"mensaje_corto": "AT THE AGE OF 59 YEARS",
 				"se_vela_en": "SE VELA EN DOM.CON. AMOLES, RODEO,DGO.",
 				"honras": "A LAS 11:00 HRS. EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 110,
-				"titulo": "SRA.",
-				"nombre": "MARTHA IRENE",
-				"apellido_paterno": "TRIANA",
-				"apellido_materno": "GALARZA",
-				"fecha": "Saturday, April 07",
-				"mensaje_corto": "AT THE AGE OF 75 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 109,
-				"titulo": "SR.",
-				"nombre": "NICOLAS",
-				"apellido_paterno": "MACIAS",
-				"apellido_materno": "SEGOVIA",
-				"fecha": "Saturday, April 07",
-				"mensaje_corto": "AT THE AGE OF 77 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 108,
-				"titulo": "SR.",
-				"nombre": "PEDRO",
-				"apellido_paterno": "VALENCIA",
-				"apellido_materno": "LOERA",
-				"fecha": "Saturday, April 07",
-				"mensaje_corto": "AT THE AGE OF 87 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN GUANACEVI, DGO.",
-				"honras": "PENDIENTES",
 				"descripcion": ""
 			}
 		]
