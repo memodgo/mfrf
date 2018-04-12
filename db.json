@@ -81,66 +81,6 @@
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
 				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
-			},
-			{
-				"id": 115,
-				"titulo": "SR.",
-				"nombre": "ARMANDO",
-				"apellido_paterno": "SÁNCHEZ",
-				"apellido_materno": "VÁLDEZ",
-				"fecha": "Lunes 09 de Abril",
-				"mensaje_corto": "A LOS 66 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA BACA ORTIZ, SANTIAGO PAPASQUIARO, DGO.",
-				"honras": "A LAS 13:30 HRS. EN EL TEMPLO DE SANTO SANTIAGO APOSTOL, SE DESPIDE EN EL PANTEÓN LOS NOGALES",
-				"descripcion": ""
-			},
-			{
-				"id": 114,
-				"titulo": "SRA.",
-				"nombre": "ELIZABETH",
-				"apellido_paterno": "MARTÍNEZ",
-				"apellido_materno": "SÁNCHEZ",
-				"fecha": "Lunes 09 de Abril",
-				"mensaje_corto": "A LOS 44 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 16:00 HRS. EN LA PARROQUIA DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 113,
-				"titulo": "SRA.",
-				"nombre": "AURELIA HORTENCIA",
-				"apellido_paterno": "VILLA",
-				"apellido_materno": "BARRÓN",
-				"fecha": "Lunes 09 de Abril",
-				"mensaje_corto": "A LOS 59 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM. CON. MEDINA, MPIO. DE CANATLAN, DGO.",
-				"honras": "A LAS 17:30 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 112,
-				"titulo": "SRA.",
-				"nombre": "LORENA",
-				"apellido_paterno": "DE LA CRUZ",
-				"apellido_materno": "HERRERA",
-				"fecha": "Lunes 09 de Abril",
-				"mensaje_corto": "A LOS 45 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN C. REVOLUCIÓN 29 EJIDO BENITO JUAREZ, DGO.",
-				"honras": "A LAS 14 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE GUADALUPE, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 111,
-				"titulo": "SRA.",
-				"nombre": "MARÍA ELVIRA",
-				"apellido_paterno": "CARDOZA",
-				"apellido_materno": "MALDONADO",
-				"fecha": "Lunes 09 de Abril",
-				"mensaje_corto": "A LOS 59 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM.CON. AMOLES, RODEO,DGO.",
-				"honras": "A LAS 11:00 HRS. EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
 			}
 		],
 		"obituario_ingles": [{	"id": 122,
@@ -224,66 +164,6 @@
 				"mensaje_corto": "AT THE AGE OF 54 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
 				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 115,
-				"titulo": "SR.",
-				"nombre": "ARMANDO",
-				"apellido_paterno": "SÁNCHEZ",
-				"apellido_materno": "VÁLDEZ",
-				"fecha": "Monday, April 09",
-				"mensaje_corto": "AT THE AGE OF 66 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA BACA ORTIZ, SANTIAGO PAPASQUIARO, DGO.",
-				"honras": "A LAS 13:30 HRS. EN EL TEMPLO DE SANTO SANTIAGO APOSTOL, SE DESPIDE EN EL PANTEÓN LOS NOGALES",
-				"descripcion": ""
-			},
-			{
-				"id": 114,
-				"titulo": "SRA.",
-				"nombre": "ELIZABETH",
-				"apellido_paterno": "MARTÍNEZ",
-				"apellido_materno": "SÁNCHEZ",
-				"fecha": "Monday, April 09",
-				"mensaje_corto": "AT THE AGE OF 44 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 16:00 HRS. EN LA PARROQUIA DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 113,
-				"titulo": "SRA.",
-				"nombre": "AURELIA HORTENCIA",
-				"apellido_paterno": "VILLA",
-				"apellido_materno": "BARRÓN",
-				"fecha": "Monday, April 09",
-				"mensaje_corto": "AT THE AGE OF 59 YEARS",
-				"se_vela_en": "SE VELA EN DOM. CON. MEDINA, MPIO. DE CANATLAN, DGO.",
-				"honras": "A LAS 17:30 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 112,
-				"titulo": "SRA.",
-				"nombre": "LORENA",
-				"apellido_paterno": "DE LA CRUZ",
-				"apellido_materno": "HERRERA",
-				"fecha": "Monday, April 09",
-				"mensaje_corto": "AT THE AGE OF 45 YEARS",
-				"se_vela_en": "SE VELA EN C. REVOLUCIÓN 29 EJIDO BENITO JUAREZ, DGO.",
-				"honras": "A LAS 14 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE GUADALUPE, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 111,
-				"titulo": "SRA.",
-				"nombre": "MARÍA ELVIRA",
-				"apellido_paterno": "CARDOZA",
-				"apellido_materno": "MALDONADO",
-				"fecha": "Monday, April 09",
-				"mensaje_corto": "AT THE AGE OF 59 YEARS",
-				"se_vela_en": "SE VELA EN DOM.CON. AMOLES, RODEO,DGO.",
-				"honras": "A LAS 11:00 HRS. EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			}
 		]
