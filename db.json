@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 120,
+		"obituario": [{	"id": 122,
+				"titulo": "SR.",
+				"nombre": "JOSÉ RAMÓN",
+				"apellido_paterno": "BATRES",
+				"apellido_materno": "RUÍZ",
+				"fecha": "Jueves 12 de Abril",
+				"mensaje_corto": "A LOS 52 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO DR. CASTILLO DEL VALLES, NUEVO IDEAL, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 121,
+				"titulo": "SR.",
+				"nombre": "JESÚS JOSÉ",
+				"apellido_paterno": "ROBLES",
+				"apellido_materno": "ZAMARRIPA",
+				"fecha": "Jueves 12 de Abril",
+				"mensaje_corto": "A LOS 58 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN LAZARO CARDENAS, MPIO. PANUCO  CORONADO, DGO.",
+				"honras": "EL DÍA 13 DE ABRIL A LAS 12:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DE FRANCISCO I. MADERO, DGO.",
+				"descripcion": ""
+			},
+			{
+				"id": 120,
 				"titulo": "SR.",
 				"nombre": "BONIFACIO",
 				"apellido_paterno": "SORIA",
@@ -7,7 +31,7 @@
 				"fecha": "Miércoles 11 de Abril",
 				"mensaje_corto": "A LOS 44 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE FÁTIMA Y DEL CARMEN, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
 				"descripcion": ""
 			},
 			{
@@ -19,7 +43,7 @@
 				"fecha": "Miércoles 11 de Abril",
 				"mensaje_corto": "A LOS 94 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN J. GUADALUPE RODRIGUEZ, MPIO. DE GUADALUPE VICTORIA, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 18:00 HRS. EN EL TEMPLO DEL SAGRADO CORAZÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -119,7 +143,31 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 120,
+		"obituario_ingles": [{	"id": 122,
+				"titulo": "SR.",
+				"nombre": "JOSÉ RAMÓN",
+				"apellido_paterno": "BATRES",
+				"apellido_materno": "RUÍZ",
+				"fecha": "Thursday, April 12",
+				"mensaje_corto": "AT THE AGE OF 52 YEARS",
+				"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO DR. CASTILLO DEL VALLES, NUEVO IDEAL, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 121,
+				"titulo": "SR.",
+				"nombre": "JESÚS JOSÉ",
+				"apellido_paterno": "ROBLES",
+				"apellido_materno": "ZAMARRIPA",
+				"fecha": "Thursday, April 12",
+				"mensaje_corto": "AT  THE AGE OF 58 YEARS",
+				"se_vela_en": "SE VELA EN LAZARO CARDENAS, MPIO. PANUCO  CORONADO, DGO.",
+				"honras": "EL DÍA 13 DE ABRIL A LAS 12:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DE FRANCISCO I. MADERO, DGO.",
+				"descripcion": ""
+			},
+			{
+				"id": 120,
 				"titulo": "SR.",
 				"nombre": "BONIFACIO",
 				"apellido_paterno": "SORIA",
@@ -127,7 +175,7 @@
 				"fecha": "Wednesday, April 11",
 				"mensaje_corto": "AT THE AGE OF 44 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE FÁTIMA Y DEL CARMEN, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
 				"descripcion": ""
 			},
 			{
@@ -139,7 +187,7 @@
 				"fecha": "Wednesday, April 11",
 				"mensaje_corto": "AT THE AGE OF 94 YEARS",
 				"se_vela_en": "SE VELA EN J. GUADALUPE RODRIGUEZ, MPIO. DE GUADALUPE VICTORIA, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 18:00 HRS. EN EL TEMPLO DEL SAGRADO CORAZÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
