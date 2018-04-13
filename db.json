@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 122,
+		"obituario": [{	"id": 123,
+				"titulo": "SR.",
+				"nombre": "MANUEL",
+				"apellido_paterno": "ÁVALOS",
+				"apellido_materno": "REYES",
+				"fecha": "Viernes 13 de Abril",
+				"mensaje_corto": "A LOS 83 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 123,
+				"titulo": "SRA.",
+				"nombre": "REBECA",
+				"apellido_paterno": "SÁNCHEZ",
+				"apellido_materno": "SÁNCHEZ",
+				"fecha": "Viernes 13 de Abril",
+				"mensaje_corto": "A LOS 47 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 122,
 				"titulo": "SR.",
 				"nombre": "JOSÉ RAMÓN",
 				"apellido_paterno": "BATRES",
@@ -57,33 +81,33 @@
 				"se_vela_en": "SE VELA EN SANTA CRUZ DE LAS HUERTAS, CANATLAN, DGO.",
 				"honras": "PENDIENTES",
 				"descripcion": ""
-			},
-			{
-				"id": 117,
-				"titulo": "SRA.",
-				"nombre": "GONZALA",
-				"apellido_paterno": "SOTO",
-				"apellido_materno": "GUTIÉRREZ",
-				"fecha": "Martes 10 de Abril",
-				"mensaje_corto": "A LOS 61 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN C. AZTECA #202 COL. ESPAÑA, SANTIAGO PAPASQUIARO, DGO.",
-				"honras": "A LAS 12:00 HRS. TEMPLO SANTO DOMINGO APOSTOL, SE DESPIDE EN EL PANTEÓN LOS NOGALES",
-				"descripcion": ""
-			},
-			{
-				"id": 116,
-				"titulo": "SRA.",
-				"nombre": "CONSUELO",
-				"apellido_paterno": "ROMERO",
-				"apellido_materno": "AGUILAR",
-				"fecha": "Martes 10 de Abril",
-				"mensaje_corto": "A LOS 54 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 122,
+		"obituario_ingles": [{	"id": 123,
+				"titulo": "SR.",
+				"nombre": "MANUEL",
+				"apellido_paterno": "ÁVALOS",
+				"apellido_materno": "REYES",
+				"fecha": "Friday, April 13",
+				"mensaje_corto": "AT THE AGE OF 83 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 123,
+				"titulo": "SRA.",
+				"nombre": "REBECA",
+				"apellido_paterno": "SÁNCHEZ",
+				"apellido_materno": "SÁNCHEZ",
+				"fecha": "Friday, April 13",
+				"mensaje_corto": "AT THE AGE OF 47 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 122,
 				"titulo": "SR.",
 				"nombre": "JOSÉ RAMÓN",
 				"apellido_paterno": "BATRES",
@@ -140,30 +164,6 @@
 				"mensaje_corto": "AT THE AGE OF 89 YEARS",
 				"se_vela_en": "SE VELA EN SANTA CRUZ DE LAS HUERTAS, CANATLAN, DGO.",
 				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 117,
-				"titulo": "SRA.",
-				"nombre": "GONZALA",
-				"apellido_paterno": "SOTO",
-				"apellido_materno": "GUTIÉRREZ",
-				"fecha": "Tuesday, April 10",
-				"mensaje_corto": "AT THE AGE OF 61 YEARS",
-				"se_vela_en": "SE VELA EN C. AZTECA #202 COL. ESPAÑA, SANTIAGO PAPASQUIARO, DGO.",
-				"honras": "A LAS 12:00 HRS. TEMPLO SANTO DOMINGO APOSTOL, SE DESPIDE EN EL PANTEÓN LOS NOGALES",
-				"descripcion": ""
-			},
-			{
-				"id": 116,
-				"titulo": "SRA.",
-				"nombre": "CONSUELO",
-				"apellido_paterno": "ROMERO",
-				"apellido_materno": "AGUILAR",
-				"fecha": "Tuesday, April 10",
-				"mensaje_corto": "AT THE AGE OF 54 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			}
 		]
