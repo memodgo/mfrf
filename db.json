@@ -1,5 +1,41 @@
 		{
-		"obituario": [{	"id": 123,
+		"obituario": [{	"id": 126,
+				"titulo": "SR.",
+				"nombre": "ALEJANDRO",
+				"apellido_paterno": "HERNÁNDEZ",
+				"apellido_materno": "KUHN",
+				"fecha": "Sábado 14 de Abril",
+				"mensaje_corto": "A LOS 69 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA ORO Y PLATA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 125,
+				"titulo": "SR.",
+				"nombre": "GENARO",
+				"apellido_paterno": "ÁVILA",
+				"apellido_materno": "IBARRA",
+				"fecha": "Sábado 14 de Abril",
+				"mensaje_corto": "A LOS 68 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA ORO DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "A LAS 9:00 HRS. EN EL TEMPLO DE SAN JOSÉ OBRERO (INFONAVIT), SE DESPIDE PARA SU CREMACIÓN",
+				"descripcion": ""
+			},
+			{
+				"id": 124,
+				"titulo": "SR.",
+				"nombre": "RAMIRO",
+				"apellido_paterno": "PÉREZ",
+				"apellido_materno": "FLORES",
+				"fecha": "Sábado 14 de Abril",
+				"mensaje_corto": "A LOS 80 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN EJIDO LA GLORIETA, GÓMEZ PALACIO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 123,
 				"titulo": "SR.",
 				"nombre": "MANUEL",
 				"apellido_paterno": "ÁVALOS",
@@ -7,7 +43,7 @@
 				"fecha": "Viernes 13 de Abril",
 				"mensaje_corto": "A LOS 83 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DE SAN AGUSTÍN, SE DESPIDE EN EL PANTEÓN JARDÍN",
 				"descripcion": ""
 			},
 			{
@@ -45,45 +81,45 @@
 				"se_vela_en": "SE VELA EN LAZARO CARDENAS, MPIO. PANUCO  CORONADO, DGO.",
 				"honras": "EL DÍA 13 DE ABRIL A LAS 12:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DE FRANCISCO I. MADERO, DGO.",
 				"descripcion": ""
-			},
-			{
-				"id": 120,
-				"titulo": "SR.",
-				"nombre": "BONIFACIO",
-				"apellido_paterno": "SORIA",
-				"apellido_materno": "CARRERA",
-				"fecha": "Miércoles 11 de Abril",
-				"mensaje_corto": "A LOS 44 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE FÁTIMA Y DEL CARMEN, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
-				"descripcion": ""
-			},
-			{
-				"id": 119,
-				"titulo": "SR.",
-				"nombre": "ÁNGEL",
-				"apellido_paterno": "CENICEROS",
-				"apellido_materno": "GARCÍA",
-				"fecha": "Miércoles 11 de Abril",
-				"mensaje_corto": "A LOS 94 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN J. GUADALUPE RODRIGUEZ, MPIO. DE GUADALUPE VICTORIA, DGO.",
-				"honras": "A LAS 18:00 HRS. EN EL TEMPLO DEL SAGRADO CORAZÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 118,
-				"titulo": "SRA.",
-				"nombre": "CARMEN",
-				"apellido_paterno": "VELÁZQUEZ",
-				"apellido_materno": "CALDERÓN",
-				"fecha": "Miércoles 11 de Abril",
-				"mensaje_corto": "A LOS 89 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN SANTA CRUZ DE LAS HUERTAS, CANATLAN, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 123,
+		"obituario_ingles": [{	"id": 126,
+				"titulo": "SR.",
+				"nombre": "ALEJANDRO",
+				"apellido_paterno": "HERNÁNDEZ",
+				"apellido_materno": "KUHN",
+				"fecha": "Saturday, April 14",
+				"mensaje_corto": "AT THE AGE OF 69 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA ORO Y PLATA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 125,
+				"titulo": "SR.",
+				"nombre": "GENARO",
+				"apellido_paterno": "ÁVILA",
+				"apellido_materno": "IBARRA",
+				"fecha": "Saturday, April 14",
+				"mensaje_corto": "AT THE AGE OF 68 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA ORO DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "A LAS 9:00 HRS. EN EL TEMPLO DE SAN JOSÉ OBRERO (INFONAVIT), SE DESPIDE PARA SU CREMACIÓN",
+				"descripcion": ""
+			},
+			{
+				"id": 124,
+				"titulo": "SR.",
+				"nombre": "RAMIRO",
+				"apellido_paterno": "PÉREZ",
+				"apellido_materno": "FLORES",
+				"fecha": "Saturday, April 14",
+				"mensaje_corto": "AT THE AGE OF 80 YEARS",
+				"se_vela_en": "SE VELA EN EJIDO LA GLORIETA, GÓMEZ PALACIO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 123,
 				"titulo": "SR.",
 				"nombre": "MANUEL",
 				"apellido_paterno": "ÁVALOS",
@@ -91,7 +127,7 @@
 				"fecha": "Friday, April 13",
 				"mensaje_corto": "AT THE AGE OF 83 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DE SAN AGUSTÍN, SE DESPIDE EN EL PANTEÓN JARDÍN",
 				"descripcion": ""
 			},
 			{
@@ -128,42 +164,6 @@
 				"mensaje_corto": "AT  THE AGE OF 58 YEARS",
 				"se_vela_en": "SE VELA EN LAZARO CARDENAS, MPIO. PANUCO  CORONADO, DGO.",
 				"honras": "EL DÍA 13 DE ABRIL A LAS 12:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DE FRANCISCO I. MADERO, DGO.",
-				"descripcion": ""
-			},
-			{
-				"id": 120,
-				"titulo": "SR.",
-				"nombre": "BONIFACIO",
-				"apellido_paterno": "SORIA",
-				"apellido_materno": "CARRERA",
-				"fecha": "Wednesday, April 11",
-				"mensaje_corto": "AT THE AGE OF 44 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE FÁTIMA Y DEL CARMEN, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
-				"descripcion": ""
-			},
-			{
-				"id": 119,
-				"titulo": "SR.",
-				"nombre": "ÁNGEL",
-				"apellido_paterno": "CENICEROS",
-				"apellido_materno": "GARCÍA",
-				"fecha": "Wednesday, April 11",
-				"mensaje_corto": "AT THE AGE OF 94 YEARS",
-				"se_vela_en": "SE VELA EN J. GUADALUPE RODRIGUEZ, MPIO. DE GUADALUPE VICTORIA, DGO.",
-				"honras": "A LAS 18:00 HRS. EN EL TEMPLO DEL SAGRADO CORAZÓN, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 118,
-				"titulo": "SRA.",
-				"nombre": "CARMEN",
-				"apellido_paterno": "VELÁZQUEZ",
-				"apellido_materno": "CALDERÓN",
-				"fecha": "Wednesday, April 11",
-				"mensaje_corto": "AT THE AGE OF 89 YEARS",
-				"se_vela_en": "SE VELA EN SANTA CRUZ DE LAS HUERTAS, CANATLAN, DGO.",
-				"honras": "PENDIENTES",
 				"descripcion": ""
 			}
 		]
