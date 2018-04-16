@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 130,
+		"obituario": [{	"id": 132,
+				"titulo": "SR.",
+				"nombre": "ALEJANDRO MANUEL",
+				"apellido_paterno": "ÁLVAREZ",
+				"apellido_materno": "SOLÍS",
+				"fecha": "Lunes 16 de Abril",
+				"mensaje_corto": "A LOS 32 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE, MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 131,
+				"titulo": "SR.",
+				"nombre": "PEDRO",
+				"apellido_paterno": "SALAS",
+				"apellido_materno": "CORTEZ",
+				"fecha": "Lunes 16 de Abril",
+				"mensaje_corto": "A LOS 55 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM. CON. EL CALABAZAL, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 130,
 				"titulo": "SRA.",
 				"nombre": "MARÍA CONCEPCIÓN",
 				"apellido_paterno": "ZAMORA",
@@ -14,11 +38,11 @@
 				"id": 129,
 				"titulo": "SR.",
 				"nombre": "MIGUEL",
-				"apellido_paterno": "PÉRES",
+				"apellido_paterno": "PÉREZ",
 				"apellido_materno": "RIVERA",
 				"fecha": "Domingo 15 de Abril",
 				"mensaje_corto": "A LOS 69 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN TEPEHUANES, DGO.",
+				"se_vela_en": "SE VELA EN CAPILLA MISIÓN FUNERAL RAÚL FLORES DE TEPEHUANES, DGO.",
 				"honras": "PENDIENTES",
 				"descripcion": ""
 			},
@@ -42,8 +66,8 @@
 				"apellido_materno": "GARCÍA",
 				"fecha": "Domingo 15 de Abril",
 				"mensaje_corto": "A LOS 84 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM. CON LA OCHOA, RODEO DGO",
-				"honras": "PENDIENTES",
+				"se_vela_en": "SE VELA EN DOM. CON LA OCHOA, POANAS, DGO.",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO SAN MIGUEL, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -107,7 +131,31 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 130,
+		"obituario_ingles": [{	"id": 132,
+				"titulo": "SR.",
+				"nombre": "ALEJANDRO MANUEL",
+				"apellido_paterno": "ÁLVAREZ",
+				"apellido_materno": "SOLÍS",
+				"fecha": "Monday, April 16",
+				"mensaje_corto": "AT THE AGE OF 32 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE, MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 131,
+				"titulo": "SR.",
+				"nombre": "PEDRO",
+				"apellido_paterno": "SALAS",
+				"apellido_materno": "CORTEZ",
+				"fecha": "Monday, April 16",
+				"mensaje_corto": "AT THE AGE OF 55 YEARS",
+				"se_vela_en": "SE VELA EN DOM. CON. EL CALABAZAL, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 130,
 				"titulo": "SRA.",
 				"nombre": "MARÍA CONCEPCIÓN",
 				"apellido_paterno": "ZAMORA",
@@ -122,11 +170,11 @@
 				"id": 129,
 				"titulo": "SR.",
 				"nombre": "MIGUEL",
-				"apellido_paterno": "PÉRES",
+				"apellido_paterno": "PÉREZ",
 				"apellido_materno": "RIVERA",
 				"fecha": "Sunday, April 15",
 				"mensaje_corto": "AT THE AGE OF 69 YEARS",
-				"se_vela_en": "SE VELA EN TEPEHUANES, DGO.",
+				"se_vela_en": "SE VELA EN CAPILLA FUNERALES RAÚL FLORES EN TEPEHUANES, DGO.",
 				"honras": "PENDIENTES",
 				"descripcion": ""
 			},
@@ -151,7 +199,7 @@
 				"fecha": "Sunday, April 15",
 				"mensaje_corto": "AT THE AGE OF 84 YEARS",
 				"se_vela_en": "SE VELA EN DOM. CON LA OCHOA, RODEO DGO",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO SAN MIGUEL, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
