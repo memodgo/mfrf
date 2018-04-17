@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 134,
+		"obituario": [{	"id": 136,
+				"titulo": "SR.",
+				"nombre": "TRÁNSITO ISABEL",
+				"apellido_paterno": "MACIAS",
+				"apellido_materno": "FLORES",
+				"fecha": "Martes 17 de Abril",
+				"mensaje_corto": "A LOS 63 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA ORO Y PLATA DE FUNERALES RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 135,
+				"titulo": "SR.",
+				"nombre": "ELADIO",
+				"apellido_paterno": "LERMA",
+				"apellido_materno": "GARCÍA",
+				"fecha": "Martes 17 de Abril",
+				"mensaje_corto": "A LOS 66 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DE FUNERALES RAÚL FLORES EN SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 134,
 				"titulo": "SRA.",
 				"nombre": "GONZALA",
 				"apellido_paterno": "HEREDIA",
@@ -17,8 +41,8 @@
 				"apellido_paterno": "VIDAÑA",
 				"apellido_materno": "DÍAZ",
 				"fecha": "Lunes 16 de Abril",
-				"mensaje_corto": "A LOS 57 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN MISIÓN FUNERAL RAÚL FLORES EN SANTIAGO PAPASQUIARO, DGO.",
+				"mensaje_corto": "A LOS 56 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO TOPIA, DGO.",
 				"honras": "PENDIENTES",
 				"descripcion": ""
 			},
@@ -43,7 +67,7 @@
 				"fecha": "Lunes 16 de Abril",
 				"mensaje_corto": "A LOS 55 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN DOM. CON. EL CALABAZAL, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO SAN JOSÉ, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -67,7 +91,7 @@
 				"fecha": "Domingo 15 de Abril",
 				"mensaje_corto": "A LOS 69 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA MISIÓN FUNERAL RAÚL FLORES DE TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -93,69 +117,33 @@
 				"se_vela_en": "SE VELA EN DOM. CON LA OCHOA, POANAS, DGO.",
 				"honras": "A LAS 12:00 HRS. EN EL TEMPLO SAN MIGUEL, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
-			},
-			{
-				"id": 126,
+			}
+		],
+		"obituario_ingles": [{	"id": 136,
 				"titulo": "SR.",
-				"nombre": "ALEJANDRO",
-				"apellido_paterno": "HERNÁNDEZ",
-				"apellido_materno": "KUHN",
-				"fecha": "Sábado 14 de Abril",
-				"mensaje_corto": "A LOS 69 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA ORO Y PLATA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 18:00 HRS. SERVICIO BIBLICO EN LA MISMA CAPILLA, SE DESPIDE PARA SU CREMACIÓN",
-				"descripcion": ""
-			},
-			{
-				"id": 125,
-				"titulo": "SR.",
-				"nombre": "GENARO",
-				"apellido_paterno": "ÁVILA",
-				"apellido_materno": "IBARRA",
-				"fecha": "Sábado 14 de Abril",
-				"mensaje_corto": "A LOS 68 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA ORO DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 9:00 HRS. EN EL TEMPLO DE SAN JOSÉ OBRERO (INFONAVIT), SE DESPIDE PARA SU CREMACIÓN",
-				"descripcion": ""
-			},
-			{
-				"id": 124,
-				"titulo": "SR.",
-				"nombre": "RAMIRO",
-				"apellido_paterno": "PÉREZ",
+				"nombre": "TRÁNSITO ISABEL",
+				"apellido_paterno": "MACIAS",
 				"apellido_materno": "FLORES",
-				"fecha": "Sábado 14 de Abril",
-				"mensaje_corto": "A LOS 80 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN EJIDO LA GLORIETA, GÓMEZ PALACIO, DGO.",
+				"fecha": "Tuesday, March 17",
+				"mensaje_corto": "AT THE AGE OF 63 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA ORO Y PLATA DE FUNERALES RAÚL FLORES",
 				"honras": "PENDIENTES",
 				"descripcion": ""
 			},
 			{
-				"id": 123,
+				"id": 135,
 				"titulo": "SR.",
-				"nombre": "MANUEL",
-				"apellido_paterno": "ÁVALOS",
-				"apellido_materno": "REYES",
-				"fecha": "Viernes 13 de Abril",
-				"mensaje_corto": "A LOS 83 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DE SAN AGUSTÍN, SE DESPIDE EN EL PANTEÓN JARDÍN",
+				"nombre": "ELADIO",
+				"apellido_paterno": "LERMA",
+				"apellido_materno": "GARCÍA",
+				"fecha": "Tuesday, March 17",
+				"mensaje_corto": "AT THE AGE OF 66 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DE FUNERALES RAÚL FLORES EN SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
 				"descripcion": ""
 			},
 			{
-				"id": 123,
-				"titulo": "SRA.",
-				"nombre": "REBECA",
-				"apellido_paterno": "SÁNCHEZ",
-				"apellido_materno": "SÁNCHEZ",
-				"fecha": "Viernes 13 de Abril",
-				"mensaje_corto": "AT THE AGE OF 47 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 16:00 HRS. SERVICIO BIBLICO EN LA MISMA CAPILLA, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			}
-		],
-		"obituario_ingles": [{	"id": 134,
+				"id": 134,
 				"titulo": "SRA.",
 				"nombre": "GONZALA",
 				"apellido_paterno": "HEREDIA",
@@ -199,7 +187,7 @@
 				"fecha": "Monday, April 16",
 				"mensaje_corto": "AT THE AGE OF 55 YEARS",
 				"se_vela_en": "SE VELA EN DOM. CON. EL CALABAZAL, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO SAN JOSÉ, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -223,7 +211,7 @@
 				"fecha": "Sunday, April 15",
 				"mensaje_corto": "AT THE AGE OF 69 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA FUNERALES RAÚL FLORES EN TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -248,66 +236,6 @@
 				"mensaje_corto": "AT THE AGE OF 84 YEARS",
 				"se_vela_en": "SE VELA EN DOM. CON LA OCHOA, RODEO DGO",
 				"honras": "A LAS 12:00 HRS. EN EL TEMPLO SAN MIGUEL, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 126,
-				"titulo": "SR.",
-				"nombre": "ALEJANDRO",
-				"apellido_paterno": "HERNÁNDEZ",
-				"apellido_materno": "KUHN",
-				"fecha": "Saturday, April 14",
-				"mensaje_corto": "AT THE AGE OF 69 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ORO Y PLATA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 18:00 HRS. SERVICIO BIBLICO EN LA MISMA CAPILLA, SE DESPIDE PARA SU CREMACIÓN",
-				"descripcion": ""
-			},
-			{
-				"id": 125,
-				"titulo": "SR.",
-				"nombre": "GENARO",
-				"apellido_paterno": "ÁVILA",
-				"apellido_materno": "IBARRA",
-				"fecha": "Saturday, April 14",
-				"mensaje_corto": "AT THE AGE OF 68 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ORO DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 9:00 HRS. EN EL TEMPLO DE SAN JOSÉ OBRERO (INFONAVIT), SE DESPIDE PARA SU CREMACIÓN",
-				"descripcion": ""
-			},
-			{
-				"id": 124,
-				"titulo": "SR.",
-				"nombre": "RAMIRO",
-				"apellido_paterno": "PÉREZ",
-				"apellido_materno": "FLORES",
-				"fecha": "Saturday, April 14",
-				"mensaje_corto": "AT THE AGE OF 80 YEARS",
-				"se_vela_en": "SE VELA EN EJIDO LA GLORIETA, GÓMEZ PALACIO, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 123,
-				"titulo": "SR.",
-				"nombre": "MANUEL",
-				"apellido_paterno": "ÁVALOS",
-				"apellido_materno": "REYES",
-				"fecha": "Friday, April 13",
-				"mensaje_corto": "AT THE AGE OF 83 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DE SAN AGUSTÍN, SE DESPIDE EN EL PANTEÓN JARDÍN",
-				"descripcion": ""
-			},
-			{
-				"id": 123,
-				"titulo": "SRA.",
-				"nombre": "REBECA",
-				"apellido_paterno": "SÁNCHEZ",
-				"apellido_materno": "SÁNCHEZ",
-				"fecha": "Friday, April 13",
-				"mensaje_corto": "AT THE AGE OF 47 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 16:00 HRS. SERVICIO BIBLICO EN LA MISMA CAPILLA, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			}
 		]
