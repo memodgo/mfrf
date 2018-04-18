@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 136,
+		"obituario": [{	"id": 138,
+				"titulo": "SRA.",
+				"nombre": "MARÍA",
+				"apellido_paterno": "MEZA",
+				"apellido_materno": "SÁNCHEZ",
+				"fecha": "Miércoles 18 de Abril",
+				"mensaje_corto": "A LOS 87 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DE FUNERALES RAÚL FLORES EN TEPEHUANES, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 137,
+				"titulo": "SR.",
+				"nombre": "ROBERTO",
+				"apellido_paterno": "GALAVIZ",
+				"apellido_materno": "VILLA",
+				"fecha": "Miércoles 18 de Abril",
+				"mensaje_corto": "A LOS 55 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE FUNERALES RAÚL FLORES",
+				"honras": "HONRAS EL DÍA DE MAÑANA JUEVES 19 DE ABRIL A LAS 11:HRS. EN EL TEMPLO DEL SEÑOR DE LA INSPIRACIÓN DEL NAYAR, SE DESPIDE EN EL PANTEÓN DEL NAYAR",
+				"descripcion": ""
+			},
+			{
+				"id": 136,
 				"titulo": "SR.",
 				"nombre": "TRÁNSITO ISABEL",
 				"apellido_paterno": "MACIAS",
@@ -69,57 +93,33 @@
 				"se_vela_en": "SE VELA EN DOM. CON. EL CALABAZAL, DGO.",
 				"honras": "A LAS 16:00 HRS. EN EL TEMPLO SAN JOSÉ, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
-			},
-			{
-				"id": 130,
-				"titulo": "SRA.",
-				"nombre": "MARÍA CONCEPCIÓN",
-				"apellido_paterno": "ZAMORA",
-				"apellido_materno": "VARGAS",
-				"fecha": "Domingo 15 de Abril",
-				"mensaje_corto": "A LOS 83 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN C. PASEO DE LA PALMA S/N COL. ETA MPIO. RODEO, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 129,
-				"titulo": "SR.",
-				"nombre": "MIGUEL",
-				"apellido_paterno": "PÉREZ",
-				"apellido_materno": "RIVERA",
-				"fecha": "Domingo 15 de Abril",
-				"mensaje_corto": "A LOS 69 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA MISIÓN FUNERAL RAÚL FLORES DE TEPEHUANES, DGO.",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 128,
-				"titulo": "SR.",
-				"nombre": "JESÚS ALFREDO",
-				"apellido_paterno": "CHACON",
-				"apellido_materno": "RODRIGUEZ",
-				"fecha": "Domingo 15 de Abril",
-				"mensaje_corto": "A LOS 34 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 127,
-				"titulo": "SRA.",
-				"nombre": "MARÍA DEL ROSARIO",
-				"apellido_paterno": "LOZANO",
-				"apellido_materno": "GARCÍA",
-				"fecha": "Domingo 15 de Abril",
-				"mensaje_corto": "A LOS 84 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM. CON LA OCHOA, POANAS, DGO.",
-				"honras": "A LAS 12:00 HRS. EN EL TEMPLO SAN MIGUEL, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 136,
+		"obituario_ingles": [{	"id": 138,
+				"titulo": "SRA.",
+				"nombre": "MARÍA",
+				"apellido_paterno": "MEZA",
+				"apellido_materno": "SÁNCHEZ",
+				"fecha": "Wednesday, April 18",
+				"mensaje_corto": "AT THE AGE OF 87 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DE FUNERALES RAÚL FLORES EN TEPEHUANES, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 137,
+				"titulo": "SR.",
+				"nombre": "ROBERTO",
+				"apellido_paterno": "GALAVIZ",
+				"apellido_materno": "VILLA",
+				"fecha": "Wednesday, April 18",
+				"mensaje_corto": "AT THE AGE OF 55 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE FUNERALES RAÚL FLORES",
+				"honras": "HONRAS EL DÍA DE MAÑANA JUEVES 19 DE ABRIL A LAS 11:HRS. EN EL TEMPLO DEL SEÑOR DE LA INSPIRACIÓN DEL NAYAR, SE DESPIDE EN EL PANTEÓN DEL NAYAR",
+				"descripcion": ""
+			},
+			{
+				"id": 136,
 				"titulo": "SR.",
 				"nombre": "TRÁNSITO ISABEL",
 				"apellido_paterno": "MACIAS",
@@ -188,54 +188,6 @@
 				"mensaje_corto": "AT THE AGE OF 55 YEARS",
 				"se_vela_en": "SE VELA EN DOM. CON. EL CALABAZAL, DGO.",
 				"honras": "A LAS 16:00 HRS. EN EL TEMPLO SAN JOSÉ, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 130,
-				"titulo": "SRA.",
-				"nombre": "MARÍA CONCEPCIÓN",
-				"apellido_paterno": "ZAMORA",
-				"apellido_materno": "VARGAS",
-				"fecha": "Sunday, April 15",
-				"mensaje_corto": "AT THE AGE OF 83 YEARS",
-				"se_vela_en": "SE VELA EN C. PASEO DE LA PALMA S/N COL. ETA MPIO. RODEO, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 129,
-				"titulo": "SR.",
-				"nombre": "MIGUEL",
-				"apellido_paterno": "PÉREZ",
-				"apellido_materno": "RIVERA",
-				"fecha": "Sunday, April 15",
-				"mensaje_corto": "AT THE AGE OF 69 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA FUNERALES RAÚL FLORES EN TEPEHUANES, DGO.",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 128,
-				"titulo": "SR.",
-				"nombre": "JESÚS ALFREDO",
-				"apellido_paterno": "CHACON",
-				"apellido_materno": "RODRIGUEZ",
-				"fecha": "Sunday, April 15",
-				"mensaje_corto": "AT THE AGE OF 34 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 127,
-				"titulo": "SRA.",
-				"nombre": "MARÍA DEL ROSARIO",
-				"apellido_paterno": "LOZANO",
-				"apellido_materno": "GARCÍA",
-				"fecha": "Sunday, April 15",
-				"mensaje_corto": "AT THE AGE OF 84 YEARS",
-				"se_vela_en": "SE VELA EN DOM. CON LA OCHOA, RODEO DGO",
-				"honras": "A LAS 12:00 HRS. EN EL TEMPLO SAN MIGUEL, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			}
 		]
