@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 162,
+		"obituario": [{	"id": 164,
+				"titulo": "SR.",
+				"nombre": "RAMÓN",
+				"apellido_paterno": "MENA",
+				"apellido_materno": "MARCHAN",
+				"fecha": "Viernes 27 de Abril",
+				"mensaje_corto": "A LOS 58 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN C. 12 DE NOVIEMBRE #410 COL. TIERRA Y LIBERTAD",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 163,
+				"titulo": "SRA.",
+				"nombre": "FRANCISCA",
+				"apellido_paterno": "ROERO",
+				"apellido_materno": "GARCÍA",
+				"fecha": "Viernes 27 de Abril",
+				"mensaje_corto": "A LOS 77 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN C. STA. PILAR #906 COL. SAN CARLOS",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE LA ASUNCION (FRACC.BENITO JUAREZ), SE DESPIDE EN EL PANTEÓN DE ORIENTE",
+				"descripcion": ""
+			},
+			{
+				"id": 162,
 				"titulo": "SRA.",
 				"nombre": "MARÍA DEL CARMEN",
 				"apellido_paterno": "RODRÍGUEZ",
@@ -19,7 +43,7 @@
 				"fecha": "Jueves 26 de Abril",
 				"mensaje_corto": "A LOS 78 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN C. ABELARDO RODRIGUEZ #308 COL. LOPEZ PORTILLO",
-				"honras": "EL VIERNES 27/04/2018 A LAS 11:00 HRS. EN LA PARROQUIA DE LA SANTA CRUZ, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
+				"honras": "A LAS 11:00 HRS. EN LA PARROQUIA DE LA SANTA CRUZ, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
 				"descripcion": ""
 			},
 			{
@@ -92,21 +116,33 @@
 				"se_vela_en": "SE VELA EN C. CESAR AUGUSTO SANDINO #421 COL. JUAN LIRA",
 				"honras": "PENDIENTES",
 				"descripcion": ""
-			},
-			{
-				"id": 155,
-				"titulo": "SR.",
-				"nombre": "ROBERTO",
-				"apellido_paterno": "MAYORGA",
-				"apellido_materno": "RUEDA",
-				"fecha": "Martes 24 de Abril",
-				"mensaje_corto": "A LOS 63 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA RAÚL FLORES DE SANTIAGO PAPASQUIARO",
-				"honras": "A LAS 15:00 HRS. EN EL TEMPLO CRISTO REY, SE DESPIDE EN EL PANTEÓN VÍCTOR NEVÁREZ",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 162,
+		"obituario_ingles": [{	"id": 164,
+				"titulo": "SR.",
+				"nombre": "RAMÓN",
+				"apellido_paterno": "MENA",
+				"apellido_materno": "MARCHAN",
+				"fecha": "Friday, April 27",
+				"mensaje_corto": "AT THE AGE OF 58 YEARS",
+				"se_vela_en": "SE VELA EN C. 12 DE NOVIEMBRE #410 COL. TIERRA Y LIBERTAD",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 163,
+				"titulo": "SRA.",
+				"nombre": "FRANCISCA",
+				"apellido_paterno": "ROERO",
+				"apellido_materno": "GARCÍA",
+				"fecha": "Friday, April 27",
+				"mensaje_corto": "AT THE AGE OF 77 YEARS",
+				"se_vela_en": "SE VELA EN C. STA. PILAR #906 COL. SAN CARLOS",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE LA ASUNCION (FRACC.BENITO JUAREZ), SE DESPIDE EN EL PANTEÓN DE ORIENTE",
+				"descripcion": ""
+			},
+			{
+				"id": 162,
 				"titulo": "SRA.",
 				"nombre": "MARÍA DEL CARMEN",
 				"apellido_paterno": "RODRÍGUEZ",
@@ -126,7 +162,7 @@
 				"fecha": "Thursday, April 26",
 				"mensaje_corto": "AT THE AGE OF 78 YEARS",
 				"se_vela_en": "SE VELA EN C. ABELARDO RODRIGUEZ #308 COL. LOPEZ PORTILLO",
-				"honras": "EL VIERNES 27/04/2018 A LAS 11:00 HRS. EN LA PARROQUIA DE LA SANTA CRUZ, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
+				"honras": "A LAS 11:00 HRS. EN LA PARROQUIA DE LA SANTA CRUZ, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
 				"descripcion": ""
 			},
 			{
@@ -198,18 +234,6 @@
 				"mensaje_corto": "AT THE AGE OF 56 YEARS",
 				"se_vela_en": "SE VELA EN C. CESAR AUGUSTO SANDINO #421 COL. JUAN LIRA",
 				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 155,
-				"titulo": "SR.",
-				"nombre": "ROBERTO",
-				"apellido_paterno": "MAYORGA",
-				"apellido_materno": "RUEDA",
-				"fecha": "Tuesday, April 24",
-				"mensaje_corto": "AT THE AGE OF 63 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA RAÚL FLORES DE SANTIAGO PAPASQUIARO",
-				"honras": "A LAS 15:00 HRS. EN EL TEMPLO CRISTO REY, SE DESPIDE EN EL PANTEÓN VÍCTOR NEVÁREZ",
 				"descripcion": ""
 			}
 		]
