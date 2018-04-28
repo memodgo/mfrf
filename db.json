@@ -1,5 +1,65 @@
 		{
-		"obituario": [{	"id": 164,
+		"obituario": [{	"id": 169,
+				"titulo": "SR.",
+				"nombre": "ALBERTO",
+				"apellido_paterno": "REYES",
+				"apellido_materno": "VÁZQUEZ",
+				"fecha": "Sábado 28 de Abril",
+				"mensaje_corto": "A LOS 88 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN C. JOSE VENTURA AVITIA #404 COL. JUAN LIRA",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 168,
+				"titulo": "SR.",
+				"nombre": "J. ALFREDO",
+				"apellido_paterno": "ÁVILA",
+				"apellido_materno": "FERNÁNDEZ",
+				"fecha": "Sábado 28 de Abril",
+				"mensaje_corto": "A LOS 94 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN GUALTERIO, CHALCHIHUITES, ZAC.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 167,
+				"titulo": "SR.",
+				"nombre": "LUIS",
+				"apellido_paterno": "FLORES",
+				"apellido_materno": "VELÁZQUEZ",
+				"fecha": "Sábado 28 de Abril",
+				"mensaje_corto": "A LOS 97 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN C. LUIS ANGEL TEJADA ESPINO #331 COL. PRI",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 166,
+				"titulo": "SRA.",
+				"nombre": "MA. DOLORES",
+				"apellido_paterno": "PRADO",
+				"apellido_materno": "CORRAL",
+				"fecha": "Sábado 28 de Abril",
+				"mensaje_corto": "A LOS 56 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN C. LEONA VICARIO #308 COL. LOMAS DE SAN JUAN. STGO. PAPASQUIARO, DGO.",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE SANTO DOMINGO APOSTOL, SE DESPIDE EN EL PANTEÓN LA PAZ",
+				"descripcion": ""
+			},
+			{
+				"id": 165,
+				"titulo": "SR.",
+				"nombre": "ALVARO",
+				"apellido_paterno": "GALVAN",
+				"apellido_materno": "MARTINEZ",
+				"fecha": "Sábado 28 de Abril",
+				"mensaje_corto": "A LOS 45 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "A LAS 13:00 HRS. EN EL TEMPLO DE SAN FRANCISCO DE ASIS, SE DESPIDE PARA SU CREMACIÓN",
+				"descripcion": ""
+			},
+			{
+				"id": 164,
 				"titulo": "SR.",
 				"nombre": "RAMÓN",
 				"apellido_paterno": "MENA",
@@ -7,7 +67,7 @@
 				"fecha": "Viernes 27 de Abril",
 				"mensaje_corto": "A LOS 58 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN C. 12 DE NOVIEMBRE #410 COL. TIERRA Y LIBERTAD",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 14:00 HRS. EN EL TEMPLO DEL SAGRADO CORAZÓN DE JESÚS DE EL SALTITO, SE DESPIDE EN EL PANTEÓN DE GARABITOS",
 				"descripcion": ""
 			},
 			{
@@ -31,7 +91,7 @@
 				"fecha": "Jueves 26 de Abril",
 				"mensaje_corto": "A LOS 71 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 14:00 HRS. DEL DOMINGO 29 DE ABRIL EN EL TEMPLO DEL ESPIRITU SANTO, SE DESPIDE EN EL PARQUE RESIDENCIAL FLORES",
 				"descripcion": ""
 			},
 			{
@@ -57,68 +117,69 @@
 				"se_vela_en": "SE VELA EN EL RINCÓN, TEPEHUANES, DGO.",
 				"honras": "A LAS 8:00 HRS. EN EL TEMPLO DE LA SAGRADA FAMILIA, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
-			},
-			{
-				"id": 159,
-				"titulo": "SRA.",
-				"nombre": "LILIANA",
-				"apellido_paterno": "BELTRAN",
-				"apellido_materno": "LEAL",
-				"fecha": "Miércoles 25 de Abril",
-				"mensaje_corto": "A LOS 33 AÑOS DE EDAD",
-				"se_vela_en": "C. 3 DE MAYO #206 COL. MIGUEL DE LA MADRID",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{	"id": 158,
-				"titulo": "SR.",
-				"nombre": "TIMOTEO",
-				"apellido_paterno": "CASTELLANOS",
-				"apellido_materno": "PÉREZ",
-				"fecha": "Miércoles 25 de Abril",
-				"mensaje_corto": "A LOS 49 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN EL TANQUE, CUENCAME, DGO.",
-				"honras": "A LAS 13:00 HRS. EN EL TEMPLO DE LA DIVINA PROVIDENCIA, SE DESPIDE EN EL PANTEÓN PASAJE DE CUENCAMÉ, DGO.",
-				"descripcion": ""
-			},
-			{
-				"id": 158,
-				"titulo": "SRA.",
-				"nombre": "LUZ",
-				"apellido_paterno": "ORONA",
-				"apellido_materno": "MARTÍNEZ",
-				"fecha": "Miércoles 25 de Abril",
-				"mensaje_corto": "A LOS 77 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM. CON. LOS ANGELES, POANAS, DGO.",
-				"honras": "A LAS 13:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 157,
-				"titulo": "SRA.",
-				"nombre": "MARÍA MARGARITA",
-				"apellido_paterno": "MORALES",
-				"apellido_materno": "RUÍZ",
-				"fecha": "Miércoles 25 de Abril",
-				"mensaje_corto": "A LOS 46 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 12:00 HRS. DEL JUEVES 26 DE ABRIL, SE DESPIDE PARA SU CREMACIÓN",
-				"descripcion": ""
-			},
-			{
-				"id": 156,
-				"titulo": "SR.",
-				"nombre": "LEONARDO",
-				"apellido_paterno": "GALLARDO",
-				"apellido_materno": "VALDÉZ",
-				"fecha": "Miércoles 25 de Abril",
-				"mensaje_corto": "A LOS 56 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN C. CESAR AUGUSTO SANDINO #421 COL. JUAN LIRA",
-				"honras": "PENDIENTES",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 164,
+		"obituario_ingles": [{	"id": 169,
+				"titulo": "SR.",
+				"nombre": "ALBERTO",
+				"apellido_paterno": "REYES",
+				"apellido_materno": "VÁZQUEZ",
+				"fecha": "Saturday, April 25",
+				"mensaje_corto": "AT THE AGE OF 88 YEARS",
+				"se_vela_en": "SE VELA EN C. JOSE VENTURA AVITIA #404 COL. JUAN LIRA",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 168,
+				"titulo": "SR.",
+				"nombre": "J. ALFREDO",
+				"apellido_paterno": "ÁVILA",
+				"apellido_materno": "FERNÁNDEZ",
+				"fecha": "Saturday, April 25",
+				"mensaje_corto": "AT THE AGE OF 94 YEARS",
+				"se_vela_en": "SE VELA EN GUALTERIO, CHALCHIHUITES, ZAC.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 167,
+				"titulo": "SR.",
+				"nombre": "LUIS",
+				"apellido_paterno": "FLORES",
+				"apellido_materno": "VELAZQUEZ",
+				"fecha": "Saturday, April 25",
+				"mensaje_corto": "AT THE AGE OF 97 YEARS",
+				"se_vela_en": "SE VELA EN C. LUIS ANGEL TEJADA ESPINO #331 COL. PRI",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 166,
+				"titulo": "SRA.",
+				"nombre": "MA. DOLORES",
+				"apellido_paterno": "PRADO",
+				"apellido_materno": "CORRAL",
+				"fecha": "Saturday, April 25",
+				"mensaje_corto": "AT THE AGE OF 56 YEARS",
+				"se_vela_en": "SE VELA EN C. LEONA VICARIO #308 COL. LOMAS DE SAN JUAN. STGO. PAPASQUIARO, DGO.",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE SANTO DOMINGO APOSTOL, SE DESPIDE EN EL PANTEÓN LA PAZ",
+				"descripcion": ""
+			},
+			{
+				"id": 165,
+				"titulo": "SR.",
+				"nombre": "ALVARO",
+				"apellido_paterno": "GALVAN",
+				"apellido_materno": "MARTINEZ",
+				"fecha": "Saturday, April 25",
+				"mensaje_corto": "AT THE AGE OF 45 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "A LAS 13:00 HRS. EN EL TEMPLO DE SAN FRANCISCO DE ASIS, SE DESPIDE PARA SU CREMACIÓN",
+				"descripcion": ""
+			},
+			{
+				"id": 164,
 				"titulo": "SR.",
 				"nombre": "RAMÓN",
 				"apellido_paterno": "MENA",
@@ -126,7 +187,7 @@
 				"fecha": "Friday, April 27",
 				"mensaje_corto": "AT THE AGE OF 58 YEARS",
 				"se_vela_en": "SE VELA EN C. 12 DE NOVIEMBRE #410 COL. TIERRA Y LIBERTAD",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 14:00 HRS. EN EL TEMPLO SAGRADO CORAZÓN DE JESÚS DE EL SALTITO, SE DESPIDE EN PANTEÓN DE GARABITOS",
 				"descripcion": ""
 			},
 			{
@@ -150,7 +211,7 @@
 				"fecha": "Thursday, April 26",
 				"mensaje_corto": "AT THE AGE OF 71 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 14:00 HRS. EL DOMINGO 29 DE ABRIL EN EL TEMPLO DEL ESPIRITU SANTO, SE DESPIDE EN PARQUE RESIDENCIAL FLORES",
 				"descripcion": ""
 			},
 			{
@@ -175,65 +236,6 @@
 				"mensaje_corto": "AT THE AGE OF 87 YEARS",
 				"se_vela_en": "SE VELA EN EL RINCÓN, TEPEHUANES, DGO.",
 				"honras": "A LAS 8:00 HRS. EN EL TEMPLO DE LA SAGRADA FAMILIA, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 159,
-				"titulo": "SRA.",
-				"nombre": "LILIANA",
-				"apellido_paterno": "BELTRAN",
-				"apellido_materno": "LEAL",
-				"fecha": "Wednesday, April 25",
-				"mensaje_corto": "AT THE AGE OF 33 YEARS",
-				"se_vela_en": "C. 3 DE MAYO #206 COL. MIGUEL DE LA MADRID",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{	"id": 158,
-				"titulo": "SR.",
-				"nombre": "TIMOTEO",
-				"apellido_paterno": "CASTELLANOS",
-				"apellido_materno": "PÉREZ",
-				"fecha": "Wednesday, April 25",
-				"mensaje_corto": "AT THE AGE OF 49 YEARS",
-				"se_vela_en": "SE VELA EN EL TANQUE, CUENCAME, DGO.",
-				"honras": "A LAS 13:00 HRS. EN EL TEMPLO DE LA DIVINA PROVIDENCIA, SE DESPIDE EN EL PANTEÓN PASAJE DE CUENCAMÉ, DGO.",
-				"descripcion": ""
-			},
-			{
-				"id": 158,
-				"titulo": "SRA.",
-				"nombre": "LUZ",
-				"apellido_paterno": "ORONA",
-				"apellido_materno": "MARTÍNEZ",
-				"fecha": "Wednesday, April 25",
-				"mensaje_corto": "AT THE AGE OF 77 YEARS",
-				"se_vela_en": "SE VELA EN DOM. CON. LOS ANGELES, POANAS, DGO.",
-				"honras": "A LAS 13:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 157,
-				"titulo": "SRA.",
-				"nombre": "MARÍA MARGARITA",
-				"apellido_paterno": "MORALES",
-				"apellido_materno": "RUÍZ",
-				"fecha": "Wednesday, April 25",
-				"mensaje_corto": "AT THE AGE OF 46 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 12:00 HRS. DEL JUEVES 26 DE ABRIL, SE DESPIDE PARA SU CREMACIÓN",
-				"descripcion": ""
-			},
-			{
-				"id": 156,
-				"titulo": "SR.",
-				"nombre": "LEONARDO",
-				"apellido_paterno": "GALLARDO",
-				"apellido_materno": "VALDÉZ",
-				"fecha": "Wednesday, April 25",
-				"mensaje_corto": "AT THE AGE OF 56 YEARS",
-				"se_vela_en": "SE VELA EN C. CESAR AUGUSTO SANDINO #421 COL. JUAN LIRA",
-				"honras": "PENDIENTES",
 				"descripcion": ""
 			}
 		]
