@@ -1,5 +1,16 @@
 		{
-		"obituario": [{	"id": 173,
+		"obituario": [{	"id": 174,
+				"titulo": "SR.",
+				"nombre": "GILBERTO",
+				"apellido_paterno": "BARRERAS",
+				"apellido_materno": "HERNÁNDEZ",
+				"fecha": "Viernes 04 de Mayo",
+				"mensaje_corto": "A LOS 76 AÑOS DE EDAD",
+				"se_vela_en": "SE TRANSLADA DE DURANGO A DUBLIN, TEXAS, USA",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{	"id": 173,
 				"titulo": "SR.",
 				"nombre": "JERÓNIMO",
 				"apellido_paterno": "RESENDIZ",
@@ -47,7 +58,18 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 173,
+		"obituario_ingles": [{	"id": 174,
+				"titulo": "SR.",
+				"nombre": "GILBERTO",
+				"apellido_paterno": "BARRERAS",
+				"apellido_materno": "HERNÁNDEZ",
+				"fecha": "Friday, May 4",
+				"mensaje_corto": "AT THE AGE OF 76 YEARS",
+				"se_vela_en": "SE TRANSLADA DE DURANGO A DUBLIN, TEXAS, USA",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{	"id": 173,
 				"titulo": "SR.",
 				"nombre": "JERÓNIMO",
 				"apellido_paterno": "RESENDIZ",
