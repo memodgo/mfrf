@@ -1,5 +1,41 @@
 		{
-		"obituario": [{	"id": 174,
+		"obituario": [{	"id": 177,
+				"titulo": "SR.",
+				"nombre": "MIGUEL",
+				"apellido_paterno": "SALAZAR",
+				"apellido_materno": "IBARRA",
+				"fecha": "Viernes 04 de Mayo",
+				"mensaje_corto": "A LOS 27 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN FRANCISCO I.MADERO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 176,
+				"titulo": "SRA.",
+				"nombre": "AMPARO",
+				"apellido_paterno": "CARMONA",
+				"apellido_materno": "PIEDRA",
+				"fecha": "Viernes 04 de Mayo",
+				"mensaje_corto": "A LOS 65 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN C. VICTORIA #511 ,NOMBRE DE DIOS, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 175,
+				"titulo": "JOVEN",
+				"nombre": "JAVIER RAYMUNDO",
+				"apellido_paterno": "CONTRERAS",
+				"apellido_materno": "VAQUERA",
+				"fecha": "Viernes 04 de Mayo",
+				"mensaje_corto": "A LOS 17 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN NIEVES, MPIO. RIO GRANDE, ZAC.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 174,
 				"titulo": "SR.",
 				"nombre": "GILBERTO",
 				"apellido_paterno": "BARRERAS",
@@ -58,7 +94,43 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 174,
+		"obituario_ingles": [{	"id": 177,
+				"titulo": "SR.",
+				"nombre": "MIGUEL",
+				"apellido_paterno": "SALAZAR",
+				"apellido_materno": "IBARRA",
+				"fecha": "Friday, May 4",
+				"mensaje_corto": "AT THE AGE OF 27 YEARS",
+				"se_vela_en": "SE VELA EN FRANCISCO I.MADERO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 176,
+				"titulo": "SRA.",
+				"nombre": "AMPARO",
+				"apellido_paterno": "CARMONA",
+				"apellido_materno": "PIEDRA",
+				"fecha": "Friday, May 4",
+				"mensaje_corto": "AT THE AGE OF 65 YEARS",
+				"se_vela_en": "SE VELA EN C. VICTORIA #511 ,NOMBRE DE DIOS, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 175,
+				"titulo": "JOVEN",
+				"nombre": "JAVIER RAYMUNDO",
+				"apellido_paterno": "CONTRERAS",
+				"apellido_materno": "VAQUERA",
+				"fecha": "Friday, May 4",
+				"mensaje_corto": "AT THE AGE OF 17 YEARS",
+				"se_vela_en": "SE VELA EN NIEVES, MPIO. RIO GRANDE, ZAC.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 174,
 				"titulo": "SR.",
 				"nombre": "GILBERTO",
 				"apellido_paterno": "BARRERAS",
