@@ -1,6 +1,6 @@
 		{
 		"obituario": [{	"id": 177,
-				"titulo": "SR.",
+				"titulo": "JOVEN",
 				"nombre": "MIGUEL",
 				"apellido_paterno": "SALAZAR",
 				"apellido_materno": "IBARRA",
@@ -19,7 +19,7 @@
 				"fecha": "Viernes 04 de Mayo",
 				"mensaje_corto": "A LOS 65 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN C. VICTORIA #511 ,NOMBRE DE DIOS, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:30 HRS. EN EL TEMPLO DE SAN PEDRO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -95,7 +95,7 @@
 			}
 		],
 		"obituario_ingles": [{	"id": 177,
-				"titulo": "SR.",
+				"titulo": "JOVEN",
 				"nombre": "MIGUEL",
 				"apellido_paterno": "SALAZAR",
 				"apellido_materno": "IBARRA",
@@ -114,7 +114,7 @@
 				"fecha": "Friday, May 4",
 				"mensaje_corto": "AT THE AGE OF 65 YEARS",
 				"se_vela_en": "SE VELA EN C. VICTORIA #511 ,NOMBRE DE DIOS, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:30 HRS. EN EL TEMPLO DE SAN PEDRO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
