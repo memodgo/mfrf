@@ -1,5 +1,41 @@
 		{
-		"obituario": [{	"id": 179,
+		"obituario": [{	"id": 182,
+				"titulo": "SRA.",
+				"nombre": "HONORIA",
+				"apellido_paterno": "GARCÍA",
+				"apellido_materno": "RODRÍGUEZ",
+				"fecha": "Martes 08 de Mayo",
+				"mensaje_corto": "A LOS 80 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM. CON. ABASOLO, RODEO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 181,
+				"titulo": "SR.",
+				"nombre": "ABEL",
+				"apellido_paterno": "GAMBOA",
+				"apellido_materno": "MONTENEGRO",
+				"fecha": "Martes 08 de Mayo",
+				"mensaje_corto": "A LOS 83 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE Y ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 180,
+				"titulo": "SR.",
+				"nombre": "PASCASIO",
+				"apellido_paterno": "SOTO",
+				"apellido_materno": "BAÑUELOS",
+				"fecha": "Martes 08 de Mayo",
+				"mensaje_corto": "A LOS 51 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 179,
 				"titulo": "SR.",
 				"nombre": "ELISEO",
 				"apellido_paterno": "MOLINA",
@@ -7,7 +43,7 @@
 				"fecha": "Lunes 07 de Mayo",
 				"mensaje_corto": "A LOS 43 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN DOM. CON. AMOLES, MPIO. DE RODEO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. DISCURSO BIBLICO EN EL MISMO DOMICILIO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -21,57 +57,45 @@
 				"se_vela_en": "SE VELA EN DOM.CON. LOS ANGELES POANAS, DGO.",
 				"honras": "A LAS 14:00 HRS. EN EL TEMPLO DEL SEÑOR DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
-			},
-			{
-				"id": 177,
-				"titulo": "JOVEN",
-				"nombre": "MIGUEL",
-				"apellido_paterno": "SALAZAR",
-				"apellido_materno": "IBARRA",
-				"fecha": "Viernes 04 de Mayo",
-				"mensaje_corto": "A LOS 27 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN FRANCISCO I.MADERO, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 176,
-				"titulo": "SRA.",
-				"nombre": "AMPARO",
-				"apellido_paterno": "CARMONA",
-				"apellido_materno": "PIEDRA",
-				"fecha": "Viernes 04 de Mayo",
-				"mensaje_corto": "A LOS 65 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN C. VICTORIA #511 ,NOMBRE DE DIOS, DGO.",
-				"honras": "A LAS 16:30 HRS. EN EL TEMPLO DE SAN PEDRO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 175,
-				"titulo": "JOVEN",
-				"nombre": "RAYMUNDO",
-				"apellido_paterno": "CONTRERAS",
-				"apellido_materno": "VAQUERA",
-				"fecha": "Viernes 04 de Mayo",
-				"mensaje_corto": "A LOS 17 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN NIEVES, MPIO. RIO GRANDE, ZAC.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 174,
-				"titulo": "SR.",
-				"nombre": "GILBERTO",
-				"apellido_paterno": "BARRERAS",
-				"apellido_materno": "HERNÁNDEZ",
-				"fecha": "Viernes 04 de Mayo",
-				"mensaje_corto": "A LOS 76 AÑOS DE EDAD",
-				"se_vela_en": "SE TRANSLADA DE DURANGO A DUBLIN, TEXAS, USA",
-				"honras": "PENDIENTES",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 179,
+		"obituario_ingles": [{	"id": 182,
+				"titulo": "SRA.",
+				"nombre": "HONORIA",
+				"apellido_paterno": "GARCÍA",
+				"apellido_materno": "RODRÍGUEZ",
+				"fecha": "Tuesday, May 8",
+				"mensaje_corto": "AT THE AGE OF 80 YEARS",
+				"se_vela_en": "SE VELA EN DOM. CON. ABASOLO, RODEO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 181,
+				"titulo": "SR.",
+				"nombre": "ABEL",
+				"apellido_paterno": "GAMBOA",
+				"apellido_materno": "MONTENEGRO",
+				"fecha": "Tuesday, May 8",
+				"mensaje_corto": "AT THE AGE OF 83 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE Y ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 180,
+				"titulo": "SR.",
+				"nombre": "PASCASIO",
+				"apellido_paterno": "SOTO",
+				"apellido_materno": "BAÑUELOS",
+				"fecha": "Tuesday, May 8",
+				"mensaje_corto": "AT THE AGE OF 51 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 179,
 				"titulo": "SR.",
 				"nombre": "ELISEO",
 				"apellido_paterno": "MOLINA",
@@ -92,54 +116,6 @@
 				"mensaje_corto": "AT THE AGE OF 78 YEARS",
 				"se_vela_en": "SE VELA EN DOM.CON. LOS ANGELES POANAS, DGO.",
 				"honras": "A LAS 14:00 HRS. EN EL TEMPLO DEL SEÑOR DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 177,
-				"titulo": "JOVEN",
-				"nombre": "MIGUEL",
-				"apellido_paterno": "SALAZAR",
-				"apellido_materno": "IBARRA",
-				"fecha": "Friday, May 4",
-				"mensaje_corto": "AT THE AGE OF 27 YEARS",
-				"se_vela_en": "SE VELA EN FRANCISCO I.MADERO, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 176,
-				"titulo": "SRA.",
-				"nombre": "AMPARO",
-				"apellido_paterno": "CARMONA",
-				"apellido_materno": "PIEDRA",
-				"fecha": "Friday, May 4",
-				"mensaje_corto": "AT THE AGE OF 65 YEARS",
-				"se_vela_en": "SE VELA EN C. VICTORIA #511 ,NOMBRE DE DIOS, DGO.",
-				"honras": "A LAS 16:30 HRS. EN EL TEMPLO DE SAN PEDRO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 175,
-				"titulo": "JOVEN",
-				"nombre": "RAYMUNDO",
-				"apellido_paterno": "CONTRERAS",
-				"apellido_materno": "VAQUERA",
-				"fecha": "Friday, May 4",
-				"mensaje_corto": "AT THE AGE OF 17 YEARS",
-				"se_vela_en": "SE VELA EN NIEVES, MPIO. RIO GRANDE, ZAC.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 174,
-				"titulo": "SR.",
-				"nombre": "GILBERTO",
-				"apellido_paterno": "BARRERAS",
-				"apellido_materno": "HERNÁNDEZ",
-				"fecha": "Friday, May 4",
-				"mensaje_corto": "AT THE AGE OF 76 YEARS",
-				"se_vela_en": "SE TRANSLADA DE DURANGO A DUBLIN, TEXAS, USA",
-				"honras": "PENDIENTES",
 				"descripcion": ""
 			}
 		]
