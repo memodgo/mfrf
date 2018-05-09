@@ -1,5 +1,17 @@
 		{
-		"obituario": [{	"id": 182,
+		"obituario": [{	"id": 183,
+				"titulo": "R.N.",
+				"nombre": "",
+				"apellido_paterno": "IBARRA",
+				"apellido_materno": "",
+				"fecha": "Miércoles 09 de Mayo",
+				"mensaje_corto": "RECIÉN NACIDO",
+				"se_vela_en": "SE VELA EN DOM. CON. ABASOLO, RODEO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 182,
 				"titulo": "SRA.",
 				"nombre": "HONORIA",
 				"apellido_paterno": "GARCÍA",
@@ -7,7 +19,7 @@
 				"fecha": "Martes 08 de Mayo",
 				"mensaje_corto": "A LOS 80 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN DOM. CON. ABASOLO, RODEO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -19,7 +31,7 @@
 				"fecha": "Martes 08 de Mayo",
 				"mensaje_corto": "A LOS 83 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE Y ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE PARA SU CREMACIÓN",
 				"descripcion": ""
 			},
 			{
@@ -31,7 +43,7 @@
 				"fecha": "Martes 08 de Mayo",
 				"mensaje_corto": "A LOS 51 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 14:00 HRS. DISCURSO BIBLICO EN LA MISMA CAPILLA, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
 				"descripcion": ""
 			},
 			{
@@ -59,7 +71,19 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 182,
+		"obituario_ingles": [{	"id": 183,
+				"titulo": "R.N.",
+				"nombre": "",
+				"apellido_paterno": "IBARRA",
+				"apellido_materno": "",
+				"fecha": "Wednesday, May 09",
+				"mensaje_corto": "EARLY BORN",
+				"se_vela_en": "SE VELA EN DOM. CON. ABASOLO, RODEO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 182,
 				"titulo": "SRA.",
 				"nombre": "HONORIA",
 				"apellido_paterno": "GARCÍA",
@@ -67,7 +91,7 @@
 				"fecha": "Tuesday, May 8",
 				"mensaje_corto": "AT THE AGE OF 80 YEARS",
 				"se_vela_en": "SE VELA EN DOM. CON. ABASOLO, RODEO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -79,7 +103,7 @@
 				"fecha": "Tuesday, May 8",
 				"mensaje_corto": "AT THE AGE OF 83 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE Y ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE PARA SU CREMACIÓN",
 				"descripcion": ""
 			},
 			{
@@ -91,7 +115,7 @@
 				"fecha": "Tuesday, May 8",
 				"mensaje_corto": "AT THE AGE OF 51 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 14:00 HRS. DISCURSO BIBLICO EN LA MISMA CAPILLA, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
 				"descripcion": ""
 			},
 			{
