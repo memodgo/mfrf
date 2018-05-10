@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 183,
+		"obituario": [{	"id": 185,
+				"titulo": "SR.",
+				"nombre": "FRANCISCO",
+				"apellido_paterno": "ESQUIVEL",
+				"apellido_materno": "GUEVARA",
+				"fecha": "Jueves 10 de Mayo",
+				"mensaje_corto": "A LOS 56 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA SANTA CATARINA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 184,
+				"titulo": "SR.",
+				"nombre": "SALVADOR",
+				"apellido_paterno": "DÍAZ",
+				"apellido_materno": "GUTIÉRREZ",
+				"fecha": "Jueves 10 de Mayo",
+				"mensaje_corto": "A LOS 57 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN SAN NICOLÁS DE ARRIBA, SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 183,
 				"titulo": "R.N.",
 				"nombre": "",
 				"apellido_paterno": "IBARRA",
@@ -45,33 +69,33 @@
 				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
 				"honras": "A LAS 14:00 HRS. DISCURSO BIBLICO EN LA MISMA CAPILLA, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
 				"descripcion": ""
-			},
-			{
-				"id": 179,
-				"titulo": "SR.",
-				"nombre": "ELISEO",
-				"apellido_paterno": "MOLINA",
-				"apellido_materno": "SOTO",
-				"fecha": "Lunes 07 de Mayo",
-				"mensaje_corto": "A LOS 43 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM. CON. AMOLES, MPIO. DE RODEO, DGO.",
-				"honras": "A LAS 11:00 HRS. DISCURSO BIBLICO EN EL MISMO DOMICILIO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 178,
-				"titulo": "SR.",
-				"nombre": "J. REFUGIO",
-				"apellido_paterno": "GARCÍA",
-				"apellido_materno": "HERNÁNDEZ",
-				"fecha": "Lunes 07 de Mayo",
-				"mensaje_corto": "A LOS 78 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM.CON. LOS ANGELES POANAS, DGO.",
-				"honras": "A LAS 14:00 HRS. EN EL TEMPLO DEL SEÑOR DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 183,
+		"obituario_ingles": [{	"id": 185,
+				"titulo": "SR.",
+				"nombre": "FRANCISCO",
+				"apellido_paterno": "ESQUIVEL",
+				"apellido_materno": "GUEVARA",
+				"fecha": "Thursday, Mayo 10",
+				"mensaje_corto": "AT THE AGE OF 56 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA SANTA CATARINA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 184,
+				"titulo": "SR.",
+				"nombre": "SALVADOR",
+				"apellido_paterno": "DÍAZ",
+				"apellido_materno": "GUTIÉRREZ",
+				"fecha": "Thursday, Mayo 10",
+				"mensaje_corto": "AT THE AGE OF 57 YEARS",
+				"se_vela_en": "SE VELA EN SAN NICOLÁS DE ARRIBA, SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 183,
 				"titulo": "R.N.",
 				"nombre": "",
 				"apellido_paterno": "IBARRA",
@@ -116,30 +140,6 @@
 				"mensaje_corto": "AT THE AGE OF 51 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
 				"honras": "A LAS 14:00 HRS. DISCURSO BIBLICO EN LA MISMA CAPILLA, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
-				"descripcion": ""
-			},
-			{
-				"id": 179,
-				"titulo": "SR.",
-				"nombre": "ELISEO",
-				"apellido_paterno": "MOLINA",
-				"apellido_materno": "SOTO",
-				"fecha": "Monday, May 7",
-				"mensaje_corto": "AT THE AGE OF 43 YEARS",
-				"se_vela_en": "SE VELA EN DOM. CON. AMOLES, MPIO. DE RODEO, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 178,
-				"titulo": "SR.",
-				"nombre": "J. REFUGIO",
-				"apellido_paterno": "GARCÍA",
-				"apellido_materno": "HERNÁNDEZ",
-				"fecha": "Monday, May 7",
-				"mensaje_corto": "AT THE AGE OF 78 YEARS",
-				"se_vela_en": "SE VELA EN DOM.CON. LOS ANGELES POANAS, DGO.",
-				"honras": "A LAS 14:00 HRS. EN EL TEMPLO DEL SEÑOR DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			}
 		]
