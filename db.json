@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 192,
+		"obituario": [{	"id": 194,
+				"titulo": "SR.",
+				"nombre": "SANTIAGO",
+				"apellido_paterno": "FERNÁNDEZ",
+				"apellido_materno": "BARBOSA",
+				"fecha": "Martes 15 de Mayo",
+				"mensaje_corto": "A LOS 48 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM. CON. OJO DE AGUA DE SAN JUAN NOMBRE DE DIOS, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 193,
+				"titulo": "SRA.",
+				"nombre": "GUADALUPE",
+				"apellido_paterno": "REYES",
+				"apellido_materno": "CONTRERAS",
+				"fecha": "Lunes 14 de Mayo",
+				"mensaje_corto": "A LOS 88 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN FRANCISCO I. MADERO, MPIO. DE PANUCO DE CORONADO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 192,
 				"titulo": "SRA.",
 				"nombre": "GUADALUPE",
 				"apellido_paterno": "REYES",
@@ -31,7 +55,7 @@
 				"fecha": "Lunes 14 de Mayo",
 				"mensaje_corto": "A LOS 33 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN SANTIAGO PAPASQUIARO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO SANTO SANTIAGO APOSTOL, SE DESPIDE EN EL PANTEÓN VICTOR NEVAREZ",
 				"descripcion": ""
 			},
 			{
@@ -59,7 +83,19 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 192,
+		"obituario_ingles": [{	"id": 194,
+				"titulo": "SR.",
+				"nombre": "SANTIAGO",
+				"apellido_paterno": "FERNÁNDEZ",
+				"apellido_materno": "BARBOSA",
+				"fecha": "Tuesday. May 15",
+				"mensaje_corto": "AT THE AGE OF 48 YEARS",
+				"se_vela_en": "SE VELA EN DOM. CON. OJO DE AGUA DE SAN JUAN NOMBRE DE DIOS, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 192,
 				"titulo": "SRA.",
 				"nombre": "GUADALUPE",
 				"apellido_paterno": "REYES",
@@ -91,7 +127,7 @@
 				"fecha": "Monday, May 14",
 				"mensaje_corto": "AT THE AGE OF 33 YEARS",
 				"se_vela_en": "SE VELA EN SANTIAGO PAPASQUIARO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO SANTO SANTIAGO APOSTOL, SE DESPIDE EN EL PANTEÓN VICTOR NEVAREZ",
 				"descripcion": ""
 			},
 			{
