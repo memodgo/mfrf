@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 190,
+		"obituario": [{	"id": 192,
+				"titulo": "SRA.",
+				"nombre": "GUADALUPE",
+				"apellido_paterno": "REYES",
+				"apellido_materno": "CONTRERAS",
+				"fecha": "Lunes 14 de Mayo",
+				"mensaje_corto": "A LOS 88 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN FRANCISCO I. MADERO, MPIO. DE PANUCO DE CORONADO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 191,
+				"titulo": "SR.",
+				"nombre": "JUAN FRANCISCO",
+				"apellido_paterno": "BERUMEN",
+				"apellido_materno": "HERNÁNDEZ",
+				"fecha": "Lunes 14 de Mayo",
+				"mensaje_corto": "A LOS 52 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN FRANCISCO. I. MADERO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 190,
 				"titulo": "SR.",
 				"nombre": "JOSÉ ANTONIO",
 				"apellido_paterno": "ORTEGA",
@@ -31,35 +55,35 @@
 				"fecha": "Lunes 14 de Mayo",
 				"mensaje_corto": "A LOS 81 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 187,
-				"titulo": "SRA.",
-				"nombre": "MA. ESTHER",
-				"apellido_paterno": "LUNA",
-				"apellido_materno": "DEL RIO",
-				"fecha": "Sábado 12 de Mayo",
-				"mensaje_corto": "A LOS 89 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN C. JOSE RAMON VALDEZ #111 COL. 11 DE DICIEMBRE, PEÑON BLANCO, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 186,
-				"titulo": "SRA.",
-				"nombre": "MARIA",
-				"apellido_paterno": "FAVELA",
-				"apellido_materno": "HERRERA",
-				"fecha": "Sábado 12 de Mayo",
-				"mensaje_corto": "A LOS 90 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN MESA DE NAVAR, TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "EL MARTES 15/05/2018 A LAS 15:00 HRS. EM EL TEMPLO DE SANTA CATARINA, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 190,
+		"obituario_ingles": [{	"id": 192,
+				"titulo": "SRA.",
+				"nombre": "GUADALUPE",
+				"apellido_paterno": "REYES",
+				"apellido_materno": "CONTRERAS",
+				"fecha": "Monday, May 14",
+				"mensaje_corto": "AT THE AGE OF 88 YEARS",
+				"se_vela_en": "SE VELA EN FRANCISCO I. MADERO, MPIO. DE PANUCO DE CORONADO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 191,
+				"titulo": "SR.",
+				"nombre": "JUAN FRANCISCO",
+				"apellido_paterno": "BERUMEN",
+				"apellido_materno": "HERNÁNDEZ",
+				"fecha": "Monday, May 14",
+				"mensaje_corto": "AT THE AGE OF 52 YEARS",
+				"se_vela_en": "SE VELA EN FRANCISCO. I. MADERO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 190,
 				"titulo": "SR.",
 				"nombre": "JOSÉ ANTONIO",
 				"apellido_paterno": "ORTEGA",
@@ -91,30 +115,6 @@
 				"fecha": "Monday, May 14",
 				"mensaje_corto": "AT THE AGE OF 81 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 187,
-				"titulo": "SRA.",
-				"nombre": "MA. ESTHER",
-				"apellido_paterno": "LUNA",
-				"apellido_materno": "DEL RIO",
-				"fecha": "Saturday, May 12",
-				"mensaje_corto": "AT THE AGE OF 89 YEARS",
-				"se_vela_en": "SE VELA EN C. JOSE RAMON VALDEZ #111 COL. 11 DE DICIEMBRE, PEÑON BLANCO, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 186,
-				"titulo": "SRA.",
-				"nombre": "MARIA",
-				"apellido_paterno": "FAVELA",
-				"apellido_materno": "HERRERA",
-				"fecha": "Saturday, May 12",
-				"mensaje_corto": "AT THE AGE OF 90 YEARS",
-				"se_vela_en": "SE VELA EN MESA DE NAVAR, TEPEHUANES, DGO.",
 				"honras": "PENDIENTES",
 				"descripcion": ""
 			}
