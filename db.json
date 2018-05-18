@@ -1,5 +1,17 @@
 		{
-		"obituario": [{	"id": 202,
+		"obituario": [{	"id": 203,
+				"titulo": "SR.",
+				"nombre": "GUILLERMO",
+				"apellido_paterno": "GALLARDO",
+				"apellido_materno": "GARCÍA",
+				"fecha": "Viernes 18 de Mayo",
+				"mensaje_corto": "A LOS 81 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DE FUNERALES GALLARDO, EL NAYAR, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 202,
 				"titulo": "SR.",
 				"nombre": "JESÚS",
 				"apellido_paterno": "SALAS",
@@ -95,7 +107,19 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 202,
+		"obituario_ingles": [{	"id": 203,
+				"titulo": "SR.",
+				"nombre": "GUILLERMO",
+				"apellido_paterno": "GALLARDO",
+				"apellido_materno": "GARCÍA",
+				"fecha": "Friday, May 18",
+				"mensaje_corto": "AT THE AGE OF 81 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DE FUNERALES GALLARDO, EL NAYAR, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 202,
 				"titulo": "SR.",
 				"nombre": "JESÚS",
 				"apellido_paterno": "SALAS",
