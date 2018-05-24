@@ -1,5 +1,29 @@
 		{
-		"obituario": [{	"id": 211,
+		"obituario": [{ "id": 213,
+				"titulo": "SRA.",
+				"nombre": "ELVIA ARACELY",
+				"apellido_paterno": "HERRERA",
+				"apellido_materno": "LÓPEZ",
+				"fecha": "Jueves 24 de Mayo",
+				"mensaje_corto": "A LOS 46 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 212,
+				"titulo": "SR.",
+				"nombre": "JOSÉ UBALDO",
+				"apellido_paterno": "CORRAL",
+				"apellido_materno": "HERRERA",
+				"fecha": "Jueves 24 de Mayo",
+				"mensaje_corto": "A LOS 77 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN C. GOMEZ FARIAS #313 COL. ESPAÑA. SANTIAGO  PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 211,
 				"titulo": "SR.",
 				"nombre": "EUSTACIO",
 				"apellido_paterno": "GALLARZO",
@@ -7,7 +31,7 @@
 				"fecha": "Miércoles 23 de Mayo",
 				"mensaje_corto": "A LOS 79 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "CULTO BÍBLICO A LAS 14:00 HRS. EN LA IGLESIA APOSTÓLICA EN LA FE EN CRISTO JESÚS (COL. LA VIRGEN), SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
 				"descripcion": ""
 			},
 			{
@@ -95,7 +119,31 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 211,
+		"obituario_ingles": [{	"id": 213,
+				"titulo": "SRA.",
+				"nombre": "ELVIA ARACELY",
+				"apellido_paterno": "HERRERA",
+				"apellido_materno": "LÓPEZ",
+				"fecha": "Thursday, May 24",
+				"mensaje_corto": "AT THE AGE OF 46 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 212,
+				"titulo": "SR.",
+				"nombre": "JOSÉ UBALDO",
+				"apellido_paterno": "CORRAL",
+				"apellido_materno": "HERRERA",
+				"fecha": "Thursday, May 24",
+				"mensaje_corto": "AT THE AGE OF 77 YEARS",
+				"se_vela_en": "SE VELA EN C. GOMEZ FARIAS #313 COL. ESPAÑA. SANTIAGO  PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 211,
 				"titulo": "SR.",
 				"nombre": "EUSTACIO",
 				"apellido_paterno": "GALLARZO",
@@ -103,7 +151,7 @@
 				"fecha": "Wednesday, May 23",
 				"mensaje_corto": "AT THE AGE OF 79 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "CULTO BÍBLICO A LAS 14:00 HRS. EN LA IGLESIA APOSTÓLICA EN LA FE EN CRISTO JESÚS (COL. LA VIRGEN), SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
 				"descripcion": ""
 			},
 			{
