@@ -30,7 +30,7 @@
 				"apellido_materno": "GALLEGOS",
 				"fecha": "Miércoles 23 de Mayo",
 				"mensaje_corto": "A LOS 79 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"se_vela_en": "SE VELA EN LA IGLESIA APOSTÓLICA EN LA FE EN CRISTO JESÚS (COL. LA VIRGEN)",
 				"honras": "CULTO BÍBLICO A LAS 14:00 HRS. EN LA IGLESIA APOSTÓLICA EN LA FE EN CRISTO JESÚS (COL. LA VIRGEN), SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
 				"descripcion": ""
 			},
@@ -56,66 +56,6 @@
 				"mensaje_corto": "A LOS 67 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN TEPEHUANES, DGO.",
 				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 208,
-				"titulo": "SRA.",
-				"nombre": "MA. INOCENCIA",
-				"apellido_paterno": "GARCÍA",
-				"apellido_materno": "TAVARES",
-				"fecha": "Lunes 21 de Mayo",
-				"mensaje_corto": "A LOS 66 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM.CON. IGNACIO LOPEZ RAYON, DGO.",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 207,
-				"titulo": "SR.",
-				"nombre": "FEDERICO",
-				"apellido_paterno": "GURROLA",
-				"apellido_materno": "RAMÍREZ",
-				"fecha": "Lunes 21 de Mayo",
-				"mensaje_corto": "A LOS 66 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN C. ADRIAN VALLES #211 COL. CLAVELES 2",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 206,
-				"titulo": "SR.",
-				"nombre": "DAVID",
-				"apellido_paterno": "TÉLLEZ",
-				"apellido_materno": "GARCÍA",
-				"fecha": "Lunes 21 de Mayo",
-				"mensaje_corto": "A LOS 72 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM.CON.BELIZARIO DOMINGUEZ, DGO.",
-				"honras": "A LAS 14:00 HRS. CULTO BÍBLICO EN EL MISMO DOMICILIO, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 205,
-				"titulo": "SR.",
-				"nombre": "LEANDRO",
-				"apellido_paterno": "MONTENEGRO",
-				"apellido_materno": "CERVANTES",
-				"fecha": "Lunes 21 de Mayo",
-				"mensaje_corto": "A LOS 93 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN LOS PINOS,TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 204,
-				"titulo": "SRA.",
-				"nombre": "MARÍA ALEJANDRA",
-				"apellido_paterno": "GARCÍA",
-				"apellido_materno": "AYALA",
-				"fecha": "Lunes 21 de Mayo",
-				"mensaje_corto": "A LOS 66 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN C. VALENTINA HERNANDEZ #217 COL. DIVISION DEL NORTE",
-				"honras": "A LAS 14:00 HRS. EN EL TEMPLO SAN JOSÉ, SE DESPIDE EN EL PANTEÓN DE SAN JOSÉ DE AVINO",
 				"descripcion": ""
 			}
 		],
@@ -150,7 +90,7 @@
 				"apellido_materno": "GALLEGOS",
 				"fecha": "Wednesday, May 23",
 				"mensaje_corto": "AT THE AGE OF 79 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"se_vela_en": "SE VELA EN LA IGLESIA APOSTÓLICA EN LA FE EN CRISTO JESÚS (COL. LA VIRGEN)",
 				"honras": "CULTO BÍBLICO A LAS 14:00 HRS. EN LA IGLESIA APOSTÓLICA EN LA FE EN CRISTO JESÚS (COL. LA VIRGEN), SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
 				"descripcion": ""
 			},
@@ -176,66 +116,6 @@
 				"mensaje_corto": "AT THE AGE OF 67 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN TEPEHUANES, DGO.",
 				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 208,
-				"titulo": "SRA.",
-				"nombre": "MA. INOCENCIA",
-				"apellido_paterno": "GARCÍA",
-				"apellido_materno": "TAVARES",
-				"fecha": "Monday, May 21",
-				"mensaje_corto": "AT THE AGE OF 66 YEARS",
-				"se_vela_en": "SE VELA EN DOM.CON. IGNACIO LOPEZ RAYON, DGO.",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 207,
-				"titulo": "SR.",
-				"nombre": "FEDERICO",
-				"apellido_paterno": "GURROLA",
-				"apellido_materno": "RAMÍREZ",
-				"fecha": "Monday, May 21",
-				"mensaje_corto": "AT THE AGE OF 66 YEARS",
-				"se_vela_en": "SE VELA EN C. ADRIAN VALLES #211 COL. CLAVELES 2",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 206,
-				"titulo": "SR.",
-				"nombre": "DAVID",
-				"apellido_paterno": "TÉLLEZ",
-				"apellido_materno": "GARCÍA",
-				"fecha": "Monday, May 21",
-				"mensaje_corto": "AT THE AGE OF 72 YEARS",
-				"se_vela_en": "SE VELA EN DOM.CON.BELIZARIO DOMINGUEZ, DGO.",
-				"honras": "A LAS 14:00 HRS. CULTO BÍBLICO EN EL MISMO DOMICILIO, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 205,
-				"titulo": "SR.",
-				"nombre": "LEANDRO",
-				"apellido_paterno": "MONTENEGRO",
-				"apellido_materno": "CERVANTES",
-				"fecha": "Monday, May 21",
-				"mensaje_corto": "AT THE AGE OF 93 YEARS",
-				"se_vela_en": "SE VELA EN LOS PINOS,TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 204,
-				"titulo": "SRA.",
-				"nombre": "MARÍA ALEJANDRA",
-				"apellido_paterno": "GARCÍA",
-				"apellido_materno": "AYALA",
-				"fecha": "Monday, May 21",
-				"mensaje_corto": "AT THE AGE OF 66 YEARS",
-				"se_vela_en": "SE VELA EN C. VALENTINA HERNANDEZ #217 COL. DIVISION DEL NORTE",
-				"honras": "A LAS 14:00 HRS. EN EL TEMPLO SAN JOSÉ, SE DESPIDE EN EL PANTEÓN DE SAN JOSÉ DE AVINO",
 				"descripcion": ""
 			}
 		]
