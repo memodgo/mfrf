@@ -1,5 +1,29 @@
 		{
-		"obituario": [{ "id": 213,
+		"obituario": [{ "id": 215,
+				"titulo": "SRA.",
+				"nombre": "PRESENTACIÓN",
+				"apellido_paterno": "MURGA",
+				"apellido_materno": "CORRAL",
+				"fecha": "Sábado 26 de Mayo",
+				"mensaje_corto": "",
+				"se_vela_en": "SE VELA EN LOS ÁNGELES, CAL., U.S.A.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 214,
+				"titulo": "SRA.",
+				"nombre": "GABINA",
+				"apellido_paterno": "VALENZUELA",
+				"apellido_materno": "VDA. DE SÁNCHEZ",
+				"fecha": "Sábado 26 de Mayo",
+				"mensaje_corto": "A LOS 72 AÑOS DE EDAD",
+				"se_vela_en": "SE TRANSLADA A KANSAS, U.S.A.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 213,
 				"titulo": "SRA.",
 				"nombre": "ELVIA ARACELY",
 				"apellido_paterno": "HERRERA",
@@ -21,45 +45,33 @@
 				"se_vela_en": "SE VELA EN C. GOMEZ FARIAS #313 COL. ESPAÑA. SANTIAGO  PAPASQUIARO, DGO.",
 				"honras": "DESPIDE EN PANTEON DE SAN ANTONIO DE LA SIERRA",
 				"descripcion": ""
-			},
-			{
-				"id": 211,
-				"titulo": "SR.",
-				"nombre": "EUSTACIO",
-				"apellido_paterno": "GALLARZO",
-				"apellido_materno": "GALLEGOS",
-				"fecha": "Miércoles 23 de Mayo",
-				"mensaje_corto": "A LOS 79 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN LA IGLESIA APOSTÓLICA EN LA FE EN CRISTO JESÚS (COL. LA VIRGEN)",
-				"honras": "CULTO BÍBLICO A LAS 14:00 HRS. EN LA IGLESIA APOSTÓLICA EN LA FE EN CRISTO JESÚS (COL. LA VIRGEN), SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 210,
-				"titulo": "SRA.",
-				"nombre": "MARTHA EUGENIA",
-				"apellido_paterno": "MORALES",
-				"apellido_materno": "IBARRA",
-				"fecha": "Miércoles 23 de Mayo",
-				"mensaje_corto": "A LOS 48 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA SAN DIEGO DE ALCALÁ, CANATLÁN, DGO.",
-				"honras": "A LAS 16:30 HRS. TEMPLO SAN DIEGO DE ALCALÁ, SE DESPIDE EN PANTEÓN DE CANATLÁN, DGO.",
-				"descripcion": ""
-			},
-			{
-				"id": 209,
-				"titulo": "SRA.",
-				"nombre": "LEONOR",
-				"apellido_paterno": "CARRERA",
-				"apellido_materno": "MÁRQUEZ",
-				"fecha": "Miércoles 23 de Mayo",
-				"mensaje_corto": "A LOS 67 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{	"id": 213,
+		"obituario_ingles": [{ "id": 215,
+				"titulo": "SRA.",
+				"nombre": "PRESENTACIÓN",
+				"apellido_paterno": "MURGA",
+				"apellido_materno": "CORRAL",
+				"fecha": "Saturday, May 26",
+				"mensaje_corto": "",
+				"se_vela_en": "SE VELA EN LOS ÁNGELES, CAL., U.S.A.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 214,
+				"titulo": "SRA.",
+				"nombre": "GABINA",
+				"apellido_paterno": "VALENZUELA",
+				"apellido_materno": "VDA. DE SÁNCHEZ",
+				"fecha": "Saturday, May 26",
+				"mensaje_corto": "AT THE AGE OF 72 YEARS",
+				"se_vela_en": "SE TRANSLADA A KANSAS, U.S.A.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 213,
 				"titulo": "SRA.",
 				"nombre": "ELVIA ARACELY",
 				"apellido_paterno": "HERRERA",
@@ -80,42 +92,6 @@
 				"mensaje_corto": "AT THE AGE OF 77 YEARS",
 				"se_vela_en": "SE VELA EN C. GOMEZ FARIAS #313 COL. ESPAÑA. SANTIAGO  PAPASQUIARO, DGO.",
 				"honras": "DESPIDE EN PANTEON DE SAN ANTONIO DE LA SIERRA",
-				"descripcion": ""
-			},
-			{
-				"id": 211,
-				"titulo": "SR.",
-				"nombre": "EUSTACIO",
-				"apellido_paterno": "GALLARZO",
-				"apellido_materno": "GALLEGOS",
-				"fecha": "Wednesday, May 23",
-				"mensaje_corto": "AT THE AGE OF 79 YEARS",
-				"se_vela_en": "SE VELA EN LA IGLESIA APOSTÓLICA EN LA FE EN CRISTO JESÚS (COL. LA VIRGEN)",
-				"honras": "CULTO BÍBLICO A LAS 14:00 HRS. EN LA IGLESIA APOSTÓLICA EN LA FE EN CRISTO JESÚS (COL. LA VIRGEN), SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 210,
-				"titulo": "SRA.",
-				"nombre": "MARTHA EUGENIA",
-				"apellido_paterno": "MORALES",
-				"apellido_materno": "IBARRA",
-				"fecha": "Wednesday, May 23",
-				"mensaje_corto": "AT THE AGE OF 48 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA SAN DIEGO DE ALCALÁ, CANATLÁN, DGO.",
-				"honras": "A LAS 16:30 HRS. TEMPLO SAN DIEGO DE ALCALÁ, SE DESPIDE EN PANTEÓN DE CANATLÁN, DGO.",
-				"descripcion": ""
-			},
-			{
-				"id": 209,
-				"titulo": "SRA.",
-				"nombre": "LEONOR",
-				"apellido_paterno": "CARRERA",
-				"apellido_materno": "MÁRQUEZ",
-				"fecha": "Wednesday, May 23",
-				"mensaje_corto": "AT THE AGE OF 67 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DE MISIÓN FUNERAL RAÚL FLORES EN TEPEHUANES, DGO.",
-				"honras": "PENDIENTES",
 				"descripcion": ""
 			}
 		]
