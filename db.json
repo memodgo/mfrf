@@ -1,5 +1,17 @@
 		{
-		"obituario": [{ "id": 219,
+		"obituario": [{ "id": 220,
+				"titulo": "SRA.",
+				"nombre": "GABINA",
+				"apellido_paterno": "VALENZUELA",
+				"apellido_materno": "",
+				"fecha": "Martes 29 de Mayo",
+				"mensaje_corto": "A LA EDAD DE 96 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM.CON. SANTA ISABEL DEL RESBALÓN, RODEO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 219,
 				"titulo": "SRA.",
 				"nombre": "MARÍA GUADALUPE",
 				"apellido_paterno": "CARDONA",
@@ -7,7 +19,7 @@
 				"fecha": "Lunes 28 de Mayo",
 				"mensaje_corto": "A LA EDAD DE 86 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN EJIDO PRIMERO DE MAYO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 17:00 HRS. EN EL TEMPLO SAN JOSÉ OBRERO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -19,7 +31,7 @@
 				"fecha": "Lunes 28 de Mayo",
 				"mensaje_corto": "A LA EDAD DE 58 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO SAN AGUSTÍN, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			},
 			{
@@ -31,7 +43,7 @@
 				"fecha": "Lunes 28 de Mayo",
 				"mensaje_corto": "A LA EDAD DE 92 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN LA PARROQUIA DE NTRA.SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
 				"descripcion": ""
 			},
 			{
@@ -83,7 +95,19 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 219,
+		"obituario_ingles": [{ "id": 220,
+				"titulo": "SRA.",
+				"nombre": "GABINA",
+				"apellido_paterno": "VALENZUELA",
+				"apellido_materno": "",
+				"fecha": "Martes 29 de Mayo",
+				"mensaje_corto": "A LA EDAD DE 96 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN DOM.CON. SANTA ISABEL DEL RESBALÓN, RODEO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 219,
 				"titulo": "SRA.",
 				"nombre": "MARÍA GUADALUPE",
 				"apellido_paterno": "CARDONA",
@@ -91,7 +115,7 @@
 				"fecha": "Monday, May 28",
 				"mensaje_corto": "AT THE AGE OF 86 YEARS",
 				"se_vela_en": "SE VELA EN EJIDO PRIMERO DE MAYO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 17:00 HRS. EN EL TEMPLO SAN JOSÉ OBRERO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -103,7 +127,7 @@
 				"fecha": "Monday, May 28",
 				"mensaje_corto": "AT THE AGE OF 58 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO SAN AGUSTÍN, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			},
 			{
@@ -115,7 +139,7 @@
 				"fecha": "Monday, May 28",
 				"mensaje_corto": "AT THE AGE OF 92 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN LA PARROQUIA DE NTRA.SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
 				"descripcion": ""
 			},
 			{
