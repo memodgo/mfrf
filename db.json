@@ -1,5 +1,17 @@
 		{
-		"obituario": [{ "id": 220,
+		"obituario": [{ "id": 221,
+				"titulo": "SRA.",
+				"nombre": "MARÍA DE LOS ÁNGELES",
+				"apellido_paterno": "CASTRO",
+				"apellido_materno": "VENEGAS",
+				"fecha": "Martes 29 de Mayo",
+				"mensaje_corto": "A LA EDAD DE 89 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN EL TUNAL, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 220,
 				"titulo": "SRA.",
 				"nombre": "GABINA",
 				"apellido_paterno": "VALENZUELA",
@@ -95,7 +107,19 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 220,
+		"obituario_ingles": [{ "id": 221,
+				"titulo": "SRA.",
+				"nombre": "MARÍA DE LOS ÁNGELES",
+				"apellido_paterno": "CASTRO",
+				"apellido_materno": "VENEGAS",
+				"fecha": "Martes 29 de Mayo",
+				"mensaje_corto": "A LA EDAD DE 89 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN EL TUNAL, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 220,
 				"titulo": "SRA.",
 				"nombre": "GABINA",
 				"apellido_paterno": "VALENZUELA",
