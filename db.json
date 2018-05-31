@@ -1,5 +1,17 @@
 		{
-		"obituario": [{ "id": 224,
+		"obituario": [{ "id": 225,
+				"titulo": "SR.",
+				"nombre": "PEDRO",
+				"apellido_paterno": "MARTÍNEZ",
+				"apellido_materno": "",
+				"fecha": "Jueves 31 de Mayo",
+				"mensaje_corto": "A LA EDAD DE 81 AÑOS DE EDAD",
+				"se_vela_en": "SE VELA EN GARAME DE ABAJO, SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 224,
 				"titulo": "SRA.",
 				"nombre": "NORMA AURORA",
 				"apellido_paterno": "VILLARREAL",
@@ -7,7 +19,7 @@
 				"fecha": "Miércoles 30 de Mayo",
 				"mensaje_corto": "A LA EDAD DE 57 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISION FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 1:00 HRS. EN EL TEMPLO DE SAN AGUSTÍN, SE DESPIDE EN EL CEMENTERIO VALLE DE LOS SABINOS",
 				"descripcion": ""
 			},
 			{
@@ -19,7 +31,7 @@
 				"fecha": "Miércoles 30 de Mayo",
 				"mensaje_corto": "A LA EDAD DE 88 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN EL NAYAR, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DEL SEÑOR DE LA INSPIRACION, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -31,7 +43,7 @@
 				"fecha": "Miércoles 30 de Mayo",
 				"mensaje_corto": "A LA EDAD DE 87 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA LOC. RICARDO FLORES MAGON, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -43,7 +55,7 @@
 				"fecha": "Martes 29 de Mayo",
 				"mensaje_corto": "A LA EDAD DE 89 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN EL TUNAL, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 10:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -57,93 +69,21 @@
 				"se_vela_en": "SE VELA EN DOM.CON. SANTA ISABEL DEL RESBALÓN, RODEO, DGO.",
 				"honras": "SE DESPIDE EN PANTEÓN DEL LUGAR A LAS 17:00 HRS.",
 				"descripcion": ""
-			},
-			{
-				"id": 219,
-				"titulo": "SRA.",
-				"nombre": "MARÍA GUADALUPE",
-				"apellido_paterno": "CARDONA",
-				"apellido_materno": "REYES",
-				"fecha": "Lunes 28 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 86 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN EJIDO PRIMERO DE MAYO, DGO.",
-				"honras": "A LAS 17:00 HRS. EN EL TEMPLO SAN JOSÉ OBRERO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 218,
-				"titulo": "SR.",
-				"nombre": "JOSÉ DE JESÚS",
-				"apellido_paterno": "FLORES",
-				"apellido_materno": "REVELES",
-				"fecha": "Lunes 28 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 58 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO SAN AGUSTÍN, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 217,
-				"titulo": "SRA.",
-				"nombre": "MARÍA LUISA",
-				"apellido_paterno": "GONZÁLEZ",
-				"apellido_materno": "BAILÓN",
-				"fecha": "Lunes 28 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 92 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 12:00 HRS. EN LA PARROQUIA DE NTRA.SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 216,
-				"titulo": "SRA.",
-				"nombre": "GREGORIA",
-				"apellido_paterno": "SORIANO",
-				"apellido_materno": "NAVA",
-				"fecha": "Lunes 28 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 94 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM.CON. EL PUEBLITO, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 216,
-				"titulo": "SRA.",
-				"nombre": "MARÍA DEL CARMEN",
-				"apellido_paterno": "LOERA",
-				"apellido_materno": "MANCHA",
-				"fecha": "Lunes 28 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 92 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN GRAL. IGNACIO ZARAGOZA, PÁNUCO DE CORONADO, DGO.",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO SAN ISIDRO LABRADOR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 215,
-				"titulo": "SRA.",
-				"nombre": "PRESENTACIÓN",
-				"apellido_paterno": "MURGA",
-				"apellido_materno": "CORRAL",
-				"fecha": "Sábado 26 de Mayo",
-				"mensaje_corto": "",
-				"se_vela_en": "SE VELA EN LOS ÁNGELES, CAL., U.S.A.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 214,
-				"titulo": "SRA.",
-				"nombre": "GABINA",
-				"apellido_paterno": "VALENZUELA",
-				"apellido_materno": "VDA. DE SÁNCHEZ",
-				"fecha": "Sábado 26 de Mayo",
-				"mensaje_corto": "A LOS 72 AÑOS DE EDAD",
-				"se_vela_en": "SE TRANSLADA A KANSAS, U.S.A.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 224,
+		"obituario_ingles": [{ "id": 225,
+				"titulo": "SR.",
+				"nombre": "PEDRO",
+				"apellido_paterno": "MARTÍNEZ",
+				"apellido_materno": "",
+				"fecha": "Thursday, May 31",
+				"mensaje_corto": "AT THE AGE OF 81 YEARS",
+				"se_vela_en": "SE VELA EN GARAME DE ABAJO, SANTIAGO PAPASQUIARO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 224,
 				"titulo": "SRA.",
 				"nombre": "NORMA AURORA",
 				"apellido_paterno": "VILLARREAL",
@@ -151,7 +91,7 @@
 				"fecha": "Wednesday, May 30",
 				"mensaje_corto": "AT THE AGE OF 57 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISION FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 1:00 HRS. EN EL TEMPLO DE SAN AGUSTÍN, SE DESPIDE EN EL CEMENTERIO VALLE DE LOS SABINOS",
 				"descripcion": ""
 			},
 			{
@@ -163,7 +103,7 @@
 				"fecha": "Wednesday, May 30",
 				"mensaje_corto": "AT THE AGE OF 88 YEARS",
 				"se_vela_en": "SE VELA EN EL NAYAR, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DEL SEÑOR DE LA INSPIRACION, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -175,7 +115,7 @@
 				"fecha": "Wednesday, May 30",
 				"mensaje_corto": "AT THE AGE OF 87 YEARS",
 				"se_vela_en": "SE VELA LOC. RICARDO FLORES MAGON, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -187,7 +127,7 @@
 				"fecha": "Martes 29 de Mayo",
 				"mensaje_corto": "A LA EDAD DE 89 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN EL TUNAL, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 10:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -200,90 +140,6 @@
 				"mensaje_corto": "A LA EDAD DE 96 AÑOS DE EDAD",
 				"se_vela_en": "SE VELA EN DOM.CON. SANTA ISABEL DEL RESBALÓN, RODEO, DGO.",
 				"honras": "SE DESPIDE EN PANTEÓN DEL LUGAR A LAS 17:00 HRS.",
-				"descripcion": ""
-			},
-			{
-				"id": 219,
-				"titulo": "SRA.",
-				"nombre": "MARÍA GUADALUPE",
-				"apellido_paterno": "CARDONA",
-				"apellido_materno": "REYES",
-				"fecha": "Monday, May 28",
-				"mensaje_corto": "AT THE AGE OF 86 YEARS",
-				"se_vela_en": "SE VELA EN EJIDO PRIMERO DE MAYO, DGO.",
-				"honras": "A LAS 17:00 HRS. EN EL TEMPLO SAN JOSÉ OBRERO, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 218,
-				"titulo": "SR.",
-				"nombre": "JOSÉ DE JESÚS",
-				"apellido_paterno": "FLORES",
-				"apellido_materno": "REVELES",
-				"fecha": "Monday, May 28",
-				"mensaje_corto": "AT THE AGE OF 58 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO SAN AGUSTÍN, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-				"descripcion": ""
-			},
-			{
-				"id": 217,
-				"titulo": "SRA.",
-				"nombre": "MARÍA LUISA",
-				"apellido_paterno": "GONZÁLEZ",
-				"apellido_materno": "BAILÓN",
-				"fecha": "Monday, May 28",
-				"mensaje_corto": "AT THE AGE OF 92 YEARS",
-				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "A LAS 12:00 HRS. EN LA PARROQUIA DE NTRA.SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN GETSEMANÍ",
-				"descripcion": ""
-			},
-			{
-				"id": 216,
-				"titulo": "SRA.",
-				"nombre": "GREGORIA",
-				"apellido_paterno": "SORIANO",
-				"apellido_materno": "NAVA",
-				"fecha": "Monday, May 28",
-				"mensaje_corto": "AT THE AGE OF 94 YEARS",
-				"se_vela_en": "SE VELA EN DOM.CON. EL PUEBLITO, DGO.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 216,
-				"titulo": "SRA.",
-				"nombre": "MARÍA DEL CARMEN",
-				"apellido_paterno": "LOERA",
-				"apellido_materno": "MANCHA",
-				"fecha": "Monday, May 28",
-				"mensaje_corto": "AT THE AGE OF 92 YEARS",
-				"se_vela_en": "SE VELA EN GRAL. IGNACIO ZARAGOZA, PÁNUCO DE CORONADO, DGO.",
-				"honras": "A LAS 11:00 HRS. EN EL TEMPLO SAN ISIDRO LABRADOR, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 215,
-				"titulo": "SRA.",
-				"nombre": "PRESENTACIÓN",
-				"apellido_paterno": "MURGA",
-				"apellido_materno": "CORRAL",
-				"fecha": "Saturday, May 26",
-				"mensaje_corto": "",
-				"se_vela_en": "SE VELA EN LOS ÁNGELES, CAL., U.S.A.",
-				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 214,
-				"titulo": "SRA.",
-				"nombre": "GABINA",
-				"apellido_paterno": "VALENZUELA",
-				"apellido_materno": "VDA. DE SÁNCHEZ",
-				"fecha": "Saturday, May 26",
-				"mensaje_corto": "AT THE AGE OF 72 YEARS",
-				"se_vela_en": "SE TRANSLADA A KANSAS, U.S.A.",
-				"honras": "PENDIENTES",
 				"descripcion": ""
 			}
 		]
