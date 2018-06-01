@@ -1,11 +1,35 @@
 		{
-		"obituario": [{ "id": 225,
+		"obituario": [{ "id": 227,
+				"titulo": "SR.",
+				"nombre": "MOISES HERNAN",
+				"apellido_paterno": "VILLANUEVA",
+				"apellido_materno": "VILLANUEVA",
+				"fecha": "Viernes 01 de Junio",
+				"mensaje_corto": "A LA EDAD DE 61 AÑOS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 226,
+				"titulo": "HERMANA",
+				"nombre": "MÓNICA",
+				"apellido_paterno": "FRAIRE",
+				"apellido_materno": "ADAME",
+				"fecha": "Viernes 01 de Junio",
+				"mensaje_corto": "A LA EDAD DE 32 AÑOS",
+				"se_vela_en": "SE VELA EN PROL. PRIMO DE VERDAD #662 COL. LUCIO CABAÑAS",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 225,
 				"titulo": "SR.",
 				"nombre": "PEDRO",
 				"apellido_paterno": "MARTÍNEZ",
 				"apellido_materno": "",
 				"fecha": "Jueves 31 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 81 AÑOS DE EDAD",
+				"mensaje_corto": "A LA EDAD DE 81 AÑOS",
 				"se_vela_en": "SE VELA EN GARAME DE ABAJO, SANTIAGO PAPASQUIARO, DGO.",
 				"honras": "PENDIENTES",
 				"descripcion": ""
@@ -17,7 +41,7 @@
 				"apellido_paterno": "VILLARREAL",
 				"apellido_materno": "LARA",
 				"fecha": "Miércoles 30 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 57 AÑOS DE EDAD",
+				"mensaje_corto": "A LA EDAD DE 57 AÑOS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISION FUNERAL RAÚL FLORES",
 				"honras": "A LAS 1:00 HRS. EN EL TEMPLO DE SAN AGUSTÍN, SE DESPIDE EN EL CEMENTERIO VALLE DE LOS SABINOS",
 				"descripcion": ""
@@ -29,7 +53,7 @@
 				"apellido_paterno": "MIRELES",
 				"apellido_materno": "SANTELLANO",
 				"fecha": "Miércoles 30 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 88 AÑOS DE EDAD",
+				"mensaje_corto": "A LA EDAD DE 88 AÑOS",
 				"se_vela_en": "SE VELA EN EL NAYAR, DGO.",
 				"honras": "A LAS 11:00 HRS. EN EL TEMPLO DEL SEÑOR DE LA INSPIRACION, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
@@ -41,7 +65,7 @@
 				"apellido_paterno": "GUZMÁN",
 				"apellido_materno": "BRISEÑO",
 				"fecha": "Miércoles 30 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 87 AÑOS DE EDAD",
+				"mensaje_corto": "A LA EDAD DE 87 AÑOS",
 				"se_vela_en": "SE VELA LOC. RICARDO FLORES MAGON, DGO.",
 				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
@@ -53,7 +77,7 @@
 				"apellido_paterno": "CASTRO",
 				"apellido_materno": "VENEGAS",
 				"fecha": "Martes 29 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 89 AÑOS DE EDAD",
+				"mensaje_corto": "A LA EDAD DE 89 AÑOS",
 				"se_vela_en": "SE VELA EN EL TUNAL, DGO.",
 				"honras": "A LAS 10:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
@@ -65,13 +89,37 @@
 				"apellido_paterno": "VALENZUELA",
 				"apellido_materno": "",
 				"fecha": "Martes 29 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 96 AÑOS DE EDAD",
+				"mensaje_corto": "A LA EDAD DE 96 AÑOS",
 				"se_vela_en": "SE VELA EN DOM.CON. SANTA ISABEL DEL RESBALÓN, RODEO, DGO.",
 				"honras": "SE DESPIDE EN PANTEÓN DEL LUGAR A LAS 17:00 HRS.",
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 225,
+		"obituario_ingles": [{ "id": 227,
+				"titulo": "SR.",
+				"nombre": "MOISES HERNAN",
+				"apellido_paterno": "VILLANUEVA",
+				"apellido_materno": "VILLANUEVA",
+				"fecha": "Friday, June 1",
+				"mensaje_corto": "AT THE AGE OF 61 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 226,
+				"titulo": "HERMANA",
+				"nombre": "MÓNICA",
+				"apellido_paterno": "FRAIRE",
+				"apellido_materno": "ADAME",
+				"fecha": "Friday, June 1",
+				"mensaje_corto": "AT THE AGE OF 32 YEARS",
+				"se_vela_en": "SE VELA EN PROL. PRIMO DE VERDAD #662 COL. LUCIO CABAÑAS",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 225,
 				"titulo": "SR.",
 				"nombre": "PEDRO",
 				"apellido_paterno": "MARTÍNEZ",
