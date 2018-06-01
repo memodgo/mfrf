@@ -7,7 +7,7 @@
 				"fecha": "Viernes 01 de Junio",
 				"mensaje_corto": "A LA EDAD DE 61 AÑOS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "MAÑANA 2 DE JUNIO A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE LOS ÁNGELES, SE DESPIDE PARA SU CREMACIÓN",
 				"descripcion": ""
 			},
 			{
@@ -69,30 +69,6 @@
 				"se_vela_en": "SE VELA LOC. RICARDO FLORES MAGON, DGO.",
 				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
-			},
-			{
-				"id": 221,
-				"titulo": "SRA.",
-				"nombre": "MARÍA DE LOS ÁNGELES",
-				"apellido_paterno": "CASTRO",
-				"apellido_materno": "VENEGAS",
-				"fecha": "Martes 29 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 89 AÑOS",
-				"se_vela_en": "SE VELA EN EL TUNAL, DGO.",
-				"honras": "A LAS 10:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 220,
-				"titulo": "SRA.",
-				"nombre": "GABINA",
-				"apellido_paterno": "VALENZUELA",
-				"apellido_materno": "",
-				"fecha": "Martes 29 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 96 AÑOS",
-				"se_vela_en": "SE VELA EN DOM.CON. SANTA ISABEL DEL RESBALÓN, RODEO, DGO.",
-				"honras": "SE DESPIDE EN PANTEÓN DEL LUGAR A LAS 17:00 HRS.",
-				"descripcion": ""
 			}
 		],
 		"obituario_ingles": [{ "id": 227,
@@ -103,7 +79,7 @@
 				"fecha": "Friday, June 1",
 				"mensaje_corto": "AT THE AGE OF 61 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "MAÑANA 2 DE JUNIO A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE LOS ÁNGELES, SE DESPIDE PARA SU CREMACIÓN",
 				"descripcion": ""
 			},
 			{
@@ -164,30 +140,6 @@
 				"mensaje_corto": "AT THE AGE OF 87 YEARS",
 				"se_vela_en": "SE VELA LOC. RICARDO FLORES MAGON, DGO.",
 				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 221,
-				"titulo": "SRA.",
-				"nombre": "MARÍA DE LOS ÁNGELES",
-				"apellido_paterno": "CASTRO",
-				"apellido_materno": "VENEGAS",
-				"fecha": "Martes 29 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 89 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN EL TUNAL, DGO.",
-				"honras": "A LAS 10:00 HRS. EN EL TEMPLO DE NUESTRA SRA. DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 220,
-				"titulo": "SRA.",
-				"nombre": "GABINA",
-				"apellido_paterno": "VALENZUELA",
-				"apellido_materno": "",
-				"fecha": "Martes 29 de Mayo",
-				"mensaje_corto": "A LA EDAD DE 96 AÑOS DE EDAD",
-				"se_vela_en": "SE VELA EN DOM.CON. SANTA ISABEL DEL RESBALÓN, RODEO, DGO.",
-				"honras": "SE DESPIDE EN PANTEÓN DEL LUGAR A LAS 17:00 HRS.",
 				"descripcion": ""
 			}
 		]
