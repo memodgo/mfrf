@@ -1,5 +1,41 @@
 		{
-		"obituario": [{ "id": 239,
+		"obituario": [{ "id": 241,
+				"titulo": "SR.",
+				"nombre": "CANDIDO",
+				"apellido_paterno": "MARTÍNEZ",
+				"apellido_materno": "MONTENEGRO",
+				"fecha": "Jueves 07 de Junio",
+				"mensaje_corto": "A LA EDAD DE 47 AÑOS",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 241,
+				"titulo": "SRA.",
+				"nombre": "ALICIA RITA",
+				"apellido_paterno": "FAVELA",
+				"apellido_materno": "LOZOYA",
+				"fecha": "Jueves 07 de Junio",
+				"mensaje_corto": "A LA EDAD DE 89 AÑOS",
+				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 240,
+				"titulo": "SRA.",
+				"nombre": "PRESENTACIÓN",
+				"apellido_paterno": "MORGA",
+				"apellido_materno": "CORRAL",
+				"fecha": "Jueves 07 de Junio",
+				"mensaje_corto": "A LA EDAD DE 71 AÑOS",
+				"se_vela_en": "SE VELA EN PRESIDIOS, TEPEHUANES, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 239,
 				"titulo": "SR.",
 				"nombre": "NORBERTO",
 				"apellido_paterno": "CASAREZ",
@@ -31,7 +67,7 @@
 				"fecha": "Miércoles 06 de Junio",
 				"mensaje_corto": "A LA EDAD DE 84 AÑOS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO DIVINA PROVIDENCIA, SE DESPIDE EN EL PANTEÓN ORIENTE",
 				"descripcion": ""
 			},
 			{
@@ -55,7 +91,7 @@
 				"fecha": "Miércoles 06 de Junio",
 				"mensaje_corto": "A LA EDAD DE 19 AÑOS",
 				"se_vela_en": "SE VELA EN C. ECOSISTEMAS #214 COL. LUZ Y ESPERANZA",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 15:00 HRS. TEMPLO SAN LORENZO (COL. LAZARO CARDENAS), SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS",
 				"descripcion": ""
 			},
 			{
@@ -80,18 +116,6 @@
 				"mensaje_corto": "A LA EDAD DE 71 AÑOS",
 				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
 				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 233,
-				"titulo": "SR.",
-				"nombre": "NORBERTO",
-				"apellido_paterno": "CAZARES",
-				"apellido_materno": "ZURITA",
-				"fecha": "Martes 05 de Junio",
-				"mensaje_corto": "A LA EDAD DE 81 AÑOS",
-				"se_vela_en": "SE VELA EN LA PURÍSIMA, TEPEHUANES, DGO.",
-				"honras": "A LAS 14:00 HRS. EN EL TEMPLO LA PURISIMA CONCEPCION, SE DESPIDE EN EL PANTEÓN DE LA PURÍSIMA",
 				"descripcion": ""
 			},
 			{
@@ -131,7 +155,43 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 239,
+		"obituario_ingles": [{ "id": 241,
+				"titulo": "SR.",
+				"nombre": "CANDIDO",
+				"apellido_paterno": "MARTÍNEZ",
+				"apellido_materno": "MONTENEGRO",
+				"fecha": "Thursday, June 07",
+				"mensaje_corto": "AT THE AGE OF 47 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 241,
+				"titulo": "SRA.",
+				"nombre": "ALICIA RITA",
+				"apellido_paterno": "FAVELA",
+				"apellido_materno": "LOZOYA",
+				"fecha": "Thursday, June 07",
+				"mensaje_corto": "AT THE AGE OF 89 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 240,
+				"titulo": "SRA.",
+				"nombre": "PRESENTACIÓN",
+				"apellido_paterno": "MORGA",
+				"apellido_materno": "CORRAL",
+				"fecha": "Thursday, June 07",
+				"mensaje_corto": "AT THE AGE OF 71 YEARS",
+				"se_vela_en": "SE VELA EN PRESIDIOS, TEPEHUANES, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 239,
 				"titulo": "SR.",
 				"nombre": "NORBERTO",
 				"apellido_paterno": "CASAREZ",
@@ -212,18 +272,6 @@
 				"mensaje_corto": "AT THE AGE OF 71 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
 				"honras": "PENDIENTES",
-				"descripcion": ""
-			},
-			{
-				"id": 233,
-				"titulo": "SR.",
-				"nombre": "NORBERTO",
-				"apellido_paterno": "CAZARES",
-				"apellido_materno": "ZURITA",
-				"fecha": "Tuesday, June 5",
-				"mensaje_corto": "AT THE AGE OF 81 YEARS",
-				"se_vela_en": "SE VELA EN LA PURÍSIMA, TEPEHUANES, DGO.",
-				"honras": "A LAS 14:00 HRS. EN EL TEMPLO LA PURISIMA CONCEPCION, SE DESPIDE EN EL PANTEÓN DE LA PURÍSIMA",
 				"descripcion": ""
 			},
 			{
