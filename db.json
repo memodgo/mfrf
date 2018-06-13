@@ -1,5 +1,17 @@
 		{
-		"obituario": [{ "id": 258,
+		"obituario": [{ "id": 259,
+				"titulo": "SRA.",
+				"nombre": "BLANCA VIOLETA",
+				"apellido_paterno": "HERNANDEZ",
+				"apellido_materno": "",
+				"fecha": "Miércoles 13 de Junio",
+				"mensaje_corto": "A LA EDAD DE 52 AÑOS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMENTE DE MISIÓN FUNERAL RAAÚL FLORES",
+				"honras": "A LAS 15:00 HRS. EN EL TEMPLO SANTUARIO DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
+				"descripcion": ""
+			},
+			{
+				"id": 258,
 				"titulo": "SRA.",
 				"nombre": "MARÍA GUADALUPE",
 				"apellido_paterno": "MIJARES",
@@ -71,7 +83,19 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 258,
+		"obituario_ingles": [{ "id": 259,
+				"titulo": "SRA.",
+				"nombre": "BLANCA VIOLETA",
+				"apellido_paterno": "HERNANDEZ",
+				"apellido_materno": "",
+				"fecha": "Wednesday, June 13",
+				"mensaje_corto": "AT THE AGE OF 52 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMENTE DE MISIÓN FUNERAL RAAÚL FLORES",
+				"honras": "A LAS 15:00 HRS. EN EL TEMPLO SANTUARIO DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
+				"descripcion": ""
+			},
+			{
+				"id": 258,
 				"titulo": "SRA.",
 				"nombre": "MARÍA GUADALUPE",
 				"apellido_paterno": "MIJARES",
