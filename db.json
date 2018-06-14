@@ -1,5 +1,29 @@
 		{
-		"obituario": [{ "id": 259,
+		"obituario": [{ "id": 261,
+				"titulo": "SRA.",
+				"nombre": "EULOGIA",
+				"apellido_paterno": "BARRERA",
+				"apellido_materno": "MALDONADO",
+				"fecha": "Jueves 14 de Junio",
+				"mensaje_corto": "A LA EDAD DE 86 AÑOS",
+				"se_vela_en": "SE VELA EN C. MARAVILLAS #201 COL. BENIGNO MONTOYA",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 260,
+				"titulo": "SR.",
+				"nombre": "EZEQUIEL",
+				"apellido_paterno": "CASTILLO",
+				"apellido_materno": "CHÁVEZ",
+				"fecha": "Jueves 14 de Junio",
+				"mensaje_corto": "A LA EDAD DE 89 AÑOS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMENTE DE MISIÓN FUNERAL RAAÚL FLORES",
+				"honras": "A LAS 13:00 HRS. EN EL TEMPLO DE LA DIVINA PROVIDENCIA, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
+				"descripcion": ""
+			},
+			{
+				"id": 259,
 				"titulo": "SRA.",
 				"nombre": "BLANCA VIOLETA",
 				"apellido_paterno": "HERNANDEZ",
@@ -83,7 +107,31 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 259,
+		"obituario_ingles": [{ "id": 261,
+				"titulo": "SRA.",
+				"nombre": "EULOGIA",
+				"apellido_paterno": "BARRERA",
+				"apellido_materno": "MALDONADO",
+				"fecha": "Thursday, June 14",
+				"mensaje_corto": "AT THE AGE OF 86 YEARS",
+				"se_vela_en": "SE VELA EN C. MARAVILLAS #201 COL. BENIGNO MONTOYA",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 260,
+				"titulo": "SR.",
+				"nombre": "EZEQUIEL",
+				"apellido_paterno": "CASTILLO",
+				"apellido_materno": "CHÁVEZ",
+				"fecha": "Thursday, June 14",
+				"mensaje_corto": "AT THE AGE OF 89 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMENTE DE MISIÓN FUNERAL RAAÚL FLORES",
+				"honras": "A LAS 13:00 HRS. EN EL TEMPLO DE LA DIVINA PROVIDENCIA, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
+				"descripcion": ""
+			},
+			{
+				"id": 259,
 				"titulo": "SRA.",
 				"nombre": "BLANCA VIOLETA",
 				"apellido_paterno": "HERNANDEZ",
