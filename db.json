@@ -1,5 +1,17 @@
 		{
-		"obituario": [{ "id": 263,
+		"obituario": [{ "id": 264,
+				"titulo": "SR.",
+				"nombre": "MANUEL GERARDO",
+				"apellido_paterno": "NÚÑEZ",
+				"apellido_materno": "VALDÉZ",
+				"fecha": "Sábado 16 de Junio",
+				"mensaje_corto": "A LA EDAD DE 55 AÑOS",
+				"se_vela_en": "SE VELA EN CAPILLA ORO Y PLAYA DE FUNERALES RAÚL FLORES",
+				"honras": "A LAS 14:00 HRS. DEL DOMINGO 17/06/2018 EN EL TEMPLO DE SAN JOSÉ, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
+				"descripcion": ""
+			},
+			{
+				"id": 263,
 				"titulo": "SR.",
 				"nombre": "VICTORIO",
 				"apellido_paterno": "GUERRERO",
@@ -31,7 +43,7 @@
 				"fecha": "Jueves 14 de Junio",
 				"mensaje_corto": "A LA EDAD DE 86 AÑOS",
 				"se_vela_en": "SE VELA EN C. MARAVILLAS #201 COL. BENIGNO MONTOYA",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 10:00 HRS. EN EL TEMPLO NTRA. SRA. DE TALPA, SE DESPIDE EN PANTEÓN GETSEMANÍ",
 				"descripcion": ""
 			},
 			{
@@ -59,7 +71,19 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 263,
+		"obituario_ingles": [{ "id": 264,
+				"titulo": "SR.",
+				"nombre": "MANUEL GERARDO",
+				"apellido_paterno": "NÚÑEZ",
+				"apellido_materno": "VALDÉZ",
+				"fecha": "Saturday, June 16",
+				"mensaje_corto": "AT THE AGE OF 55 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA ORO Y PLAYA DE FUNERALES RAÚL FLORES",
+				"honras": "A LAS 14:00 HRS. DEL DOMINGO 17/06/2018 EN EL TEMPLO DE SAN JOSÉ, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
+				"descripcion": ""
+			},
+			{
+				"id": 263,
 				"titulo": "SR.",
 				"nombre": "VICTORIO",
 				"apellido_paterno": "GUERRERO",
@@ -91,7 +115,7 @@
 				"fecha": "Thursday, June 14",
 				"mensaje_corto": "AT THE AGE OF 86 YEARS",
 				"se_vela_en": "SE VELA EN C. MARAVILLAS #201 COL. BENIGNO MONTOYA",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 10:00 HRS. EN EL TEMPLO NTRA. SRA. DE TALPA, SE DESPIDE EN PANTEÓN GETSEMANÍ",
 				"descripcion": ""
 			},
 			{
