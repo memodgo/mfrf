@@ -1,13 +1,25 @@
 		{
-		"obituario": [{ "id": 270,
+		"obituario": [{ "id": 271,
+				"titulo": "SR.",
+				"nombre": "FELIPE DE JESÚS",
+				"apellido_paterno": "HERNÁNDEZ",
+				"apellido_materno": "RODRÍGUEZ",
+				"fecha": "Martes 18 de Junio",
+				"mensaje_corto": "A LA EDAD DE 33 AÑOS",
+				"se_vela_en": "SE VELA EN C. BATALLA DE PUEBLA #306 COL. 5 DE MAYO",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+				"descripcion": ""
+			},
+			{
+				"id": 270,
 				"titulo": "L.PS.",
 				"nombre": "HIRAM GAMALIEL",
 				"apellido_paterno": "OCHOA",
-				"apellido_materno": "",
+				"apellido_materno": "ESCARZAGA",
 				"fecha": "Lunes 18 de Junio",
 				"mensaje_corto": "A LA EDAD DE 28 AÑOS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE FÁTIMA, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			},
 			{
@@ -43,7 +55,7 @@
 				"fecha": "Lunes 18 de Junio",
 				"mensaje_corto": "A LA EDAD DE 85 AÑOS",
 				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 10:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			},
 			{
@@ -83,15 +95,27 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 270,
+		"obituario_ingles": [{ "id": 271,
+				"titulo": "SR.",
+				"nombre": "FELIPE DE JESÚS",
+				"apellido_paterno": "HERNÁNDEZ",
+				"apellido_materno": "RODRÍGUEZ",
+				"fecha": "Tuesday, June 19",
+				"mensaje_corto": "AT THE AGE OF 33 YEARS",
+				"se_vela_en": "SE VELA EN C. BATALLA DE PUEBLA #306 COL. 5 DE MAYO",
+				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+				"descripcion": ""
+			},
+			{
+				"id": 270,
 				"titulo": "L.PS.",
 				"nombre": "HIRAM GAMALIEL",
 				"apellido_paterno": "OCHOA",
-				"apellido_materno": "",
+				"apellido_materno": "ESCARZAGA",
 				"fecha": "Monday, June 18",
 				"mensaje_corto": "AT THE AGE OF 28 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE FÁTIMA, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			},
 			{
@@ -127,7 +151,7 @@
 				"fecha": "Monday, June 18",
 				"mensaje_corto": "AT THE AGE OF 85 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA ESMERALDA DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 10:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN DE ORIENTE",
 				"descripcion": ""
 			},
 			{
