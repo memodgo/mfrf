@@ -1,5 +1,77 @@
 		{
-		"obituario": [{ "id": 275,
+		"obituario": [{ "id": 283,
+				"titulo": "SRA.",
+				"nombre": "ROSA",
+				"apellido_paterno": "BARRÓN",
+				"apellido_materno": "RENTERÍA",
+				"fecha": "Sábado 23 de Junio",
+				"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 282,
+				"titulo": "SR.",
+				"nombre": "JESÚS",
+				"apellido_paterno": "HINOJOSA",
+				"apellido_materno": "PICHARDO",
+				"fecha": "Sábado 23 de Junio",
+				"mensaje_corto": "A LA EDAD DE 70 AÑOS",
+				"se_vela_en": "SE VELA EN C. AQUILES SERDAN S/N COL. 20 DE NOVIEMBRE",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 281,
+				"titulo": "SR.",
+				"nombre": "ABELARDO",
+				"apellido_paterno": "GARCÍA",
+				"apellido_materno": "HERNÁNDEZ",
+				"fecha": "Sábado 23 de Junio",
+				"mensaje_corto": "A LA EDAD DE 46 AÑOS",
+				"se_vela_en": "SE VELA EN DOM.CON. 12 DE OCTUBRE, SAN JUAN DEL RIO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 280,
+				"titulo": "SRA.",
+				"nombre": "BLANCA",
+				"apellido_paterno": "ESPINOZA",
+				"apellido_materno": "LORETO",
+				"fecha": "Sábado 23 de Junio",
+				"mensaje_corto": "A LA EDAD DE 86 AÑOS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 279,
+				"titulo": "SR.",
+				"nombre": "ALBERTO ANTOLIN",
+				"apellido_paterno": "GONZÁLEZ",
+				"apellido_materno": "PACHECO",
+				"fecha": "Sábado 23 de Junio",
+				"mensaje_corto": "A LA EDAD DE 79 AÑOS",
+				"se_vela_en": "SE VELA EN C. RICARDO FLORES MAGON #523 COL. ARTURO GAMIZ",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 278,
+				"titulo": "SR.",
+				"nombre": "J. TRINIDAD",
+				"apellido_paterno": "CÁZARES",
+				"apellido_materno": "REYES",
+				"fecha": "Sábado 23 de Junio",
+				"mensaje_corto": "A LA EDAD DE 79 AÑOS",
+				"se_vela_en": "SE VELA EN FUNERALES RAÚL FLORES DE TEPEHUANES, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 275,
 				"titulo": "SRA.",
 				"nombre": "JULIANA",
 				"apellido_paterno": "SERRANO",
@@ -7,7 +79,7 @@
 				"fecha": "Viernes 22 de Junio",
 				"mensaje_corto": "A LA EDAD DE 89 AÑOS",
 				"se_vela_en": "SE VELA EN LA CONSTANCIA, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPID EN EL PANTEÓN DE TEXCALILLO",
 				"descripcion": ""
 			},
 			{
@@ -45,21 +117,81 @@
 				"se_vela_en": "SE VELA EN MISIÓN FUNERAL RAÚL FLORES SUCURSAL TEPEHUANES, DGO.",
 				"honras": "A LAS 15:30 HRS. EN EL TEMPLO SANTA CATARINA, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
-			},
-			{
-				"id": 271,
-				"titulo": "SR.",
-				"nombre": "FELIPE DE JESÚS",
-				"apellido_paterno": "HERNÁNDEZ",
-				"apellido_materno": "RODRÍGUEZ",
-				"fecha": "Martes 18 de Junio",
-				"mensaje_corto": "A LA EDAD DE 33 AÑOS",
-				"se_vela_en": "SE VELA EN C. BATALLA DE PUEBLA #306 COL. 5 DE MAYO",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 275,
+		"obituario_ingles": [{ "id": 283,
+				"titulo": "SRA.",
+				"nombre": "ROSA",
+				"apellido_paterno": "BARRÓN",
+				"apellido_materno": "RENTERÍA",
+				"fecha": "Saturday, June 23",
+				"mensaje_corto": "AT THE AGE OF 77 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA PLATA DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 282,
+				"titulo": "SR.",
+				"nombre": "JESÚS",
+				"apellido_paterno": "HINOJOSA",
+				"apellido_materno": "PICHARDO",
+				"fecha": "Saturday, June 23",
+				"mensaje_corto": "AT THE AGE OF 70 YEARS",
+				"se_vela_en": "SE VELA EN C. AQUILES SERDAN S/N COL. 20 DE NOVIEMBRE",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 281,
+				"titulo": "SR.",
+				"nombre": "ABELARDO",
+				"apellido_paterno": "GARCÍA",
+				"apellido_materno": "HERNÁNDEZ",
+				"fecha": "Saturday, June 23",
+				"mensaje_corto": "AT THE AGE OF 46 YEARS",
+				"se_vela_en": "SE VELA EN DOM.CON. 12 DE OCTUBRE, SAN JUAN DEL RIO, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 280,
+				"titulo": "SRA.",
+				"nombre": "BLANCA",
+				"apellido_paterno": "ESPINOZA",
+				"apellido_materno": "LORETO",
+				"fecha": "Saturday, June 23",
+				"mensaje_corto": "AT THE AGE OF 86 YEARS",
+				"se_vela_en": "SE VELA EN CAPILLA DIAMANTE DE MISIÓN FUNERAL RAÚL FLORES",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 279,
+				"titulo": "SR.",
+				"nombre": "ALBERTO ANTOLIN",
+				"apellido_paterno": "GONZÁLEZ",
+				"apellido_materno": "PACHECO",
+				"fecha": "Saturday, June 23",
+				"mensaje_corto": "AT THE AGE OF 79 YEARS",
+				"se_vela_en": "SE VELA EN C. RICARDO FLORES MAGON #523 COL. ARTURO GAMIZ",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 278,
+				"titulo": "SR.",
+				"nombre": "J. TRINIDAD",
+				"apellido_paterno": "CÁZARES",
+				"apellido_materno": "REYES",
+				"fecha": "Saturday, June 23",
+				"mensaje_corto": "AT THE AGE OF 79 YEARS",
+				"se_vela_en": "SE VELA EN FUNERALES RAÚL FLORES DE TEPEHUANES, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 275,
 				"titulo": "SRA.",
 				"nombre": "JULIANA",
 				"apellido_paterno": "SERRANO",
@@ -67,7 +199,7 @@
 				"fecha": "Friday, June 22",
 				"mensaje_corto": "AT THE AGE OF 89 YEARS",
 				"se_vela_en": "SE VELA EN LA CONSTANCIA, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "A LAS 12:00 HRS. EN EL TEMPLO DEL LUGAR, SE DESPID EN EL PANTEÓN DE TEXCALILLO",
 				"descripcion": ""
 			},
 			{
@@ -104,18 +236,6 @@
 				"mensaje_corto": "AT THE AGE OF 81 YEARS",
 				"se_vela_en": "SE VELA EN MISIÓN FUNERAL RAÚL FLORES SUCURSAL TEPEHUANES, DGO.",
 				"honras": "A LAS 15:30 HRS. EN EL TEMPLO SANTA CATARINA, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-				"descripcion": ""
-			},
-			{
-				"id": 271,
-				"titulo": "SR.",
-				"nombre": "FELIPE DE JESÚS",
-				"apellido_paterno": "HERNÁNDEZ",
-				"apellido_materno": "RODRÍGUEZ",
-				"fecha": "Tuesday, June 19",
-				"mensaje_corto": "AT THE AGE OF 33 YEARS",
-				"se_vela_en": "SE VELA EN C. BATALLA DE PUEBLA #306 COL. 5 DE MAYO",
-				"honras": "A LAS 16:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE GUADALUPE, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			}
 		]
