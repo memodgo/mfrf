@@ -1,5 +1,17 @@
 		{
-		"obituario": [{ "id": 288,
+		"obituario": [{ "id": 289,
+				"titulo": "SRA.",
+				"nombre": "MARICELA",
+				"apellido_paterno": "REGIS",
+				"apellido_materno": "PICÓN",
+				"fecha": "Lunes 25 de Junio",
+				"mensaje_corto": "A LA EDAD DE 40 AÑOS",
+				"se_vela_en": "SE VELA EN AV. MELCHOR OCAMPO #3 BERMEJILLO, MAPIMÍ, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 288,
 				"titulo": "SR.",
 				"nombre": "JUAN",
 				"apellido_paterno": "HERNÁNDEZ",
@@ -7,7 +19,7 @@
 				"fecha": "Lunes 25 de Junio",
 				"mensaje_corto": "A LA EDAD DE 55 AÑOS",
 				"se_vela_en": "SE VELA EN CAPILLA ORO DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "MARTES 26/06/2018 A LAS 12:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
 				"descripcion": ""
 			},
 			{
@@ -19,7 +31,7 @@
 				"fecha": "Lunes 25 de Junio",
 				"mensaje_corto": "A LA EDAD DE 55 AÑOS",
 				"se_vela_en": "SE VELA EN SAN FRANCISCO JAVIER, VICENTE GUERRERO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "MARTES 26/06/2018 A LAS 16:00 HRS. EN EL TEMPLO SAN FRANCISCO JAVIER, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
@@ -131,7 +143,19 @@
 				"descripcion": ""
 			}
 		],
-		"obituario_ingles": [{ "id": 288,
+		"obituario_ingles": [{ "id": 289,
+				"titulo": "SRA.",
+				"nombre": "MARICELA",
+				"apellido_paterno": "REGIS",
+				"apellido_materno": "PICÓN",
+				"fecha": "Monday, June 25",
+				"mensaje_corto": "AT THE AGE OF 40 YEARS",
+				"se_vela_en": "SE VELA EN AV. MELCHOR OCAMPO #3 BERMEJILLO, MAPIMÍ, DGO.",
+				"honras": "PENDIENTES",
+				"descripcion": ""
+			},
+			{
+				"id": 288,
 				"titulo": "SR.",
 				"nombre": "JUAN",
 				"apellido_paterno": "HERNÁNDEZ",
@@ -139,7 +163,7 @@
 				"fecha": "Monday, June 25",
 				"mensaje_corto": "AT THE AGE OF 55 YEARS",
 				"se_vela_en": "SE VELA EN CAPILLA ORO DE MISIÓN FUNERAL RAÚL FLORES",
-				"honras": "PENDIENTES",
+				"honras": "MARTES 26/06/2018 A LAS 12:00 HRS. EN EL TEMPLO DE NUESTRA SEÑORA DE LOS ÁNGELES, SE DESPIDE EN EL PANTEÓN VALLE DE LOS SABINOS",
 				"descripcion": ""
 			},
 			{
@@ -151,7 +175,7 @@
 				"fecha": "Monday, June 25",
 				"mensaje_corto": "AT THE AGE OF 55 YEARS",
 				"se_vela_en": "SE VELA EN SAN FRANCISCO JAVIER, VICENTE GUERRERO, DGO.",
-				"honras": "PENDIENTES",
+				"honras": "MARTES 26/06/2018 A LAS 16:00 HRS. EN EL TEMPLO SAN FRANCISCO JAVIER, SE DESPIDE EN EL PANTEÓN DEL LUGAR",
 				"descripcion": ""
 			},
 			{
