@@ -1,5 +1,29 @@
 		{
 			"obituario": [{
+					"id": 308,
+					"titulo": "SRA.",
+					"nombre": "MIRIAM DE JESUS",
+					"apellido_paterno": "VALLES",
+					"apellido_materno": "GRIJALBA",
+					"fecha": "Lunes 09 de Julio",
+					"mensaje_corto": " ",
+					"se_vela_en": "SE VELA EN EN CALLE MEXICO No. 403  COL EMILIANO ZAPATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 307,
+					"titulo": "RN.",
+					"nombre": " ",
+					"apellido_paterno": "LOPEZ",
+					"apellido_materno": "RUIZ",
+					"fecha": "Lunes 09 de Julio",
+					"mensaje_corto": " ",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO CONETO DE COMONFORT.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 306,
 					"titulo": "SR.",
 					"nombre": "MARTIN",
@@ -26,6 +50,30 @@
 				
 			],
 			"obituario_ingles": [{
+					"id": 308,
+					"titulo": "SRA.",
+					"nombre": "MIRIAM DE JESUS",
+					"apellido_paterno": "VALLES",
+					"apellido_materno": "GRIJALBA",
+					"fecha": "Monday July 09",
+					"mensaje_corto": " ",
+					"se_vela_en": "SE VELA EN EN EN CALLE MEXICO No. 403  COL EMILIANO ZAPATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 307,
+					"titulo": "RN.",
+					"nombre": " ",
+					"apellido_paterno": "LOPEZ",
+					"apellido_materno": "RUIZ",
+					"fecha": "Monday July 09",
+					"mensaje_corto": " ",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO CONETO DE COMONFORT.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 306,
 					"titulo": "SR.",
 					"nombre": "MARTIN",
