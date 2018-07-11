@@ -1,5 +1,41 @@
 		{
 			"obituario": [{
+					"id": 311,
+					"titulo": "SR.",
+					"nombre": "LEONEL",
+					"apellido_paterno": "RUIZ",
+					"apellido_materno": "HERNANDEZ",
+					"fecha": "MIERCOLES 11 de Julio",
+					"mensaje_corto": "A LA EDAD DE 37 AÑOS.",
+					"se_vela_en": "SE VELA EN CAPILLA DE GUANACEVI, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 310,
+					"titulo": "SRA.",
+					"nombre": "MARIA ISABEL",
+					"apellido_paterno": "DIAZ",
+					"apellido_materno": "HURTADO",
+					"fecha": "MIERCOLES 11 de Julio",
+					"mensaje_corto": "A LA EDAD DE 82 AÑOS.",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE, DE SUCURSAL DOLORES DEL RIO.",
+					"honras": "HONRAS 12:30 HRS. TEMPLO SAN JUAN DE DIOS (VICTORIA Y PINO SUAREZ), SE DESPIDE EN PANTEON ORIENTE.",
+					"descripcion": ""
+				},
+				{
+					"id": 309,
+					"titulo": "RN.",
+					"nombre": "VALENTINA",
+					"apellido_paterno": "RODRIGUEZ",
+					"apellido_materno": " ",
+					"fecha": "MIERCOLES 11 de Julio",
+					"mensaje_corto": " ",
+					"se_vela_en": "SE DESPIDE PARA SU CREMACION.",
+					"honras": " ",
+					"descripcion": ""
+				},
+				{
 					"id": 308,
 					"titulo": "SRA.",
 					"nombre": "MIRIAM DE JESUS",
@@ -34,22 +70,46 @@
 					"se_vela_en": "SE VELA EN RICARDO FLORES MAGON. CANATLAN,DGO.",
 					"honras": "HONRAS 12:00 HRS. EN EL TEMPLO DEL LUGAR. SE DESPIDE EN PANTEON DEL LUGAR.",
 					"descripcion": ""
-				},
-				{
-					"id": 305,
-					"titulo": "SR.",
-					"nombre": "JOSE LUIS",
-					"apellido_paterno": "GALLEGOS",
-					"apellido_materno": "SANTILLANO",
-					"fecha": "Jueves 05 de Julio",
-					"mensaje_corto": "A LA EDAD DE 42 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE",
-					"honras": "HONRAS 16:00 HRS. EN CAPILLA DE PANTEÓN JARDÍN. SE DESPIDE EN PANTEON JARDIN.",
-					"descripcion": ""
 				}
 				
 			],
 			"obituario_ingles": [{
+					"id": 311,
+					"titulo": "SR.",
+					"nombre": "LEONEL",
+					"apellido_paterno": "RUIZ",
+					"apellido_materno": "HERNADEZ",
+					"fecha": "Wednesday July 11",
+					"mensaje_corto": "A LA EDAD DE 37 AÑOS.",
+					"se_vela_en": "SE VELA EN CAPILLA GUANACEVI, DGO.",
+					"honras": "HONRAS PENDIENTES. ",
+					"descripcion": ""
+				},
+				{
+					"id": 310,
+					"titulo": "SRA.",
+					"nombre": "MARIA ISABEL",
+					"apellido_paterno": "DIAZ",
+					"apellido_materno": "HURTADO",
+					"fecha": "Wednesday July 11",
+					"mensaje_corto": "A LA EDAD DE 82 AÑOS.",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE, DE SUCURSAL DOLORES DEL RIO.",
+					"honras": "HONRAS 12:30 HRS. TEMPLO SAN JUAN DE DIOS (VICTORIA Y PINO SUAREZ), SE DESPIDE EN PANTEON ORIENTE. ",
+					"descripcion": ""
+				},
+				{
+					"id": 309,
+					"titulo": "RN.",
+					"nombre": "VALENTINA",
+					"apellido_paterno": "RODRIGUEZ",
+					"apellido_materno": " ",
+					"fecha": "Wednesday July 11",
+					"mensaje_corto": " ",
+					"se_vela_en": "SE DESPIDE PARA SU CREMACION.",
+					"honras": " ",
+					"descripcion": ""
+				},
+				{
 					"id": 308,
 					"titulo": "SRA.",
 					"nombre": "MIRIAM DE JESUS",
@@ -83,18 +143,6 @@
 					"mensaje_corto": "AT THE AGE OF 54 YEARS",
 					"se_vela_en": "SE VELA EN RICARDO FLORES MAGON. CANATLAN,DGO.",
 					"honras": "HONRAS 12:00 HRS. EN EL TEMPLO DEL LUGAR. SE DESPIDE EN PANTEON DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 305,
-					"titulo": "SR.",
-					"nombre": "JOSE LUIS",
-					"apellido_paterno": "GALLEGOS",
-					"apellido_materno": "SANTILLANO",
-					"fecha": "Thursday July 05",
-					"mensaje_corto": "AT THE AGE OF 42 YEARS",
-					"se_vela_en": "SE VELA EN  CAPILLA DIAMANTE",
-					"honras": "HONRAS 16:00 HRS. EN CAPILLA DE PANTEÓN JARDÍN. SE DESPIDE EN PANTEON JARDIN.",
 					"descripcion": ""
 				}
 				
