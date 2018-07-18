@@ -1,5 +1,17 @@
 		{
 			"obituario": [{
+					"id": 323,
+					"titulo": "SR.",
+					"nombre": "AGUSTIN",
+					"apellido_paterno": "PARTIDA",
+					"apellido_materno": "ALAMOS",
+					"fecha": "MIERCOLESS 18 de Julio",
+					"mensaje_corto": "A LA EDAD DE 67 AÑOS.",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE",
+					"honras": "HONRAS 14:30HRS.TEMPLO SAN PEDRO Y SAN PABLO. SE DESPIDE EN PANTEON RESIDENCIAL FLORES.",
+					"descripcion": ""
+				},
+				{
 					"id": 322,
 					"titulo": "SRA.",
 					"nombre": "ESMELDA",
@@ -7,7 +19,7 @@
 					"apellido_materno": "CHAVEZ",
 					"fecha": "MARTES 17 de Julio",
 					"mensaje_corto": "A LA EDAD DE 60 AÑOS.",
-					"se_vela_en": "SE VELA EN CAPILLA ORO",
+					"se_vela_en": "SE VELA EN ATOTONILCO, SANTIAGO PAPASQUIARO, DGO.",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
 				},
@@ -19,7 +31,7 @@
 					"apellido_materno": "GALLEGOS",
 					"fecha": "MARTES 17 de Julio",
 					"mensaje_corto": "A LA EDAD DE 69 AÑOS.",
-					"se_vela_en": "SE VELA EN CAPILLA PLATA",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA Y SE RETIRA HOY A LAS 15:30HRS, PARA TRASLADARLO A COL. ANAHUAC, CANATLAN, DGO.",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
 				},
@@ -134,6 +146,18 @@
 				
 			],
 			"obituario_ingles": [{
+					"id": 323,
+					"titulo": "SR.",
+					"nombre": "AGUSTIN",
+					"apellido_paterno": "PARTIDA",
+					"apellido_materno": "ALAMOS",
+					"fecha": "WEDNESDAY JULY 18",
+					"mensaje_corto": "A LA EDAD DE 67 AÑOS.",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE",
+					"honras": "HONRAS 14:30HRS.TEMPLO SAN PEDRO Y SAN PABLO. SE DESPIDE EN PANTEON RESIDENCIAL FLORES.",
+					"descripcion": ""
+				},
+				{
 					"id": 322,
 					"titulo": "SRA.",
 					"nombre": "ESMELDA",
@@ -141,7 +165,7 @@
 					"apellido_materno": "CHAVEZ",
 					"fecha": "TUESDAY JULY 17",
 					"mensaje_corto": "A LA EDAD DE 60 AÑOS.",
-					"se_vela_en": "SE VELA EN CAPILLA ORO",
+					"se_vela_en": "SE VELA EN ATOTONILCO, SANTIAGO PAPASQUIARO, DGO.",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
 				},
@@ -153,7 +177,7 @@
 					"apellido_materno": "GALLEGOS",
 					"fecha": "TUESDAY JULY 17",
 					"mensaje_corto": "A LA EDAD DE 69 AÑOS.",
-					"se_vela_en": "SE VELA EN CAPILLA PLATA",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA Y SE RETIRA HOY A LAS 15:30HRS, PARA TRASLADARLO A COL. ANAHUAC, CANATLAN, DGO.",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
 				},
