@@ -1,5 +1,29 @@
 		{
 			"obituario": [{
+					"id": 342,
+					"titulo": "",
+					"nombre": "GONZALO",
+					"apellido_paterno": "DIAZ",
+					"apellido_materno": "",
+					"fecha": "MIERCOLES 25 de Julio",
+					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 341,
+					"titulo": "",
+					"nombre": "EDUARDO",
+					"apellido_paterno": "CISNEROS",
+					"apellido_materno": "LUNA",
+					"fecha": "MIERCOLES 25 de Julio",
+					"mensaje_corto": "A LA EDAD DE 64 AÑOS",
+					"se_vela_en": "SE VELA EN EL PUEBLITO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 340,
 					"titulo": "",
 					"nombre": "FATIMA",
@@ -20,7 +44,7 @@
 					"fecha": "MARTES 24 de Julio",
 					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
 					"se_vela_en": "SE VELA EN C. FRANCISCO MONARREZ. L 48 M 2 COL. EL PARAISO",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 14:00HRS. TEMPLO NTRA. SRA. DE LA ASUNCION. SE DESPIDE EN PANTEON ORIENTE.",
 					"descripcion": ""
 				},
 				{
@@ -31,8 +55,8 @@
 					"apellido_materno": "CORRAL",
 					"fecha": "LUNES 23 de Julio",
 					"mensaje_corto": "",
-					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO, PRESIDIOS, TEPEHUANES, DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"se_vela_en": "SE TRASLADA A LAS VEGAS NEVADA, USA.",
+					"honras": "",
 					"descripcion": ""
 				},
 				{
@@ -74,6 +98,30 @@
 				
 			],
 			"obituario_ingles": [{
+					"id": 342,
+					"titulo": "",
+					"nombre": "GONZALO",
+					"apellido_paterno": "DIAZ",
+					"apellido_materno": "",
+					"fecha": "WEDNESDAY JULY 25",
+					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 341,
+					"titulo": "",
+					"nombre": "EDUARDO",
+					"apellido_paterno": "CISNEROS",
+					"apellido_materno": "LUNA",
+					"fecha": "WEDNESDAY JULY 25",
+					"mensaje_corto": "A LA EDAD DE 64 AÑOS",
+					"se_vela_en": "SE VELA EN EL PUEBLITO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 340,
 					"titulo": "",
 					"nombre": "FATIMA",
@@ -94,7 +142,7 @@
 					"fecha": "TUESDAY JULY 24 ",
 					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
 					"se_vela_en": "SE VELA EN C. FRANCISCO MONARREZ. L 48 M 2 COL. EL PARAISO",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 14:00HRS. TEMPLO NTRA. SRA. DE LA ASUNCION. SE DESPIDE EN PANTEON ORIENTE.",
 					"descripcion": ""
 				},
 				{
@@ -105,7 +153,7 @@
 					"apellido_materno": "CORRAL",
 					"fecha": "MONDAY JULY 23",
 					"mensaje_corto": "",
-					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO, PRESIDIOS, TEPEHUANES, DGO.",
+					"se_vela_en": "SE TRASLADA A LAS VEGAS NEVADA, USA.",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
 				},
