@@ -1,5 +1,41 @@
 		{
 			"obituario": [{
+					"id": 343,
+					"titulo": "",
+					"nombre": "JESUS",
+					"apellido_paterno": "GONZALEZ",
+					"apellido_materno": "ROBLES",
+					"fecha": "JUEVES 26 de Julio",
+					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
+					"se_vela_en": "SE VELA EN RANCHO EL ESCALON KM 15, CARRETERA A MAZATLAN.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 344,
+					"titulo": "",
+					"nombre": "EMILIANO",
+					"apellido_paterno": "LAZCANO",
+					"apellido_materno": "CORRAL",
+					"fecha": "JUEVES 26 de Julio",
+					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
+					"se_vela_en": "SE VELA EN TEPEHUANES, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 343,
+					"titulo": "",
+					"nombre": "OCTAVIO",
+					"apellido_paterno": "SARIÑANA",
+					"apellido_materno": "",
+					"fecha": "JUEVES 26 de Julio",
+					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
+					"se_vela_en": "SE VELA EN SANDOVALES, SANTIAGO, PAPASQUIARO, DGO.",
+					"honras": "HONRAS 14:00HRS. TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
 					"id": 342,
 					"titulo": "",
 					"nombre": "GONZALO",
@@ -45,59 +81,47 @@
 					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
 					"se_vela_en": "SE VELA EN C. FRANCISCO MONARREZ. L 48 M 2 COL. EL PARAISO",
 					"honras": "HONRAS 14:00HRS. TEMPLO NTRA. SRA. DE LA ASUNCION. SE DESPIDE EN PANTEON ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 338,
-					"titulo": "",
-					"nombre": "JOSE CARMEN DE LA CRUZ",
-					"apellido_paterno": "MARTINEZ",
-					"apellido_materno": "CORRAL",
-					"fecha": "LUNES 23 de Julio",
-					"mensaje_corto": "",
-					"se_vela_en": "SE TRASLADA A LAS VEGAS NEVADA, USA.",
-					"honras": "",
-					"descripcion": ""
-				},
-				{
-					"id": 337,
-					"titulo": "",
-					"nombre": "RAUL",
-					"apellido_paterno": "ARRIETA",
-					"apellido_materno": "VARGAS",
-					"fecha": "LUNES 23 de Julio",
-					"mensaje_corto": "",
-					"se_vela_en": "SE VELA EN CAPILLA ORO.",
-					"honras": "HONRAS 09:00HRS HRS. TEMPLO SAN JOSE. SE DESPIDE EN PANTEON ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 336,
-					"titulo": "",
-					"nombre": "DELFINO",
-					"apellido_paterno": "MENDEZ",
-					"apellido_materno": "HERNANDEZ",
-					"fecha": "LUNES 23 de Julio",
-					"mensaje_corto": "A LA EDAD DE 64 AÑOS.",
-					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS 10:00HRS HRS. TEMPLO AMOR MISERICORDIOSO DE JESUS. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS.",
-					"descripcion": ""
-				},
-				{
-					"id": 335,
-					"titulo": "",
-					"nombre": "SALVADOR",
-					"apellido_paterno": "BARRAZA",
-					"apellido_materno": "GONZALEZ",
-					"fecha": "LUNES 23 de Julio",
-					"mensaje_corto": "A LA EDAD DE 97 AÑOS.",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS 14:00HRS HRS. TEMPLO SAN JOSE. SE DESPIDE EN PANTEON ORIENTE.",
 					"descripcion": ""
 				}
 				
 			],
 			"obituario_ingles": [{
+					"id": 343,
+					"titulo": "",
+					"nombre": "JESUS",
+					"apellido_paterno": "GONZALEZ",
+					"apellido_materno": "ROBLES",
+					"fecha": "THURSDAY  JULY 26",
+					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
+					"se_vela_en": "SE VELA EN RANCHO EL ESCALON KM 15, CARRETERA A MAZATLAN.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 344,
+					"titulo": "",
+					"nombre": "EMILIANO",
+					"apellido_paterno": "LAZCANO",
+					"apellido_materno": "CORRAL",
+					"fecha": "THURSDAY  JULY 26",
+					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
+					"se_vela_en": "SE VELA EN TEPEHUANES, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 343,
+					"titulo": "",
+					"nombre": "OCTAVIO",
+					"apellido_paterno": "SARIÑANA",
+					"apellido_materno": "",
+					"fecha": "THURSDAY  JULY 26",
+					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
+					"se_vela_en": "SE VELA EN SANDOVALES, SANTIAGO, PAPASQUIARO, DGO.",
+					"honras": "HONRAS 14:00HRS. TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
 					"id": 342,
 					"titulo": "",
 					"nombre": "GONZALO",
@@ -143,54 +167,6 @@
 					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
 					"se_vela_en": "SE VELA EN C. FRANCISCO MONARREZ. L 48 M 2 COL. EL PARAISO",
 					"honras": "HONRAS 14:00HRS. TEMPLO NTRA. SRA. DE LA ASUNCION. SE DESPIDE EN PANTEON ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 338,
-					"titulo": "",
-					"nombre": "JOSE CARMEN DE LA CRUZ",
-					"apellido_paterno": "MARTINEZ",
-					"apellido_materno": "CORRAL",
-					"fecha": "MONDAY JULY 23",
-					"mensaje_corto": "",
-					"se_vela_en": "SE TRASLADA A LAS VEGAS NEVADA, USA.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 337,
-					"titulo": "",
-					"nombre": "RAUL",
-					"apellido_paterno": "ARRIETA",
-					"apellido_materno": "VARGAS",
-					"fecha": "MONDAY JULY 23",
-					"mensaje_corto": "",
-					"se_vela_en": "SE VELA EN CAPILLA ORO.",
-					"honras": "HONRAS 09:00HRS HRS.TEMPLO SAN JOSE. SE DESPIDE EN PANTEON ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 336,
-					"titulo": "",
-					"nombre": "DELFINO",
-					"apellido_paterno": "MENDEZ",
-					"apellido_materno": "HERNANDEZ",
-					"fecha": "MONDAY JULY 23",
-					"mensaje_corto": "A LA EDAD DE 64 AÑOS.",
-					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS 10:00HRS HRS. TEMPLO AMOR MISERICORDIOSO DE JESUS. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS.",
-					"descripcion": ""
-				},
-				{
-					"id": 335,
-					"titulo": "",
-					"nombre": "SALVADOR",
-					"apellido_paterno": "BARRAZA",
-					"apellido_materno": "GONZALEZ",
-					"fecha": "MONDAY JULY 23",
-					"mensaje_corto": "A LA EDAD DE 97 AÑOS.",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS 14:00HRS. TEMPLO SAN JOSE. SE DESPIDE EN PANTEON ORIENTE.",
 					"descripcion": ""
 				}
 				
