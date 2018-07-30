@@ -1,5 +1,65 @@
 		{
 			"obituario": [{
+					"id": 348,
+					"titulo": "",
+					"nombre": "ILDEFONSO",
+					"apellido_paterno": "SOTO",
+					"apellido_materno": "AGUIRRE",
+					"fecha": "LUNES 30 de Julio",
+					"mensaje_corto": "A LA EDAD DE 91 AÑOS",
+					"se_vela_en": "SE VELA EN CARRIZO, GUANACEVI, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 347,
+					"titulo": "",
+					"nombre": "JOSE",
+					"apellido_paterno": "GALLEGOS",
+					"apellido_materno": "CHAPA",
+					"fecha": "LUNES 30 de Julio",
+					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+					"se_vela_en": "SE VELA AGUA CALIENTE, GUANACEVI, DGO.",
+					"honras": "HONRAS 14:00HRS., TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 346,
+					"titulo": "",
+					"nombre": "EVA HERMELINDA",
+					"apellido_paterno": "TORREZ",
+					"apellido_materno": "",
+					"fecha": "LUNES 30 de Julio",
+					"mensaje_corto": "A LA EDAD DE 50 AÑOS",
+					"se_vela_en": "SE VELA EN CALLE REVOLUCIONARIO, EJIDO BENITO JUAREZ, DGO.",
+					"honras": "HONRAS 13:00HRS., TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DE ORIENTE.",
+					"descripcion": ""
+				},
+				{
+					"id": 345,
+					"titulo": "",
+					"nombre": "LIZBETH",
+					"apellido_paterno": "ESTUPIÑAN",
+					"apellido_materno": "JURADO",
+					"fecha": "LUNES 30 de Julio",
+					"mensaje_corto": "A LA EDAD DE 19 AÑOS",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO, HIGUERAS, RODEO, DGO.",
+					"honras": "HONRAS 16:00HRS., TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 344,
+					"titulo": "",
+					"nombre": "MARIA LUISA",
+					"apellido_paterno": "CASTRO",
+					"apellido_materno": "LUEVANOS",
+					"fecha": "SABADO 28 de Julio",
+					"mensaje_corto": "A LA EDAD DE 74 AÑOS",
+					"se_vela_en": "SE VELA EN AVE. DIVISION DURANGO #213, COL. 16 SEPTIEMBRE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 343,
 					"titulo": "",
 					"nombre": "JESUS",
@@ -33,59 +93,71 @@
 					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
 					"se_vela_en": "SE VELA EN SANDOVALES, SANTIAGO, PAPASQUIARO, DGO.",
 					"honras": "HONRAS 14:00HRS. TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 342,
-					"titulo": "",
-					"nombre": "GONZALO",
-					"apellido_paterno": "DIAZ",
-					"apellido_materno": "",
-					"fecha": "MIERCOLES 25 de Julio",
-					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 341,
-					"titulo": "",
-					"nombre": "EDUARDO",
-					"apellido_paterno": "CISNEROS",
-					"apellido_materno": "LUNA",
-					"fecha": "MIERCOLES 25 de Julio",
-					"mensaje_corto": "A LA EDAD DE 64 AÑOS",
-					"se_vela_en": "SE VELA EN EL PUEBLITO, DGO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 340,
-					"titulo": "",
-					"nombre": "FATIMA",
-					"apellido_paterno": "RIOS",
-					"apellido_materno": "ALVAREZ",
-					"fecha": "MARTES 24 de Julio",
-					"mensaje_corto": "A LA EDAD DE 29 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 339,
-					"titulo": "",
-					"nombre": "MARIA LUISA",
-					"apellido_paterno": "FLORES",
-					"apellido_materno": "DEVORA",
-					"fecha": "MARTES 24 de Julio",
-					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
-					"se_vela_en": "SE VELA EN C. FRANCISCO MONARREZ. L 48 M 2 COL. EL PARAISO",
-					"honras": "HONRAS 14:00HRS. TEMPLO NTRA. SRA. DE LA ASUNCION. SE DESPIDE EN PANTEON ORIENTE.",
 					"descripcion": ""
 				}
 				
 			],
 			"obituario_ingles": [{
+					"id": 348,
+					"titulo": "",
+					"nombre": "ILDEFONSO",
+					"apellido_paterno": "SOTO",
+					"apellido_materno": "AGUIRRE",
+					"fecha": "MONDAY JULY 30",
+					"mensaje_corto": "A LA EDAD DE 91 AÑOS",
+					"se_vela_en": "SE VELA EN CARRIZO, GUANACEVI, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 347,
+					"titulo": "",
+					"nombre": "JOSE",
+					"apellido_paterno": "GALLEGOS",
+					"apellido_materno": "CHAPA",
+					"fecha": "MONDAY JULY 30",
+					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+					"se_vela_en": "SE VELA AGUA CALIENTE, GUANACEVI, DGO.",
+					"honras": "HONRAS 14:00HRS., TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 346,
+					"titulo": "",
+					"nombre": "EVA HERMELINDA",
+					"apellido_paterno": "TORREZ",
+					"apellido_materno": "",
+					"fecha": "MONDAY JULY 30",
+					"mensaje_corto": "A LA EDAD DE 50 AÑOS",
+					"se_vela_en": "SE VELA EN CALLE REVOLUCIONARIO, EJIDO BENITO JUAREZ, DGO.",
+					"honras": "HONRAS 13:00HRS., TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DE ORIENTE.",
+					"descripcion": ""
+				},
+				{
+					"id": 345,
+					"titulo": "",
+					"nombre": "LIZBETH",
+					"apellido_paterno": "ESTUPIÑAN",
+					"apellido_materno": "JURADO",
+					"fecha": "MONDAY JULY 30",
+					"mensaje_corto": "A LA EDAD DE 19 AÑOS",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO, HIGUERAS, RODEO, DGO.",
+					"honras": "HONRAS 16:00HRS., TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 344,
+					"titulo": "",
+					"nombre": "MARIA LUISA",
+					"apellido_paterno": "CASTRO",
+					"apellido_materno": "LUEVANOS",
+					"fecha": "SATURDAY JULY 28",
+					"mensaje_corto": "A LA EDAD DE 74 AÑOS",
+					"se_vela_en": "SE VELA EN AVE. DIVISION DURANGO #213, COL. 16 SEPTIEMBRE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 343,
 					"titulo": "",
 					"nombre": "JESUS",
@@ -119,54 +191,6 @@
 					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
 					"se_vela_en": "SE VELA EN SANDOVALES, SANTIAGO, PAPASQUIARO, DGO.",
 					"honras": "HONRAS 14:00HRS. TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 342,
-					"titulo": "",
-					"nombre": "GONZALO",
-					"apellido_paterno": "DIAZ",
-					"apellido_materno": "",
-					"fecha": "WEDNESDAY JULY 25",
-					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 341,
-					"titulo": "",
-					"nombre": "EDUARDO",
-					"apellido_paterno": "CISNEROS",
-					"apellido_materno": "LUNA",
-					"fecha": "WEDNESDAY JULY 25",
-					"mensaje_corto": "A LA EDAD DE 64 AÑOS",
-					"se_vela_en": "SE VELA EN EL PUEBLITO, DGO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 340,
-					"titulo": "",
-					"nombre": "FATIMA",
-					"apellido_paterno": "RIOS",
-					"apellido_materno": "ALVAREZ",
-					"fecha": "TUESDAY JULY 24 ",
-					"mensaje_corto": "A LA EDAD DE 29 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 339,
-					"titulo": "",
-					"nombre": "MARIA LUISA",
-					"apellido_paterno": "FLORES",
-					"apellido_materno": "DEVORA",
-					"fecha": "TUESDAY JULY 24 ",
-					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
-					"se_vela_en": "SE VELA EN C. FRANCISCO MONARREZ. L 48 M 2 COL. EL PARAISO",
-					"honras": "HONRAS 14:00HRS. TEMPLO NTRA. SRA. DE LA ASUNCION. SE DESPIDE EN PANTEON ORIENTE.",
 					"descripcion": ""
 				}
 				
