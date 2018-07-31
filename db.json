@@ -1,5 +1,41 @@
 		{
 			"obituario": [{
+					"id": 351,
+					"titulo": "",
+					"nombre": "JUANA",
+					"apellido_paterno": "ROSALES",
+					"apellido_materno": "VELAZQUEZ",
+					"fecha": "LUNES 30 de Julio",
+					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 350,
+					"titulo": "",
+					"nombre": "GUADALUPE",
+					"apellido_paterno": "CORREA",
+					"apellido_materno": "CONTRERAS",
+					"fecha": "LUNES 30 de Julio",
+					"mensaje_corto": "A LA EDAD DE 72 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 349,
+					"titulo": "",
+					"nombre": "MARIA",
+					"apellido_paterno": "SOLIS",
+					"apellido_materno": "VAZQUEZ",
+					"fecha": "LUNES 30 de Julio",
+					"mensaje_corto": "A LA EDAD DE 67 AÑOS",
+					"se_vela_en": "SE VELA EN CALLE J. GPE. RODRIGUEZ #400 COL. EMILIANO ZAPATA",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 348,
 					"titulo": "",
 					"nombre": "ILDEFONSO",
@@ -98,6 +134,42 @@
 				
 			],
 			"obituario_ingles": [{
+					"id": 351,
+					"titulo": "",
+					"nombre": "JUANA",
+					"apellido_paterno": "ROSALES",
+					"apellido_materno": "VELAZQUEZ",
+					"fecha": "MONDAY JULY 30",
+					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 350,
+					"titulo": "",
+					"nombre": "GUADALUPE",
+					"apellido_paterno": "CORREA",
+					"apellido_materno": "CONTRERAS",
+					"fecha": "MONDAY JULY 30",
+					"mensaje_corto": "A LA EDAD DE 72 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 349,
+					"titulo": "",
+					"nombre": "MARIA",
+					"apellido_paterno": "SOLIS",
+					"apellido_materno": "VAZQUEZ",
+					"fecha": "MONDAY JULY 30",
+					"mensaje_corto": "A LA EDAD DE 67 AÑOS",
+					"se_vela_en": "SE VELA EN CALLE J. GPE. RODRIGUEZ #400 COL. EMILIANO ZAPATA",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 348,
 					"titulo": "",
 					"nombre": "ILDEFONSO",
