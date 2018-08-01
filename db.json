@@ -1,5 +1,53 @@
 		{
 			"obituario": [{
+					"id": 355,
+					"titulo": "",
+					"nombre": "MARTIN",
+					"apellido_paterno": "DE SANTIAGO",
+					"apellido_materno": "VAZQUEZ",
+					"fecha": "MIERCOLES 01 de AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 49 AÑOS",
+					"se_vela_en": "SE VELA EN CALLE ZACATECAS #1204, COL. MORGA",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 354,
+					"titulo": "",
+					"nombre": "JOSEFINA",
+					"apellido_paterno": "LOPEZ",
+					"apellido_materno": "VIZCARRA",
+					"fecha": "MIERCOLES 01 de AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 85 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA TEPEHUANES, DGO.",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 353,
+					"titulo": "",
+					"nombre": "RODOLFO",
+					"apellido_paterno": "GARCIA",
+					"apellido_materno": "HERNANDEZ",
+					"fecha": "MIERCOLES 01 de AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 82 AÑOS",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO, EMILIANO ZAPATA, CUENCAME, DGO.",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 352,
+					"titulo": "",
+					"nombre": "JOSE HERMENEGILDO",
+					"apellido_paterno": "TORRES",
+					"apellido_materno": "VARGAS",
+					"fecha": "MIERCOLES 01 de AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 90 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
 					"id": 351,
 					"titulo": "",
 					"nombre": "JUANA",
@@ -8,7 +56,7 @@
 					"fecha": "LUNES 30 de Julio",
 					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 11:00HRS. TEMPLO DE NUESTRA SRA. DE GUADALUPE. SE DESPIDE EN PAENTEON ORIENTE",
 					"descripcion": ""
 				},
 				{
@@ -20,7 +68,7 @@
 					"fecha": "LUNES 30 de Julio",
 					"mensaje_corto": "A LA EDAD DE 72 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 15:00HRS. TEMPLO EXPIATORIO SAGRADO CORAZON DE JESUS. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS.",
 					"descripcion": ""
 				},
 				{
@@ -32,7 +80,7 @@
 					"fecha": "LUNES 30 de Julio",
 					"mensaje_corto": "A LA EDAD DE 67 AÑOS",
 					"se_vela_en": "SE VELA EN CALLE J. GPE. RODRIGUEZ #400 COL. EMILIANO ZAPATA",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 15:00hrs., TEMPLO SANTA TERESITA DEL NIÑO JESUS. SE DESPIDE EN PANTEON RESIDENCIAL LAS FLORES.",
 					"descripcion": ""
 				},
 				{
@@ -94,46 +142,58 @@
 					"se_vela_en": "SE VELA EN AVE. DIVISION DURANGO #213, COL. 16 SEPTIEMBRE.",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
-				},
-				{
-					"id": 343,
-					"titulo": "",
-					"nombre": "JESUS",
-					"apellido_paterno": "GONZALEZ",
-					"apellido_materno": "ROBLES",
-					"fecha": "JUEVES 26 de Julio",
-					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
-					"se_vela_en": "SE VELA EN RANCHO EL ESCALON KM 15, CARRETERA A MAZATLAN.",
-					"honras": "HONRAS 16:00HRS., TEMPLO SAN ISIDRO LABRADOR DE TAPIAS, SE DESPIDE EN PANTEON DE TAPIAS.",
-					"descripcion": ""
-				},
-				{
-					"id": 344,
-					"titulo": "",
-					"nombre": "EMILIANO",
-					"apellido_paterno": "LAZCANO",
-					"apellido_materno": "CORRAL",
-					"fecha": "JUEVES 26 de Julio",
-					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
-					"se_vela_en": "SE VELA EN TEPEHUANES, DGO.",
-					"honras": "HONRAS 11:00 HRS. TEMPLO SANTA CATARINA, SE DESPIDE EN PANTEON DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 343,
-					"titulo": "",
-					"nombre": "OCTAVIO",
-					"apellido_paterno": "SARELLANA",
-					"apellido_materno": "",
-					"fecha": "JUEVES 26 de Julio",
-					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
-					"se_vela_en": "SE VELA EN SANDOVALES, SANTIAGO, PAPASQUIARO, DGO.",
-					"honras": "HONRAS 14:00HRS. TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DEL LUGAR.",
-					"descripcion": ""
 				}
 				
 			],
 			"obituario_ingles": [{
+					"id": 355,
+					"titulo": "",
+					"nombre": "MARTIN",
+					"apellido_paterno": "DE SANTIAGO",
+					"apellido_materno": "VAZQUEZ",
+					"fecha": "WEDNESDAY AUGUST 01",
+					"mensaje_corto": "A LA EDAD DE 49 AÑOS",
+					"se_vela_en": "SE VELA EN CALLE ZACATECAS #1204, COL. MORGA",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 354,
+					"titulo": "",
+					"nombre": "JOSEFINA",
+					"apellido_paterno": "LOPEZ",
+					"apellido_materno": "VIZCARRA",
+					"fecha": "WEDNESDAY AUGUST 01",
+					"mensaje_corto": "A LA EDAD DE 85 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA TEPEHUANES, DGO.",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 353,
+					"titulo": "",
+					"nombre": "RODOLFO",
+					"apellido_paterno": "GARCIA",
+					"apellido_materno": "HERNANDEZ",
+					"fecha": "WEDNESDAY AUGUST 01",
+					"mensaje_corto": "A LA EDAD DE 82 AÑOS",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO, EMILIANO ZAPATA, CUENCAME, DGO.",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 352,
+					"titulo": "",
+					"nombre": "JOSE HERMENEGILDO",
+					"apellido_paterno": "TORRES",
+					"apellido_materno": "VARGAS",
+					"fecha": "WEDNESDAY AUGUST 01",
+					"mensaje_corto": "A LA EDAD DE 90 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
 					"id": 351,
 					"titulo": "",
 					"nombre": "JUANA",
@@ -142,7 +202,7 @@
 					"fecha": "MONDAY JULY 30",
 					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 11:00HRS. TEMPLO DE NUESTRA SRA. DE GUADALUPE. SE DESPIDE EN PAENTEON ORIENTE.",
 					"descripcion": ""
 				},
 				{
@@ -154,7 +214,7 @@
 					"fecha": "MONDAY JULY 30",
 					"mensaje_corto": "A LA EDAD DE 72 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 15:00HRS. TEMPLO EXPIATORIO SAGRADO CORAZON DE JESUS. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS",
 					"descripcion": ""
 				},
 				{
@@ -166,7 +226,7 @@
 					"fecha": "MONDAY JULY 30",
 					"mensaje_corto": "A LA EDAD DE 67 AÑOS",
 					"se_vela_en": "SE VELA EN CALLE J. GPE. RODRIGUEZ #400 COL. EMILIANO ZAPATA",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 15:00hrs., TEMPLO SANTA TERESITA DEL NIÑO JESUS. SE DESPIDE EN PANTEON RESIDENCIAL LAS FLORES.",
 					"descripcion": ""
 				},
 				{
@@ -227,42 +287,6 @@
 					"mensaje_corto": "A LA EDAD DE 74 AÑOS",
 					"se_vela_en": "SE VELA EN AVE. DIVISION DURANGO #213, COL. 16 SEPTIEMBRE.",
 					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 343,
-					"titulo": "",
-					"nombre": "JESUS",
-					"apellido_paterno": "GONZALEZ",
-					"apellido_materno": "ROBLES",
-					"fecha": "THURSDAY  JULY 26",
-					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
-					"se_vela_en": "SE VELA EN RANCHO EL ESCALON KM 15, CARRETERA A MAZATLAN.",
-					"honras": "HONRAS 16:00HRS., TEMPLO SAN ISIDRO LABRADOR DE TAPIAS, SE DESPIDE EN PANTEON DE TAPIAS.",
-					"descripcion": ""
-				},
-				{
-					"id": 344,
-					"titulo": "",
-					"nombre": "EMILIANO",
-					"apellido_paterno": "LAZCANO",
-					"apellido_materno": "CORRAL",
-					"fecha": "THURSDAY  JULY 26",
-					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
-					"se_vela_en": "SE VELA EN TEPEHUANES, DGO.",
-					"honras": "HONRAS 11:00 HRS. TEMPLO SANTA CATARINA, SE DESPIDE EN PANTEON DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 343,
-					"titulo": "",
-					"nombre": "OCTAVIO",
-					"apellido_paterno": "SARELLANA",
-					"apellido_materno": "",
-					"fecha": "THURSDAY  JULY 26",
-					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
-					"se_vela_en": "SE VELA EN SANDOVALES, SANTIAGO, PAPASQUIARO, DGO.",
-					"honras": "HONRAS 14:00HRS. TEMPLO DEL LUGAR, SE DESPIDE EN PANTEON DEL LUGAR.",
 					"descripcion": ""
 				}
 				
