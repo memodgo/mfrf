@@ -1,5 +1,17 @@
 		{
 			"obituario": [{
+					"id": 356,
+					"titulo": "",
+					"nombre": "CONSUELO",
+					"apellido_paterno": "GARCIA",
+					"apellido_materno": "GONGORA",
+					"fecha": "VIERNES 03 de AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 85 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE",
+					"honras": "HONRAS 16:00HRS. TEMPLO DE NTRA. SRA. DEL PERPETUO SOCORRO. SE DESPIDE EN PANTEON DE ORIENTE.",
+					"descripcion": ""
+				},
+				{
 					"id": 355,
 					"titulo": "",
 					"nombre": "MARTIN",
@@ -8,7 +20,7 @@
 					"fecha": "MIERCOLES 01 de AGOSTO",
 					"mensaje_corto": "A LA EDAD DE 49 AÑOS",
 					"se_vela_en": "SE VELA EN CALLE ZACATECAS #1204, COL. MORGA",
-					"honras": "HONRAS PENDIENTES",
+					"honras": "HONRAS 15:00HRS. TEMPLO DE LA SANTA CRUZ. SE DESPIDE EN PANTEON DE ORIENTE.",
 					"descripcion": ""
 				},
 				{
@@ -44,7 +56,7 @@
 					"fecha": "MIERCOLES 01 de AGOSTO",
 					"mensaje_corto": "A LA EDAD DE 90 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA SANTIAGO PAPASQUIARO, DGO.",
-					"honras": "HONRAS PENDIENTES",
+					"honras": "HONRAS 12:00HRS. TEMPLO SANTIAGO APOSTOL. SE DESPIDE EN PANTEON LA PAZ.",
 					"descripcion": ""
 				},
 				{
@@ -146,6 +158,18 @@
 				
 			],
 			"obituario_ingles": [{
+					"id": 356,
+					"titulo": "",
+					"nombre": "CONSUELO",
+					"apellido_paterno": "GARCIA",
+					"apellido_materno": "GONGORA",
+					"fecha": "FRIDAY, AUGUST 03",
+					"mensaje_corto": "A LA EDAD DE 85 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE",
+					"honras": "HONRAS 16:00HRS. TEMPLO DE NTRA. SRA. DEL PERPETUO SOCORRO. SE DESPIDE EN PANTEON DE ORIENTE.",
+					"descripcion": ""
+				},
+				{
 					"id": 355,
 					"titulo": "",
 					"nombre": "MARTIN",
@@ -154,7 +178,7 @@
 					"fecha": "WEDNESDAY AUGUST 01",
 					"mensaje_corto": "A LA EDAD DE 49 AÑOS",
 					"se_vela_en": "SE VELA EN CALLE ZACATECAS #1204, COL. MORGA",
-					"honras": "HONRAS PENDIENTES",
+					"honras": "HONRAS 15:00HRS. TEMPLO DE LA SANTA CRUZ. SE DESPIDE EN PANTEON DE ORIENTE.",
 					"descripcion": ""
 				},
 				{
@@ -190,7 +214,7 @@
 					"fecha": "WEDNESDAY AUGUST 01",
 					"mensaje_corto": "A LA EDAD DE 90 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA SANTIAGO PAPASQUIARO, DGO.",
-					"honras": "HONRAS PENDIENTES",
+					"honras": "HONRAS 12:00HRS. TEMPLO SANTIAGO APOSTOL. SE DESPIDE EN PANTEON LA PAZ.",
 					"descripcion": ""
 				},
 				{
