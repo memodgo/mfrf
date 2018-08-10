@@ -1,6 +1,30 @@
 		{
 			"obituario": [
 				{
+					"id": 362,
+					"titulo": "",
+					"nombre": "FRANCISCO JAVIER",
+					"apellido_paterno": "HERNANDEZ",
+					"apellido_materno": "SOTO",
+					"fecha": "VIERNES 10 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 49 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA PLATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 361,
+					"titulo": "",
+					"nombre": "HUMBERTO",
+					"apellido_paterno": "OCAÑA",
+					"apellido_materno": "AYALA",
+					"fecha": "VIERNES 10 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 54 AÑOS",
+					"se_vela_en": "SE VELA DOM.CON. IGNACIO ZARAGOZA, PEÑON BLANCO,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 360,
 					"titulo": "",
 					"nombre": "JUAN",
@@ -9,7 +33,7 @@
 					"fecha": "JUEVES 09 DE AGOSTO",
 					"mensaje_corto": "A LA EDAD DE 46 AÑOS",
 					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "DISCURSO BIBLICO EN CAPILLA 9:00 HRS. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS.",
 					"descripcion": ""
 				},
 				{
@@ -112,6 +136,30 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 362,
+					"titulo": "",
+					"nombre": "FRANCISCO JAVIER",
+					"apellido_paterno": "HERNANDEZ",
+					"apellido_materno": "SOTO",
+					"fecha": "FRIDAY AUGUST 10",
+					"mensaje_corto": "A LA EDAD DE 49 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA PLATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 361,
+					"titulo": "",
+					"nombre": "HUMBERTO",
+					"apellido_paterno": "OCAÑA",
+					"apellido_materno": "AYALA",
+					"fecha": "FRIDAY AUGUST 10",
+					"mensaje_corto": "A LA EDAD DE 54 AÑOS",
+					"se_vela_en": "SE VELA DOM.CON. IGNACIO ZARAGOZA, PEÑON BLANCO,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 360,
 					"titulo": "",
 					"nombre": "JUAN",
@@ -120,7 +168,7 @@
 					"fecha": "THURSDAY AUGUST 09",
 					"mensaje_corto": "A LA EDAD DE 46 AÑOS",
 					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "DISCURSO BIBLICO EN CAPILLA 9:00 HRS. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS.",
 					"descripcion": ""
 				},
 				{
