@@ -1,18 +1,6 @@
 		{
 			"obituario": [
 				{
-					"id": 363,
-					"titulo": "",
-					"nombre": "MIGUEL ÁNGEL",
-					"apellido_paterno": "RODRÍGUEZ",
-					"apellido_materno": "CASTRO",
-					"fecha": "SABADO 11 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 27 AÑOS",
-					"se_vela_en": "SE VELA C. ARCOIRIS LOTE 18 COL. CIELO AZUL.",
-					"honras": "HONRAS EL DIA DOMINGO 12/08/2018 ALAS 14.00 HRS. TEMPLO NTRA. SRA. DE LA ASUNCIÓN. SE DESPIDE EN PANTEÓN GETSEMANÍ.",
-					"descripcion": ""
-                                },
-				{
 					"id": 362,
 					"titulo": "",
 					"nombre": "OSCAR",
@@ -147,18 +135,6 @@
 				
 			],
 			"obituario_ingles": [
-				{
-					"id": 363,
-					"titulo": "",
-					"nombre": "MIGUEL ÁNGEL",
-					"apellido_paterno": "RODRÍGUEZ",
-					"apellido_materno": "CASTRO",
-					"fecha": "SATURDAY AUGUST 11",
-					"mensaje_corto": "A LA EDAD DE 27 AÑOS",
-					"se_vela_en": "SE VELA C. ARCOIRIS LOTE 18 COL. CIELO AZUL.",
-					"honras": "HONRAS EL DIA DOMINGO 12/08/2018 ALAS 14.00 HRS. TEMPLO NTRA. SRA. DE LA ASUNCIÓN. SE DESPIDE EN PANTEÓN GETSEMANÍ.",
-					"descripcion": ""
-				},
 				{
 					"id": 362,
 					"titulo": "",
