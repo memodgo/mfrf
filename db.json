@@ -1,6 +1,30 @@
 		{
 			"obituario": [
 				{
+					"id": 365,
+					"titulo": "",
+					"nombre": "CATALINA",
+					"apellido_paterno": "SORIANO",
+					"apellido_materno": "DIAZ",
+					"fecha": "LUNES 13 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON. IGNACIO ALLENDE,DGO.",
+					"honras": "HONRAS 12:00 HRS. TEMPLO NTRA.SRA. DEL PERPETUO SOCORRO. SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 364,
+					"titulo": "",
+					"nombre": "JOSEFA",
+					"apellido_paterno": "DOMINGUEZ",
+					"apellido_materno": "SALAZAR",
+					"fecha": "LUNES 13 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
+					"se_vela_en": "SE VELA DOM.CON. EJIDO 2 DE ABRIL, MPIO. GPE.VIC, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 363,
 					"titulo": "",
 					"nombre": "MIGUEL ÁNGEL",
@@ -147,6 +171,30 @@
 				
 			],
 			"obituario_ingles": [
+				{
+					"id": 365,
+					"titulo": "",
+					"nombre": "CATALINA",
+					"apellido_paterno": "SORIANO",
+					"apellido_materno": "DIAZ",
+					"fecha": "MONDAY AUGUST 13",
+					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON. IGNACIO ALLENDE,DGO.",
+					"honras": "HONRAS 12:00 HRS. TEMPLO NTRA.SRA. DEL PERPETUO SOCORRO. SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 364,
+					"titulo": "",
+					"nombre": "JOSEFA",
+					"apellido_paterno": "DOMINGUEZ",
+					"apellido_materno": "SALAZAR",
+					"fecha": "MONDAY AUGUST 13",
+					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
+					"se_vela_en": "SE VELA DOM.CON. EJIDO 2 DE ABRIL, MPIO. GPE.VIC, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
 				{
 					"id": 363,
 					"titulo": "",
