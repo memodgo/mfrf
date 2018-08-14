@@ -131,43 +131,8 @@
 					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
 					"honras": "DISCURSO BIBLICO EN CAPILLA 9:00 HRS. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS.",
 					"descripcion": ""
-				},
-				{
-					"id": 358,
-					"titulo": "",
-					"nombre": "GUILLERMO",
-					"apellido_paterno": "RAMIREZ",
-					"apellido_materno": "SANDOVAL",
-					"fecha": "MIERCOLES 08 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 85 AÑOS",
-					"se_vela_en": "SE VELA EN  DOM.CON. TOMAS URBINA, DGO",
-					"honras": "HONRAS 10.00 HRS. TEMPLO DEL LUGAR. SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 357,
-					"titulo": "",
-					"nombre": "PEDRO",
-					"apellido_paterno": "PALMAS",
-					"apellido_materno": "ROJAS",
-					"fecha": "MIERCOLES 08 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
-					"se_vela_en": "SE VELA PRIV. FLORES #104 FRACC. CAZARCO",
-					"honras": "HONRAS 15:00 HRS. TEMPLO SANTISIMA TRINIDAD. SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 356,
-					"titulo": "",
-					"nombre": "CONSUELO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "GONGORA",
-					"fecha": "VIERNES 03 de AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 85 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE",
-					"honras": "HONRAS 16:00HRS. TEMPLO DE NTRA. SRA. DEL PERPETUO SOCORRO. SE DESPIDE EN PANTEON DE ORIENTE.",
-					"descripcion": ""
 				}
+				
 				
 			],
 			"obituario_ingles": [
@@ -301,42 +266,6 @@
 					"mensaje_corto": "A LA EDAD DE 46 AÑOS",
 					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
 					"honras": "DISCURSO BIBLICO EN CAPILLA 9:00 HRS. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS.",
-					"descripcion": ""
-				},
-				{
-					"id": 358,
-					"titulo": "",
-					"nombre": "GUILLERMO",
-					"apellido_paterno": "RAMIREZ",
-					"apellido_materno": "SANDOVAL",
-					"fecha": "WEDNESDAY AUGUST 08",
-					"mensaje_corto": "A LA EDAD DE 85 AÑOS",
-					"se_vela_en": "SE VELA EN  DOM.CON. TOMAS URBINA, DGO",
-					"honras": "HONRAS 10.00 HRS. TEMPLO DEL LUGAR. SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 357,
-					"titulo": "",
-					"nombre": "PEDRO",
-					"apellido_paterno": "PALMAS",
-					"apellido_materno": "ROJAS",
-					"fecha": "WEDNESDAY AUGUST 08",
-					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
-					"se_vela_en": "SE VELA PRIV. FLORES #104 FRACC. CAZARCO",
-					"honras": "HONRAS 15:00 HRS. TEMPLO SANTISIMA TRINIDAD. SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 356,
-					"titulo": "",
-					"nombre": "CONSUELO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "GONGORA",
-					"fecha": "FRIDAY, AUGUST 03",
-					"mensaje_corto": "A LA EDAD DE 85 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE",
-					"honras": "HONRAS 16:00HRS. TEMPLO DE NTRA. SRA. DEL PERPETUO SOCORRO. SE DESPIDE EN PANTEON DE ORIENTE.",
 					"descripcion": ""
 				}
 				
