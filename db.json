@@ -1,6 +1,54 @@
 		{
 			"obituario": [
 				{
+					"id": 369,
+					"titulo": "",
+					"nombre": "CAYETANO",
+					"apellido_paterno": "CABRALES",
+					"apellido_materno": "NEVÁREZ",
+					"fecha": "MARTES 14 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 64 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA  FERROCARRIL, SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 368,
+					"titulo": "",
+					"nombre": "ENFERMERA MA.CRISTINA",
+					"apellido_paterno": "VERDIN",
+					"apellido_materno": "MARTINEZ",
+					"fecha": "MARTES 14 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 59 AÑOS",
+					"se_vela_en": "SE VELA EN  CALERA, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 367,
+					"titulo": "",
+					"nombre": "OSCAR ROBERTO",
+					"apellido_paterno": "AVIÑA",
+					"apellido_materno": "MORENO",
+					"fecha": "MARTES 14 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 366,
+					"titulo": "",
+					"nombre": "MA. DE LOS ÁNGELES",
+					"apellido_paterno": "BUENO",
+					"apellido_materno": "GUERRERO",
+					"fecha": "MARTES 14 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA DIAMANTE.",
+					"honras": "HONRAS 11.00 HRS. TEMPLO NTRA.SRA. DE TALPA.(COL. JALISCO) SE DESPIDE PARA SU CREMACIÓN.",
+					"descripcion": ""
+				},
+				{
 					"id": 365,
 					"titulo": "",
 					"nombre": "CATALINA",
@@ -124,6 +172,54 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 369,
+					"titulo": "",
+					"nombre": "CAYETANO",
+					"apellido_paterno": "CABRALES",
+					"apellido_materno": "NEVÁREZ",
+					"fecha": "TUESDAY AUGUST 14",
+					"mensaje_corto": "A LA EDAD DE 64 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA  FERROCARRIL, SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 368,
+					"titulo": "",
+					"nombre": "ENFERMERA MA.CRISTINA",
+					"apellido_paterno": "VERDIN",
+					"apellido_materno": "MARTINEZ",
+					"fecha": "TUESDAY AUGUST 14",
+					"mensaje_corto": "A LA EDAD DE 59 AÑOS",
+					"se_vela_en": "SE VELA EN  CALERA, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 367,
+					"titulo": "",
+					"nombre": "OSCAR ROBERTO",
+					"apellido_paterno": "AVIÑA",
+					"apellido_materno": "MORENO",
+					"fecha": "TUESDAY AUGUST 14",
+					"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 366,
+					"titulo": "",
+					"nombre": "MA. DE LOS ÁNGELES",
+					"apellido_paterno": "BUENO",
+					"apellido_materno": "GUERRERO",
+					"fecha": "TUESDAY AUGUST 14",
+					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA DIAMANTE.",
+					"honras": "HONRAS 11.00 HRS. TEMPLO NTRA.SRA. DE TALPA.(COL. JALISCO) SE DESPIDE PARA SU CREMACIÓN.",
+					"descripcion": ""
+				},	
+				{
 					"id": 365,
 					"titulo": "",
 					"nombre": "CATALINA",
@@ -144,7 +240,7 @@
 					"fecha": "MONDAY AUGUST 13",
 					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
 					"se_vela_en": "SE VELA DOM.CON. EJIDO 2 DE ABRIL, MPIO. GPE.VIC, DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 17:00 HRS.TEMPLO DEL LUGAR.SE DESPIDE EN PANTEÓN DEL LUGAR.",
 					"descripcion": ""
 				},
 				{
