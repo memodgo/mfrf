@@ -1,6 +1,18 @@
 		{
 			"obituario": [
 				{
+					"id": 373,
+					"titulo": "",
+					"nombre": "JOSE ANTONIO",
+					"apellido_paterno": "REYES",
+					"apellido_materno": "PIEDRA",
+					"fecha": "JUEVES 16 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 60 AÑOS",
+					"se_vela_en": "",
+					"honras": "SE DESPIDE DIRECTO EN PANTEÓN LERDO DE TEJADA. (A UN COSTADO DE LA FERRERÍA, DGO.)",
+					"descripcion": ""
+				},
+				{
 					"id": 372,
 					"titulo": "",
 					"nombre": "ABEL",
@@ -9,7 +21,7 @@
 					"fecha": "MIERCOLES 15 DE AGOSTO",
 					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
 					"se_vela_en": "SEVELACAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 13:00 HRS. TEMPLO CATEDRAL BASILICA MENO. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS",
 					"descripcion": ""
 				},
 				{
@@ -45,7 +57,7 @@
 					"fecha": "MARTES 14 DE AGOSTO",
 					"mensaje_corto": "A LA EDAD DE 64 AÑOS",
 					"se_vela_en": "SE VELA CAPILLA  FERROCARRIL, SANTIAGO PAPASQUIARO, DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 10:00 HRS. TEMPLO SAN MIGUEL. SE TRASLADA A SU DOMICILIO A CULTO BÍBLICO A LAS 15.00 HRS. SE DESPIDE EN PANTEÓN DE GARAME DE ABAJO.",
 					"descripcion": ""
 				},
 				{
@@ -137,6 +149,18 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 373,
+					"titulo": "",
+					"nombre": "JOSE ANTONIO",
+					"apellido_paterno": "REYES",
+					"apellido_materno": "PIEDRA",
+					"fecha": "THURSDAY AUGUST 16",
+					"mensaje_corto": "A LA EDAD DE 60 AÑOS",
+					"se_vela_en": "",
+					"honras": "SE DESPIDE DIRECTO EN PANTEÓN LERDO DE TEJADA. (A UN COSTADO DE LA FERRERÍA, DGO.)",
+					"descripcion": ""
+				},
+				{
 					"id": 372,
 					"titulo": "",
 					"nombre": "ABEL",
@@ -145,7 +169,7 @@
 					"fecha": "WEDNESDAY AUGUST 15",
 					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
 					"se_vela_en": "SEVELACAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 13:00 HRS. TEMPLO CATEDRAL BASILICA MENO. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS",
 					"descripcion": ""
 				},
 				{
@@ -181,7 +205,7 @@
 					"fecha": "TUESDAY AUGUST 14",
 					"mensaje_corto": "A LA EDAD DE 64 AÑOS",
 					"se_vela_en": "SE VELA CAPILLA  FERROCARRIL, SANTIAGO PAPASQUIARO, DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 10:00 HRS. TEMPLO SAN MIGUEL. SE TRASLADA A SU DOMICILIO A CULTO BÍBLICO A LAS 15.00 HRS. SE DESPIDE EN PANTEÓN DE GARAME DE ABAJO.",
 					"descripcion": ""
 				},
 				{
