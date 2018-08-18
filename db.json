@@ -1,6 +1,18 @@
 		{
 			"obituario": [
 				{
+					"id": 377,
+					"titulo": "",
+					"nombre": "ALBERTO",
+					"apellido_paterno": "GOMEZ",
+					"apellido_materno": "CASTRELLON",
+					"fecha": "SABADO 18 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO EN BELISARIO DOMINGUEZ.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 376,
 					"titulo": "",
 					"nombre": "LUIS ANTONIO",
@@ -21,7 +33,7 @@
 					"fecha": "VIERNES 17 DE AGOSTO",
 					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
 					"se_vela_en": "SEVELACAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 12:00 HRS. SANTUARIO DE GUADALUPE. SE DESPIDE PARA SU CREMACION.",
 					"descripcion": ""
 				},
 				{
@@ -137,6 +149,18 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 377,
+					"titulo": "",
+					"nombre": "ALBERTO",
+					"apellido_paterno": "GOMEZ",
+					"apellido_materno": "CASTRELLON",
+					"fecha": "SATURDAY AUGUST 18",
+					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO EN BELISARIO DOMINGUEZ.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 376,
 					"titulo": "",
 					"nombre": "LUIS ANTONIO",
@@ -157,7 +181,7 @@
 					"fecha": "FRIDAY  AUGUST 17",
 					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
 					"se_vela_en": "SEVELACAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 12:00 HRS. SANTUARIO DE GUADALUPE. SE DESPIDE PARA SU CREMACION.",
 					"descripcion": ""
 				},
 				{
