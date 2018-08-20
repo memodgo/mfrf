@@ -1,6 +1,42 @@
 		{
 			"obituario": [
 				{
+					"id": 380,
+					"titulo": "",
+					"nombre": "ROSARIO",
+					"apellido_paterno": "BLANCO",
+					"apellido_materno": "GRANADOS",
+					"fecha": "LUNES 20 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 68 AÑOS",
+					"se_vela_en": "SE VELA C.MERCURIO #119 COL. MENDEZ ARCEO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 379,
+					"titulo": "",
+					"nombre": "CARMEN",
+					"apellido_paterno": "GARCIA",
+					"apellido_materno": "LOPEZ",
+					"fecha": "LUNES 20 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
+					"se_vela_en": "SEVELA DOM. CON SANDIAS, TEPEHUANES,DGO.",
+					"honras": "HONRAS 16:00 HRS. TEMPLO DEL LUGAR. SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 378,
+					"titulo": "",
+					"nombre": "JOSE HUGO",
+					"apellido_paterno": "MORA",
+					"apellido_materno": "RODRIGUEZ",
+					"fecha": "LUNES 20 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO DEL POBLADO LA UNION DE RODRIGUEZ, DURANGO",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 377,
 					"titulo": "",
 					"nombre": "ALBERTO",
@@ -9,7 +45,7 @@
 					"fecha": "SABADO 18 DE AGOSTO",
 					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
 					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO EN BELISARIO DOMINGUEZ.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 13:00 HRS LUNES 20 AGOSTO. TEMPLO DEL SAGRADO CORAZON DE JESUS DEL POBLADO BELISARIO DOMINGUEZ. SE DESPIDE EN PANTEON GETSEMANI",
 					"descripcion": ""
 				},
 				{
@@ -45,7 +81,7 @@
 					"fecha": "VIERNES 17 DE AGOSTO",
 					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
 					"se_vela_en": "SE VELA PRESIDIOS, TEPEHUANES, DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 18:00 HRS. TEMPLO DE SAN NICOLAS. SE DESPIDE EN PANTEON DEL LUGAR",
 					"descripcion": ""
 				},
 				{
@@ -149,6 +185,42 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 380,
+					"titulo": "",
+					"nombre": "ROSARIO",
+					"apellido_paterno": "BLANCO",
+					"apellido_materno": "GRANADOS",
+					"fecha": "MONDAY AUGUST 20",
+					"mensaje_corto": "A LA EDAD DE 68 AÑOS",
+					"se_vela_en": "SE VELA C.MERCURIO #119 COL. MENDEZ ARCEO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 379,
+					"titulo": "",
+					"nombre": "CARMEN",
+					"apellido_paterno": "GARCIA",
+					"apellido_materno": "LOPEZ",
+					"fecha": "MONDAY AUGUST 20",
+					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
+					"se_vela_en": "SEVELA DOM. CON SANDIAS, TEPEHUANES,DGO.",
+					"honras": "HONRAS 16:00 HRS. TEMPLO DEL LUGAR. SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 378,
+					"titulo": "",
+					"nombre": "JOSE HUGO",
+					"apellido_paterno": "MORA",
+					"apellido_materno": "RODRIGUEZ",
+					"fecha": "MONDAY AUGUST 20",
+					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO DEL POBLADO LA UNION DE RODRIGUEZ, DURANGO",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 377,
 					"titulo": "",
 					"nombre": "ALBERTO",
@@ -157,7 +229,7 @@
 					"fecha": "SATURDAY AUGUST 18",
 					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
 					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO EN BELISARIO DOMINGUEZ.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 13:00 HRS LUNES 20 AGOSTO. TEMPLO DEL SAGRADO CORAZON DE JESUS DEL POBLADO BELISARIO DOMINGUEZ. SE DESPIDE EN PANTEON GETSEMANI",
 					"descripcion": ""
 				},
 				{
@@ -193,7 +265,7 @@
 					"fecha": "FRIDAY  AUGUST 17",
 					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
 					"se_vela_en": "SE VELA PRESIDIOS, TEPEHUANES, DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 18:00 HRS. TEMPLO DE SAN NICOLAS. SE DESPIDE EN PANTEON DEL LUGAR.",
 					"descripcion": ""
 				},
 				{
