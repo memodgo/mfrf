@@ -95,42 +95,6 @@
 					"se_vela_en": "",
 					"honras": "SE DESPIDE DIRECTO EN PANTEÓN LERDO DE TEJADA. (A UN COSTADO DE LA FERRERÍA, DGO.)",
 					"descripcion": ""
-				},
-				{
-					"id": 372,
-					"titulo": "",
-					"nombre": "ABEL",
-					"apellido_paterno": "SALAZAR",
-					"apellido_materno": "AGUILAR",
-					"fecha": "MIERCOLES 15 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
-					"se_vela_en": "SEVELACAPILLA DIAMANTE.",
-					"honras": "HONRAS: 13:00 HRS. TEMPLO CATEDRAL BASILICA MENO. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS",
-					"descripcion": ""
-				},
-				{
-					"id": 371,
-					"titulo": "",
-					"nombre": "ING. ALEJANDRO",
-					"apellido_paterno": "PONCE",
-					"apellido_materno": "GALAVIZ",
-					"fecha": "MARTES 15 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 71 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA PLATA.",
-					"honras": "HONRAS 17.00 HRS. TEMPLO NTRA.SRA.DE LOS  ANGELES. SE DESPIDE EN PANTEÓN RESIDENCIAL FLORES.",
-					"descripcion": ""
-				},
-				{
-					"id": 370,
-					"titulo": "",
-					"nombre": "R.N. NIÑO",
-					"apellido_paterno": "SANCHEZ",
-					"apellido_materno": "LUJAN",
-					"fecha": "MIERCOLES 15 DE AGOSTO",
-					"mensaje_corto": " ",
-					"se_vela_en": "SE VELA CAMINO DE LAS DONCELLAS #128  FRACC. PASO REAL",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
 				}
 				
 				
@@ -230,42 +194,6 @@
 					"mensaje_corto": "A LA EDAD DE 60 AÑOS",
 					"se_vela_en": "",
 					"honras": "SE DESPIDE DIRECTO EN PANTEÓN LERDO DE TEJADA. (A UN COSTADO DE LA FERRERÍA, DGO.)",
-					"descripcion": ""
-				},
-				{
-					"id": 372,
-					"titulo": "",
-					"nombre": "ABEL",
-					"apellido_paterno": "SALAZAR",
-					"apellido_materno": "AGUILAR",
-					"fecha": "WEDNESDAY AUGUST 15",
-					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
-					"se_vela_en": "SEVELACAPILLA DIAMANTE.",
-					"honras": "HONRAS: 13:00 HRS. TEMPLO CATEDRAL BASILICA MENO. SE DESPIDE EN PANTEON VALLE DE LOS SABINOS",
-					"descripcion": ""
-				},
-				{
-					"id": 371,
-					"titulo": "",
-					"nombre": "ING. ALEJANDRO",
-					"apellido_paterno": "PONCE",
-					"apellido_materno": "GALAVIZ",
-					"fecha": "WEDNESDAY AUGUST 15",
-					"mensaje_corto": "A LA EDAD DE 71 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA PLATA.",
-					"honras": "HONRAS 17.00 HRS. TEMPLO NTRA.SRA.DE LOS  ANGELES. SE DESPIDE EN PANTEÓN RESIDENCIAL FLORES.",
-					"descripcion": ""
-				},
-				{
-					"id": 370,
-					"titulo": "",
-					"nombre": "R.N. NIÑO",
-					"apellido_paterno": "SANCHEZ",
-					"apellido_materno": "LUJAN",
-					"fecha": "WEDNESDAY AUGUST 15",
-					"mensaje_corto": " ",
-					"se_vela_en": "SE VELA CAMINO DE LAS DONCELLAS #128  FRACC. PASO REAL",
-					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
 				}
 				
