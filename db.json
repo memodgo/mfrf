@@ -1,6 +1,42 @@
 		{
 			"obituario": [
 				{
+					"id": 384,
+					"titulo": "",
+					"nombre": "RAMON",
+					"apellido_paterno": "RAMIREZ",
+					"apellido_materno": "NEVAREZ",
+					"fecha": "JUEVES 23 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA RAÚL FLORES, SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS 11:00 HRS. TEMPLO SANTO SANTIAGO APOSTOL. SE DESPIDE EN PANTEON LOS NOGALES.",
+					"descripcion": ""
+				},
+				{
+					"id": 382,
+					"titulo": "",
+					"nombre": "JUANA",
+					"apellido_paterno": "ROMERO",
+					"apellido_materno": "NAVA",
+					"fecha": "JUEVES 23 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
+					"se_vela_en": "SE VELA C. FELIPE ANGELES S/N COL. RAQUEL VELAZQUEZ.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 381,
+					"titulo": "",
+					"nombre": "CECILIO",
+					"apellido_paterno": "GARCIA",
+					"apellido_materno": "QUINTERO",
+					"fecha": "JUEVES 23 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 54 AÑOS",
+					"se_vela_en": "SE VELA CALLE NOGALES S/N COL. DEL VALLE, TEPEHUANES,DGO.",
+					"honras": "HONRAS 9:00 A.M, TEMPLO DEL LUGAR. SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
 					"id": 380,
 					"titulo": "",
 					"nombre": "ROSARIO",
@@ -47,59 +83,47 @@
 					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO EN BELISARIO DOMINGUEZ.",
 					"honras": "HONRAS: 13:00 HRS LUNES 20 AGOSTO. TEMPLO DEL SAGRADO CORAZON DE JESUS DEL POBLADO BELISARIO DOMINGUEZ. SE DESPIDE EN PANTEON GETSEMANI",
 					"descripcion": ""
-				},
-				{
-					"id": 376,
-					"titulo": "",
-					"nombre": "LUIS ANTONIO",
-					"apellido_paterno": "SOTO",
-					"apellido_materno": "AGÜERO",
-					"fecha": "VIERNES 17 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 48 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 375,
-					"titulo": "",
-					"nombre": "MARCO ANTONIO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "TAVIZON",
-					"fecha": "VIERNES 17 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
-					"se_vela_en": "SEVELACAPILLA DIAMANTE.",
-					"honras": "HONRAS: 12:00 HRS. SANTUARIO DE GUADALUPE. SE DESPIDE PARA SU CREMACION.",
-					"descripcion": ""
-				},
-				{
-					"id": 374,
-					"titulo": "",
-					"nombre": "RAFAEL",
-					"apellido_paterno": "CORRAL",
-					"apellido_materno": "CORRAL",
-					"fecha": "VIERNES 17 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
-					"se_vela_en": "SE VELA PRESIDIOS, TEPEHUANES, DGO.",
-					"honras": "HONRAS: 18:00 HRS. TEMPLO DE SAN NICOLAS. SE DESPIDE EN PANTEON DEL LUGAR",
-					"descripcion": ""
-				},
-				{
-					"id": 373,
-					"titulo": "",
-					"nombre": "JOSE ANTONIO",
-					"apellido_paterno": "REYES",
-					"apellido_materno": "PIEDRA",
-					"fecha": "JUEVES 16 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 60 AÑOS",
-					"se_vela_en": "",
-					"honras": "SE DESPIDE DIRECTO EN PANTEÓN LERDO DE TEJADA. (A UN COSTADO DE LA FERRERÍA, DGO.)",
-					"descripcion": ""
 				}
 				
 				
 			],
 			"obituario_ingles": [
+				{
+					"id": 384,
+					"titulo": "",
+					"nombre": "RAMON",
+					"apellido_paterno": "RAMIREZ",
+					"apellido_materno": "NEVAREZ",
+					"fecha": "THURSDAY AUGUST 23",
+					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA RAÚL FLORES, SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS 11:00 HRS. TEMPLO SANTO SANTIAGO APOSTOL. SE DESPIDE EN PANTEON LOS NOGALES.",
+					"descripcion": ""
+				},
+				{
+					"id": 382,
+					"titulo": "",
+					"nombre": "JUANA",
+					"apellido_paterno": "ROMERO",
+					"apellido_materno": "NAVA",
+					"fecha": "THURSDAY AUGUST 23",
+					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
+					"se_vela_en": "SE VELA C. FELIPE ANGELES S/N COL. RAQUEL VELAZQUEZ.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 381,
+					"titulo": "",
+					"nombre": "CECILIO",
+					"apellido_paterno": "GARCIA",
+					"apellido_materno": "QUINTERO",
+					"fecha": "THURSDAY AUGUST 23",
+					"mensaje_corto": "A LA EDAD DE 54 AÑOS",
+					"se_vela_en": "SE VELA CALLE NOGALES S/N COL. DEL VALLE, TEPEHUANES,DGO.",
+					"honras": "HONRAS 9:00 A.M, TEMPLO DEL LUGAR. SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
 				{
 					"id": 380,
 					"titulo": "",
@@ -146,54 +170,6 @@
 					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
 					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO EN BELISARIO DOMINGUEZ.",
 					"honras": "HONRAS: 13:00 HRS LUNES 20 AGOSTO. TEMPLO DEL SAGRADO CORAZON DE JESUS DEL POBLADO BELISARIO DOMINGUEZ. SE DESPIDE EN PANTEON GETSEMANI",
-					"descripcion": ""
-				},
-				{
-					"id": 376,
-					"titulo": "",
-					"nombre": "LUIS ANTONIO",
-					"apellido_paterno": "SOTO",
-					"apellido_materno": "AGÜERO",
-					"fecha": "FRIDAY  AUGUST 17",
-					"mensaje_corto": "A LA EDAD DE 48 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 375,
-					"titulo": "",
-					"nombre": "MARCO ANTONIO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "TAVIZON",
-					"fecha": "FRIDAY  AUGUST 17",
-					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
-					"se_vela_en": "SEVELACAPILLA DIAMANTE.",
-					"honras": "HONRAS: 12:00 HRS. SANTUARIO DE GUADALUPE. SE DESPIDE PARA SU CREMACION.",
-					"descripcion": ""
-				},
-				{
-					"id": 374,
-					"titulo": "",
-					"nombre": "RAFAEL",
-					"apellido_paterno": "CORRAL",
-					"apellido_materno": "CORRAL",
-					"fecha": "FRIDAY  AUGUST 17",
-					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
-					"se_vela_en": "SE VELA PRESIDIOS, TEPEHUANES, DGO.",
-					"honras": "HONRAS: 18:00 HRS. TEMPLO DE SAN NICOLAS. SE DESPIDE EN PANTEON DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 373,
-					"titulo": "",
-					"nombre": "JOSE ANTONIO",
-					"apellido_paterno": "REYES",
-					"apellido_materno": "PIEDRA",
-					"fecha": "THURSDAY AUGUST 16",
-					"mensaje_corto": "A LA EDAD DE 60 AÑOS",
-					"se_vela_en": "",
-					"honras": "SE DESPIDE DIRECTO EN PANTEÓN LERDO DE TEJADA. (A UN COSTADO DE LA FERRERÍA, DGO.)",
 					"descripcion": ""
 				}
 				
