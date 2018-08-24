@@ -1,7 +1,31 @@
 		{
 			"obituario": [
 				{
+					"id": 385,
+					"titulo": "",
+					"nombre": "MARIA",
+					"apellido_paterno": "CABADA",
+					"apellido_materno": "VIZCARRA",
+					"fecha": "VIERNES 24 DE AGOSTO",
+					"mensaje_corto": "",
+					"se_vela_en": "SE TRASLADA DE CHICAGO, ILLINOIS,U.S.A  A ARROYO CHICO,TEPEHUANES, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 384,
+					"titulo": "",
+					"nombre": "R.N.    ",
+					"apellido_paterno": "MARTINEZ",
+					"apellido_materno": "LOPEZ",
+					"fecha": "VIERNES 24 DE AGOSTO",
+					"mensaje_corto": "",
+					"se_vela_en": "",
+					"honras": "SE TRASLADA DIRECTAMENTE AL PANTEON DE LERDO DE TEJADA",
+					"descripcion": ""
+				},
+				{
+					"id": 383,
 					"titulo": "",
 					"nombre": "RAMON",
 					"apellido_paterno": "RAMIREZ",
@@ -89,7 +113,31 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 385,
+					"titulo": "",
+					"nombre": "MARIA",
+					"apellido_paterno": "CABADA",
+					"apellido_materno": "VIZCARRA",
+					"fecha": "FRIDAY AUGUST 24",
+					"mensaje_corto": "",
+					"se_vela_en": "SE TRASLADA DE CHICAGO, ILLINOIS,U.S.A  A ARROYO CHICO,TEPEHUANES, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 384,
+					"titulo": "",
+					"nombre": "R.N.    ",
+					"apellido_paterno": "MARTINEZ",
+					"apellido_materno": "LOPEZ",
+					"fecha": "FRIDAY AUGUST 24",
+					"mensaje_corto": "",
+					"se_vela_en": "",
+					"honras": "SE TRASLADA DIRECTAMENTE AL PANTEON DE LERDO DE TEJADA",
+					"descripcion": ""
+				},
+				{
+					"id": 383,
 					"titulo": "",
 					"nombre": "RAMON",
 					"apellido_paterno": "RAMIREZ",
