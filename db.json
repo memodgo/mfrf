@@ -1,6 +1,18 @@
 		{
 			"obituario": [
 				{
+					"id": 386,
+					"titulo": "",
+					"nombre": "JUAN LUIS",
+					"apellido_paterno": "ADAME",
+					"apellido_materno": "GORGONIO",
+					"fecha": "SABADO 25 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 17 AÑOS",
+					"se_vela_en": "SE VELA EN CALLE PANAMA 201 COL. LAZARO CARDENAS",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 385,
 					"titulo": "",
 					"nombre": "MARIA",
@@ -112,6 +124,18 @@
 				
 			],
 			"obituario_ingles": [
+				{
+					"id": 386,
+					"titulo": "",
+					"nombre": "JUAN LUIS",
+					"apellido_paterno": "ADAME",
+					"apellido_materno": "GORGONIO",
+					"fecha": "SATURDAY AUGUST 25",
+					"mensaje_corto": "A LA EDAD DE 17 AÑOS",
+					"se_vela_en": "SE VELA EN CALLE PANAMA 201 COL. LAZARO CARDENAS",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
 				{
 					"id": 385,
 					"titulo": "",
