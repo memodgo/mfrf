@@ -1,6 +1,54 @@
 		{
 			"obituario": [
 				{
+					"id": 390,
+					"titulo": "",
+					"nombre": "JUAQUIN",
+					"apellido_paterno": "GONZALEZ",
+					"apellido_materno": "PUEBLA",
+					"fecha": "LUNES 27 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 57 AÑOS",
+					"se_vela_en": "SE VELA C. CORNELIO REYNA #414 COL. VALLE DEL GUADIANA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 389,
+					"titulo": "",
+					"nombre": "MARIA DEL CARMEN",
+					"apellido_paterno": "LARES",
+					"apellido_materno": "ORTEGA",
+					"fecha": "LUNES 27 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 26 AÑOS",
+					"se_vela_en": "SEVELA DOM.CON. RANCHO TÍO JUAN,MPIO. DE TOPIA,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 388,
+					"titulo": "",
+					"nombre": "MA. MAGDALENA",
+					"apellido_paterno": "CONTRERAS",
+					"apellido_materno": "RAMOS",
+					"fecha": "LUNES 27 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 82 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA PLATA.",
+					"honras": "HONRAS 13.00 HRS. TEMPLO SAGRADO CORAZÓN (COL. HIDALGO). SE DESPIDE EN PANTEON JARDIN.",
+					"descripcion": ""
+				},
+				{
+					"id": 387,
+					"titulo": "",
+					"nombre": "ISAIAS",
+					"apellido_paterno": "BONILLA",
+					"apellido_materno": "REYES",
+					"fecha": "LUNES 27 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 61 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 386,
 					"titulo": "",
 					"nombre": "JUAN LUIS",
@@ -32,98 +80,62 @@
 					"apellido_materno": "LOPEZ",
 					"fecha": "VIERNES 24 DE AGOSTO",
 					"mensaje_corto": "",
-					"se_vela_en": "",
-					"honras": "SE TRASLADA DIRECTAMENTE AL PANTEON DE LERDO DE TEJADA",
-					"descripcion": ""
-				},
-				{
-					"id": 383,
-					"titulo": "",
-					"nombre": "RAMON",
-					"apellido_paterno": "RAMIREZ",
-					"apellido_materno": "NEVAREZ",
-					"fecha": "JUEVES 23 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA RAÚL FLORES, SANTIAGO PAPASQUIARO, DGO.",
-					"honras": "HONRAS 11:00 HRS. TEMPLO SANTO SANTIAGO APOSTOL. SE DESPIDE EN PANTEON LOS NOGALES.",
-					"descripcion": ""
-				},
-				{
-					"id": 382,
-					"titulo": "",
-					"nombre": "JUANA",
-					"apellido_paterno": "ROMERO",
-					"apellido_materno": "NAVA",
-					"fecha": "JUEVES 23 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
-					"se_vela_en": "SE VELA C. FELIPE ANGELES S/N COL. RAQUEL VELAZQUEZ.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 381,
-					"titulo": "",
-					"nombre": "CECILIO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "QUINTERO",
-					"fecha": "JUEVES 23 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 54 AÑOS",
-					"se_vela_en": "SE VELA CALLE NOGALES S/N COL. DEL VALLE, TEPEHUANES,DGO.",
-					"honras": "HONRAS 9:00 A.M, TEMPLO DEL LUGAR. SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 380,
-					"titulo": "",
-					"nombre": "ROSARIO",
-					"apellido_paterno": "BLANCO",
-					"apellido_materno": "GRANADOS",
-					"fecha": "LUNES 20 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 68 AÑOS",
-					"se_vela_en": "SE VELA C.MERCURIO #119 COL. MENDEZ ARCEO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 379,
-					"titulo": "",
-					"nombre": "CARMEN",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "LOPEZ",
-					"fecha": "LUNES 20 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
-					"se_vela_en": "SEVELA DOM. CON SANDIAS, TEPEHUANES,DGO.",
-					"honras": "HONRAS 16:00 HRS. TEMPLO DEL LUGAR. SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 378,
-					"titulo": "",
-					"nombre": "JOSE HUGO",
-					"apellido_paterno": "MORA",
-					"apellido_materno": "RODRIGUEZ",
-					"fecha": "LUNES 20 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
-					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO DEL POBLADO LA UNION DE RODRIGUEZ, DURANGO",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 377,
-					"titulo": "",
-					"nombre": "ALBERTO",
-					"apellido_paterno": "GOMEZ",
-					"apellido_materno": "CASTRELLON",
-					"fecha": "SABADO 18 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
-					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO EN BELISARIO DOMINGUEZ.",
-					"honras": "HONRAS: 13:00 HRS LUNES 20 AGOSTO. TEMPLO DEL SAGRADO CORAZON DE JESUS DEL POBLADO BELISARIO DOMINGUEZ. SE DESPIDE EN PANTEON GETSEMANI",
+					"se_vela_en": "SE VELA EN   LA TINAJA",
+					"honras": "HONRAS PENDIENTES",
 					"descripcion": ""
 				}
 				
 				
 			],
 			"obituario_ingles": [
+				{
+					"id": 390,
+					"titulo": "",
+					"nombre": "JUAQUIN",
+					"apellido_paterno": "GONZALEZ",
+					"apellido_materno": "PUEBLA",
+					"fecha": "MONDAY AUGUST 27",
+					"mensaje_corto": "A LA EDAD DE 57 AÑOS",
+					"se_vela_en": "SE VELA C. CORNELIO REYNA #414 COL. VALLE DEL GUADIANA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 389,
+					"titulo": "",
+					"nombre": "MARIA DEL CARMEN",
+					"apellido_paterno": "LARES",
+					"apellido_materno": "ORTEGA",
+					"fecha": "MONDAY AUGUST 27",
+					"mensaje_corto": "A LA EDAD DE 26 AÑOS",
+					"se_vela_en": "SEVELA DOM.CON. RANCHO TÍO JUAN,MPIO. DE TOPIA,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 388,
+					"titulo": "",
+					"nombre": "MA. MAGDALENA",
+					"apellido_paterno": "CONTRERAS",
+					"apellido_materno": "RAMOS",
+					"fecha": "MONDAY AUGUST 27",
+					"mensaje_corto": "A LA EDAD DE 82 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA PLATA.",
+					"honras": "HONRAS 13.00 HRS. TEMPLO SAGRADO CORAZÓN (COL. HIDALGO). SE DESPIDE EN PANTEON JARDIN.",
+					"descripcion": ""
+				},
+				{
+					"id": 387,
+					"titulo": "",
+					"nombre": "ISAIAS",
+					"apellido_paterno": "BONILLA",
+					"apellido_materno": "REYES",
+					"fecha": "MONDAY AUGUST 27",
+					"mensaje_corto": "A LA EDAD DE 61 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
 				{
 					"id": 386,
 					"titulo": "",
@@ -156,92 +168,8 @@
 					"apellido_materno": "LOPEZ",
 					"fecha": "FRIDAY AUGUST 24",
 					"mensaje_corto": "",
-					"se_vela_en": "",
-					"honras": "SE TRASLADA DIRECTAMENTE AL PANTEON DE LERDO DE TEJADA",
-					"descripcion": ""
-				},
-				{
-					"id": 383,
-					"titulo": "",
-					"nombre": "RAMON",
-					"apellido_paterno": "RAMIREZ",
-					"apellido_materno": "NEVAREZ",
-					"fecha": "THURSDAY AUGUST 23",
-					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA RAÚL FLORES, SANTIAGO PAPASQUIARO, DGO.",
-					"honras": "HONRAS 11:00 HRS. TEMPLO SANTO SANTIAGO APOSTOL. SE DESPIDE EN PANTEON LOS NOGALES.",
-					"descripcion": ""
-				},
-				{
-					"id": 382,
-					"titulo": "",
-					"nombre": "JUANA",
-					"apellido_paterno": "ROMERO",
-					"apellido_materno": "NAVA",
-					"fecha": "THURSDAY AUGUST 23",
-					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
-					"se_vela_en": "SE VELA C. FELIPE ANGELES S/N COL. RAQUEL VELAZQUEZ.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 381,
-					"titulo": "",
-					"nombre": "CECILIO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "QUINTERO",
-					"fecha": "THURSDAY AUGUST 23",
-					"mensaje_corto": "A LA EDAD DE 54 AÑOS",
-					"se_vela_en": "SE VELA CALLE NOGALES S/N COL. DEL VALLE, TEPEHUANES,DGO.",
-					"honras": "HONRAS 9:00 A.M, TEMPLO DEL LUGAR. SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 380,
-					"titulo": "",
-					"nombre": "ROSARIO",
-					"apellido_paterno": "BLANCO",
-					"apellido_materno": "GRANADOS",
-					"fecha": "MONDAY AUGUST 20",
-					"mensaje_corto": "A LA EDAD DE 68 AÑOS",
-					"se_vela_en": "SE VELA C.MERCURIO #119 COL. MENDEZ ARCEO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 379,
-					"titulo": "",
-					"nombre": "CARMEN",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "LOPEZ",
-					"fecha": "MONDAY AUGUST 20",
-					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
-					"se_vela_en": "SEVELA DOM. CON SANDIAS, TEPEHUANES,DGO.",
-					"honras": "HONRAS 16:00 HRS. TEMPLO DEL LUGAR. SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 378,
-					"titulo": "",
-					"nombre": "JOSE HUGO",
-					"apellido_paterno": "MORA",
-					"apellido_materno": "RODRIGUEZ",
-					"fecha": "MONDAY AUGUST 20",
-					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
-					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO DEL POBLADO LA UNION DE RODRIGUEZ, DURANGO",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 377,
-					"titulo": "",
-					"nombre": "ALBERTO",
-					"apellido_paterno": "GOMEZ",
-					"apellido_materno": "CASTRELLON",
-					"fecha": "SATURDAY AUGUST 18",
-					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
-					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO EN BELISARIO DOMINGUEZ.",
-					"honras": "HONRAS: 13:00 HRS LUNES 20 AGOSTO. TEMPLO DEL SAGRADO CORAZON DE JESUS DEL POBLADO BELISARIO DOMINGUEZ. SE DESPIDE EN PANTEON GETSEMANI",
+					"se_vela_en": "SE VELA EN   LA TINAJA",
+					"honras": "HONRAS PENDIENTES",
 					"descripcion": ""
 				}
 				
