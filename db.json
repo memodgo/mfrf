@@ -1,6 +1,18 @@
 		{
 			"obituario": [
 				{
+					"id": 391,
+					"titulo": "",
+					"nombre": "JOSE LUIS",
+					"apellido_paterno": "CABRALES",
+					"apellido_materno": "LUNA",
+					"fecha": "MARTES 28 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 55 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA DIAMANTE. A PARTIR DE LAS 11:00 HRS.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 390,
 					"titulo": "",
 					"nombre": "JUAQUIN",
@@ -9,7 +21,7 @@
 					"fecha": "LUNES 27 DE AGOSTO",
 					"mensaje_corto": "A LA EDAD DE 57 AÑOS",
 					"se_vela_en": "SE VELA C. CORNELIO REYNA #414 COL. VALLE DEL GUADIANA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 16:00 HRS. TEMPLO LA VIRGEN DEL SAGRADO CORAZÓN. (COL. HIPODROMO",
 					"descripcion": ""
 				},
 				{
@@ -89,6 +101,18 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 391,
+					"titulo": "",
+					"nombre": "JOSE LUIS",
+					"apellido_paterno": "CABRALES",
+					"apellido_materno": "LUNA",
+					"fecha": "TURSDAY AUGUST 28",
+					"mensaje_corto": "A LA EDAD DE 55 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA DIAMANTE. A PARTIR DE LAS 11:00 HRS.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 390,
 					"titulo": "",
 					"nombre": "JUAQUIN",
@@ -97,7 +121,7 @@
 					"fecha": "MONDAY AUGUST 27",
 					"mensaje_corto": "A LA EDAD DE 57 AÑOS",
 					"se_vela_en": "SE VELA C. CORNELIO REYNA #414 COL. VALLE DEL GUADIANA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 16:00 HRS. TEMPLO LA VIRGEN DEL SAGRADO CORAZÓN. (COL. HIPODROMO)",
 					"descripcion": ""
 				},
 				{
