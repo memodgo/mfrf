@@ -107,30 +107,6 @@
 					"se_vela_en": "SE VELA CAPILLA PLATA.",
 					"honras": "HONRAS 13.00 HRS. TEMPLO SAGRADO CORAZÓN (COL. HIDALGO). SE DESPIDE EN PANTEON JARDIN.",
 					"descripcion": ""
-				},
-				{
-					"id": 387,
-					"titulo": "",
-					"nombre": "ISAIAS",
-					"apellido_paterno": "BONILLA",
-					"apellido_materno": "REYES     ",
-					"fecha": "LUNES 27 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 61 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 386,
-					"titulo": "",
-					"nombre": "JUAN LUIS",
-					"apellido_paterno": "ADAME",
-					"apellido_materno": "GORGONIO",
-					"fecha": "SABADO 25 DE AGOSTO",
-					"mensaje_corto": "A LA EDAD DE 17 AÑOS",
-					"se_vela_en": "SE VELA EN CALLE PANAMA 201 COL. LAZARO CARDENAS",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
 				}
 				
 			],
@@ -241,30 +217,6 @@
 					"mensaje_corto": "A LA EDAD DE 82 AÑOS",
 					"se_vela_en": "SE VELA CAPILLA PLATA.",
 					"honras": "HONRAS 13.00 HRS. TEMPLO SAGRADO CORAZÓN (COL. HIDALGO). SE DESPIDE EN PANTEON JARDIN.",
-					"descripcion": ""
-				},
-				{
-					"id": 387,
-					"titulo": "",
-					"nombre": "ISAIAS",
-					"apellido_paterno": "BONILLA",
-					"apellido_materno": "REYES     ",
-					"fecha": "MONDAY AUGUST 27",
-					"mensaje_corto": "A LA EDAD DE 61 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 386,
-					"titulo": "",
-					"nombre": "JUAN LUIS",
-					"apellido_paterno": "ADAME",
-					"apellido_materno": "GORGONIO",
-					"fecha": "SATURDAY AUGUST 25",
-					"mensaje_corto": "A LA EDAD DE 17 AÑOS",
-					"se_vela_en": "SE VELA EN CALLE PANAMA 201 COL. LAZARO CARDENAS",
-					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
 				}
 				
