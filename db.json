@@ -1,6 +1,66 @@
 		{
 			"obituario": [
 				{
+					"id": 395,
+					"titulo": "",
+					"nombre": "MIGUEL ANGEL",
+					"apellido_paterno": "CRUZ",
+					"apellido_materno": "SANTIAGO",
+					"fecha": "VIERNES 31 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 50 AÑOS",
+					"se_vela_en": "SE TRASLADA VILLAHERMOSA TABASCO",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 395,
+					"titulo": "",
+					"nombre": "LORENZA",
+					"apellido_paterno": "MARTINEZ",
+					"apellido_materno": "SOTO",
+					"fecha": "VIERNES 31 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON. CARLOS REAL, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 394,
+					"titulo": "",
+					"nombre": "FRANCISCO",
+					"apellido_paterno": "GARCIA",
+					"apellido_materno": "MERAZ",
+					"fecha": "VIERNES 31 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
+					"se_vela_en": "SE TRASLADA A PUERTO PENASCO SONORA",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 393,
+					"titulo": "",
+					"nombre": "ARMANDO",
+					"apellido_paterno": "MARTINEZ",
+					"apellido_materno": "MARTINEZ",
+					"fecha": "VIERNES 31 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 73 AÑOS",
+					"se_vela_en": "SE VELA CALLE RODOLFO FIERRO #426 COL. DIVISION DEL NORTE.",
+					"honras": "HONRAS 14.00 HRS. TEMPLO NUTRA.SRA. DE GUADALUPE. SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS.",
+					"descripcion": ""
+				},
+				{
+					"id": 392,
+					"titulo": "",
+					"nombre": "SATURNINO",
+					"apellido_paterno": "AGUIRRE",
+					"apellido_materno": "LOPEZ",
+					"fecha": "VIERNES 31 DE AGOSTO",
+					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
+					"se_vela_en": "SE VELA COSCOMATE, GUANACEVI,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 391,
 					"titulo": "",
 					"nombre": "JOSE LUIS",
@@ -71,35 +131,70 @@
 					"se_vela_en": "SE VELA EN CALLE PANAMA 201 COL. LAZARO CARDENAS",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
-				},
+				}
+				
+			],
+			"obituario_ingles": [
 				{
-					"id": 385,
+					"id": 395,
 					"titulo": "",
-					"nombre": "MARIA",
-					"apellido_paterno": "CABADA",
-					"apellido_materno": "VIZCARRA",
-					"fecha": "VIERNES 24 DE AGOSTO",
-					"mensaje_corto": "",
-					"se_vela_en": "SE TRASLADA DE CHICAGO, ILLINOIS,U.S.A  A ARROYO CHICO,TEPEHUANES, DGO.",
+					"nombre": "MIGUEL ANGEL",
+					"apellido_paterno": "CRUZ",
+					"apellido_materno": "SANTIAGO",
+					"fecha": "FRIDAY AUGUST 31",
+					"mensaje_corto": "A LA EDAD DE 50 AÑOS",
+					"se_vela_en": "SE TRASLADA VILLAHERMOSA TABASCO",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
 				},
 				{
-					"id": 384,
+					"id": 395,
 					"titulo": "",
-					"nombre": "R.N.    ",
+					"nombre": "LORENZA",
 					"apellido_paterno": "MARTINEZ",
-					"apellido_materno": "LOPEZ",
-					"fecha": "VIERNES 24 DE AGOSTO",
-					"mensaje_corto": "",
-					"se_vela_en": "SE VELA EN   LA TINAJA",
-					"honras": "HONRAS PENDIENTES",
+					"apellido_materno": "SOTO",
+					"fecha": "FRIDAY AUGUST 31",
+					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON. CARLOS REAL, DGO.",
+					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
-				}
-				
-				
-			],
-			"obituario_ingles": [
+				},
+				{
+					"id": 394,
+					"titulo": "",
+					"nombre": "FRANCISCO",
+					"apellido_paterno": "GARCIA",
+					"apellido_materno": "MERAZ",
+					"fecha": "FRIDAY AUGUST 31",
+					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
+					"se_vela_en": "SE TRASLADA A PUERTO PENASCO SONORA",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 393,
+					"titulo": "",
+					"nombre": "ARMANDO",
+					"apellido_paterno": "MARTINEZ",
+					"apellido_materno": "MARTINEZ",
+					"fecha": "FRIDAY AUGUST 31",
+					"mensaje_corto": "A LA EDAD DE 73 AÑOS",
+					"se_vela_en": "SE VELA CALLE RODOLFO FIERRO #426 COL. DIVISION DEL NORTE.",
+					"honras": "HONRAS 14.00 HRS. TEMPLO NUTRA.SRA. DE GUADALUPE. SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS.",
+					"descripcion": ""
+				},
+				{
+					"id": 392,
+					"titulo": "",
+					"nombre": "SATURNINO",
+					"apellido_paterno": "AGUIRRE",
+					"apellido_materno": "LOPEZ",
+					"fecha": "FRIDAY AUGUST 31",
+					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
+					"se_vela_en": "SE VELA COSCOMATE, GUANACEVI,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
 				{
 					"id": 391,
 					"titulo": "",
@@ -170,30 +265,6 @@
 					"mensaje_corto": "A LA EDAD DE 17 AÑOS",
 					"se_vela_en": "SE VELA EN CALLE PANAMA 201 COL. LAZARO CARDENAS",
 					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 385,
-					"titulo": "",
-					"nombre": "MARIA",
-					"apellido_paterno": "CABADA",
-					"apellido_materno": "VIZCARRA",
-					"fecha": "FRIDAY AUGUST 24",
-					"mensaje_corto": "",
-					"se_vela_en": "SE TRASLADA DE CHICAGO, ILLINOIS,U.S.A  A ARROYO CHICO,TEPEHUANES, DGO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 384,
-					"titulo": "",
-					"nombre": "R.N.    ",
-					"apellido_paterno": "MARTINEZ",
-					"apellido_materno": "LOPEZ",
-					"fecha": "FRIDAY AUGUST 24",
-					"mensaje_corto": "",
-					"se_vela_en": "SE VELA EN   LA TINAJA",
-					"honras": "HONRAS PENDIENTES",
 					"descripcion": ""
 				}
 				
