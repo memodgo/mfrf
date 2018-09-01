@@ -1,6 +1,18 @@
 		{
 			"obituario": [
 				{
+					"id": 396,
+					"titulo": "",
+					"nombre": "HERMENEGILDO  .",
+					"apellido_paterno": "MEDRANO",
+					"apellido_materno": "FLORES",
+					"fecha": "SABADO 1 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
+					"se_vela_en": "SE VELA C. FRANCISCO MADERO #208 COL. LOPEZ PORTILLO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 395,
 					"titulo": "",
 					"nombre": "MIGUEL ANGEL",
@@ -111,6 +123,18 @@
 				
 			],
 			"obituario_ingles": [
+				{
+					"id": 396,
+					"titulo": "",
+					"nombre": "HERMENEGILDO  .",
+					"apellido_paterno": "MEDRANO",
+					"apellido_materno": "FLORES",
+					"fecha": "SATURDAY SEPTEMBER 1",
+					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
+					"se_vela_en": "SE VELA C. FRANCISCO MADERO #208 COL. LOPEZ PORTILLO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
 				{
 					"id": 395,
 					"titulo": "",
