@@ -1,6 +1,18 @@
 		{
 			"obituario": [
 				{
+					"id": 404,
+					"titulo": "",
+					"nombre": "PETRA",
+					"apellido_paterno": "ZENDEJAS",
+					"apellido_materno": "GUERECA",
+					"fecha": "SABADO 8 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 76 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 403,
 					"titulo": "",
 					"nombre": "JESUS MARIA",
@@ -99,6 +111,18 @@
 				
 			],
 			"obituario_ingles": [
+				{
+					"id": 404,
+					"titulo": "",
+					"nombre": "PETRA",
+					"apellido_paterno": "ZENDEJAS",
+					"apellido_materno": "GUERECA",
+					"fecha": "SATURDAY SEPTEMBER 8",
+					"mensaje_corto": "A LA EDAD DE 76 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
 				{
 					"id": 403,
 					"titulo": "",
