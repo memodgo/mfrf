@@ -1,11 +1,11 @@
 		{
 			"obituario": [
 				{
-					"id": 406,
-					"titulo": "MARIA GUADALUPE",
-					"nombre": "PETRA",
-					"apellido_paterno": "DIAZ",
-					"apellido_materno": "CHAVEZ",
+					"id": 407,
+					"titulo": "",
+					"nombre": "MANUELA",
+					"apellido_paterno": "GONZALEZ",
+					"apellido_materno": "PULIDO",
 					"fecha": "MARTES 11 DE SEPTIEMBRE",
 					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
 					"se_vela_en": "SE VELA DOM. CON. INDEPENDENCIA Y LIBERTAD, DGO.",
@@ -14,8 +14,8 @@
 				},
 				{
 					"id": 406,
-					"titulo": "MARIA GUADALUPE",
-					"nombre": "PETRA",
+					"titulo": "",
+					"nombre": "MARIA GUADALUPE",
 					"apellido_paterno": "DIAZ",
 					"apellido_materno": "CHAVEZ",
 					"fecha": "LUNES 10 DE SEPTIEMBRE",
@@ -136,11 +136,11 @@
 			],
 			"obituario_ingles": [
 				{
-					"id": 406,
-					"titulo": "MARIA GUADALUPE",
-					"nombre": "PETRA",
-					"apellido_paterno": "DIAZ",
-					"apellido_materno": "CHAVEZ",
+					"id": 407,
+					"titulo": "",
+					"nombre": "MANUELA",
+					"apellido_paterno": "GONZALEZ",
+					"apellido_materno": "PULIDO",
 					"fecha": "TUESDAY SEPTEMBER 11",
 					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
 					"se_vela_en": "SE VELA DOM. CON. INDEPENDENCIA Y LIBERTAD, DGO.",
@@ -149,8 +149,8 @@
 				},
 				{
 					"id": 406,
-					"titulo": "MARIA GUADALUPE",
-					"nombre": "PETRA",
+					"titulo": "",
+					"nombre": "MARIA GUADALUPE",
 					"apellido_paterno": "DIAZ",
 					"apellido_materno": "CHAVEZ",
 					"fecha": "MONDAY SEPTEMBER 10",
