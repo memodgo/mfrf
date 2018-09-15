@@ -1,6 +1,42 @@
 		{
 			"obituario": [
 				{
+					"id": 417,
+					"titulo": "",
+					"nombre": "MAGDALENO",
+					"apellido_paterno": "MARTINEZ",
+					"apellido_materno": "SALCIDO",
+					"fecha": "SABADO 15 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 74 AÑOS",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO J. REFUGIO SALCIDO",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 416,
+					"titulo": "",
+					"nombre": "MA TOMASA",
+					"apellido_paterno": "ZURITA",
+					"apellido_materno": "MEJORADO",
+					"fecha": "SABADO 15 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+					"se_vela_en": "SE VELA EN SANTIAGO PAPASQUIARO",
+					"honras": "HONRAS 16:00 TEMPLO CRISTO REY",
+					"descripcion": ""
+				},
+				{
+					"id": 415,
+					"titulo": "",
+					"nombre": "EVANGELINA",
+					"apellido_paterno": "FAVELA",
+					"apellido_materno": "REYES",
+					"fecha": "SABADO 15 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON. LABOR DE GUADALUPE, DGO.",
+					"honras": "SALIDA DIRECTA AL PANTEÓN DEL LUGAR 16:00",
+					"descripcion": ""
+				},
+				{
 					"id": 414,
 					"titulo": "",
 					"nombre": "ARCADIO",
@@ -123,6 +159,42 @@
 				
 			],
 			"obituario_ingles": [
+				{
+					"id": 417,
+					"titulo": "",
+					"nombre": "MAGDALENO",
+					"apellido_paterno": "MARTINEZ",
+					"apellido_materno": "SALCIDO",
+					"fecha": "SATURDAY SEPTEMBER 15",
+					"mensaje_corto": "A LA EDAD DE 74 AÑOS",
+					"se_vela_en": "SE VELA EN DOMICILIO CONOCIDO J. REFUGIO SALCIDO",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 416,
+					"titulo": "",
+					"nombre": "MA TOMASA",
+					"apellido_paterno": "ZURITA",
+					"apellido_materno": "MEJORADO",
+					"fecha": "SATURDAY SEPTEMBER 15",
+					"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+					"se_vela_en": "SE VELA EN SANTIAGO PAPASQUIARO",
+					"honras": "HONRAS 16:00 TEMPLO CRISTO REY",
+					"descripcion": ""
+				},
+				{
+					"id": 415,
+					"titulo": "",
+					"nombre": "EVANGELINA",
+					"apellido_paterno": "FAVELA",
+					"apellido_materno": "REYES",
+					"fecha": "SATURDAY SEPTEMBER 15",
+					"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON. LABOR DE GUADALUPE, DGO.",
+					"honras": "SALIDA DIRECTA AL PANTEÓN DEL LUGAR 16:00",
+					"descripcion": ""
+				},
 				{
 					"id": 414,
 					"titulo": "",
