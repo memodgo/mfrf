@@ -131,30 +131,6 @@
 					"se_vela_en": "SE VELA DOM. CON. INDEPENDENCIA Y LIBERTAD, DGO.",
 					"honras": "HONRAS 16:30 HRS.TEMPLO SANTA MARIA DE GUADALUPE.SE DESPIDE EN PANTEÓN DEL LUGAR.",
 					"descripcion": ""
-				},
-				{
-					"id": 406,
-					"titulo": "",
-					"nombre": "MARIA GUADALUPE",
-					"apellido_paterno": "DIAZ",
-					"apellido_materno": "CHAVEZ",
-					"fecha": "LUNES 10 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 405,
-					"titulo": "",
-					"nombre": "LUIS ABEL",
-					"apellido_paterno": "MARTINEZ",
-					"apellido_materno": "GARCIA",
-					"fecha": "LUNES 10 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 38 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA PLATA.",
-					"honras": "HONRAS 13:00 HRS. TEMPLO SANTUARIO DE NTRA. SRA. DE GUADALUPE (VIEJO) SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
 				}
 				
 			],
@@ -289,30 +265,6 @@
 					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
 					"se_vela_en": "SE VELA DOM. CON. INDEPENDENCIA Y LIBERTAD, DGO.",
 					"honras": "HONRAS 16:30 HRS.TEMPLO SANTA MARIA DE GUADALUPE.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 406,
-					"titulo": "",
-					"nombre": "MARIA GUADALUPE",
-					"apellido_paterno": "DIAZ",
-					"apellido_materno": "CHAVEZ",
-					"fecha": "MONDAY SEPTEMBER 10",
-					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 405,
-					"titulo": "",
-					"nombre": "LUIS ABEL",
-					"apellido_paterno": "MARTINEZ",
-					"apellido_materno": "GARCIA",
-					"fecha": "MONDAY SEPTEMBER 10",
-					"mensaje_corto": "A LA EDAD DE 38 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA PLATA.",
-					"honras": "HONRAS 13:00 HRS. TEMPLO SANTUARIO DE NTRA. SRA. DE GUADALUPE (VIEJO) SE DESPIDE EN PANTEÓN ORIENTE.",
 					"descripcion": ""
 				}
 				
