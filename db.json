@@ -1,6 +1,42 @@
 		{
 			"obituario": [
 				{
+					"id": 420,
+					"titulo": "",
+					"nombre": "ROMAN",
+					"apellido_paterno": "JAQUEZ",
+					"apellido_materno": "       ",
+					"fecha": "LUNES 17 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 71 AÑOS",
+					"se_vela_en": "SE VELA EN GARAME DE ABAJO, SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 419,
+					"titulo": "",
+					"nombre": "JESUS",
+					"apellido_paterno": "NUÑEZ",
+					"apellido_materno": "DUARTE",
+					"fecha": "LUNES 17 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 90 AÑOS",
+					"se_vela_en": "SE VELA EN GARAME DE ARRIBA, SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 418,
+					"titulo": "",
+					"nombre": "JOSE DEL PILAR",
+					"apellido_paterno": "LAZCANO",
+					"apellido_materno": "LARES",
+					"fecha": "LUNES 17 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 40 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON. TEPEHUANES, DGO.",
+					"honras": "HONRAS 16:00 HRS.TEMPLO SANTA CATARINA.SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
 					"id": 417,
 					"titulo": "",
 					"nombre": "MAGDALENO",
@@ -58,84 +94,48 @@
 					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
 					"se_vela_en": "SE VELA ENCINO DE LA PAZ VILLA OCAMPO,DGO.",
 					"honras": "HONRAS 10:00 HRS.TEMPLO NTRA. SRA. DE LA PAZ.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 412,
-					"titulo": "",
-					"nombre": "MARIA DE LOURDES",
-					"apellido_paterno": "HERNANDEZ",
-					"apellido_materno": "PIÑA",
-					"fecha": "MIERCOLES 12 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
-					"se_vela_en": "SE VELA  EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS 11:00 HRS.TEMPLO NTRA.SRA.DE LA SALUD.SE DESPIDE EN PANTEÓN DE ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 411,
-					"titulo": "",
-					"nombre": "SANTOS",
-					"apellido_paterno": "TORRES",
-					"apellido_materno": "VAZQUEZ",
-					"fecha": "MIERCOLES 12 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 78 AÑOS",
-					"se_vela_en": "SE VELA EN PHOENIX, ARIZONA.E.E.U.U.",
-					"honras": "HONRAS 4 A 8 P.M. JUEVES 13 SEPTIEMBRE 2018.",
-					"descripcion": ""
-				},
-				{
-					"id": 410,
-					"titulo": "",
-					"nombre": "RAFAEL",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "MEZA",
-					"fecha": "MIERCOLES 12 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
-					"se_vela_en": "SEVELA EN CAPILLA RAÚL FLORES, SUCURSAL BACA ORTIZ, STGO.PAPASQUIARO, DGO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 409,
-					"titulo": "",
-					"nombre": "ARCADIO",
-					"apellido_paterno": "FLORES",
-					"apellido_materno": "ESPINOZA",
-					"fecha": "MIERCOLES 12 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 82 AÑOS",
-					"se_vela_en": "SE VELA DOM.CON. MORCILLO,DGO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 408,
-					"titulo": "",
-					"nombre": "JESUS CARLOS",
-					"apellido_paterno": "SALAZAR",
-					"apellido_materno": "REYES",
-					"fecha": "MIERCOLES 12 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
-					"se_vela_en": "SEVELA EN CAPILLA ESMERALDA A PARTIR DE LAS 11.00 HRS.",
-					"honras": "HONRAS 16:00 HRS.TEMPLO NTRA.SRA. DE FÁTIMA Y DEL CARMEN.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 407,
-					"titulo": "",
-					"nombre": "MANUELA",
-					"apellido_paterno": "GONZALEZ",
-					"apellido_materno": "PULIDO",
-					"fecha": "MARTES 11 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
-					"se_vela_en": "SE VELA DOM. CON. INDEPENDENCIA Y LIBERTAD, DGO.",
-					"honras": "HONRAS 16:30 HRS.TEMPLO SANTA MARIA DE GUADALUPE.SE DESPIDE EN PANTEÓN DEL LUGAR.",
 					"descripcion": ""
 				}
 				
 			],
 			"obituario_ingles": [
 				{
+					"id": 420,
+					"titulo": "",
+					"nombre": "ROMAN",
+					"apellido_paterno": "JAQUEZ",
+					"apellido_materno": "       ",
+					"fecha": "MONDAY SEPTEMBER 17",
+					"mensaje_corto": "A LA EDAD DE 71 AÑOS",
+					"se_vela_en": "SE VELA EN GARAME DE ABAJO, SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 419,
+					"titulo": "",
+					"nombre": "JESUS",
+					"apellido_paterno": "NUÑEZ",
+					"apellido_materno": "DUARTE",
+					"fecha": "MONDAY SEPTEMBER 17",
+					"mensaje_corto": "A LA EDAD DE 90 AÑOS",
+					"se_vela_en": "SE VELA EN GARAME DE ARRIBA, SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 418,
+					"titulo": "",
+					"nombre": "JOSE DEL PILAR",
+					"apellido_paterno": "LAZCANO",
+					"apellido_materno": "LARES",
+					"fecha": "MONDAY SEPTEMBER 17",
+					"mensaje_corto": "A LA EDAD DE 40 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON. TEPEHUANES, DGO.",
+					"honras": "HONRAS 16:00 HRS.TEMPLO SANTA CATARINA.SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
 					"id": 417,
 					"titulo": "",
 					"nombre": "MAGDALENO",
@@ -193,78 +193,6 @@
 					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
 					"se_vela_en": "SE VELA ENCINO DE LA PAZ VILLA OCAMPO,DGO.",
 					"honras": "HONRAS 10:00 HRS.TEMPLO NTRA. SRA. DE LA PAZ.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 412,
-					"titulo": "",
-					"nombre": "MARIA DE LOURDES",
-					"apellido_paterno": "HERNANDEZ",
-					"apellido_materno": "PIÑA",
-					"fecha": "WENSDAY SEPTEMBER 12",
-					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
-					"se_vela_en": "SE VELA  EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS 11:00 HRS.TEMPLO NTRA.SRA.DE LA SALUD.SE DESPIDE EN PANTEÓN DE ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 411,
-					"titulo": "",
-					"nombre": "SANTOS",
-					"apellido_paterno": "TORRES",
-					"apellido_materno": "VAZQUEZ",
-					"fecha": "WENSDAY SEPTEMBER 12",
-					"mensaje_corto": "A LA EDAD DE 78 AÑOS",
-					"se_vela_en": "SE VELA EN PHOENIX, ARIZONA.E.E.U.U.",
-					"honras": "HONRAS 4 A 8 P.M. JUEVES 13 SEPTIEMBRE 2018.",
-					"descripcion": ""
-				},
-				{
-					"id": 410,
-					"titulo": "",
-					"nombre": "RAFAEL",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "MEZA",
-					"fecha": "WENSDAY SEPTEMBER 12",
-					"mensaje_corto": "A LA EDAD DE 79 AÑOS",
-					"se_vela_en": "SEVELA EN CAPILLA RAÚL FLORES, SUCURSAL BACA ORTIZ, STGO.PAPASQUIARO, DGO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 409,
-					"titulo": "",
-					"nombre": "ARCADIO",
-					"apellido_paterno": "FLORES",
-					"apellido_materno": "ESPINOZA",
-					"fecha": "WENSDAY SEPTEMBER 12",
-					"mensaje_corto": "A LA EDAD DE 82 AÑOS",
-					"se_vela_en": "SE VELA DOM.CON. MORCILLO,DGO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 408,
-					"titulo": "",
-					"nombre": "JESUS CARLOS",
-					"apellido_paterno": "SALAZAR",
-					"apellido_materno": "REYES",
-					"fecha": "WENSDAY SEPTEMBER 12",
-					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
-					"se_vela_en": "SEVELA EN CAPILLA ESMERALDA A PARTIR DE LAS 11.00 HRS.",
-					"honras": "HONRAS 16:00 HRS.TEMPLO NTRA.SRA. DE FÁTIMA Y DEL CARMEN.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 407,
-					"titulo": "",
-					"nombre": "MANUELA",
-					"apellido_paterno": "GONZALEZ",
-					"apellido_materno": "PULIDO",
-					"fecha": "TUESDAY SEPTEMBER 11",
-					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
-					"se_vela_en": "SE VELA DOM. CON. INDEPENDENCIA Y LIBERTAD, DGO.",
-					"honras": "HONRAS 16:30 HRS.TEMPLO SANTA MARIA DE GUADALUPE.SE DESPIDE EN PANTEÓN DEL LUGAR.",
 					"descripcion": ""
 				}
 				
