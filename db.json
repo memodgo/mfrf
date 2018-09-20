@@ -1,6 +1,30 @@
 		{
 			"obituario": [
 				{
+					"id": 427,
+					"titulo": "",
+					"nombre": "JUAN MANUEL",
+					"apellido_paterno": "LEAL",
+					"apellido_materno": "PARRA",
+					"fecha": "JUEVEZ 20 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 62 AÑOS",
+					"se_vela_en": "SEVELA EN CAPILLA DIAMANTE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 426,
+					"titulo": "",
+					"nombre": "ADAN",
+					"apellido_paterno": "VARGAS",
+					"apellido_materno": "VALENZUELA",
+					"fecha": "JUEVEZ 20 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS 10:00 HRS.TEMPLO DIVINA PROVIDENCIA.SE DESPIDE EN PANTEÓN ORIENTE.",
+					"descripcion": ""
+				},
+				{
 					"id": 425,
 					"titulo": "",
 					"nombre": "MAXIMO",
@@ -21,7 +45,7 @@
 					"fecha": "MIERCOLES 19 DE SEPTIEMBRE",
 					"mensaje_corto": "A LA EDAD DE 75 AÑOS",
 					"se_vela_en": "SE VELA EN VILLA MONTEMORELOS, DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 12:00 HRS.PARROQUIA DE SAN JOSÉ.SE DESPIDE EN PANTEÓN DEL LUGAR.",
 					"descripcion": ""
 				},
 				{
@@ -33,7 +57,7 @@
 					"fecha": "MIERCOLES 19 DE SEPTIEMBRE",
 					"mensaje_corto": "A LA EDAD DE 62 AÑOS",
 					"se_vela_en": "SE VELA SAN FRANCISCO DEL MANZANAL,DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 13:00 HRS.TEMPLO SAN FRANCISCO DE ASIS.SE DESPIDE EN PANTEÓN DEL LUGAR..",
 					"descripcion": ""
 				},
 				{
@@ -100,6 +124,30 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 427,
+					"titulo": "",
+					"nombre": "JUAN MANUEL",
+					"apellido_paterno": "LEAL",
+					"apellido_materno": "PARRA",
+					"fecha": "THURSDAY SEPTEMBER 20",
+					"mensaje_corto": "A LA EDAD DE 62 AÑOS",
+					"se_vela_en": "SEVELA EN CAPILLA DIAMANTE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 426,
+					"titulo": "",
+					"nombre": "ADAN",
+					"apellido_paterno": "VARGAS",
+					"apellido_materno": "VALENZUELA",
+					"fecha": "THURSDAY SEPTEMBER 20",
+					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS 10:00 HRS.TEMPLO DIVINA PROVIDENCIA.SE DESPIDE EN PANTEÓN ORIENTE.",
+					"descripcion": ""
+				},
+				{
 					"id": 425,
 					"titulo": "",
 					"nombre": "MAXIMO",
@@ -120,7 +168,7 @@
 					"fecha": "WENSDAY SEPTEMBER 19",
 					"mensaje_corto": "A LA EDAD DE 75 AÑOS",
 					"se_vela_en": "SE VELA EN VILLA MONTEMORELOS, DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 12:00 HRS.PARROQUIA DE SAN JOSÉ.SE DESPIDE EN PANTEÓN DEL LUGAR.",
 					"descripcion": ""
 				},
 				{
@@ -132,7 +180,7 @@
 					"fecha": "WENSDAY SEPTEMBER 19",
 					"mensaje_corto": "A LA EDAD DE 62 AÑOS",
 					"se_vela_en": "SE VELA SAN FRANCISCO DEL MANZANAL,DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 13:00 HRS.TEMPLO SAN FRANCISCO DE ASIS.SE DESPIDE EN PANTEÓN DEL LUGAR..",
 					"descripcion": ""
 				},
 				{
