@@ -1,6 +1,30 @@
 		{
 			"obituario": [
 				{
+					"id": 429,
+					"titulo": "",
+					"nombre": "MANUEL",
+					"apellido_paterno": "PEREZ",
+					"apellido_materno": "PEREZ",
+					"fecha": "VIERNES 21 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 68 AÑOS",
+					"se_vela_en": "SE VELA COL. LA NORIA, SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 428,
+					"titulo": "",
+					"nombre": "UBALDO",
+					"apellido_paterno": "MARTINEZ",
+					"apellido_materno": "FAVELA",
+					"fecha": "VIERNES 21 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS 13.00 HRS. MISMA CAPILLA ESMERALDA.SE DESPIDE EN PANTEÓN GETSEMANÍ.",
+					"descripcion": ""
+				},
+				{
 					"id": 427,
 					"titulo": "",
 					"nombre": "JUAN MANUEL",
@@ -9,7 +33,7 @@
 					"fecha": "JUEVEZ 20 DE SEPTIEMBRE",
 					"mensaje_corto": "A LA EDAD DE 62 AÑOS",
 					"se_vela_en": "SEVELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 15:00 HRS.TEMPLO SANTUARIO DE GUADALUPE.SE DESPIDEN EN PANTEÓN ORIENTE.",
 					"descripcion": ""
 				},
 				{
@@ -132,7 +156,7 @@
 					"fecha": "THURSDAY SEPTEMBER 20",
 					"mensaje_corto": "A LA EDAD DE 62 AÑOS",
 					"se_vela_en": "SEVELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 15:00 HRS.TEMPLO SANTUARIO DE GUADALUPE.SE DESPIDEN EN PANTEÓN ORIENTE.",
 					"descripcion": ""
 				},
 				{
