@@ -148,6 +148,30 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 429,
+					"titulo": "",
+					"nombre": "MANUEL",
+					"apellido_paterno": "PEREZ",
+					"apellido_materno": "PEREZ",
+					"fecha": "FRIDAY SEPTEMBER 21",
+					"mensaje_corto": "A LA EDAD DE 68 AÑOS",
+					"se_vela_en": "SE VELA COL. LA NORIA, SANTIAGO PAPASQUIARO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 428,
+					"titulo": "",
+					"nombre": "UBALDO",
+					"apellido_paterno": "MARTINEZ",
+					"apellido_materno": "FAVELA",
+					"fecha": "FRIDAY SEPTEMBER 21",
+					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS 13.00 HRS. MISMA CAPILLA ESMERALDA.SE DESPIDE EN PANTEÓN GETSEMANÍ.",
+					"descripcion": ""
+				},
+				{
 					"id": 427,
 					"titulo": "",
 					"nombre": "JUAN MANUEL",
