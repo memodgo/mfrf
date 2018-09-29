@@ -1,12 +1,60 @@
 		{
 			"obituario": [
 				{
+					"id": 435,
+					"titulo": "",
+					"nombre": "JUAN",
+					"apellido_paterno": "LERMA",
+					"apellido_materno": "FLORES",
+					"fecha": "SABADO 29 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
+					"se_vela_en": "SEVELA DOM. CON. LA CONSTANCIA,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 434,
+					"titulo": "",
+					"nombre": "ATILANO",
+					"apellido_paterno": "SOTO",
+					"apellido_materno": "MARTINEZ",
+					"fecha": "SABADO 29 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON.LABOR DE GUADALUPE,DGO.",
+					"honras": "CULTO BÍBLICO A LAS 15.00 HRS.SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 433,
+					"titulo": "",
+					"nombre": "ADAN GABRIEL",
+					"apellido_paterno": "SOLARES",
+					"apellido_materno": "ÁVILA",
+					"fecha": "SABADO 29 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 45 AÑOS",
+					"se_vela_en": "SEVELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS 13:00 HRS.TEMPLO DE LA DIVINA PROVIDENCIA.SE DESPIDE PARA SU CREMACIÓN.",
+					"descripcion": ""
+				},
+				{
+					"id": 432,
+					"titulo": "",
+					"nombre": "ALMA DELIA",
+					"apellido_paterno": "CHAVARRIA",
+					"apellido_materno": "CORONA",
+					"fecha": "SABADO 29 DE SEPTIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 43 AÑOS",
+					"se_vela_en": "SE VELA C. LUCHA POPULAR #445 COL. EMILIANO ZAPATA.",
+					"honras": "HONRAS 12:00 HRS.TEMPLO SANTA TERESITA.SE DESPIDE EN PANTEÓN GETSEMANÍ.",
+					"descripcion": ""
+				},
+				{
 					"id": 431,
 					"titulo": "",
 					"nombre": "OSCAR ANTONIO ABAD",
 					"apellido_paterno": "GONZÁLEZ",
 					"apellido_materno": "SALAZAR",
-					"fecha": "SABADO 22 DE SEPTIEMBRE",
+					"fecha": "VIERNES 28 DE SEPTIEMBRE",
 					"mensaje_corto": "A LA EDAD DE 22 AÑOS",
 					"se_vela_en": "SE VELA COL. LA NORIA, SANTIAGO PAPASQUIARO, DGO.",
 					"honras": "SEVELAEN C. LINX #219 VILLAS DEL GUADIANA.",
@@ -18,7 +66,7 @@
 					"nombre": "TOMAS",
 					"apellido_paterno": "FRAGOSO",
 					"apellido_materno": "MÁRQUEZ",
-					"fecha": "SABADO 22 DE SEPTIEMBRE",
+					"fecha": "VIERNES 28 DE SEPTIEMBRE",
 					"mensaje_corto": "A LA EDAD DE 78 AÑOS",
 					"se_vela_en": "SEVELA EN TEPEHUANES, DGO.",
 					"honras": "HONRAS PENDIENTES.",
@@ -70,72 +118,60 @@
 					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
 					"honras": "HONRAS 10:00 HRS.TEMPLO DIVINA PROVIDENCIA.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 425,
-					"titulo": "",
-					"nombre": "MAXIMO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "NATERA",
-					"fecha": "MIERCOLES 19 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
-					"se_vela_en": "SEVELA DOM. CON. LOS CORRALES, TEPEHUANES, DGO.",
-					"honras": "HONRAS 17:00 HRS.TEMPLO SAN MIGUEL ARCÁNGEL.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 424,
-					"titulo": "",
-					"nombre": "MARTINA",
-					"apellido_paterno": "ESCALERA",
-					"apellido_materno": "DE LEÓN",
-					"fecha": "MIERCOLES 19 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 75 AÑOS",
-					"se_vela_en": "SE VELA EN VILLA MONTEMORELOS, DGO.",
-					"honras": "HONRAS 12:00 HRS.PARROQUIA DE SAN JOSÉ.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 423,
-					"titulo": "",
-					"nombre": "ALEJANDRO",
-					"apellido_paterno": "CONTRERAS",
-					"apellido_materno": "ACOSTA",
-					"fecha": "MIERCOLES 19 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 62 AÑOS",
-					"se_vela_en": "SE VELA SAN FRANCISCO DEL MANZANAL,DGO.",
-					"honras": "HONRAS 13:00 HRS.TEMPLO SAN FRANCISCO DE ASIS.SE DESPIDE EN PANTEÓN DEL LUGAR..",
-					"descripcion": ""
-				},
-				{
-					"id": 422,
-					"titulo": "",
-					"nombre": "NESTOR HUGO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "SIGALA",
-					"fecha": "MARTES 18 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 41 AÑOS",
-					"se_vela_en": "ENTRA A CAPILLA ESMERALDA A PARTIR DE LAS 14:00 HRS. ",
-					"honras": "HONRAS 16.00 HRS.TEMPLO NTRA. SRA. DE LOS ÁNGELES.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 421,
-					"titulo": "",
-					"nombre": "ALFREDO",
-					"apellido_paterno": "LUNA",
-					"apellido_materno": "CHAVEZ",
-					"fecha": "MARTES 18 DE SEPTIEMBRE",
-					"mensaje_corto": "A LA EDAD DE 39 AÑOS",
-					"se_vela_en": "SE VELA DOM. CON. J. REFUGIO SALCIDO, DGO.",
-					"honras": "HONRAS 16:00 HRS.TEMPLO DEL LUGAR.SE DESPIDE EN PANTEÓN DEL LUGAR.",
 					"descripcion": ""
 				}
 				
 			],
 			"obituario_ingles": [
 				{
+					"id": 435,
+					"titulo": "",
+					"nombre": "JUAN",
+					"apellido_paterno": "LERMA",
+					"apellido_materno": "FLORES",
+					"fecha": "SATURDAY SEPTEMBER 29",
+					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
+					"se_vela_en": "SEVELA DOM. CON. LA CONSTANCIA,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 434,
+					"titulo": "",
+					"nombre": "ATILANO",
+					"apellido_paterno": "SOTO",
+					"apellido_materno": "MARTINEZ",
+					"fecha": "SATURDAY SEPTEMBER 29",
+					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON.LABOR DE GUADALUPE,DGO.",
+					"honras": "CULTO BÍBLICO A LAS 15.00 HRS.SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 433,
+					"titulo": "",
+					"nombre": "ADAN GABRIEL",
+					"apellido_paterno": "SOLARES",
+					"apellido_materno": "ÁVILA",
+					"fecha": "SATURDAY SEPTEMBER 29",
+					"mensaje_corto": "A LA EDAD DE 45 AÑOS",
+					"se_vela_en": "SEVELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS 13:00 HRS.TEMPLO DE LA DIVINA PROVIDENCIA.SE DESPIDE PARA SU CREMACIÓN.",
+					"descripcion": ""
+				},
+				{
+					"id": 432,
+					"titulo": "",
+					"nombre": "ALMA DELIA",
+					"apellido_paterno": "CHAVARRIA",
+					"apellido_materno": "CORONA",
+					"fecha": "SATURDAY SEPTEMBER 29",
+					"mensaje_corto": "A LA EDAD DE 43 AÑOS",
+					"se_vela_en": "SE VELA C. LUCHA POPULAR #445 COL. EMILIANO ZAPATA.",
+					"honras": "HONRAS 12:00 HRS.TEMPLO SANTA TERESITA.SE DESPIDE EN PANTEÓN GETSEMANÍ.",
+					"descripcion": ""
+				},
+				{
 					"id": 431,
 					"titulo": "",
 					"nombre": "OSCAR ANTONIO ABAD",
@@ -205,66 +241,6 @@
 					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
 					"honras": "HONRAS 10:00 HRS.TEMPLO DIVINA PROVIDENCIA.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 425,
-					"titulo": "",
-					"nombre": "MAXIMO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "NATERA",
-					"fecha": "WENSDAY SEPTEMBER 19",
-					"mensaje_corto": "A LA EDAD DE 86 AÑOS",
-					"se_vela_en": "SEVELA DOM. CON. LOS CORRALES, TEPEHUANES, DGO.",
-					"honras": "HONRAS 17:00 HRS.TEMPLO SAN MIGUEL ARCÁNGEL.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 424,
-					"titulo": "",
-					"nombre": "MARTINA",
-					"apellido_paterno": "ESCALERA",
-					"apellido_materno": "DE LEÓN",
-					"fecha": "WENSDAY SEPTEMBER 19",
-					"mensaje_corto": "A LA EDAD DE 75 AÑOS",
-					"se_vela_en": "SE VELA EN VILLA MONTEMORELOS, DGO.",
-					"honras": "HONRAS 12:00 HRS.PARROQUIA DE SAN JOSÉ.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 423,
-					"titulo": "",
-					"nombre": "ALEJANDRO",
-					"apellido_paterno": "CONTRERAS",
-					"apellido_materno": "ACOSTA",
-					"fecha": "WENSDAY SEPTEMBER 19",
-					"mensaje_corto": "A LA EDAD DE 62 AÑOS",
-					"se_vela_en": "SE VELA SAN FRANCISCO DEL MANZANAL,DGO.",
-					"honras": "HONRAS 13:00 HRS.TEMPLO SAN FRANCISCO DE ASIS.SE DESPIDE EN PANTEÓN DEL LUGAR..",
-					"descripcion": ""
-				},
-				{
-					"id": 422,
-					"titulo": "",
-					"nombre": "NESTOR HUGO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "SIGALA",
-					"fecha": "TUESDAY SEPTEMBER 18",
-					"mensaje_corto": "A LA EDAD DE 41 AÑOS",
-					"se_vela_en": "ENTRA A CAPILLA ESMERALDA A PARTIR DE LAS 14:00 HRS. ",
-					"honras": "HONRAS 16.00 HRS.TEMPLO NTRA. SRA. DE LOS ÁNGELES.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 421,
-					"titulo": "",
-					"nombre": "ALFREDO",
-					"apellido_paterno": "LUNA",
-					"apellido_materno": "CHAVEZ",
-					"fecha": "TUESDAY SEPTEMBER 18",
-					"mensaje_corto": "A LA EDAD DE 39 AÑOS",
-					"se_vela_en": "SE VELA DOM. CON. J. REFUGIO SALCIDO, DGO.",
-					"honras": "HONRAS 16:00 HRS.TEMPLO DEL LUGAR.SE DESPIDE EN PANTEÓN DEL LUGAR.",
 					"descripcion": ""
 				}
 				
