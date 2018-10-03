@@ -1,6 +1,54 @@
 		{
 			"obituario": [
 				{
+					"id": 446,
+					"titulo": "",
+					"nombre": "RAMON",
+					"apellido_paterno": "CEPEDA ",
+					"apellido_materno": "GONZALEZ",
+					"fecha": "MIERCOLES 3 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ORO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 445,
+					"titulo": "",
+					"nombre": "BERTHA",
+					"apellido_paterno": "SILERIO ",
+					"apellido_materno": "RENTERIA",
+					"fecha": "MIERCOLES 3 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
+					"se_vela_en": "SE VELA EN RODEO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 444,
+					"titulo": "",
+					"nombre": "ABEL",
+					"apellido_paterno": "NUÑEZ ",
+					"apellido_materno": "TORRES",
+					"fecha": "MIERCOLES 3 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 58 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 443,
+					"titulo": "",
+					"nombre": "FIDENCIO",
+					"apellido_paterno": "REYES",
+					"apellido_materno": "RUIZ",
+					"fecha": "MIERCOLES 3 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 76 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 442,
 					"titulo": "",
 					"nombre": "PEDRO",
@@ -9,7 +57,7 @@
 					"fecha": "MARTES 2 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
 					"se_vela_en": "SE VELA CALLE ARGENTINA #120 COL. LAZARO CARDENAS.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 12:00 HRS. EL DIA JUEVES 04 OCT 2018.TEMPLO SANTUARIO DE GUADALUPE.SE DESPIDE EN PANTEON PARQUE RESIDENCIAL FLORES",
 					"descripcion": ""
 				},
 				{
@@ -88,6 +136,54 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 446,
+					"titulo": "",
+					"nombre": "RAMON",
+					"apellido_paterno": "CEPEDA ",
+					"apellido_materno": "GONZALEZ",
+					"fecha": "WENSDAY OCTOBER 3",
+					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ORO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 445,
+					"titulo": "",
+					"nombre": "BERTHA",
+					"apellido_paterno": "SILERIO ",
+					"apellido_materno": "RENTERIA",
+					"fecha": "WENSDAY OCTOBER 3",
+					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
+					"se_vela_en": "SE VELA EN RODEO, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 444,
+					"titulo": "",
+					"nombre": "ABEL",
+					"apellido_paterno": "NUÑEZ ",
+					"apellido_materno": "TORRES",
+					"fecha": "WENSDAY OCTOBER 3",
+					"mensaje_corto": "A LA EDAD DE 58 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 443,
+					"titulo": "",
+					"nombre": "FIDENCIO",
+					"apellido_paterno": "REYES",
+					"apellido_materno": "RUIZ",
+					"fecha": "WENSDAY OCTOBER 3",
+					"mensaje_corto": "A LA EDAD DE 76 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 442,
 					"titulo": "",
 					"nombre": "PEDRO",
@@ -96,7 +192,7 @@
 					"fecha": "TUESDAY OCTOBER 2",
 					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
 					"se_vela_en": "SE VELA CALLE ARGENTINA #120 COL. LAZARO CARDENAS.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 12:00 HRS. EL DIA JUEVES 04 OCT 2018.TEMPLO SANTUARIO DE GUADALUPE.SE DESPIDE EN PANTEON PARQUE RESIDENCIAL FLORES",
 					"descripcion": ""
 				},
 				{
