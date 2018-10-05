@@ -1,6 +1,42 @@
 		{
 			"obituario": [
 				{
+					"id": 449,
+					"titulo": "",
+					"nombre": "JOSE MANUEL",
+					"apellido_paterno": "MELENDEZ ",
+					"apellido_materno": "RUEDA",
+					"fecha": "VIERNES 5 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 448,
+					"titulo": "",
+					"nombre": "IRMA",
+					"apellido_paterno": "CISNEROS ",
+					"apellido_materno": "PUEBLA",
+					"fecha": "VIERNES 5 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 55 AÑOS",
+					"se_vela_en": "SE VELA EN CIENEGUILLA, POANAS, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 447,
+					"titulo": "",
+					"nombre": "MANUELA",
+					"apellido_paterno": "ARELLANO ",
+					"apellido_materno": "MARTINEZ",
+					"fecha": "VIERNES 5 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 72 AÑOS",
+					"se_vela_en": "SE VELA DOM.CON. COSCOMATE, GUANACEVI, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 446,
 					"titulo": "",
 					"nombre": "RAMON",
@@ -71,71 +107,46 @@
 					"se_vela_en": "SE VELA DOM.CON. VALLE NACIONAL, RODEO,DGO.",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
-				},
-				{
-					"id": 440,
-					"titulo": "",
-					"nombre": "MARIA DE JESUS",
-					"apellido_paterno": "HERRERA",
-					"apellido_materno": "LOPEZ",
-					"fecha": "LUNES 1 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 92 AÑOS",
-					"se_vela_en": "SE VELA EN SAN JOSE DE LA BOCA, DGO.",
-					"honras": "HONRAS 15.30 HRS. EL DIA MARTES 02 OCTUBRE 2018.TEMPLO SAN JOSÉ.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 439,
-					"titulo": "",
-					"nombre": "JOSE CARMEN",
-					"apellido_paterno": "MARTINEZ",
-					"apellido_materno": "OROZCO",
-					"fecha": "LUNES 1 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 89 AÑOS",
-					"se_vela_en": "SE VELA DOM. CON. SAN LUCAS DE OCAMPO,DGO.",
-					"honras": "HONRAS 15:00 HRS.TEMPLO SAN LUCAS EVANGELISTA.SE DESPIDE EN PANTEÓN DEL LUGAR",
-					"descripcion": ""
-				},
-				{
-					"id": 438,
-					"titulo": "",
-					"nombre": "GILDARDO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "LOPEZ",
-					"fecha": "LUNES 1 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 72 AÑOS",
-					"se_vela_en": "SEVELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS 15:00 HRS.EL DIA JUEVES 04 OCTUBRE 2018.TEMPLO NTRA.SRA. DE LA LUZ.SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS.",
-					"descripcion": ""
-				},
-				{
-					"id": 437,
-					"titulo": "",
-					"nombre": "ISRAEL",
-					"apellido_paterno": "CARRASCO",
-					"apellido_materno": "DUARTE",
-					"fecha": "LUNES 1 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 35 AÑOS",
-					"se_vela_en": "SE VELA LOC. JOSE RAMON VALDEZ, STGO. PAPASQUIARO,DGO.",
-					"honras": "HONRAS 17:00 HRS.TEMPLO NTRA. SRA. DEL CARMEN.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 436,
-					"titulo": "",
-					"nombre": "ESTEBAN",
-					"apellido_paterno": "LEAL",
-					"apellido_materno": "ROCHA",
-					"fecha": "LUNES 1 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 49 AÑOS",
-					"se_vela_en": "SE VELA C.VENEZUELA #613 COL. FCO. ZARCO.",
-					"honras": "HONRAS 14:00 HRS.TEMPLO SAN FRANCISCO DE ASIS.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				}
-				
+				}	
 			],
 			"obituario_ingles": [
 				{
+					"id": 449,
+					"titulo": "",
+					"nombre": "JOSE MANUEL",
+					"apellido_paterno": "MELENDEZ ",
+					"apellido_materno": "RUEDA",
+					"fecha": "FRIDAY OCTOBER 5",
+					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 448,
+					"titulo": "",
+					"nombre": "IRMA",
+					"apellido_paterno": "CISNEROS ",
+					"apellido_materno": "PUEBLA",
+					"fecha": "FRIDAY OCTOBER 5",
+					"mensaje_corto": "A LA EDAD DE 55 AÑOS",
+					"se_vela_en": "SE VELA EN CIENEGUILLA, POANAS, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 447,
+					"titulo": "",
+					"nombre": "MANUELA",
+					"apellido_paterno": "ARELLANO ",
+					"apellido_materno": "MARTINEZ",
+					"fecha": "FRIDAY OCTOBER 5",
+					"mensaje_corto": "A LA EDAD DE 72 AÑOS",
+					"se_vela_en": "SE VELA DOM.CON. COSCOMATE, GUANACEVI, DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 446,
 					"titulo": "",
 					"nombre": "RAMON",
@@ -206,67 +217,6 @@
 					"se_vela_en": "SE VELA DOM.CON. VALLE NACIONAL, RODEO,DGO.",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
-				},
-				{
-					"id": 440,
-					"titulo": "",
-					"nombre": "MARIA DE JESUS",
-					"apellido_paterno": "HERRERA",
-					"apellido_materno": "LOPEZ",
-					"fecha": "MONDAY OCTOBER 1",
-					"mensaje_corto": "A LA EDAD DE 92 AÑOS",
-					"se_vela_en": "SE VELA EN SAN JOSE DE LA BOCA, DGO.",
-					"honras": "HONRAS 15.30 HRS. EL DIA MARTES 02 OCTUBRE 2018.TEMPLO SAN JOSÉ.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 439,
-					"titulo": "",
-					"nombre": "JOSE CARMEN",
-					"apellido_paterno": "MARTINEZ",
-					"apellido_materno": "OROZCO",
-					"fecha": "MONDAY OCTOBER 1",
-					"mensaje_corto": "A LA EDAD DE 89 AÑOS",
-					"se_vela_en": "SE VELA DOM. CON. SAN LUCAS DE OCAMPO,DGO.",
-					"honras": "HONRAS 15:00 HRS.TEMPLO SAN LUCAS EVANGELISTA.SE DESPIDE EN PANTEÓN DEL LUGAR",
-					"descripcion": ""
-				},
-				{
-					"id": 438,
-					"titulo": "",
-					"nombre": "GILDARDO",
-					"apellido_paterno": "GARCIA",
-					"apellido_materno": "LOPEZ",
-					"fecha": "MONDAY OCTOBER 1",
-					"mensaje_corto": "A LA EDAD DE 72 AÑOS",
-					"se_vela_en": "SEVELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS 15:00 HRS.EL DIA JUEVES 04 OCTUBRE 2018.TEMPLO NTRA.SRA. DE LA LUZ.SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS.",
-					"descripcion": ""
-				},
-				{
-					"id": 437,
-					"titulo": "",
-					"nombre": "ISRAEL",
-					"apellido_paterno": "CARRASCO",
-					"apellido_materno": "DUARTE",
-					"fecha": "MONDAY OCTOBER 1",
-					"mensaje_corto": "A LA EDAD DE 35 AÑOS",
-					"se_vela_en": "SE VELA LOC. JOSE RAMON VALDEZ, STGO. PAPASQUIARO,DGO.",
-					"honras": "HONRAS 17:00 HRS.TEMPLO NTRA. SRA. DEL CARMEN.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 436,
-					"titulo": "",
-					"nombre": "ESTEBAN",
-					"apellido_paterno": "LEAL",
-					"apellido_materno": "ROCHA",
-					"fecha": "MONDAY OCTOBER 1",
-					"mensaje_corto": "A LA EDAD DE 49 AÑOS",
-					"se_vela_en": "SE VELA C.VENEZUELA #613 COL. FCO. ZARCO.",
-					"honras": "HONRAS 14:00 HRS.TEMPLO SAN FRANCISCO DE ASIS.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
 				}
-				
 			]
 		}
