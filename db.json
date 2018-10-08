@@ -1,6 +1,78 @@
 		{
 			"obituario": [
 				{
+					"id": 455,
+					"titulo": "",
+					"nombre": "CIRO",
+					"apellido_paterno": "SALAZAR ",
+					"apellido_materno": "REZA",
+					"fecha": "LUNES 08 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 78 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 454,
+					"titulo": "",
+					"nombre": "CELIA",
+					"apellido_paterno": "HERNÁNDEZ ",
+					"apellido_materno": "GALINDO",
+					"fecha": "LUNES 08 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 453,
+					"titulo": "",
+					"nombre": "BERTOLDO",
+					"apellido_paterno": "ROSALESS ",
+					"apellido_materno": "HERRERA",
+					"fecha": "LUNES 08 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 80 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DE SANTIAGO PAPASQUIARO",
+					"honras": "HONRAS 16:30 HRS.TEMPLO CRISTO REY.SE DESPIDE EN PANTEÓN VICTOR NEVAREZ.",
+					"descripcion": ""
+				},
+				{
+					"id": 452,
+					"titulo": "",
+					"nombre": "MARIA DEL SOCORRO",
+					"apellido_paterno": "VILLA ",
+					"apellido_materno": "RAMIREZ",
+					"fecha": "LUNES 08 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA",
+					"honras": "HONRAS 11:00 HRS.TEMPLO SAN PEDRO APÓSTOL.SE DESPIDE EN PANTEÓN DOLORES, CHALCHIHUITES,ZAC.",
+					"descripcion": ""
+				},
+				{
+					"id": 451,
+					"titulo": "",
+					"nombre": "JOSE RAMON",
+					"apellido_paterno": "HERNANDEZ ",
+					"apellido_materno": "HOLGUIIN",
+					"fecha": "LUNES 08 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 81 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DE SUCURSAL, TEPEHUANES ",
+					"honras": "HONRAS: 12:00 HRS.TEMPLO DE SANTA CATARINA.SE DESPIDE EN PANTEON DEL LUGAR",
+					"descripcion": ""
+				},
+				{
+					"id": 450,
+					"titulo": "",
+					"nombre": "JOSE",
+					"apellido_paterno": "ESCOBEDO ",
+					"apellido_materno": "ZAMARRIPA",
+					"fecha": "LUNES 08 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
+					"se_vela_en": "SE  VELA EN CAPILLA ESMERALDA",
+					"honras": "HONRAS: 13:00 HRS,TEMPLO DE LA SALUD,SE DESPIDE EN PANTEON VALLE DE LOS SABINOS",
+					"descripcion": ""
+				},
+				{
 					"id": 449,
 					"titulo": "",
 					"nombre": "JOSE MANUEL",
@@ -9,7 +81,7 @@
 					"fecha": "VIERNES 5 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 14:00 HRS TEMPLO DE LOS ANGELES SE DESPIDE EN PANTEON GETSEMANI",
 					"descripcion": ""
 				},
 				{
@@ -21,7 +93,7 @@
 					"fecha": "VIERNES 5 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 55 AÑOS",
 					"se_vela_en": "SE VELA EN CIENEGUILLA, POANAS, DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 15:00HRS TEMPLO SAGRADO CORAZON DE JESUS SE DESPIDE EN EL PANTEON DEL LUGAR .",
 					"descripcion": ""
 				},
 				{
@@ -35,82 +107,82 @@
 					"se_vela_en": "SE VELA DOM.CON. COSCOMATE, GUANACEVI, DGO.",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
-				},
-				{
-					"id": 446,
-					"titulo": "",
-					"nombre": "RAMON",
-					"apellido_paterno": "CEPEDA ",
-					"apellido_materno": "GONZALEZ",
-					"fecha": "MIERCOLES 3 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA ORO.",
-					"honras": "HONRAS 14.00 HRS.TEMPLO SANTUARIO DE GUADALUPE.SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS.",
-					"descripcion": ""
-				},
-				{
-					"id": 445,
-					"titulo": "",
-					"nombre": "BERTHA",
-					"apellido_paterno": "SILERIO ",
-					"apellido_materno": "RENTERIA",
-					"fecha": "MIERCOLES 3 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
-					"se_vela_en": "SE VELA EN RODEO, DGO.",
-					"honras": "HONRAS 16:00 HRS.TEMPLO SAN ISIDRO LABRADOR.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 444,
-					"titulo": "",
-					"nombre": "ABEL",
-					"apellido_paterno": "NUÑEZ ",
-					"apellido_materno": "TORRES",
-					"fecha": "MIERCOLES 3 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 58 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 443,
-					"titulo": "",
-					"nombre": "FIDENCIO",
-					"apellido_paterno": "REYES",
-					"apellido_materno": "RUIZ",
-					"fecha": "MIERCOLES 3 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 76 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS 12:00 HRS.TEMPLO SANTO NIÑO DE ATOCHA.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 442,
-					"titulo": "",
-					"nombre": "PEDRO",
-					"apellido_paterno": "ESQUIVEL",
-					"apellido_materno": "HERNANDEZ",
-					"fecha": "MARTES 2 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
-					"se_vela_en": "SE VELA CALLE ARGENTINA #120 COL. LAZARO CARDENAS.",
-					"honras": "HONRAS 12:00 HRS. EL DIA JUEVES 04 OCT 2018.TEMPLO SANTUARIO DE GUADALUPE.SE DESPIDE EN PANTEON PARQUE RESIDENCIAL FLORES",
-					"descripcion": ""
-				},
-				{
-					"id": 441,
-					"titulo": "",
-					"nombre": "ESTHELA",
-					"apellido_paterno": "MARTINEZ",
-					"apellido_materno": "ROSAS",
-					"fecha": "MARTES 2 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 55 AÑOS",
-					"se_vela_en": "SE VELA DOM.CON. VALLE NACIONAL, RODEO,DGO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				}	
+				}
 			],
 			"obituario_ingles": [
 				{
+					"id": 455,
+					"titulo": "",
+					"nombre": "CIRO",
+					"apellido_paterno": "SALAZAR ",
+					"apellido_materno": "REZA",
+					"fecha": "MONDAY OCTOBER 08",
+					"mensaje_corto": "A LA EDAD DE 78 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 454,
+					"titulo": "",
+					"nombre": "CELIA",
+					"apellido_paterno": "HERNÁNDEZ ",
+					"apellido_materno": "GALINDO",
+					"fecha": "MONDAY OCTOBER 08",
+					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 453,
+					"titulo": "",
+					"nombre": "BERTOLDO",
+					"apellido_paterno": "ROSALESS ",
+					"apellido_materno": "HERRERA",
+					"fecha": "MONDAY OCTOBER 08",
+					"mensaje_corto": "A LA EDAD DE 80 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DE SANTIAGO PAPASQUIARO",
+					"honras": "HONRAS 16:30 HRS.TEMPLO CRISTO REY.SE DESPIDE EN PANTEÓN VICTOR NEVAREZ.",
+					"descripcion": ""
+				},
+				{
+					"id": 452,
+					"titulo": "",
+					"nombre": "MARIA DEL SOCORRO",
+					"apellido_paterno": "VILLA ",
+					"apellido_materno": "RAMIREZ",
+					"fecha": "MONDAY OCTOBER 08",
+					"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA",
+					"honras": "HONRAS 11:00 HRS.TEMPLO SAN PEDRO APÓSTOL.SE DESPIDE EN PANTEÓN DOLORES, CHALCHIHUITES,ZAC.",
+					"descripcion": ""
+				},
+				{
+					"id": 451,
+					"titulo": "",
+					"nombre": "JOSE RAMON",
+					"apellido_paterno": "HERNANDEZ ",
+					"apellido_materno": "HOLGUIIN",
+					"fecha": "MONDAY OCTOBER 08",
+					"mensaje_corto": "A LA EDAD DE 81 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DE SUCURSAL, TEPEHUANES ",
+					"honras": "HONRAS: 12:00 HRS.TEMPLO DE SANTA CATARINA.SE DESPIDE EN PANTEON DEL LUGAR",
+					"descripcion": ""
+				},
+				{
+					"id": 450,
+					"titulo": "",
+					"nombre": "JOSE",
+					"apellido_paterno": "ESCOBEDO ",
+					"apellido_materno": "ZAMARRIPA",
+					"fecha": "MONDAY OCTOBER 08",
+					"mensaje_corto": "A LA EDAD DE 84 AÑOS",
+					"se_vela_en": "SE  VELA EN CAPILLA ESMERALDA",
+					"honras": "HONRAS: 13:00 HRS,TEMPLO DE LA SALUD,SE DESPIDE EN PANTEON VALLE DE LOS SABINOS",
+					"descripcion": ""
+				},
+				{
 					"id": 449,
 					"titulo": "",
 					"nombre": "JOSE MANUEL",
@@ -119,7 +191,7 @@
 					"fecha": "FRIDAY OCTOBER 5",
 					"mensaje_corto": "A LA EDAD DE 52 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 14:00 HRS TEMPLO DE LOS ANGELES SE DESPIDE EN PANTEON GETSEMANI",
 					"descripcion": ""
 				},
 				{
@@ -131,7 +203,7 @@
 					"fecha": "FRIDAY OCTOBER 5",
 					"mensaje_corto": "A LA EDAD DE 55 AÑOS",
 					"se_vela_en": "SE VELA EN CIENEGUILLA, POANAS, DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 15:00HRS TEMPLO SAGRADO CORAZON DE JESUS SE DESPIDE EN EL PANTEON DEL LUGAR .",
 					"descripcion": ""
 				},
 				{
@@ -143,78 +215,6 @@
 					"fecha": "FRIDAY OCTOBER 5",
 					"mensaje_corto": "A LA EDAD DE 72 AÑOS",
 					"se_vela_en": "SE VELA DOM.CON. COSCOMATE, GUANACEVI, DGO.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 446,
-					"titulo": "",
-					"nombre": "RAMON",
-					"apellido_paterno": "CEPEDA ",
-					"apellido_materno": "GONZALEZ",
-					"fecha": "WENSDAY OCTOBER 3",
-					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA ORO.",
-					"honras": "HONRAS 14.00 HRS.TEMPLO SANTUARIO DE GUADALUPE.SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS.",
-					"descripcion": ""
-				},
-				{
-					"id": 445,
-					"titulo": "",
-					"nombre": "BERTHA",
-					"apellido_paterno": "SILERIO ",
-					"apellido_materno": "RENTERIA",
-					"fecha": "WENSDAY OCTOBER 3",
-					"mensaje_corto": "A LA EDAD DE 65 AÑOS",
-					"se_vela_en": "SE VELA EN RODEO, DGO.",
-					"honras": "HONRAS 16:00 HRS.TEMPLO SAN ISIDRO LABRADOR.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 444,
-					"titulo": "",
-					"nombre": "ABEL",
-					"apellido_paterno": "NUÑEZ ",
-					"apellido_materno": "TORRES",
-					"fecha": "WENSDAY OCTOBER 3",
-					"mensaje_corto": "A LA EDAD DE 58 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": ""
-				},
-				{
-					"id": 443,
-					"titulo": "",
-					"nombre": "FIDENCIO",
-					"apellido_paterno": "REYES",
-					"apellido_materno": "RUIZ",
-					"fecha": "WENSDAY OCTOBER 3",
-					"mensaje_corto": "A LA EDAD DE 76 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS 12:00 HRS.TEMPLO SANTO NIÑO DE ATOCHA.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 442,
-					"titulo": "",
-					"nombre": "PEDRO",
-					"apellido_paterno": "ESQUIVEL",
-					"apellido_materno": "HERNANDEZ",
-					"fecha": "TUESDAY OCTOBER 2",
-					"mensaje_corto": "A LA EDAD DE 53 AÑOS",
-					"se_vela_en": "SE VELA CALLE ARGENTINA #120 COL. LAZARO CARDENAS.",
-					"honras": "HONRAS 12:00 HRS. EL DIA JUEVES 04 OCT 2018.TEMPLO SANTUARIO DE GUADALUPE.SE DESPIDE EN PANTEON PARQUE RESIDENCIAL FLORES",
-					"descripcion": ""
-				},
-				{
-					"id": 441,
-					"titulo": "",
-					"nombre": "ESTHELA",
-					"apellido_paterno": "MARTINEZ",
-					"apellido_materno": "ROSAS",
-					"fecha": "TUESDAY OCTOBER 2",
-					"mensaje_corto": "A LA EDAD DE 55 AÑOS",
-					"se_vela_en": "SE VELA DOM.CON. VALLE NACIONAL, RODEO,DGO.",
 					"honras": "HONRAS PENDIENTES.",
 					"descripcion": ""
 				}
