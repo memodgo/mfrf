@@ -1,6 +1,18 @@
 		{
 			"obituario": [
 				{
+					"id": 459,
+					"titulo": "",
+					"nombre": "JORGE FERNANDO",
+					"apellido_paterno": "PEÑA",
+					"apellido_materno": "LERMA",
+					"fecha": "MIERCOLES 10 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA DE FUNERALES SAN JOSE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": "HIJO DE LA SRA. IRENE LERMA."
+				},
+				{
 					"id": 458,
 					"titulo": "",
 					"nombre": "SOSTENES",
@@ -9,7 +21,7 @@
 					"fecha": "MARTES 09 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
 					"se_vela_en": "SE VELA CALLE CARLOS SANTA MARIA #1207 COL. HECTOR MAYAGOITIA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 15:00 HRSTEMPLO DE LA SANTA CRUZ PANTEON PENDIENTE",
 					"descripcion": ""
 				},
 				{
@@ -21,7 +33,7 @@
 					"fecha": "MARTES 09 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 15:00 HRSPARROQUIA DE LA SANTA CRUZ DE DOLORESSE DESPIDE EN PANTEON DE ORIENTE",
 					"descripcion": ""
 				},
 				{
@@ -33,7 +45,7 @@
 					"fecha": "MARTES 09 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 41 AÑOS",
 					"se_vela_en": "SE VELA CALLE OCEANO #202 COL. LUZ Y ESPERANZA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 11:00 HRSTEMPLO SAN LORENZOSE DESPIDE EN PANTEON DE ORIENTE",
 					"descripcion": ""
 				},
 				{
@@ -111,6 +123,18 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 459,
+					"titulo": "",
+					"nombre": "JORGE FERNANDO",
+					"apellido_paterno": "PEÑA",
+					"apellido_materno": "LERMA",
+					"fecha": "WEDNSDAY OCTOBER 10",
+					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
+					"se_vela_en": "SE VELA CAPILLA DE FUNERALES SAN JOSE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": "HIJO DE LA SRA. IRENE LERMA."
+				},
+				{
 					"id": 458,
 					"titulo": "",
 					"nombre": "SOSTENES",
@@ -119,7 +143,7 @@
 					"fecha": "TUESDAY OCTOBER 09",
 					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
 					"se_vela_en": "SE VELA CALLE CARLOS SANTA MARIA #1207 COL. HECTOR MAYAGOITIA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 15:00 HRSTEMPLO DE LA SANTA CRUZ PANTEON PENDIENTE",
 					"descripcion": ""
 				},
 				{
@@ -131,7 +155,7 @@
 					"fecha": "TUESDAY OCTOBER 09",
 					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 15:00 HRSPARROQUIA DE LA SANTA CRUZ DE DOLORESSE DESPIDE EN PANTEON DE ORIENTE",
 					"descripcion": ""
 				},
 				{
@@ -143,7 +167,7 @@
 					"fecha": "TUESDAY OCTOBER 09",
 					"mensaje_corto": "A LA EDAD DE 41 AÑOS",
 					"se_vela_en": "SE VELA CALLE OCEANO #202 COL. LUZ Y ESPERANZA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS: 11:00 HRSTEMPLO SAN LORENZOSE DESPIDE EN PANTEON DE ORIENTE",
 					"descripcion": ""
 				},
 				{
