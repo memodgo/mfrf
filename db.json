@@ -1,6 +1,54 @@
 		{
 			"obituario": [
 				{
+					"id": 463,
+					"titulo": "",
+					"nombre": "PABLO",
+					"apellido_paterno": "RODRIGUEZ",
+					"apellido_materno": "RODRIGUEZ",
+					"fecha": "JUEVES 11 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON. LOC. EL NAYAR,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 462,
+					"titulo": "",
+					"nombre": "MA. DE LA LUZ",
+					"apellido_paterno": "DIAZ",
+					"apellido_materno": "VALDEZ",
+					"fecha": "JUEVES 11 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS 11:00 HRS. EL DIA VIERNES 12/10/2018 TEMPLO SANTO NIÑO DE ATOCHA.SE DESPIDE EN PANTEÓN ORIENTE.",
+					"descripcion": ""
+				},
+				{
+					"id": 461,
+					"titulo": "",
+					"nombre": "KIMBERLY VICTORIA",
+					"apellido_paterno": "AVILA",
+					"apellido_materno": "MARTINEZ",
+					"fecha": "JUEVES 11 DE OCTUBRE",
+					"mensaje_corto": "",
+					"se_vela_en": "SE VELA C. 10 DE MAYO #308 COL 8 DE SEPTIEMBRE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 460,
+					"titulo": "",
+					"nombre": "RAFAEL",
+					"apellido_paterno": "MARTÍNEZ",
+					"apellido_materno": "CESARETTI",
+					"fecha": "JUEVES 11 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 68 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE Y ESMERALDA.",
+					"honras": "CULTO BÍBLICO A LAS 15.00 HRS.MISMA CAPILLA DIAMANTE /ESMERALDA.SE DESPIDE PARA SU CREMACIÓN.",
+					"descripcion": ""
+				},
+				{
 					"id": 459,
 					"titulo": "",
 					"nombre": "JORGE FERNANDO",
@@ -21,7 +69,7 @@
 					"fecha": "MARTES 09 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
 					"se_vela_en": "SE VELA CALLE CARLOS SANTA MARIA #1207 COL. HECTOR MAYAGOITIA.",
-					"honras": "HONRAS: 15:00 HRSTEMPLO DE LA SANTA CRUZ PANTEON PENDIENTE",
+					"honras": "HONRAS 13:00 HRS.TEMPLO SANTA CRUZ.SE DESPIDE EN PANTEÓN ORIENTE A LAS 16:00 HRS.",
 					"descripcion": ""
 				},
 				{
@@ -122,6 +170,54 @@
 				}
 			],
 			"obituario_ingles": [
+				
+					"id": 463,
+					"titulo": "",
+					"nombre": "PABLO",
+					"apellido_paterno": "RODRIGUEZ",
+					"apellido_materno": "RODRIGUEZ",
+					"fecha": "THURSDAY OCTOBER 11",
+					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
+					"se_vela_en": "SE VELA DOM. CON. LOC. EL NAYAR,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 462,
+					"titulo": "",
+					"nombre": "MA. DE LA LUZ",
+					"apellido_paterno": "DIAZ",
+					"apellido_materno": "VALDEZ",
+					"fecha": "THURSDAY OCTOBER 11",
+					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS 11:00 HRS. EL DIA VIERNES 12/10/2018 TEMPLO SANTO NIÑO DE ATOCHA.SE DESPIDE EN PANTEÓN ORIENTE.",
+					"descripcion": ""
+				},
+				{
+					"id": 461,
+					"titulo": "",
+					"nombre": "KIMBERLY VICTORIA",
+					"apellido_paterno": "AVILA",
+					"apellido_materno": "MARTINEZ",
+					"fecha": "THURSDAY OCTOBER 11",
+					"mensaje_corto": "",
+					"se_vela_en": "SE VELA C. 10 DE MAYO #308 COL 8 DE SEPTIEMBRE.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 460,
+					"titulo": "",
+					"nombre": "RAFAEL",
+					"apellido_paterno": "MARTÍNEZ",
+					"apellido_materno": "CESARETTI",
+					"fecha": "THURSDAY OCTOBER 11",
+					"mensaje_corto": "A LA EDAD DE 68 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE Y ESMERALDA.",
+					"honras": "CULTO BÍBLICO A LAS 15.00 HRS.MISMA CAPILLA DIAMANTE /ESMERALDA.SE DESPIDE PARA SU CREMACIÓN.",
+					"descripcion": ""
+				},
 				{
 					"id": 459,
 					"titulo": "",
@@ -143,7 +239,7 @@
 					"fecha": "TUESDAY OCTOBER 09",
 					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
 					"se_vela_en": "SE VELA CALLE CARLOS SANTA MARIA #1207 COL. HECTOR MAYAGOITIA.",
-					"honras": "HONRAS: 15:00 HRSTEMPLO DE LA SANTA CRUZ PANTEON PENDIENTE",
+					"honras": "HONRAS 13:00 HRS.TEMPLO SANTA CRUZ.SE DESPIDE EN PANTEÓN ORIENTE A LAS 16:00 HRS.",
 					"descripcion": ""
 				},
 				{
