@@ -1,6 +1,18 @@
 		{
 			"obituario": [
 				{
+					"id": 464,
+					"titulo": "",
+					"nombre": "GENOVEVA",
+					"apellido_paterno": "NAVARRO",
+					"apellido_materno": "RAMIREZ",
+					"fecha": "VIERNES 12 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 83 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 463,
 					"titulo": "",
 					"nombre": "PABLO",
@@ -9,7 +21,7 @@
 					"fecha": "JUEVES 11 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
 					"se_vela_en": "SE VELA DOM. CON. LOC. EL NAYAR,DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 16:00 HRS.TEMPLO SEÑOR DE LA INSPIRACIÓN.SE DESPIDE EN PANTEÓN DEL LUGAR.",
 					"descripcion": ""
 				},
 				{
@@ -33,7 +45,7 @@
 					"fecha": "JUEVES 11 DE OCTUBRE",
 					"mensaje_corto": "",
 					"se_vela_en": "SE VELA C. 10 DE MAYO #308 COL 8 DE SEPTIEMBRE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "SE DESPIDE EN PANTEÓN ORIENTE A LAS 16:00 HRS.",
 					"descripcion": ""
 				},
 				{
@@ -99,6 +111,18 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 464,
+					"titulo": "",
+					"nombre": "GENOVEVA",
+					"apellido_paterno": "NAVARRO",
+					"apellido_materno": "RAMIREZ",
+					"fecha": "FRIDAY OCTOBER 12",
+					"mensaje_corto": "A LA EDAD DE 83 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 463,
 					"titulo": "",
 					"nombre": "PABLO",
@@ -107,7 +131,7 @@
 					"fecha": "THURSDAY OCTOBER 11",
 					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
 					"se_vela_en": "SE VELA DOM. CON. LOC. EL NAYAR,DGO.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 16:00 HRS.TEMPLO SEÑOR DE LA INSPIRACIÓN.SE DESPIDE EN PANTEÓN DEL LUGAR.",
 					"descripcion": ""
 				},
 				{
@@ -131,7 +155,7 @@
 					"fecha": "THURSDAY OCTOBER 11",
 					"mensaje_corto": "",
 					"se_vela_en": "SE VELA C. 10 DE MAYO #308 COL 8 DE SEPTIEMBRE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "SE DESPIDE EN PANTEÓN ORIENTE A LAS 16:00 HRS.",
 					"descripcion": ""
 				},
 				{
