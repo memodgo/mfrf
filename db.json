@@ -1,6 +1,42 @@
 		{
 			"obituario": [
 				{
+					"id": 467,
+					"titulo": "",
+					"nombre": "OSCAR",
+					"apellido_paterno": "GONZALEZ",
+					"apellido_materno": "GONZALEZ",
+					"fecha": "SABADO 13 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 33 AÑOS",
+					"se_vela_en": "SE VELA EN PARRAS DE LA FUENTE,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 466,
+					"titulo": "",
+					"nombre": "MARIA",
+					"apellido_paterno": "DE JESUS",
+					"apellido_materno": "GOMEZ",
+					"fecha": "SABADO 13 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 98 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 465,
+					"titulo": "",
+					"nombre": "SOTERO",
+					"apellido_paterno": "NAVA",
+					"apellido_materno": "NAVA",
+					"fecha": "SABADO 13 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 90 AÑOS",
+					"se_vela_en": "SE VELA EN EL PUEBLITO,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 464,
 					"titulo": "",
 					"nombre": "GENOVEVA",
@@ -9,7 +45,7 @@
 					"fecha": "VIERNES 12 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 83 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 12:00 HRS.TEMPLO NTRA.SRA.DE LOS ANGELES.SE DESPIDE EN PARQUE RESIDENCIAL RAÚL FLORES.",
 					"descripcion": ""
 				},
 				{
@@ -111,6 +147,42 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 467,
+					"titulo": "",
+					"nombre": "OSCAR",
+					"apellido_paterno": "GONZALEZ",
+					"apellido_materno": "GONZALEZ",
+					"fecha": "SATURDAY OCTOBER 13",
+					"mensaje_corto": "A LA EDAD DE 33 AÑOS",
+					"se_vela_en": "SE VELA EN PARRAS DE LA FUENTE,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 466,
+					"titulo": "",
+					"nombre": "MARIA",
+					"apellido_paterno": "DE JESUS",
+					"apellido_materno": "GOMEZ",
+					"fecha": "SATURDAY OCTOBER 13",
+					"mensaje_corto": "A LA EDAD DE 98 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 465,
+					"titulo": "",
+					"nombre": "SOTERO",
+					"apellido_paterno": "NAVA",
+					"apellido_materno": "NAVA",
+					"fecha": "SATURDAY OCTOBER 13",
+					"mensaje_corto": "A LA EDAD DE 90 AÑOS",
+					"se_vela_en": "SE VELA EN EL PUEBLITO,DGO.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 464,
 					"titulo": "",
 					"nombre": "GENOVEVA",
@@ -119,7 +191,7 @@
 					"fecha": "FRIDAY OCTOBER 12",
 					"mensaje_corto": "A LA EDAD DE 83 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 12:00 HRS.TEMPLO NTRA.SRA.DE LOS ANGELES.SE DESPIDE EN PARQUE RESIDENCIAL RAÚL FLORES.",
 					"descripcion": ""
 				},
 				{
