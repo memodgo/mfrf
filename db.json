@@ -1,6 +1,66 @@
 		{
 			"obituario": [
 				{
+					"id": 472,
+					"titulo": "",
+					"nombre": "ADILENA GUADALUPE",
+					"apellido_paterno": "SIMENTAL",
+					"apellido_materno": "VALVERDE",
+					"fecha": "LUNES 15 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 30 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA A PARTIR DE LAS 14:00 HRS.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 471,
+					"titulo": "",
+					"nombre": "MICAELA",
+					"apellido_paterno": "MEZA",
+					"apellido_materno": "AVILA",
+					"fecha": "LUNES 15 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 81 AÑOS",
+					"se_vela_en": "SE VELA CALLE ILINIO #307 COL. LUIS ECHEVERRIA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 470,
+					"titulo": "",
+					"nombre": "MARTIN SANTIAGO",
+					"apellido_paterno": "ARAMBULA",
+					"apellido_materno": "RENTERIA",
+					"fecha": "LUNES 15 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 50 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS 10:00 HRS.TEMPLO SANTO NIÑO DE ATOCHA.SE DESPIDE EN PANTEÓN GETSEMANÍ.",
+					"descripcion": ""
+				},
+				{
+					"id": 469,
+					"titulo": "",
+					"nombre": "JOSE CRUZ",
+					"apellido_paterno": "GALAVIZ",
+					"apellido_materno": "SALAS",
+					"fecha": "LUNES 15 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 59 AÑOS",
+					"se_vela_en": "SE VELA EN DOM.CON. CHALCHIHUITES, ZAC.",
+					"honras": "HONRAS  EL DIA MARTES 16/10/2018  A LAS 15:00 HRS.TEMPLO SAN PEDRO APÓSTOL.SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 468,
+					"titulo": "",
+					"nombre": "HOMERO",
+					"apellido_paterno": "AVALOS",
+					"apellido_materno": "TRIANA",
+					"fecha": "LUNES 15 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 49 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS 11:00 HRS.TEMPLO NTRA.SRA. DEL REFUGIO.SE DESPIDE PARA SU CREMACIÓN.HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 467,
 					"titulo": "",
 					"nombre": "OSCAR",
@@ -71,81 +131,69 @@
 					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
 					"honras": "HONRAS 11:00 HRS. EL DIA VIERNES 12/10/2018 TEMPLO SANTO NIÑO DE ATOCHA.SE DESPIDE EN PANTEÓN ORIENTE.",
 					"descripcion": ""
-				},
-				{
-					"id": 461,
-					"titulo": "",
-					"nombre": "KIMBERLY VICTORIA",
-					"apellido_paterno": "AVILA",
-					"apellido_materno": "MARTINEZ",
-					"fecha": "JUEVES 11 DE OCTUBRE",
-					"mensaje_corto": "",
-					"se_vela_en": "SE VELA C. 10 DE MAYO #308 COL 8 DE SEPTIEMBRE.",
-					"honras": "SE DESPIDE EN PANTEÓN ORIENTE A LAS 16:00 HRS.",
-					"descripcion": ""
-				},
-				{
-					"id": 460,
-					"titulo": "",
-					"nombre": "RAFAEL",
-					"apellido_paterno": "MARTÍNEZ",
-					"apellido_materno": "CESARETTI",
-					"fecha": "JUEVES 11 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 68 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE Y ESMERALDA.",
-					"honras": "CULTO BÍBLICO A LAS 15.00 HRS.MISMA CAPILLA DIAMANTE /ESMERALDA.SE DESPIDE PARA SU CREMACIÓN.",
-					"descripcion": ""
-				},
-				{
-					"id": 459,
-					"titulo": "",
-					"nombre": "JORGE FERNANDO",
-					"apellido_paterno": "PEÑA",
-					"apellido_materno": "LERMA",
-					"fecha": "MIERCOLES 10 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA DE FUNERALES SAN JOSE.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": "HIJO DE LA SRA. IRENE LERMA."
-				},
-				{
-					"id": 458,
-					"titulo": "",
-					"nombre": "SOSTENES",
-					"apellido_paterno": "COLIRIO",
-					"apellido_materno": "ROLDAN",
-					"fecha": "MARTES 09 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
-					"se_vela_en": "SE VELA CALLE CARLOS SANTA MARIA #1207 COL. HECTOR MAYAGOITIA.",
-					"honras": "HONRAS 13:00 HRS.TEMPLO SANTA CRUZ.SE DESPIDE EN PANTEÓN ORIENTE A LAS 16:00 HRS.",
-					"descripcion": ""
-				},
-				{
-					"id": 457,
-					"titulo": "",
-					"nombre": "CATALINA",
-					"apellido_paterno": "FRAYRE",
-					"apellido_materno": "ROCHA",
-					"fecha": "MARTES 09 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS: 15:00 HRSPARROQUIA DE LA SANTA CRUZ DE DOLORESSE DESPIDE EN PANTEON DE ORIENTE",
-					"descripcion": ""
-				},
-				{
-					"id": 456,
-					"titulo": "",
-					"nombre": "HUGO",
-					"apellido_paterno": "ESCAMILLA",
-					"apellido_materno": "HERNANDEZ",
-					"fecha": "MARTES 09 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 41 AÑOS",
-					"se_vela_en": "SE VELA CALLE OCEANO #202 COL. LUZ Y ESPERANZA.",
-					"honras": "HONRAS: 11:00 HRSTEMPLO SAN LORENZOSE DESPIDE EN PANTEON DE ORIENTE",
-					"descripcion": ""
 				}
 			],
 			"obituario_ingles": [
+				{
+					"id": 472,
+					"titulo": "",
+					"nombre": "ADILENA GUADALUPE",
+					"apellido_paterno": "SIMENTAL",
+					"apellido_materno": "VALVERDE",
+					"fecha": "MONDAY OCTOBER 15",
+					"mensaje_corto": "A LA EDAD DE 30 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA A PARTIR DE LAS 14:00 HRS.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 471,
+					"titulo": "",
+					"nombre": "MICAELA",
+					"apellido_paterno": "MEZA",
+					"apellido_materno": "AVILA",
+					"fecha": "MONDAY OCTOBER 15",
+					"mensaje_corto": "A LA EDAD DE 81 AÑOS",
+					"se_vela_en": "SE VELA CALLE ILINIO #307 COL. LUIS ECHEVERRIA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 470,
+					"titulo": "",
+					"nombre": "MARTIN SANTIAGO",
+					"apellido_paterno": "ARAMBULA",
+					"apellido_materno": "RENTERIA",
+					"fecha": "MONDAY OCTOBER 15",
+					"mensaje_corto": "A LA EDAD DE 50 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS 10:00 HRS.TEMPLO SANTO NIÑO DE ATOCHA.SE DESPIDE EN PANTEÓN GETSEMANÍ.",
+					"descripcion": ""
+				},
+				{
+					"id": 469,
+					"titulo": "",
+					"nombre": "JOSE CRUZ",
+					"apellido_paterno": "GALAVIZ",
+					"apellido_materno": "SALAS",
+					"fecha": "MONDAY OCTOBER 15",
+					"mensaje_corto": "A LA EDAD DE 59 AÑOS",
+					"se_vela_en": "SE VELA EN DOM.CON. CHALCHIHUITES, ZAC.",
+					"honras": "HONRAS  EL DIA MARTES 16/10/2018  A LAS 15:00 HRS.TEMPLO SAN PEDRO APÓSTOL.SE DESPIDE EN PANTEÓN DEL LUGAR.",
+					"descripcion": ""
+				},
+				{
+					"id": 468,
+					"titulo": "",
+					"nombre": "HOMERO",
+					"apellido_paterno": "AVALOS",
+					"apellido_materno": "TRIANA",
+					"fecha": "MONDAY OCTOBER 15",
+					"mensaje_corto": "A LA EDAD DE 49 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS 11:00 HRS.TEMPLO NTRA.SRA. DEL REFUGIO.SE DESPIDE PARA SU CREMACIÓN.HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
 				{
 					"id": 467,
 					"titulo": "",
@@ -216,78 +264,6 @@
 					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
 					"honras": "HONRAS 11:00 HRS. EL DIA VIERNES 12/10/2018 TEMPLO SANTO NIÑO DE ATOCHA.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
-				},
-				{
-					"id": 461,
-					"titulo": "",
-					"nombre": "KIMBERLY VICTORIA",
-					"apellido_paterno": "AVILA",
-					"apellido_materno": "MARTINEZ",
-					"fecha": "THURSDAY OCTOBER 11",
-					"mensaje_corto": "",
-					"se_vela_en": "SE VELA C. 10 DE MAYO #308 COL 8 DE SEPTIEMBRE.",
-					"honras": "SE DESPIDE EN PANTEÓN ORIENTE A LAS 16:00 HRS.",
-					"descripcion": ""
-				},
-				{
-					"id": 460,
-					"titulo": "",
-					"nombre": "RAFAEL",
-					"apellido_paterno": "MARTÍNEZ",
-					"apellido_materno": "CESARETTI",
-					"fecha": "THURSDAY OCTOBER 11",
-					"mensaje_corto": "A LA EDAD DE 68 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE Y ESMERALDA.",
-					"honras": "CULTO BÍBLICO A LAS 15.00 HRS.MISMA CAPILLA DIAMANTE /ESMERALDA.SE DESPIDE PARA SU CREMACIÓN.",
-					"descripcion": ""
-				},
-				{
-					"id": 459,
-					"titulo": "",
-					"nombre": "JORGE FERNANDO",
-					"apellido_paterno": "PEÑA",
-					"apellido_materno": "LERMA",
-					"fecha": "WEDNSDAY OCTOBER 10",
-					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
-					"se_vela_en": "SE VELA CAPILLA DE FUNERALES SAN JOSE.",
-					"honras": "HONRAS PENDIENTES.",
-					"descripcion": "HIJO DE LA SRA. IRENE LERMA."
-				},
-				{
-					"id": 458,
-					"titulo": "",
-					"nombre": "SOSTENES",
-					"apellido_paterno": "COLIRIO",
-					"apellido_materno": "ROLDAN",
-					"fecha": "TUESDAY OCTOBER 09",
-					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
-					"se_vela_en": "SE VELA CALLE CARLOS SANTA MARIA #1207 COL. HECTOR MAYAGOITIA.",
-					"honras": "HONRAS 13:00 HRS.TEMPLO SANTA CRUZ.SE DESPIDE EN PANTEÓN ORIENTE A LAS 16:00 HRS.",
-					"descripcion": ""
-				},
-				{
-					"id": 457,
-					"titulo": "",
-					"nombre": "CATALINA",
-					"apellido_paterno": "FRAYRE",
-					"apellido_materno": "ROCHA",
-					"fecha": "TUESDAY OCTOBER 09",
-					"mensaje_corto": "A LA EDAD DE 87 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
-					"honras": "HONRAS: 15:00 HRSPARROQUIA DE LA SANTA CRUZ DE DOLORESSE DESPIDE EN PANTEON DE ORIENTE",
-					"descripcion": ""
-				},
-				{
-					"id": 456,
-					"titulo": "",
-					"nombre": "HUGO",
-					"apellido_paterno": "ESCAMILLA",
-					"apellido_materno": "HERNANDEZ",
-					"fecha": "TUESDAY OCTOBER 09",
-					"mensaje_corto": "A LA EDAD DE 41 AÑOS",
-					"se_vela_en": "SE VELA CALLE OCEANO #202 COL. LUZ Y ESPERANZA.",
-					"honras": "HONRAS: 11:00 HRSTEMPLO SAN LORENZOSE DESPIDE EN PANTEON DE ORIENTE",
 					"descripcion": ""
 				}
 			]
