@@ -1,6 +1,30 @@
 		{
 			"obituario": [
 				{
+					"id": 474,
+					"titulo": "",
+					"nombre": "NORMA GUADALUPE",
+					"apellido_paterno": "SANTILLAN",
+					"apellido_materno": "ROSALES",
+					"fecha": "MARTES 16 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 42 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA A PARTIR DE LAS 13:00 HRS.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 473,
+					"titulo": "",
+					"nombre": "GERARDO",
+					"apellido_paterno": "BETANCORT",
+					"apellido_materno": "GONZÁLEZ",
+					"fecha": "MARTES 16 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+					"se_vela_en": "SEVELA EN CAPILLA DIAMANTE.",
+					"honras": "HONRAS 16:00 HRS.TEMPLO NTRA. SRA. DE LOURDES.SE DESPIDE EN PANTEÓN ORIENTE.",
+					"descripcion": ""
+				},
+				{
 					"id": 472,
 					"titulo": "",
 					"nombre": "ADILENA GUADALUPE",
@@ -9,7 +33,7 @@
 					"fecha": "LUNES 15 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 30 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA A PARTIR DE LAS 14:00 HRS.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "SE VELA EN CAPILLA ESMERALDA.HONRAS 12:00 HRS.TEMPLO DIVINA PROVIDENCIA.SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS.",
 					"descripcion": ""
 				},
 				{
@@ -21,7 +45,7 @@
 					"fecha": "LUNES 15 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 81 AÑOS",
 					"se_vela_en": "SE VELA CALLE ILINIO #307 COL. LUIS ECHEVERRIA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 10:00 HRS. EL DIA MIERCOLES 17/10/2018.TEMPLO SANTA CRUZ DE DOLORES.SE DESPIDE EN PANTEON JARDIN.",
 					"descripcion": ""
 				},
 				{
@@ -107,33 +131,33 @@
 					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
 					"honras": "HONRAS 12:00 HRS.TEMPLO NTRA.SRA.DE LOS ANGELES.SE DESPIDE EN PARQUE RESIDENCIAL RAÚL FLORES.",
 					"descripcion": ""
-				},
-				{
-					"id": 463,
-					"titulo": "",
-					"nombre": "PABLO",
-					"apellido_paterno": "RODRIGUEZ",
-					"apellido_materno": "RODRIGUEZ",
-					"fecha": "JUEVES 11 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
-					"se_vela_en": "SE VELA DOM. CON. LOC. EL NAYAR,DGO.",
-					"honras": "HONRAS 16:00 HRS.TEMPLO SEÑOR DE LA INSPIRACIÓN.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 462,
-					"titulo": "",
-					"nombre": "MA. DE LA LUZ",
-					"apellido_paterno": "DIAZ",
-					"apellido_materno": "VALDEZ",
-					"fecha": "JUEVES 11 DE OCTUBRE",
-					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
-					"honras": "HONRAS 11:00 HRS. EL DIA VIERNES 12/10/2018 TEMPLO SANTO NIÑO DE ATOCHA.SE DESPIDE EN PANTEÓN ORIENTE.",
-					"descripcion": ""
 				}
 			],
 			"obituario_ingles": [
+				{
+					"id": 474,
+					"titulo": "",
+					"nombre": "NORMA GUADALUPE",
+					"apellido_paterno": "SANTILLAN",
+					"apellido_materno": "ROSALES",
+					"fecha": "TUESDAY OCTOBER 16",
+					"mensaje_corto": "A LA EDAD DE 42 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA A PARTIR DE LAS 13:00 HRS.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
+					"id": 473,
+					"titulo": "",
+					"nombre": "GERARDO",
+					"apellido_paterno": "BETANCORT",
+					"apellido_materno": "GONZÁLEZ",
+					"fecha": "TUESDAY OCTOBER 16",
+					"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+					"se_vela_en": "SEVELA EN CAPILLA DIAMANTE.",
+					"honras": "HONRAS 16:00 HRS.TEMPLO NTRA. SRA. DE LOURDES.SE DESPIDE EN PANTEÓN ORIENTE.",
+					"descripcion": ""
+				},
 				{
 					"id": 472,
 					"titulo": "",
@@ -143,7 +167,7 @@
 					"fecha": "MONDAY OCTOBER 15",
 					"mensaje_corto": "A LA EDAD DE 30 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA A PARTIR DE LAS 14:00 HRS.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "SE VELA EN CAPILLA ESMERALDA.HONRAS 12:00 HRS.TEMPLO DIVINA PROVIDENCIA.SE DESPIDE EN PANTEÓN VALLE DE LOS SABINOS.",
 					"descripcion": ""
 				},
 				{
@@ -155,9 +179,10 @@
 					"fecha": "MONDAY OCTOBER 15",
 					"mensaje_corto": "A LA EDAD DE 81 AÑOS",
 					"se_vela_en": "SE VELA CALLE ILINIO #307 COL. LUIS ECHEVERRIA.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 10:00 HRS. EL DIA MIERCOLES 17/10/2018.TEMPLO SANTA CRUZ DE DOLORES.SE DESPIDE EN PANTEON JARDIN.",
 					"descripcion": ""
 				},
+				
 				{
 					"id": 470,
 					"titulo": "",
@@ -240,30 +265,6 @@
 					"mensaje_corto": "A LA EDAD DE 83 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA.",
 					"honras": "HONRAS 12:00 HRS.TEMPLO NTRA.SRA.DE LOS ANGELES.SE DESPIDE EN PARQUE RESIDENCIAL RAÚL FLORES.",
-					"descripcion": ""
-				},
-				{
-					"id": 463,
-					"titulo": "",
-					"nombre": "PABLO",
-					"apellido_paterno": "RODRIGUEZ",
-					"apellido_materno": "RODRIGUEZ",
-					"fecha": "THURSDAY OCTOBER 11",
-					"mensaje_corto": "A LA EDAD DE 88 AÑOS",
-					"se_vela_en": "SE VELA DOM. CON. LOC. EL NAYAR,DGO.",
-					"honras": "HONRAS 16:00 HRS.TEMPLO SEÑOR DE LA INSPIRACIÓN.SE DESPIDE EN PANTEÓN DEL LUGAR.",
-					"descripcion": ""
-				},
-				{
-					"id": 462,
-					"titulo": "",
-					"nombre": "MA. DE LA LUZ",
-					"apellido_paterno": "DIAZ",
-					"apellido_materno": "VALDEZ",
-					"fecha": "THURSDAY OCTOBER 11",
-					"mensaje_corto": "A LA EDAD DE 77 AÑOS",
-					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
-					"honras": "HONRAS 11:00 HRS. EL DIA VIERNES 12/10/2018 TEMPLO SANTO NIÑO DE ATOCHA.SE DESPIDE EN PANTEÓN ORIENTE.",
 					"descripcion": ""
 				}
 			]
