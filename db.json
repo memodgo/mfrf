@@ -1,6 +1,30 @@
 		{
 			"obituario": [
 				{
+					"id": 481,
+					"titulo": "",
+					"nombre": "DR. ARMANDO",
+					"apellido_paterno": "BLANCARTE",
+					"apellido_materno": "GOMEZ",
+					"fecha": "SABADO 20 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 69 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ORO Y PLATA.",
+					"honras": "HONRAS 15:00 HRS.TEMPLO CATEDRAL.SE DESPIDE EN PANTEÓN ORIENTE.",
+					"descripcion": ""
+				},
+				{
+					"id": 480,
+					"titulo": "",
+					"nombre": "MIGUEL ANGEL",
+					"apellido_paterno": "CONTRERAS",
+					"apellido_materno": "CASTRO",
+					"fecha": "SABADO 20 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 69 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 479,
 					"titulo": "",
 					"nombre": "ROSA MARGARITA",
@@ -9,7 +33,7 @@
 					"fecha": "VIERNES 19 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 32 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 16:00 HRS.TEMPLO SAN MARTIN DE PORRAS.SE DESPIDE EN PANTEON PARQUE RESIDENCIAL FLORES.",
 					"descripcion": ""
 				},
 				{
@@ -21,7 +45,7 @@
 					"fecha": "VIERNES 19 DE OCTUBRE",
 					"mensaje_corto": "A LA EDAD DE 74 AÑOS",
 					"se_vela_en": "SE VELAN CALLE ANGEL RODRIGUEZ SOLORZANO #334 COL. GOBERNADORES.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 12:30 HRS.TEMPLO SAGRADO CORAZÓN DEL SALTITO.SE DESPIDE EN PANTEÓN ORIENTE.",
 					"descripcion": ""
 				},
 				{
@@ -147,6 +171,30 @@
 			],
 			"obituario_ingles": [
 				{
+					"id": 481,
+					"titulo": "",
+					"nombre": "DR. ARMANDO",
+					"apellido_paterno": "BLANCARTE",
+					"apellido_materno": "GOMEZ",
+					"fecha": "SATURDAY OCTOBER 20",
+					"mensaje_corto": "A LA EDAD DE 69 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ORO Y PLATA.",
+					"honras": "HONRAS 15:00 HRS.TEMPLO CATEDRAL.SE DESPIDE EN PANTEÓN ORIENTE.",
+					"descripcion": ""
+				},
+				{
+					"id": 480,
+					"titulo": "",
+					"nombre": "MIGUEL ANGEL",
+					"apellido_paterno": "CONTRERAS",
+					"apellido_materno": "CASTRO",
+					"fecha": "SATURDAY OCTOBER 20",
+					"mensaje_corto": "A LA EDAD DE 69 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA EN CAPILLA ESMERALDA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 479,
 					"titulo": "",
 					"nombre": "ROSA MARGARITA",
@@ -155,7 +203,7 @@
 					"fecha": "FRIDAY OCTOBER 19",
 					"mensaje_corto": "A LA EDAD DE 32 AÑOS",
 					"se_vela_en": "SE VELA EN CAPILLA DIAMANTE.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 16:00 HRS.TEMPLO SAN MARTIN DE PORRAS.SE DESPIDE EN PANTEON PARQUE RESIDENCIAL FLORES.",
 					"descripcion": ""
 				},
 				{
@@ -167,7 +215,7 @@
 					"fecha": "FRIDAY OCTOBER 19",
 					"mensaje_corto": "A LA EDAD DE 74 AÑOS",
 					"se_vela_en": "SE VELAN CALLE ANGEL RODRIGUEZ SOLORZANO #334 COL. GOBERNADORES.",
-					"honras": "HONRAS PENDIENTES.",
+					"honras": "HONRAS 12:30 HRS.TEMPLO SAGRADO CORAZÓN DEL SALTITO.SE DESPIDE EN PANTEÓN ORIENTE.",
 					"descripcion": ""
 				},
 				{
