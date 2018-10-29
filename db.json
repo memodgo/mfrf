@@ -1,6 +1,18 @@
 		{
 			"obituario": [
 				{
+					"id": 487,
+					"titulo": "",
+					"nombre": "EDOARDO",
+					"apellido_paterno": "ESTEVEZ",
+					"apellido_materno": "VALENZUELA",
+					"fecha": "LUNES 29 DE OCTUBRE",
+					"mensaje_corto": "A LA EDAD DE 73 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA.",
+					"honras": "HONRAS PENDIENTES.",
+					"descripcion": ""
+				},
+				{
 					"id": 486,
 					"titulo": "",
 					"nombre": "IGNACIO",
