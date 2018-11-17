@@ -1,6 +1,54 @@
 		{
 			"obituario": [
 				{
+					"id": 495,
+					"titulo": "",
+					"nombre": "MA. GUADALUPE",
+					"apellido_paterno": "ALVARADO",
+					"apellido_materno": "PEREZ",
+					"fecha": "SABADO 17 DE NOVIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 92 AÑOS",
+					"se_vela_en": "SE VELA SAN JUAN DE MICHIS, MPIO. SUCHIL, DGO.",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 494,
+					"titulo": "",
+					"nombre": "LIBRADO",
+					"apellido_paterno": "LOPEZ",
+					"apellido_materno": "ESCAMILLA",
+					"fecha": "SABADO 17 DE NOVIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 73 AÑOS",
+					"se_vela_en": "SE VELA TEPEHUANES, DGO.",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 493,
+					"titulo": "",
+					"nombre": "EVELYN",
+					"apellido_paterno": "CHAVEZ",
+					"apellido_materno": "ALMARAZ",
+					"fecha": "SABADO 17 DE NOVIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 24 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 492,
+					"titulo": "",
+					"nombre": "GENARO",
+					"apellido_paterno": "ARROYO",
+					"apellido_materno": "GUTIERREZ",
+					"fecha": "SABADO 17 DE NOVIEMBRE",
+					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
 					"id": 491,
 					"titulo": "",
 					"nombre": "SANTIAGO",
@@ -27,6 +75,54 @@
 				
 			],
 			"obituario_ingles": [
+				{
+					"id": 495,
+					"titulo": "",
+					"nombre": "MA. GUADALUPE",
+					"apellido_paterno": "ALVARADO",
+					"apellido_materno": "PEREZ",
+					"fecha": "SATURDAY NOVEMBER 17",
+					"mensaje_corto": "A LA EDAD DE 92 AÑOS",
+					"se_vela_en": "SE VELA SAN JUAN DE MICHIS, MPIO. SUCHIL, DGO.",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 494,
+					"titulo": "",
+					"nombre": "LIBRADO",
+					"apellido_paterno": "LOPEZ",
+					"apellido_materno": "ESCAMILLA",
+					"fecha": "SATURDAY NOVEMBER 17",
+					"mensaje_corto": "A LA EDAD DE 73 AÑOS",
+					"se_vela_en": "SE VELA TEPEHUANES, DGO.",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 493,
+					"titulo": "",
+					"nombre": "EVELYN",
+					"apellido_paterno": "CHAVEZ",
+					"apellido_materno": "ALMARAZ",
+					"fecha": "SATURDAY NOVEMBER 17",
+					"mensaje_corto": "A LA EDAD DE 24 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA PLATA",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
+				{
+					"id": 492,
+					"titulo": "",
+					"nombre": "GENARO",
+					"apellido_paterno": "ARROYO",
+					"apellido_materno": "GUTIERREZ",
+					"fecha": "SATURDAY NOVEMBER 17",
+					"mensaje_corto": "A LA EDAD DE 70 AÑOS",
+					"se_vela_en": "SE VELA EN CAPILLA ESMERALDA",
+					"honras": "HONRAS PENDIENTES",
+					"descripcion": ""
+				},
 				{
 					"id": 491,
 					"titulo": "",
