@@ -1,6 +1,6 @@
 		{
 	"obituario": [{
-			"id": 496,
+			"id": 500,
 			"titulo": "",
 			"nombre": "GERARDO",
 			"apellido_paterno": "ALMARAZ",
@@ -12,7 +12,7 @@
 			"descripcion": ""
 		},
 		{
-			"id": 497,
+			"id": 499,
 			"titulo": "",
 			"nombre": "ATANASIA",
 			"apellido_paterno": "NUÑEZ",
@@ -36,7 +36,7 @@
 			"descripcion": ""
 		},
 		{
-			"id": 499,
+			"id": 497,
 			"titulo": "",
 			"nombre": "JOSE LORETO",
 			"apellido_paterno": "MORENO",
@@ -48,7 +48,7 @@
 			"descripcion": ""
 		},
 		{
-			"id": 499,
+			"id": 496,
 			"titulo": "",
 			"nombre": "JOSE MARÍA",
 			"apellido_paterno": "MORENO",
@@ -134,7 +134,7 @@
 
 	],
 	"obituario_ingles": [{
-			"id": 496,
+			"id": 500,
 			"titulo": "",
 			"nombre": "GERARDO",
 			"apellido_paterno": "ALMARAZ",
@@ -146,7 +146,7 @@
 			"descripcion": ""
 		},
 		{
-			"id": 497,
+			"id": 499,
 			"titulo": "",
 			"nombre": "ATANASIA",
 			"apellido_paterno": "NUÑEZ",
@@ -170,7 +170,7 @@
 			"descripcion": ""
 		},
 		{
-			"id": 499,
+			"id": 497,
 			"titulo": "",
 			"nombre": "JOSE LORETO",
 			"apellido_paterno": "MORENO",
@@ -182,7 +182,7 @@
 			"descripcion": ""
 		},
 		{
-			"id": 499,
+			"id": 496,
 			"titulo": "",
 			"nombre": "JOSE MARÍA",
 			"apellido_paterno": "MORENO",
