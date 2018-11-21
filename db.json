@@ -10,7 +10,8 @@
 							"se_vela_en": "SE VELA CAPILLA ESMERALDA",
 							"honras": "HONRAS PENDIENTES",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 505,
 							"titulo": "",
 							"nombre": "GILDARDO",
@@ -21,7 +22,8 @@
 							"se_vela_en": "SE VELA PROLONGACIÓN LIBERTAD 237 COL UNIVERSAL",
 							"honras": "HONRAS PENDIENTES",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 504,
 							"titulo": "",
 							"nombre": "MARIA ELENA",
@@ -32,7 +34,8 @@
 							"se_vela_en": "SE VELA CAPILLA PLATA",
 							"honras": "HONRAS 12:00 HRS TEMPLO NTRA SRA DE LOS ANGELES",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 503,
 							"titulo": "",
 							"nombre": "MATEO",
@@ -43,7 +46,8 @@
 							"se_vela_en": "SE VELA COL CNOP SANTIAGO PAPASQUIARO, DGO",
 							"honras": "HONRAS PENDIENTES",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 502,
 							"titulo": "",
 							"nombre": "AMELIA",
@@ -54,7 +58,8 @@
 							"se_vela_en": "SE VELA EN CAPILLA ORO",
 							"honras": "HONRAS 14:00 HRS TEMPLO SAN JOSE",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 501,
 							"titulo": "",
 							"nombre": "MA. ANTONIA",
@@ -65,7 +70,8 @@
 							"se_vela_en": "SE VELA CAPILLA DIAMANTE",
 							"honras": "TEMPLO SAGRADA FAMILIA SE DESPIDE EN PANTEON RESIDENCIAL FLORES",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 500,
 							"titulo": "",
 							"nombre": "GERARDO",
@@ -126,7 +132,8 @@
 							"se_vela_en": "SE VELA CAPILLA ESMERALDA",
 							"honras": "HONRAS PENDIENTES",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 505,
 							"titulo": "",
 							"nombre": "GILDARDO",
@@ -137,7 +144,8 @@
 							"se_vela_en": "SE VELA PROLONGACIÓN LIBERTAD 237 COL UNIVERSAL",
 							"honras": "HONRAS PENDIENTES",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 504,
 							"titulo": "",
 							"nombre": "MARIA ELENA",
@@ -148,7 +156,8 @@
 							"se_vela_en": "SE VELA CAPILLA PLATA",
 							"honras": "HONRAS 12:00 HRS TEMPLO NTRA SRA DE LOS ANGELES",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 503,
 							"titulo": "",
 							"nombre": "MATEO",
@@ -159,7 +168,8 @@
 							"se_vela_en": "SE VELA COL CNOP SANTIAGO PAPASQUIARO, DGO",
 							"honras": "HONRAS PENDIENTES",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 502,
 							"titulo": "",
 							"nombre": "AMELIA",
@@ -170,7 +180,8 @@
 							"se_vela_en": "SE VELA EN CAPILLA ORO",
 							"honras": "HONRAS 14:00 HRS TEMPLO SAN JOSE",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 501,
 							"titulo": "",
 							"nombre": "MA. ANTONIA",
@@ -181,7 +192,8 @@
 							"se_vela_en": "SE VELA CAPILLA DIAMANTE",
 							"honras": "TEMPLO SAGRADA FAMILIA SE DESPIDE EN PANTEON RESIDENCIAL FLORES",
 							"descripcion": ""
-						}, {
+						},
+						{
 							"id": 500,
 							"titulo": "",
 							"nombre": "GERARDO",
@@ -241,6 +253,5 @@
 							"honras": "PENDIENTES",
 							"descripcion": ""
 						}
-
 					]
 				}
