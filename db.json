@@ -1,18 +1,6 @@
 {
 	"obituario": [
 		{
-			"id": 530,
-			"titulo": "",
-			"nombre": "",
-			"apellido_paterno": "",
-			"apellido_materno": "",
-			"fecha": "",
-			"mensaje_corto": "",
-			"se_vela_en": "",
-			"honras": "",
-			"descripcion": ""
-		},
-		{
 			"id": 529,
 			"titulo": "",
 			"nombre": "FRANCISCO ",
@@ -98,18 +86,6 @@
 		}
 	],
 	"obituario_ingles": [
-		{
-			"id": 530,
-			"titulo": "",
-			"nombre": "",
-			"apellido_paterno": "",
-			"apellido_materno": "",
-			"fecha": "",
-			"mensaje_corto": "",
-			"se_vela_en": "",
-			"honras": "",
-			"descripcion": ""
-		},
 		{
 			"id": 529,
 			"titulo": "",
