@@ -1,100 +1,91 @@
 {
-	"obituario": [
-		{
-			"id": 537,
-			"titulo": "",
-			"nombre": "MARIA CRUZ",
-			"apellido_paterno": "RODRIGUEZ",
-			"apellido_materno": "VALENZUELA",
-			"fecha": "DOMINGO 21 DE ABRIL",
-			"mensaje_corto": "A LA EDAD DE 84 AÑOS",
-			"se_vela_en": "SUC.  DOLORES DEL RIO  CAPILLA PLATA",
-			"honras": "16: 00 HRS TEMPLO: DE LA DIVINA PROVIDENCIA PANTEON VALLE DE LOS SABINOS",
-			"descripcion": ""
-		}
-		{
-			"id": 536,
-			"titulo": "",
-			"nombre": "KEVIN MANUEL",
-			"apellido_paterno": "SOTO",
-			"apellido_materno": "DIAZ",
-			"fecha": "DOMINGO 21 DE ABRIL",
-			"mensaje_corto": "A LA EDAD DE 13 AÑOS",
-			"se_vela_en": "SUC. DOLORES DEL RIO CAPILLA DIAMANTE",
-			"honras": "SE TRASLADA A LAS 11:00 HRS SAN MIGUEL DE CRUCES",
-			"descripcion": ""
-		}
-		{
-			"id": 535,
-			"titulo": "",
-			"nombre": "RUTILIO",
-			"apellido_paterno": "BELTRAN",
-			"apellido_materno": "OLIVAS",
-			"fecha": "DOMINGO 21 DE ABRIL",
-			"mensaje_corto": "A LA EDAD DE 85 AÑOS",
-			"se_vela_en": "SUC. DOLORES DEL RIO  CAPILLA ESMERALDA",
-			"honras": "15 HRS EN EL TEMPLO SAN FRANCISCO DE ASIS PANTEON VALLE DE LOS SABINOS",
-			"descripcion": ""
-		}
-		{
-			"id": 534,
-			"titulo": "",
-			"nombre": "HERMELINDA",
-			"apellido_paterno": "ENRIQUEZ",
-			"apellido_materno": "FLORES",
-			"fecha": "DOMINGO 21 DE ABRIL",
-			"mensaje_corto": "A LA EDAD DE 83 AÑOS",
-			"se_vela_en": "SUC. DOLORES DEL RIO CAPILLA DIAMANTE A PARTIR DE LAS 11:00 HRS",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		}
-		{
-			"id": 533,
-			"titulo": "",
-			"nombre": "PEDRO",
-			"apellido_paterno": "AVILA",
-			"apellido_materno": "VACIO",
-			"fecha": "DOMINGO 21 DE ABRIL",
-			"mensaje_corto": "R.N.",
-			"se_vela_en": "LA CALLE  LUIS FRANCISCO MONARREZ RINCON COL. EL PARAISO",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		}
-		{
-			"id": 532,
-			"titulo": "",
-			"nombre": "JULIA",
-			"apellido_paterno": "MONTENEGRO",
-			"apellido_materno": "FRAGOSO",
-			"fecha": "DOMINGO 21 DE ABRIL",
-			"mensaje_corto": "A LA EDAD DE 69 AÑOS",
-			"se_vela_en": "CARRERAS TEPEHUANES.",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		}
-		{
-			"id": 531,
-			"titulo": "",
-			"nombre": "MANUELA",
-			"apellido_paterno": "NAVA",
-			"apellido_materno": "CARLOS",
-			"fecha": "VIERNES 19 DE ABRIL",
-			"mensaje_corto": "A LA EDAD DE 63 AÑOS",
-			"se_vela_en": "capilla de ntra, señora de los dolores JEREZ, ZACATECAS.",
-			"honras": "PENDIENTES",
-			"descripcion": ""
-		}
-		{
-			"id": 530,
-			"titulo": "",
-			"nombre": "DANIEL",
-			"apellido_paterno": "MARTINEZ",
-			"apellido_materno": "",
-			"fecha": "VIERNES 19 DE ABRIL",
-			"mensaje_corto": "A LA EDAD DE 78 AÑOS",
-			"se_vela_en": "CAPILLA RAÚL FLORES",
-			"honras": "11:00 HRS. TEMPLO SANTO SANTIAGO APOSTOL. SE DESPIDE EN PANTEON LOS NOGALES",
-			"descripcion": ""
-		}
-	]
+	"obituario": [{
+		"id": 537,
+		"titulo": "",
+		"nombre": "MARIA CRUZ",
+		"apellido_paterno": "RODRIGUEZ",
+		"apellido_materno": "VALENZUELA",
+		"fecha": "DOMINGO 21 DE ABRIL",
+		"mensaje_corto": "A LA EDAD DE 84 AÑOS",
+		"se_vela_en": "SUC.  DOLORES DEL RIO  CAPILLA PLATA",
+		"honras": "16: 00 HRS TEMPLO: DE LA DIVINA PROVIDENCIA PANTEON VALLE DE LOS SABINOS",
+		"descripcion": ""
+	}, {
+		"id": 536,
+		"titulo": "",
+		"nombre": "KEVIN MANUEL",
+		"apellido_paterno": "SOTO",
+		"apellido_materno": "DIAZ",
+		"fecha": "DOMINGO 21 DE ABRIL",
+		"mensaje_corto": "A LA EDAD DE 13 AÑOS",
+		"se_vela_en": "SUC. DOLORES DEL RIO CAPILLA DIAMANTE",
+		"honras": "SE TRASLADA A LAS 11:00 HRS SAN MIGUEL DE CRUCES",
+		"descripcion": ""
+	}, {
+		"id": 535,
+		"titulo": "",
+		"nombre": "RUTILIO",
+		"apellido_paterno": "BELTRAN",
+		"apellido_materno": "OLIVAS",
+		"fecha": "DOMINGO 21 DE ABRIL",
+		"mensaje_corto": "A LA EDAD DE 85 AÑOS",
+		"se_vela_en": "SUC. DOLORES DEL RIO  CAPILLA ESMERALDA",
+		"honras": "15 HRS EN EL TEMPLO SAN FRANCISCO DE ASIS PANTEON VALLE DE LOS SABINOS",
+		"descripcion": ""
+	}, {
+		"id": 534,
+		"titulo": "",
+		"nombre": "HERMELINDA",
+		"apellido_paterno": "ENRIQUEZ",
+		"apellido_materno": "FLORES",
+		"fecha": "DOMINGO 21 DE ABRIL",
+		"mensaje_corto": "A LA EDAD DE 83 AÑOS",
+		"se_vela_en": "SUC. DOLORES DEL RIO CAPILLA DIAMANTE A PARTIR DE LAS 11:00 HRS",
+		"honras": "PENDIENTES",
+		"descripcion": ""
+	}, {
+		"id": 533,
+		"titulo": "",
+		"nombre": "PEDRO",
+		"apellido_paterno": "AVILA",
+		"apellido_materno": "VACIO",
+		"fecha": "DOMINGO 21 DE ABRIL",
+		"mensaje_corto": "R.N.",
+		"se_vela_en": "LA CALLE  LUIS FRANCISCO MONARREZ RINCON COL. EL PARAISO",
+		"honras": "PENDIENTES",
+		"descripcion": ""
+	}, {
+		"id": 532,
+		"titulo": "",
+		"nombre": "JULIA",
+		"apellido_paterno": "MONTENEGRO",
+		"apellido_materno": "FRAGOSO",
+		"fecha": "DOMINGO 21 DE ABRIL",
+		"mensaje_corto": "A LA EDAD DE 69 AÑOS",
+		"se_vela_en": "CARRERAS TEPEHUANES.",
+		"honras": "PENDIENTES",
+		"descripcion": ""
+	}, {
+		"id": 531,
+		"titulo": "",
+		"nombre": "MANUELA",
+		"apellido_paterno": "NAVA",
+		"apellido_materno": "CARLOS",
+		"fecha": "VIERNES 19 DE ABRIL",
+		"mensaje_corto": "A LA EDAD DE 63 AÑOS",
+		"se_vela_en": "capilla de ntra, señora de los dolores JEREZ, ZACATECAS.",
+		"honras": "PENDIENTES",
+		"descripcion": ""
+	}, {
+		"id": 530,
+		"titulo": "",
+		"nombre": "DANIEL",
+		"apellido_paterno": "MARTINEZ",
+		"apellido_materno": "",
+		"fecha": "VIERNES 19 DE ABRIL",
+		"mensaje_corto": "A LA EDAD DE 78 AÑOS",
+		"se_vela_en": "CAPILLA RAÚL FLORES",
+		"honras": "11:00 HRS. TEMPLO SANTO SANTIAGO APOSTOL. SE DESPIDE EN PANTEON LOS NOGALES",
+		"descripcion": ""
+	}]
 }
