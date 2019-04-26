@@ -1,116 +1,112 @@
 {
-	"obituario": [
-	{
-		"id": 539,
-		"titulo": "",
-		"nombre": "ALEJANDRA",
-		"apellido_paterno": "LÓPEZ",
-		"apellido_materno": "VIERA",
-		"fecha": "MIERCOLES 24 DE ABRIL",
-		"mensaje_corto": "A LA EDAD DE 79 AÑOS",
-		"se_vela_en": "COL. 5 DE MAYO, DGO",
-		"honras": "10:00 HRS. TEMPLO DEL LUGAR Y SE DESPIDE EN EL PANTEON DEL LUGAR",
-		"descripcion": ""
-	},
-	{
-		"id": 538,
-		"titulo": "",
-		"nombre": "JESUS HUGO ",
-		"apellido_paterno": "MARTENS",
-		"apellido_materno": "NAVARRO ",
-		"fecha": "MARTES 23 DE ABRIL",
-		"mensaje_corto": "A LA EDAD DE 75 AÑOS",
-		"se_vela_en": "",
-		"honras": "PARA SU CREMACIÓN ",
-		"descripcion": ""
-	},
-	{
-		"id": 537,
-		"titulo": "",
-		"nombre": "MARIA CRUZ",
-		"apellido_paterno": "RODRIGUEZ",
-		"apellido_materno": "VALENZUELA",
-		"fecha": "DOMINGO 21 DE ABRIL",
-		"mensaje_corto": "A LA EDAD DE 84 AÑOS",
-		"se_vela_en": "SUC.  DOLORES DEL RIO  CAPILLA PLATA",
-		"honras": "16: 00 HRS TEMPLO: DE LA DIVINA PROVIDENCIA PANTEON VALLE DE LOS SABINOS",
-		"descripcion": ""
-	}, {
-		"id": 536,
-		"titulo": "",
-		"nombre": "KEVIN MANUEL",
-		"apellido_paterno": "SOTO",
-		"apellido_materno": "DIAZ",
-		"fecha": "DOMINGO 21 DE ABRIL",
-		"mensaje_corto": "A LA EDAD DE 13 AÑOS",
-		"se_vela_en": "SUC. DOLORES DEL RIO CAPILLA DIAMANTE",
-		"honras": "SE TRASLADA A LAS 11:00 HRS SAN MIGUEL DE CRUCES",
-		"descripcion": ""
-	}, {
-		"id": 535,
-		"titulo": "",
-		"nombre": "RUTILIO",
-		"apellido_paterno": "BELTRAN",
-		"apellido_materno": "OLIVAS",
-		"fecha": "DOMINGO 21 DE ABRIL",
-		"mensaje_corto": "A LA EDAD DE 85 AÑOS",
-		"se_vela_en": "SUC. DOLORES DEL RIO  CAPILLA ESMERALDA",
-		"honras": "15 HRS EN EL TEMPLO SAN FRANCISCO DE ASIS PANTEON VALLE DE LOS SABINOS",
-		"descripcion": ""
-	}, {
-		"id": 534,
-		"titulo": "",
-		"nombre": "HERMELINDA",
-		"apellido_paterno": "ENRIQUEZ",
-		"apellido_materno": "FLORES",
-		"fecha": "DOMINGO 21 DE ABRIL",
-		"mensaje_corto": "A LA EDAD DE 83 AÑOS",
-		"se_vela_en": "SUC. DOLORES DEL RIO CAPILLA DIAMANTE A PARTIR DE LAS 11:00 HRS",
-		"honras": "PENDIENTES",
-		"descripcion": ""
-	}, {
-		"id": 533,
-		"titulo": "",
-		"nombre": "PEDRO",
-		"apellido_paterno": "AVILA",
-		"apellido_materno": "VACIO",
-		"fecha": "DOMINGO 21 DE ABRIL",
-		"mensaje_corto": "R.N.",
-		"se_vela_en": "LA CALLE  LUIS FRANCISCO MONARREZ RINCON COL. EL PARAISO",
-		"honras": "PENDIENTES",
-		"descripcion": ""
-	}, {
-		"id": 532,
-		"titulo": "",
-		"nombre": "JULIA",
-		"apellido_paterno": "MONTENEGRO",
-		"apellido_materno": "FRAGOSO",
-		"fecha": "DOMINGO 21 DE ABRIL",
-		"mensaje_corto": "A LA EDAD DE 69 AÑOS",
-		"se_vela_en": "CARRERAS TEPEHUANES.",
-		"honras": "PENDIENTES",
-		"descripcion": ""
-	}, {
-		"id": 531,
-		"titulo": "",
-		"nombre": "MANUELA",
-		"apellido_paterno": "NAVA",
-		"apellido_materno": "CARLOS",
-		"fecha": "VIERNES 19 DE ABRIL",
-		"mensaje_corto": "A LA EDAD DE 63 AÑOS",
-		"se_vela_en": "capilla de ntra, señora de los dolores JEREZ, ZACATECAS.",
-		"honras": "PENDIENTES",
-		"descripcion": ""
-	}, {
-		"id": 530,
-		"titulo": "",
-		"nombre": "DANIEL",
-		"apellido_paterno": "MARTINEZ",
-		"apellido_materno": "",
-		"fecha": "VIERNES 19 DE ABRIL",
-		"mensaje_corto": "A LA EDAD DE 78 AÑOS",
-		"se_vela_en": "CAPILLA RAÚL FLORES",
-		"honras": "11:00 HRS. TEMPLO SANTO SANTIAGO APOSTOL. SE DESPIDE EN PANTEON LOS NOGALES",
-		"descripcion": ""
-	}]
+   "obituario":[
+      {
+         "id":546,
+         "titulo":"",
+         "nombre":"RUBÉN",
+         "apellido_paterno":"AGUIRRE",
+         "apellido_materno":"",
+         "fecha":"JUEVES 25 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 65 AÑOS",
+         "se_vela_en":"",
+         "honras":"SE TRASLADA A GLENDALE, CALIFORNIA A DURANGO ",
+         "descripcion":""
+      },
+      {
+         "id":545,
+         "titulo":"",
+         "nombre":"HIPOLITO",
+         "apellido_paterno":"ZAPATA",
+         "apellido_materno":"DE HUMA",
+         "fecha":"JUEVES 25 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 79 AÑOS",
+         "se_vela_en":"CAPILLA PLATA DE SUCURSAL DOLORES DEL RIO",
+         "honras":"PENDIENTES",
+         "descripcion":""
+      },
+      {
+         "id":544,
+         "titulo":"",
+         "nombre":"MARIANO CARLOS ",
+         "apellido_paterno":"GONZÁLEZ",
+         "apellido_materno":"LOZANO",
+         "fecha":"JUEVES 25 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 67 AÑOS",
+         "se_vela_en":"SUC. DOLORES DEL RÍO EN CAPILLA ORO.",
+         "honras":"11:00 HRS TEMPLO DE NUESTRA SRA. DE LOS DOLORES Y SE DESPIDE EN PANTEÓN DE ORIENTE",
+         "descripcion":""
+      },
+      {
+         "id":543,
+         "titulo":"",
+         "nombre":"JOSE ABEL",
+         "apellido_paterno":"REYES",
+         "apellido_materno":"DE LA CRUZ",
+         "fecha":"JUEVES 25 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 65 AÑOS",
+         "se_vela_en":"DOM. CON. CALIXTO CONTRERAS, MPIO. DE GPE. VIC. DGO.",
+         "honras":"PENDIENTES",
+         "descripcion":""
+      },
+      {
+         "id":542,
+         "titulo":"",
+         "nombre":"BERTHA ALICIA",
+         "apellido_paterno":"MARRUFO",
+         "apellido_materno":"REYES",
+         "fecha":"JUEVES 25 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 53  AÑOS",
+         "se_vela_en":"CAPILLA ESMERALDA",
+         "honras":"15:00 HRS TEMPLO DEL SAGRADO CORAZÓN Y SE DESPIDE PARA SU CREMACIÓN",
+         "descripcion":""
+      },
+      {
+         "id":541,
+         "titulo":"",
+         "nombre":"RAMON",
+         "apellido_paterno":"RAMIREZ",
+         "apellido_materno":"SILVA",
+         "fecha":"JUEVES 25 DE ABRIL ",
+         "mensaje_corto":"A LA EDAD DE 84 AÑOS",
+         "se_vela_en":"CAPILLA DIAMANTE DE SUCURSAL DOLORES DEL RIO",
+         "honras":"15:00 HRS SANTUARIO ANTIGUO DE NUESTRA SRA. DE GUADALUPE  SE DESPIDE EN PANTEON JARDIN",
+         "descripcion":""
+      },
+      {
+         "id":540,
+         "titulo":"",
+         "nombre":"MARIA ISABEL",
+         "apellido_paterno":"REYES",
+         "apellido_materno":"ACOSTA",
+         "fecha":"JUEVES 25 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 82 AÑOS",
+         "se_vela_en":"GUANACEVI",
+         "honras":"PENDIENTES",
+         "descripcion":""
+      },
+      {
+         "id":539,
+         "titulo":"",
+         "nombre":"ALEJANDRA",
+         "apellido_paterno":"LÓPEZ",
+         "apellido_materno":"VIERA",
+         "fecha":"MIERCOLES 24 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 79 AÑOS",
+         "se_vela_en":"COL. 5 DE MAYO, DGO",
+         "honras":"10:00 HRS. TEMPLO DEL LUGAR Y SE DESPIDE EN EL PANTEON DEL LUGAR",
+         "descripcion":""
+      },
+      {
+         "id":538,
+         "titulo":"",
+         "nombre":"JESUS HUGO ",
+         "apellido_paterno":"MARTENS",
+         "apellido_materno":"NAVARRO ",
+         "fecha":"MARTES 23 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 75 AÑOS",
+         "se_vela_en":"",
+         "honras":"PARA SU CREMACION ",
+         "descripcion":""
+      }
+   ]
 }
