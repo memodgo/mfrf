@@ -1,6 +1,30 @@
 {
    "obituario":[
       {
+         "id":548,
+         "titulo":"",
+         "nombre":"ANDREA",
+         "apellido_paterno":"GUZMAN",
+         "apellido_materno":"ESCALANTE",
+         "fecha":"VIERNES 26 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 67 AÑOS",
+         "se_vela_en":"SE TRASLADA A FORT WORTH,TX.",
+         "honras":"PENDIENTES",
+         "descripcion":""
+      },
+      {
+         "id":547,
+         "titulo":"",
+         "nombre":"FERNANDO FILIBERTO",
+         "apellido_paterno":"PEREZ",
+         "apellido_materno":"JIMENEZ",
+         "fecha":"VIERNES 26 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 57 AÑOS",
+         "se_vela_en":"INDEPENDENCIA Y LIBERTAD, DGO",
+         "honras":"A LAS 16:00 HRS TEMPLO DEL LUGAR. SE DESPIDE EN PANTEON DEL LUGAR.",
+         "descripcion":""
+      },
+      {
          "id":546,
          "titulo":"",
          "nombre":"RUBÉN",
