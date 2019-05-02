@@ -1,7 +1,67 @@
 {
    "obituario":[
       {
+         "id":508,
+         "titulo":"",
+         "nombre":"JOSE ISABEL",
+         "apellido_paterno":"ESTRADA",
+         "apellido_materno":"DELGADO",
+         "fecha":"JUEVES 2 DE MAYO",
+         "mensaje_corto":"A LA EDAD DE 80 AÑOS",
+         "se_vela_en":"DOMICILIO CONOCIDO ABRAHAM GONZÁLEZ, DGO.",
+         "honras":"PENDIENTES",
+         "descripcion":""
+      },
+      {
+         "id":507,
+         "titulo":"",
+         "nombre":"R.N.",
+         "apellido_paterno":"RODRIGUEZ",
+         "apellido_materno":"VALENZUELA",
+         "fecha":"JUEVES 2 DE MAYO",
+         "mensaje_corto":"A LA EDAD DE 6 MESES",
+         "se_vela_en":" CALLE JAZMÍN #105 COL. AMPLIACIÓN PRI.",
+         "honras":"PENDIENTES",
+         "descripcion":""
+      },
+      {
          "id":506,
+         "titulo":"",
+         "nombre":"SAUL",
+         "apellido_paterno":"PEREZ",
+         "apellido_materno":"ONTIVEROS",
+         "fecha":"JUEVES 2 DE MAYO",
+         "mensaje_corto":"A LA EDAD DE 74 AÑOS",
+         "se_vela_en":"DOMICILIO CONOCIDO 10 DE OCTUBRE, SAN JUAN DEL RÍO DGO.",
+         "honras":"PENDIENTES",
+         "descripcion":""
+      },
+      {
+         "id":505,
+         "titulo":"",
+         "nombre":"RAQUEL",
+         "apellido_paterno":"ROMERO",
+         "apellido_materno":"HERNANDEZ",
+         "fecha":"JUEVES 2 DE MAYO",
+         "mensaje_corto":"A LA EDAD DE 69 AÑOS",
+         "se_vela_en":"AV. FERROCARRIL s/n COLONIA LA TURBINA, SANTIAGO PAPASQUIARO DGO.",
+         "honras":"PENDIENTES",
+         "descripcion":""
+      },
+      {
+         "id":504,
+         "titulo":"",
+         "nombre":"IGNACIO",
+         "apellido_paterno":"GALINDO",
+         "apellido_materno":"MATA",
+         "fecha":"MARTES 30 DE ABRIL",
+         "mensaje_corto":"A LA EDAD DE 74 AÑOS",
+         "se_vela_en":"SE VELA EN CAPILLA PLATA DE SUCURSAL DOLORES DEL RÍO",
+         "honras":"14:00 HRS TEMPLO DE NUESTRA SEÑORA DE LOURDES Y SE DESPIDE EN EL PANTEÓN DE ORIENTE",
+         "descripcion":""
+      },
+      {
+         "id":503,
          "titulo":"",
          "nombre":"MARIA LUISA",
          "apellido_paterno":"ALVAREZ",
@@ -9,67 +69,31 @@
          "fecha":"MARTES 30 DE ABRIL",
          "mensaje_corto":"A LA EDAD DE 84 AÑOS",
          "se_vela_en":"DOM. CON. LABOR DE GUADALUPE, DGO.",
-         "honras":"PENDIENTES",
+         "honras":"15:00 HRS TEMPLO DEL LUGAR Y SE DESPIDE EN EL PANTEÓN DEL LUGAR",
          "descripcion":""
       },
       {
-         "id":505,
-         "titulo":"",
-         "nombre":"CAYETANO",
-         "apellido_paterno":"ALBERTO",
-         "apellido_materno":"VALDEZ",
-         "fecha":"LUNES 29 DE ABRIL",
-         "mensaje_corto":"A LA EDAD DE 86 AÑOS",
-         "se_vela_en":"SUC. DOLORES DEL RÍO EN CAPILLA ESMERALDA",
-         "honras":"TEMPLO DE LA SAGRADA FAMILIA (FIDEL VELÁZQUEZ I) SE DESPIDE EN PANTEON DE SAN JOSE DEL MOLINO",
-         "descripcion":""
-      },
-      {
-         "id":504,
-         "titulo":"",
-         "nombre":"EULALIA",
-         "apellido_paterno":"MORONES",
-         "apellido_materno":"MONARREZ",
-         "fecha":"LUNES 29 DE ABRIL",
-         "mensaje_corto":"A LA EDAD DE 83 AÑOS",
-         "se_vela_en":"DOM. CON. PRESIDIOS, TEPEHUANES, DGO",
-         "honras":"16:00 HRS TEMPLO SANTA CATARINA SE DESPIDE EN PANTEON DEL LUGAR",
-         "descripcion":""
-      },
-      {
-         "id":503,
+         "id":502,
          "titulo":"",
          "nombre":"PEDRO",
          "apellido_paterno":"CHAVEZ",
          "apellido_materno":"CASTRO",
          "fecha":"LUNES 29 DE ABRIL",
          "mensaje_corto":"A LA EDAD DE 83 AÑOS",
-         "se_vela_en":"CALLE MORELIA #804 JARDINES DE CANCUN",
-         "honras":"PENDIENTES",
-         "descripcion":""
-      },
-      {
-         "id":502,
-         "titulo":"",
-         "nombre":"MARIA SERAFINA",
-         "apellido_paterno":"RAMOS",
-         "apellido_materno":"CARRERA",
-         "fecha":"LUNES 29 DE ABRIL",
-         "mensaje_corto":"A LA EDAD DE 73 AÑOS",
-         "se_vela_en":"CAPILLA SANTA CATARINA, TEPEHUANES DGO",
-         "honras":"16:00 HRS. TEMPLO SANTUARIO DE GUADALUPE. SE DESPIDE EN PANTEON DEL LUGAR",
+         "se_vela_en":"CALLE MORELIA #804 JARDINES DE CANCÚN",
+         "honras":"16:00 Hrs TEMPLO DE NUESTRA SRA. DEL CARMEN SE DESPIDE EN EL PANTEÓN DE ORIENTE",
          "descripcion":""
       },
       {
          "id":501,
          "titulo":"",
-         "nombre":"MA DE JESUS",
+         "nombre":"MARIA DE JESUS",
          "apellido_paterno":"TORRES",
          "apellido_materno":"VIZCARRA",
          "fecha":"LUNES 29 DE ABRIL",
          "mensaje_corto":"A LA EDAD DE 79 AÑOS",
          "se_vela_en":"CAPILLA RAÚL FLORES, GUANACEVI, DGO",
-         "honras":"PENDIENTES",
+         "honras":"17:00 HRS TEMPLO DE LA INMACULADA CONCEPCIÓN Y SE DESPIDE EN EL PANTEÓN DEL LUGAR",
          "descripcion":""
       },
       {
@@ -81,7 +105,7 @@
          "fecha":"LUNES 29 DE ABRIL",
          "mensaje_corto":"A LA EDAD DE 50 AÑOS",
          "se_vela_en":"CAPILLA DIAMANTE A PARTIR DE LAS 6:00 AM DEL DIA 30 DE ABRIL ",
-         "honras":"PENDIENTES",
+         "honras":"13:00 HRS EN EL TEMPLO SAN JOSÉ Y SE DESPIDE EN EL PANTAÓN VALLE DE LOS SABINOS",
          "descripcion":""
       }
    ]
