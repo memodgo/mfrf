@@ -1,6 +1,30 @@
 {
    "obituario":[
       {
+         "id":510,
+         "titulo":"",
+         "nombre":"SAUL",
+         "apellido_paterno":"PEREZ",
+         "apellido_materno":"ONTIVEROS",
+         "fecha":"VIERNES 3 DE MAYO",
+         "mensaje_corto":"A LA EDAD DE 47 AÑOS",
+         "se_vela_en":"Dom. Con. San Lucas de Ocampo, Mpio. San Juan del Rio, Dgo.",
+         "honras":"el dia sabado 04/05/2019 a a las 14:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+         "descripcion":""
+      },
+       {
+         "id":509,
+         "titulo":"",
+         "nombre":"PAULA",
+         "apellido_paterno":"VEGA",
+         "apellido_materno":"RUIZ",
+         "fecha":"VIERNES 3 DE MAYO",
+         "mensaje_corto":"A LA EDAD DE 73 AÑOS",
+         "se_vela_en":"CAPILLA DE GUANACEVÍ, DGO.",
+         "honras":"17:00 HRS. TEMPLO DEL LUGAR Y SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+         "descripcion":""
+      },
+      {
          "id":508,
          "titulo":"",
          "nombre":"JOSE ISABEL",
@@ -9,7 +33,7 @@
          "fecha":"JUEVES 2 DE MAYO",
          "mensaje_corto":"A LA EDAD DE 80 AÑOS",
          "se_vela_en":"DOMICILIO CONOCIDO ABRAHAM GONZÁLEZ, DGO.",
-         "honras":"PENDIENTES",
+         "honras":"15:00 HRS. SE DESPIDE EN EL PANTEÓN DEL LUGAR",
          "descripcion":""
       },
       {
