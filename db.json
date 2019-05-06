@@ -75,13 +75,13 @@
        {
         "id":512,
         "titulo":"",
-        "nombre":"ROSA",
-        "apellido_paterno":"SOLIS",
-        "apellido_materno":"ARELLANO",
-        "fecha":"SABADO 4 DE MAYO",
-        "mensaje_corto":"A LA EDAD DE 87 AÑOS",
-        "se_vela_en":"DOMICILIO CONOCIDO CARLOS REAL DGO.",
-        "honras":" 10:00 hrs TEMPLO DEL LUGAR SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+        "nombre":"Rosa",
+        "apellido_paterno":"Solis",
+        "apellido_materno":"Arellano",
+        "fecha":"Sabado 4 de Mayo",
+        "mensaje_corto":"A la edad de 87 años",
+        "se_vela_en":"Domicilio conocido Carlos Real, Dgo.",
+        "honras":" 10:00 hrs Templo del lugar y se despide en el Panteón del Lugar",
         "descripcion":""
      }
     ]
