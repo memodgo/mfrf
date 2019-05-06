@@ -1,172 +1,88 @@
 {
-   "obituario":[
-      {
-         "id":513,
-         "titulo":"",
-         "nombre":"DIEGO",
-         "apellido_paterno":"MOLINA",
-         "apellido_materno":"RIOS",
-         "fecha":"SABADO 4 DE MAYO",
-         "mensaje_corto":"A LA EDAD DE 74 AÑOS",
-         "se_vela_en":"SUCURSAL DOLORES DEL RÍO EN CAPILLA ESMERALDA",
-         "honras":"DOMINGO 5 DE MAYO A LAS 14:00 HRS EN EL TEMPLO DE NUESTRA SEÑORA DE LA SALUD",
-         "descripcion":"SE DESPIDE EN EL PANTEÓN HETZEMANI"
-      },
-      {
-         "id":512,
-         "titulo":"",
-         "nombre":"ROSA",
-         "apellido_paterno":"SOLIS",
-         "apellido_materno":"ARELLANO",
-         "fecha":"SABADO 4 DE MAYO",
-         "mensaje_corto":"A LA EDAD DE 87 AÑOS",
-         "se_vela_en":"DOMICILIO CONOCIDO CARLOS REAL DGO.",
-         "honras":"PENDIENTES",
-         "descripcion":""
-      },
-      {
-         "id":511,
-         "titulo":"",
-         "nombre":"BENITA",
-         "apellido_paterno":"CARRILLO",
-         "apellido_materno":"CARRILLO",
-         "fecha":"VIERNES 3 DE MAYO",
-         "mensaje_corto":"A LA EDAD DE 66 AÑOS",
-         "se_vela_en":"RODEO DGO",
-         "honras":"15:30 HRS. TEMPLO SAN ISIDRO LABRADOR Y SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-         "descripcion":""
-      },
-      {
-         "id":510,
-         "titulo":"",
-         "nombre":"SAUL",
-         "apellido_paterno":"PEREZ",
-         "apellido_materno":"ONTIVEROS",
-         "fecha":"VIERNES 3 DE MAYO",
-         "mensaje_corto":"A LA EDAD DE 47 AÑOS",
-         "se_vela_en":"Dom. Con. San Lucas de Ocampo, Mpio. San Juan del Rio, Dgo.",
-         "honras":"el dia sabado 04/05/2019 a a las 14:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-         "descripcion":""
-      },
+    "obituario":[
        {
-         "id":509,
-         "titulo":"",
-         "nombre":"PAULA",
-         "apellido_paterno":"VEGA",
-         "apellido_materno":"RUIZ",
-         "fecha":"VIERNES 3 DE MAYO",
-         "mensaje_corto":"A LA EDAD DE 73 AÑOS",
-         "se_vela_en":"CAPILLA DE GUANACEVÍ, DGO.",
-         "honras":"17:00 HRS. TEMPLO DEL LUGAR Y SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-         "descripcion":""
-      },
-      {
-         "id":508,
-         "titulo":"",
-         "nombre":"JOSE ISABEL",
-         "apellido_paterno":"ESTRADA",
-         "apellido_materno":"DELGADO",
-         "fecha":"JUEVES 2 DE MAYO",
-         "mensaje_corto":"A LA EDAD DE 80 AÑOS",
-         "se_vela_en":"DOMICILIO CONOCIDO ABRAHAM GONZÁLEZ, DGO.",
-         "honras":"15:00 HRS. SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-         "descripcion":""
-      },
-      {
-         "id":507,
-         "titulo":"",
-         "nombre":"R.N.",
-         "apellido_paterno":"RODRIGUEZ",
-         "apellido_materno":"VALENZUELA",
-         "fecha":"JUEVES 2 DE MAYO",
-         "mensaje_corto":"A LA EDAD DE 6 MESES",
-         "se_vela_en":" CALLE JAZMÍN #105 COL. AMPLIACIÓN PRI.",
-         "honras":"PENDIENTES",
-         "descripcion":""
-      },
-      {
-         "id":506,
-         "titulo":"",
-         "nombre":"SAUL",
-         "apellido_paterno":"PEREZ",
-         "apellido_materno":"ONTIVEROS",
-         "fecha":"JUEVES 2 DE MAYO",
-         "mensaje_corto":"A LA EDAD DE 74 AÑOS",
-         "se_vela_en":"DOMICILIO CONOCIDO 10 DE OCTUBRE, SAN JUAN DEL RÍO DGO.",
-         "honras":"PENDIENTES",
-         "descripcion":""
-      },
-      {
-         "id":505,
-         "titulo":"",
-         "nombre":"RAQUEL",
-         "apellido_paterno":"ROMERO",
-         "apellido_materno":"HERNANDEZ",
-         "fecha":"JUEVES 2 DE MAYO",
-         "mensaje_corto":"A LA EDAD DE 69 AÑOS",
-         "se_vela_en":"AV. FERROCARRIL s/n COLONIA LA TURBINA, SANTIAGO PAPASQUIARO DGO.",
-         "honras":"PENDIENTES",
-         "descripcion":""
-      },
-      {
-         "id":504,
-         "titulo":"",
-         "nombre":"IGNACIO",
-         "apellido_paterno":"GALINDO",
-         "apellido_materno":"MATA",
-         "fecha":"MARTES 30 DE ABRIL",
-         "mensaje_corto":"A LA EDAD DE 74 AÑOS",
-         "se_vela_en":"SE VELA EN CAPILLA PLATA DE SUCURSAL DOLORES DEL RÍO",
-         "honras":"14:00 HRS TEMPLO DE NUESTRA SEÑORA DE LOURDES Y SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-         "descripcion":""
-      },
-      {
-         "id":503,
-         "titulo":"",
-         "nombre":"MARIA LUISA",
-         "apellido_paterno":"ALVAREZ",
-         "apellido_materno":"VARGAS",
-         "fecha":"MARTES 30 DE ABRIL",
-         "mensaje_corto":"A LA EDAD DE 84 AÑOS",
-         "se_vela_en":"DOM. CON. LABOR DE GUADALUPE, DGO.",
-         "honras":"15:00 HRS TEMPLO DEL LUGAR Y SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-         "descripcion":""
-      },
-      {
-         "id":502,
-         "titulo":"",
-         "nombre":"PEDRO",
-         "apellido_paterno":"CHAVEZ",
-         "apellido_materno":"CASTRO",
-         "fecha":"LUNES 29 DE ABRIL",
-         "mensaje_corto":"A LA EDAD DE 83 AÑOS",
-         "se_vela_en":"CALLE MORELIA #804 JARDINES DE CANCÚN",
-         "honras":"16:00 Hrs TEMPLO DE NUESTRA SRA. DEL CARMEN SE DESPIDE EN EL PANTEÓN DE ORIENTE",
-         "descripcion":""
-      },
-      {
-         "id":501,
-         "titulo":"",
-         "nombre":"MARIA DE JESUS",
-         "apellido_paterno":"TORRES",
-         "apellido_materno":"VIZCARRA",
-         "fecha":"LUNES 29 DE ABRIL",
-         "mensaje_corto":"A LA EDAD DE 79 AÑOS",
-         "se_vela_en":"CAPILLA RAÚL FLORES, GUANACEVI, DGO",
-         "honras":"17:00 HRS TEMPLO DE LA INMACULADA CONCEPCIÓN Y SE DESPIDE EN EL PANTEÓN DEL LUGAR",
-         "descripcion":""
-      },
-      {
-         "id":500,
-         "titulo":"",
-         "nombre":"GUADALUPE",
-         "apellido_paterno":"CONTRERAS",
-         "apellido_materno":"MARTINEZ",
-         "fecha":"LUNES 29 DE ABRIL",
-         "mensaje_corto":"A LA EDAD DE 50 AÑOS",
-         "se_vela_en":"CAPILLA DIAMANTE A PARTIR DE LAS 6:00 AM DEL DIA 30 DE ABRIL ",
-         "honras":"13:00 HRS EN EL TEMPLO SAN JOSÉ Y SE DESPIDE EN EL PANTAÓN VALLE DE LOS SABINOS",
-         "descripcion":""
-      }
-   ]
-}
+          "id":519,
+          "titulo":"",
+          "nombre":"Miguel Angel",
+          "apellido_paterno":"Hernandez",
+          "apellido_materno":"Rivera",
+          "fecha":"Lunes 5 de Mayo",
+          "mensaje_corto":"A LA EDAD DE 51 AÑOS",
+          "se_vela_en":" Suc. Dolores del Río Capilla Diamante a partir de las 11:00 hrs.",
+          "honras":"Pendientes",
+          "descripcion":""
+       },
+       {
+          "id":518,
+          "titulo":"Sr.",
+          "nombre":"Guadalupe",
+          "apellido_paterno":"Ibarra",
+          "apellido_materno":"Serrano",
+          "fecha":"Domingo 5 de Mayo",
+          "mensaje_corto":"A LA EDAD DE 85 AÑOS",
+          "se_vela_en":"Villa Insurgentes, Sombrerete, Zac.",
+          "honras":"Pendientes",
+          "descripcion":""
+       },
+       {
+          "id":517,
+          "titulo":"",
+          "nombre":"Carmen",
+          "apellido_paterno":"Aguilera",
+          "apellido_materno":"Quintana",
+          "fecha":"Domingo 5 de Mayo",
+          "mensaje_corto":"A LA EDAD DE 82 AÑOS",
+          "se_vela_en":"Tepehuanes, Dgo.",
+          "honras":"16:00 hrs. Templo Santa Catarina. Se despide en panteón del lugar.",
+          "descripcion":""
+       },
+       {
+          "id":516,
+          "titulo":"",
+          "nombre":"Silvano",
+          "apellido_paterno":"Contreras",
+          "apellido_materno":"Escobedo",
+          "fecha":"Domingo 5 de Mayo",
+          "mensaje_corto":"A LA EDAD DE 82 AÑOS",
+          "se_vela_en":"Capilla Esmeralda en Sucursal Dolores del Río",
+          "honras":"Capilla del Fracc. FOVISSSTE y se despide en Panteón Getsemaní",
+          "descripcion":""
+       },
+       {
+          "id":515,
+          "titulo":"",
+          "nombre":"Jesus",
+          "apellido_paterno":"Fuentes",
+          "apellido_materno":"Mena",
+          "fecha":"Domingo 5 de Mayo",
+          "mensaje_corto":"A la edad de 81 años",
+          "se_vela_en":"Capilla Plata en sucursal Dolores del Río ",
+          "honras":"12:00 hrs. Templo Santuario Ntra. Sra. de Guadalupe (viejo) Se despide para su cremación.",
+          "descripcion":""
+       },
+       {
+          "id":514,
+          "titulo":"",
+          "nombre":"Ma. Teresa",
+          "apellido_paterno":"Rangel",
+          "apellido_materno":"Soto",
+          "fecha":"Domingo 5 de Mayo",
+          "mensaje_corto":"A LA EDAD DE 81 AÑOS",
+          "se_vela_en":"Capilla Diamante en Sucursal Solores del Río",
+          "honras":"10:00 hrs en el templo de San Agustín y se despide en el Panteón de Oriente",
+          "descripcion":""
+       },
+       {
+        "id":512,
+        "titulo":"",
+        "nombre":"ROSA",
+        "apellido_paterno":"SOLIS",
+        "apellido_materno":"ARELLANO",
+        "fecha":"SABADO 4 DE MAYO",
+        "mensaje_corto":"A LA EDAD DE 87 AÑOS",
+        "se_vela_en":"DOMICILIO CONOCIDO CARLOS REAL DGO.",
+        "honras":" 10:00 hrs TEMPLO DEL LUGAR SE DESPIDE EN EL PANTEÓN DEL LUGAR",
+        "descripcion":""
+     }
+    ]
+ }
