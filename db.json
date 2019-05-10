@@ -1,17 +1,29 @@
 {
    "obituario":[
       {
-         "id":528,
+         "id":529,
+         "titulo":"",
+         "nombre":"Maria Marta",
+         "apellido_paterno":"Serrano",
+         "apellido_materno":"Gurrola",
+         "fecha":"9 de Mayo",
+         "mensaje_corto":"A la edad de 64 años",
+         "se_vela_en":"Poblado Gabino Santillan",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":529,
          "titulo":"",
          "nombre":"Eduardo",
          "apellido_paterno":"Gonzales",
          "apellido_materno":"Olvera",
          "fecha":"9 de Mayo",
-         "mensaje_corto":"A la edad de 62 años",
+         "mensaje_corto":"A la edad de 88 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Diamante.",
-         "honras":"Pendientes",
+         "honras":"12:00 hrs en el Templo San Luis de Batis y se despide en el panteón Valle de los Sabinos",
          "descripcion":""
-      },
+      },      
       {
          "id":527,
          "titulo":"",
