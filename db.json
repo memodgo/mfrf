@@ -1,6 +1,18 @@
 {
    "obituario":[
       {
+         "id":532,
+         "titulo":"",
+         "nombre":"Diego",
+         "apellido_paterno":"Bernadac",
+         "apellido_materno":"Torres",
+         "fecha":"Sabado 11 de Mayo",
+         "mensaje_corto":"A la edad de 89 años",
+         "se_vela_en":"Santiago Bayacora, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":531,
          "titulo":"",
          "nombre":"Anastasia",
@@ -33,7 +45,7 @@
          "fecha":"9 de Mayo",
          "mensaje_corto":"A la edad de 64 años",
          "se_vela_en":"Poblado Gabino Santillan",
-         "honras":"10:00 hrs el dia sabado 11/05/2019 en el Templo del lugar y se despide en panteón del lugar",
+         "honras":"10:00 hrs en el Templo del lugar y se despide en panteón del lugar",
          "descripcion":""
       },
       {
