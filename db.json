@@ -1,6 +1,18 @@
 {
    "obituario":[
       {
+         "id":506,
+         "titulo":"",
+         "nombre":"Magdalena",
+         "apellido_paterno":"Díaz",
+         "apellido_materno":"Sosa",
+         "fecha":"Martes 14 de Mayo",
+         "mensaje_corto":"A la edad de 70 años",
+         "se_vela_en":"Av. Juarez #408 Cuauhtémoc, Cuencame, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":505,
          "titulo":"",
          "nombre":"Paulo ",
@@ -9,19 +21,19 @@
          "fecha":"Lunes 13 de Mayo",
          "mensaje_corto":"A la edad de 48 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Plata",
-         "honras":"Pendientes",
+         "honras":"Culto Bíblico a las 12:00 hrs. en el Templo Nuevas Nuevas de Durango y se despide en panteón Getsemaní.",
          "descripcion":""
       },
       {
          "id":504,
          "titulo":"",
          "nombre":"Francisco",
-         "apellido_paterno":"PErez",
+         "apellido_paterno":"Perez",
          "apellido_materno":"Rodriguez",
          "fecha":"Lunes 13 de Mayo",
          "mensaje_corto":"A la edad de 98 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Diamante.",
-         "honras":"Pendientes",
+         "honras":"14:00 hrs. en el Templo San Martin de Porres y se despide en panteón de Oriente.",
          "descripcion":""
       },
       {
@@ -33,7 +45,7 @@
          "fecha":"Lunes 13 de Mayo",
          "mensaje_corto":"A la edad de 59 años",
          "se_vela_en":"Suc. calle Gómez Palacio en Capilla Santa Catarina.",
-         "honras":"Pendientes",
+         "honras":"Se despide directo en panteón Getsemaní a las 14:00 hrs.",
          "descripcion":""
       },
       {
@@ -45,7 +57,7 @@
          "fecha":"Lunes 13 de Mayo",
          "mensaje_corto":"A la edad de 103 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda.",
-         "honras":"Pendientes",
+         "honras":"11:15 hrs. en el Templo San Lorenzo y se despide en panteón Getsemaní",
          "descripcion":""
       },
       {
@@ -57,7 +69,7 @@
          "fecha":"Lunes 13 de Mayo",
          "mensaje_corto":"A la edad de 94 años",
          "se_vela_en":"Fco. I. Madero, Pánuco de Coronado, Dgo.",
-         "honras":"Pendientes",
+         "honras":"12:00 hrs. en el Templo Sagrado Corazon de Jesus y se despide en panteón  del lugar.",
          "descripcion":""
       },
       {
@@ -69,7 +81,7 @@
          "fecha":"Lunes 13 de Mayo",
          "mensaje_corto":"A la edad de 71 años",
          "se_vela_en":"Calle Sonora #207 Col. México",
-         "honras":"9:00 hrs. el día Martes 14 en el Templo Ntra. Sra. de Talpa(Col. Jalisco) y se despide en el panteón Albaro Obregon, Gpe. Victoria, Dgo.",
+         "honras":"9:00 hrs. en el Templo Ntra. Sra. de Talpa(Col. Jalisco) y se despide en el panteón Albaro Obregon, Gpe. Victoria, Dgo.",
          "descripcion":""
       }
    ]
