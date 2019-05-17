@@ -1,6 +1,18 @@
 {
    "obituario":[
       {
+         "id":512,
+         "titulo":"",
+         "nombre":"Amelia",
+         "apellido_paterno":"Jurado",
+         "apellido_materno":"Soria",
+         "fecha":"Viernes 17 de Mayo",
+         "mensaje_corto":"A la edad de 74 años",
+         "se_vela_en":"Dom. Con. Nogales, Coneto de Comonfort, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":511,
          "titulo":"Srta.",
          "nombre":"Yolanda",
@@ -9,7 +21,7 @@
          "fecha":"Jueves 16 de Mayo",
          "mensaje_corto":"A la edad de 47 años",
          "se_vela_en":"Calle Nápoles #213 Col. Universal",
-         "honras":"Pendientes",
+         "honras":"13:00 hrs. en el Templo Divina Providencia y se despide en panteón Getsemaní.",
          "descripcion":""
       },
       {
@@ -21,7 +33,7 @@
          "fecha":"Jueves 16 de Mayo",
          "mensaje_corto":"A la edad de 29 años",
          "se_vela_en":"Calle Primero de Mayo #213 Col. 8 de Septiembre.",
-         "honras":"Pendientes",
+         "honras":"13:30 hrs. en el Templo Señor de la Inspiración y se despide en panteón del Nayar 2",
          "descripcion":""
       },
       {
@@ -33,7 +45,7 @@
          "fecha":"Jueves 16 de Mayo",
          "mensaje_corto":"A la edad de 95 años",
          "se_vela_en":"Poblado José Salomé Acosta El Olote, Stgo Papasquiaro, Dgo.",
-         "honras":"Pendientes",
+         "honras":"17:00 hrs en el Templo de Ntra. Sra. del Refugio y se despide en panteón del lugar",
          "descripcion":""
       },
       {
