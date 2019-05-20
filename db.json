@@ -2,14 +2,38 @@
    "obituario":[
       {
          "id":514,
-         "titulo":"Sra.",
-         "nombre":"Maria Alejandra",
-         "apellido_paterno":"Garcia",
-         "apellido_materno":"Ayala",
-         "fecha":"Domingo 19 de Mayo",
-         "mensaje_corto":"1er Aniversario Luctuoso",
-         "se_vela_en":"1er Aniversario Luctuoso",
-         "honras":"Invita el Sr. Irineo García y Fam. Domingo 19 de Mayo a las 13:00 hrs. en el Templo del lugar.",
+         "titulo":"",
+         "nombre":"Esperanza",
+         "apellido_paterno":"Chaidez",
+         "apellido_materno":"de Jacquez",
+         "fecha":"",
+         "mensaje_corto":"",
+         "se_vela_en":"Se traslada de Chicago a San José de la Boca Tepehuanes Dgo.",
+         "honras":"",
+         "descripcion":""
+      },
+      {
+         "id":515,
+         "titulo":"",
+         "nombre":"Miguel",
+         "apellido_paterno":"Cabada",
+         "apellido_materno":"Herrera",
+         "fecha":"",
+         "mensaje_corto":"",
+         "se_vela_en":"Se traslada de Chicago Ill. a Tepehuanes Dgo.",
+         "honras":"",
+         "descripcion":""
+      },
+      {
+         "id":514,
+         "titulo":"",
+         "nombre":"Javier",
+         "apellido_paterno":"Salazar",
+         "apellido_materno":"Ramirez",
+         "fecha":"Lunes 20 de Mayo",
+         "mensaje_corto":"A la edad de 52",
+         "se_vela_en":"Calle Sta. Maria de Oro #121 Col. Hipodromo",
+         "honras":"12:00 hrs. en el Templo de Ntra. Señora del Sagrado Corazón de la Colonia Hipodromo y se despide en el Panteón de Oriente",
          "descripcion":""
       },
       {
