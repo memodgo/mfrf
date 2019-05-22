@@ -1,6 +1,30 @@
 {
    "obituario":[
       {
+			"id": 513,
+			"titulo": "",
+			"nombre": "Roberto",
+			"apellido_paterno": "Meza",
+			"apellido_materno": "Nuñez",
+			"fecha": "Miercoles 22 de Mayo",
+			"mensaje_corto": "A la edad de 81 años",
+			"se_vela_en": "Garame de Arriba, Stgo. Papasquiaro, Dgo",
+			"honras": "Pendientes",
+			"descripcion": ""
+		}, 
+      {
+			"id": 512,
+			"titulo": "",
+			"nombre": "Benito",
+			"apellido_paterno": "Marquez",
+			"apellido_materno": "Gonzalez",
+			"fecha": "Miercoles 22 de Mayo",
+			"mensaje_corto": "A la edad de 82 años",
+			"se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+			"honras": "15:00 hrs. Santuario Nuevo de Ntra. Sra. de Guadalupe. Se despide en panteón Residencial Flores",
+			"descripcion": ""
+		},
+      {
          "id":511,
          "titulo":"",
          "nombre":"Margarita",
@@ -9,7 +33,7 @@
          "fecha":"Martes 21 de Mayo",
          "mensaje_corto":"A la edad de 86 años",
          "se_vela_en":"a partir de las 13:00 hrs en Suc. Dolores del Río en Capilla Diamante.",
-         "honras":"Pendintes",
+         "honras":"12:00 hrs. Templo Ntra. Sra. del Perpetuo Socorro y se despide en panteón Oriente",
          "descripcion":""
       },
       {
@@ -21,7 +45,7 @@
          "fecha":"Martes 21 de Mayo",
          "mensaje_corto":"A la edad de 58 años",
          "se_vela_en":"a partir de las 13:00 hrs en Suc. Dolores del Río en Capilla Esmeralda",
-         "honras":"Pendientes",
+         "honras":"12:00 hrs. Templo Santo Niño de Atocha y se despide en panteón Valle de los Sabinos",
          "descripcion":""
       },
       {
@@ -61,18 +85,6 @@
          "descripcion":""
       },
       {
-         "id":506,
-         "titulo":"",
-         "nombre":"Otilia",
-         "apellido_paterno":"Mares",
-         "apellido_materno":"Luna",
-         "fecha":"Martes 21 de Mayo",
-         "mensaje_corto":"A la edad de 89 años",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante y Esmeralda",
-         "honras":"12:00 hrs en el Santuario de Ntra. Señora de Guadalupe y se despide en el panteón de Otinapa, Dgo.",
-         "descripcion":""
-      },
-      {
          "id":505,
          "titulo":"",
          "nombre":"Alberto",
@@ -80,7 +92,7 @@
          "apellido_materno":"",
          "fecha":"Martes 21 de Mayo",
          "mensaje_corto":"",
-         "se_vela_en":"Se traslada de Orlando Florida a Guanacevi, Dgo.",
+         "se_vela_en":"Capilla de Guanaceví, Dgo.",
          "honras":"",
          "descripcion":""
       },
@@ -92,8 +104,8 @@
          "apellido_materno":"Guillen",
          "fecha":"Martes 21 de Mayo",
          "mensaje_corto":"A la edad de 58 años",
-         "se_vela_en":"Se traslada de TIjuana a Tepehuanes, Dgo.",
-         "honras":"",
+         "se_vela_en":"Tepehuanes, Dgo.posteriormente se traslada a Arroyo Chico para sus Honras ",
+         "honras":"12:00 hrs. Se despide en panteón de Arroyo Chico",
          "descripcion":""
       },
       {
