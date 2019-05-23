@@ -1,29 +1,77 @@
 {
    "obituario":[
       {
-			"id": 513,
-			"titulo": "",
-			"nombre": "Roberto",
-			"apellido_paterno": "Meza",
-			"apellido_materno": "Nuñez",
-			"fecha": "Miercoles 22 de Mayo",
-			"mensaje_corto": "A la edad de 81 años",
-			"se_vela_en": "Garame de Arriba, Stgo. Papasquiaro, Dgo",
-			"honras": "Pendientes",
-			"descripcion": ""
-		}, 
+         "id":517,
+         "titulo":"",
+         "nombre":"Alberto",
+         "apellido_paterno":"Velazquez",
+         "apellido_materno":"Garcia",
+         "fecha":"Jueves 23 Mayo",
+         "mensaje_corto":"A la edad de 99 años",
+         "se_vela_en":"Guanaceví, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
       {
-			"id": 512,
-			"titulo": "",
-			"nombre": "Benito",
-			"apellido_paterno": "Marquez",
-			"apellido_materno": "Gonzalez",
-			"fecha": "Miercoles 22 de Mayo",
-			"mensaje_corto": "A la edad de 82 años",
-			"se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
-			"honras": "15:00 hrs. Santuario Nuevo de Ntra. Sra. de Guadalupe. Se despide en panteón Residencial Flores",
-			"descripcion": ""
-		},
+         "id":516,
+         "titulo":"",
+         "nombre":"Antonio",
+         "apellido_paterno":"Ramirez",
+         "apellido_materno":"Torres",
+         "fecha":"Jueves 23 Mayo",
+         "mensaje_corto":"A la edad de 72 años",
+         "se_vela_en":"Dom. Con. Ignacio Allende, Dgo",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":515,
+         "titulo":"",
+         "nombre":"Abel",
+         "apellido_paterno":"Chavez",
+         "apellido_materno":"Guerra",
+         "fecha":"Jueves 23 Mayo",
+         "mensaje_corto":"A la edad de 68 años",
+         "se_vela_en":"Dom. Con. Fco. I. Madero, Dgo.",
+         "honras":"Pendiente",
+         "descripcion":""
+      },
+      {
+         "id":514,
+         "titulo":"",
+         "nombre":"Roberta",
+         "apellido_paterno":"Meza",
+         "apellido_materno":"Nuñez",
+         "fecha":"Jueves 23 Mayo",
+         "mensaje_corto":"A la edad de 81 años",
+         "se_vela_en":"Dom. Con. Garame de Arriba, Stgo. Papasquiaro, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":513,
+         "titulo":"",
+         "nombre":"Maria Ines",
+         "apellido_paterno":"Bailon",
+         "apellido_materno":"Quiñones",
+         "fecha":"Jueves 23 Mayo",
+         "mensaje_corto":"A la edad de 77 años",
+         "se_vela_en":"Calle Tlaxcala #121 Col. Anahuac.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+	"id": 512,
+	"titulo": "",
+	"nombre": "Benito",
+	"apellido_paterno": "Marquez",
+	"apellido_materno": "Gonzalez",
+	"fecha": "Miercoles 22 de Mayo",
+	"mensaje_corto": "A la edad de 82 años",
+	"se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+	"honras": "15:00 hrs. Santuario Nuevo de Ntra. Sra. de Guadalupe. Se despide en panteón Residencial Flores",
+	"descripcion": ""
+      },
       {
          "id":511,
          "titulo":"",
@@ -82,18 +130,6 @@
          "mensaje_corto":"A la edad de 89 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Diamante y Esmeralda",
          "honras":"12:00 hrs en el Santuario de Ntra. Señora de Guadalupe y se despide en el panteón de Otinapa, Dgo.",
-         "descripcion":""
-      },
-      {
-         "id":505,
-         "titulo":"",
-         "nombre":"Alberto",
-         "apellido_paterno":"Velazquez",
-         "apellido_materno":"",
-         "fecha":"Martes 21 de Mayo",
-         "mensaje_corto":"",
-         "se_vela_en":"Capilla de Guanaceví, Dgo.",
-         "honras":"",
          "descripcion":""
       },
       {
