@@ -1,5 +1,65 @@
 {
    "obituario":[
+      {  
+         "id":527,
+         "titulo":"",
+         "nombre":"Santiago",
+         "apellido_paterno":"Lizardo",
+         "apellido_materno":"Catarino",
+         "fecha":"Lunes 27 de Mayo",
+         "mensaje_corto":"A la edad de 53 años",
+         "se_vela_en":"Se vela en Dom. Con. La Virgen, Cuencame, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":526,
+         "titulo":"",
+         "nombre":"Julio Cesar",
+         "apellido_paterno":"Rojas",
+         "apellido_materno":"Reyes",
+         "fecha":"Lunes 27 de Mayo",
+         "mensaje_corto":"A la edad de 37 años",
+         "se_vela_en":"Se traslada de San Luis Potosí a la Cd. de Durango, Dgo. Sala de velación pendiente",
+         "honras":"",
+         "descripcion":""
+      },
+      {  
+         "id":525,
+         "titulo":"",
+         "nombre":"Rosa Maria",
+         "apellido_paterno":"Rodriguez",
+         "apellido_materno":"Sanchez",
+         "fecha":"Lunes 27 de Mayo",
+         "mensaje_corto":"A la edad de 87 años",
+         "se_vela_en":"Dom. Con. Emiliano Zapata, Cuencame, Dgo.",
+         "honras":"Culto a las 14.00 hrs. Templo Iglesia Cristiana. Discurso Biblico. Se despide en panteón del lugar",
+         "descripcion":""
+      },
+      {  
+         "id":524,
+         "titulo":"",
+         "nombre":"Josefa",
+         "apellido_paterno":"Gonzales",
+         "apellido_materno":"Rodriguez",
+         "fecha":"Lunes 27 de Mayo",
+         "mensaje_corto":"A la edad de 80 años",
+         "se_vela_en":"Calle 3 de Mayo #104 Col. Miguel de la Madrid.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":523,
+         "titulo":"",
+         "nombre":"Maria Angela",
+         "apellido_paterno":"Gamboa",
+         "apellido_materno":"Avitia",
+         "fecha":"Lunes 27 de Mayo",
+         "mensaje_corto":"A la edad de 95 años",
+         "se_vela_en":"San Jose de la Boca, Tepehuanes, Dgo.",
+         "honras":"10.00 hrs. Templo San José. Se despide en panteón del lugar",
+         "descripcion":""
+      },
       {
          "id":522,
          "titulo":"",
