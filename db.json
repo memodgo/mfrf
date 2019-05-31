@@ -1,5 +1,53 @@
 {
    "obituario":[
+      {  
+         "id":538,
+         "titulo":"",
+         "nombre":"Hector Miguel",
+         "apellido_paterno":"Reyes",
+         "apellido_materno":"Peña",
+         "fecha":"Viernes 31 de Mayo",
+         "mensaje_corto":"A la edad de 41 años",
+         "se_vela_en":"Capilla Diamante a partir de las 13:00 hrs",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":537,
+         "titulo":"",
+         "nombre":"Maria",
+         "apellido_paterno":"Chavez",
+         "apellido_materno":"Contreras",
+         "fecha":"Viernes 31 de Mayo",
+         "mensaje_corto":"A la edad de 84 años",
+         "se_vela_en":"Dom. Con. Villa Montemorelos, Dgo.",
+         "honras":"10:00 hrs. Templo San Jose Obrero. Se despide en panteón del lugar.",
+         "descripcion":""
+      },
+      {  
+         "id":536,
+         "titulo":"",
+         "nombre":"Avel Osvaldo",
+         "apellido_paterno":"Corral",
+         "apellido_materno":"Reyes",
+         "fecha":"Viernes 31 de Mayo",
+         "mensaje_corto":"A la edad de 49 años",
+         "se_vela_en":"Santiago Papasquiaro Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":535,
+         "titulo":"",
+         "nombre":"Maria Magdalena",
+         "apellido_paterno":"Gerrero",
+         "apellido_materno":"Amador",
+         "fecha":"Viernes 31 de Mayo",
+         "mensaje_corto":"A la edad de 38 años",
+         "se_vela_en":"Calle Cuitlahuac #101 Col. Rosas del Tepeyac",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
       {
          "id":534,
          "titulo":"",
