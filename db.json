@@ -1,5 +1,17 @@
 {
    "obituario":[
+      {
+         "id":539,
+         "titulo":"",
+         "nombre":"Elpidia",
+         "apellido_paterno":"Martinez",
+         "apellido_materno":"Rodriguez",
+         "fecha":"Sábado 01 de Junio",
+         "mensaje_corto":"A la edad de 70 años",
+         "se_vela_en":"Calle Cactus #212 Col. Luz y Esperanza.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
       {  
          "id":538,
          "titulo":"",
@@ -9,7 +21,7 @@
          "fecha":"Viernes 31 de Mayo",
          "mensaje_corto":"A la edad de 41 años",
          "se_vela_en":"Capilla Diamante a partir de las 13:00 hrs",
-         "honras":"Pendientes",
+         "honras":"12:30 hrs.Templo San José. Se despide en panteón Oriente",
          "descripcion":""
       },
       {  
@@ -33,7 +45,7 @@
          "fecha":"Viernes 31 de Mayo",
          "mensaje_corto":"A la edad de 49 años",
          "se_vela_en":"Santiago Papasquiaro Dgo.",
-         "honras":"Pendientes",
+         "honras":"11.00 hrs. Templo Cristo Rey. Se despide en panteón  Victor Nevarez",
          "descripcion":""
       },
       {  
@@ -45,7 +57,7 @@
          "fecha":"Viernes 31 de Mayo",
          "mensaje_corto":"A la edad de 38 años",
          "se_vela_en":"Calle Cuitlahuac #101 Col. Rosas del Tepeyac",
-         "honras":"Pendientes",
+         "honras":"12:00 hrs. Templo Santuario de Ntra. Sra. de Guadalupe (Nuevo), y se despide en panteón Getsemaní.",
          "descripcion":""
       },
       {
