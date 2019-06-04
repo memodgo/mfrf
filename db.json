@@ -1,5 +1,53 @@
 {
    "obituario":[
+      {  
+         "id":507,
+         "titulo":"",
+         "nombre":"Maria Longina",
+         "apellido_paterno":"Gallardo",
+         "apellido_materno":"Diaz",
+         "fecha":"Martes 4 de Junio",
+         "mensaje_corto":"A la edad de 56 años",
+         "se_vela_en":"Suc. Dolores del Río Capilla Oro y Plata",
+         "honras":"15.00 hrs. Templo Santuario de Guadalupe (Nuevo) Se despide en panteón Oriente",
+         "descripcion":""
+      },
+      {  
+         "id":506,
+         "titulo":"",
+         "nombre":"Reynaldo Sergio",
+         "apellido_paterno":"Cisneros",
+         "apellido_materno":"Rivera",
+         "fecha":"Martes 4 de Junio",
+         "mensaje_corto":"A la edad de 74 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante.",
+         "honras":"17.00 hrs. Templo Catedral. Se despide para su cremación",
+         "descripcion":""
+      },
+      {  
+         "id":505,
+         "titulo":"",
+         "nombre":"Noe Manuel",
+         "apellido_paterno":"Marquez",
+         "apellido_materno":"Martinez",
+         "fecha":"Martes 4 de Junio",
+         "mensaje_corto":"A la edad de 32 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda.",
+         "honras":"16.00 hrs. Parroquia de la Divina Providencia. Se despide en panteón de Oriente",
+         "descripcion":""
+      },
+      {  
+         "id":504,
+         "titulo":"",
+         "nombre":"R. N.",
+         "apellido_paterno":"Castro",
+         "apellido_materno":"Contreras",
+         "fecha":"Martes 4 de Junio",
+         "mensaje_corto":"",
+         "se_vela_en":"Loc. Santa Cruz de Guadalupe, Nombre de Dios, Dgo.",
+         "honras":"",
+         "descripcion":""
+      },
       {
          "id":503,
          "titulo":"",
