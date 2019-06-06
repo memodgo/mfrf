@@ -1,6 +1,42 @@
 {
    "obituario":[
       {  
+         "id":512,
+         "titulo":"R.N.",
+         "nombre":"",
+         "apellido_paterno":"Galindo",
+         "apellido_materno":"",
+         "fecha":"Jueves6 de Junio",
+         "mensaje_corto":"",
+         "se_vela_en":"Dom. Con La Joya, Poanas, Dgo",
+         "honras":"",
+         "descripcion":""
+      },
+      {  
+         "id":511,
+         "titulo":"",
+         "nombre":"Maria de Jesus ",
+         "apellido_paterno":"Sanchez",
+         "apellido_materno":"Fernandez",
+         "fecha":"Jueves6 de Junio",
+         "mensaje_corto":"A la edad de 64 años",
+         "se_vela_en":"Ejido La Glorieta, Gómez Palacio, Dgo",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":510,
+         "titulo":"",
+         "nombre":"J. Vicente",
+         "apellido_paterno":"Velazquez",
+         "apellido_materno":"Mejia",
+         "fecha":"Jueves6 de Junio",
+         "mensaje_corto":"A la edad de 62 años",
+         "se_vela_en":"El Salitre, Michoacan",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
          "id":509,
          "titulo":"",
          "nombre":"Elisa",
@@ -9,7 +45,7 @@
          "fecha":"Miercoles 5 de Junio",
          "mensaje_corto":"A la edad de 71 años",
          "se_vela_en":"Suc. Dolores del Río Capilla Esmeralda.",
-         "honras":"Pendientes",
+         "honras":"11:00 hrs.Templo Ntra. Sra. del Perpetuo Socorro. Se despide en panteón Oriente",
          "descripcion":""
       },
       {  
@@ -21,7 +57,7 @@
          "fecha":"Miercoles 5 de Junio",
          "mensaje_corto":"",
          "se_vela_en":"Se traslada de Cabo San Lucas a Vicente Guerrero",
-         "honras":"Pendientes",
+         "honras":"16:30 hrs. Templo Ntra. Sra. de Guadalupe. Se despide en panteón del lugar",
          "descripcion":""
       }.
       {  
