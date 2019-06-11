@@ -1,5 +1,17 @@
 {
    "obituario":[
+      {
+         "id":521,
+         "titulo":"",
+         "nombre":"Guadalupe",
+         "apellido_paterno":"Sepulveda",
+         "apellido_materno":"Lares",
+         "fecha":"Martes 11 de Junio",
+         "mensaje_corto":"A la edad de 94 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
+         "honras":"12:00 hrs. Templo Ntra. Sra. de los Ángeles. Se despide en panteón Jardín",
+         "descripcion":""
+      },
       {  
          "id":520,
          "titulo":"",
@@ -21,7 +33,7 @@
          "fecha":"Lunes 10 de Junio",
          "mensaje_corto":"A la edad de 68 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Plata",
-         "honras":"Pendientes",
+         "honras":"12:00 hrs. en Catedral. Se despide en para su cremación",
          "descripcion":""
       },
       {  
@@ -45,7 +57,7 @@
          "fecha":"Lunes 10 de Junio",
          "mensaje_corto":"A la edad de 94 años",
          "se_vela_en":"Suc. Dolores del Rio en Capilla Oro.",
-         "honras":"Pendientes",
+         "honras":"12:00 hrs.Templo Ntra. Sra. del Perpetuo Socorro. Se despide en panteón Valle de los Sabinos",
          "descripcion":""
       },
       {  
