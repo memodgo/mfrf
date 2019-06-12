@@ -1,5 +1,77 @@
 {
    "obituario":[
+      {  
+         "id":527,
+         "titulo":"",
+         "nombre":"Maria Ursula",
+         "apellido_paterno":"Herrera",
+         "apellido_materno":"Guerrero",
+         "fecha":"Miercoles 11 de Junio",
+         "mensaje_corto":"A la edad de 69 años",
+         "se_vela_en":"Dom. Con. Meza de Navar, Tepehuanes, Dgo",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":526,
+         "titulo":"",
+         "nombre":"Juana",
+         "apellido_paterno":"Diaz",
+         "apellido_materno":"Hernandez",
+         "fecha":"Miercoles 11 de Junio",
+         "mensaje_corto":"A la edad de 78 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Plata",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":525,
+         "titulo":"",
+         "nombre":"Jose Hilario",
+         "apellido_paterno":"Gallegos",
+         "apellido_materno":"Villegas",
+         "fecha":"Miercoles 11 de Junio",
+         "mensaje_corto":"A la edad de 93 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":524,
+         "titulo":"",
+         "nombre":"Manuel",
+         "apellido_paterno":"Gonzalez",
+         "apellido_materno":"Pedrosa",
+         "fecha":"Miercoles 11 de Junio",
+         "mensaje_corto":"A la edad de 75 años",
+         "se_vela_en":"Dom. Con. Luis Moya, Mpio. Peñon Blanco, Dgo",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":523,
+         "titulo":"",
+         "nombre":"Teofilo",
+         "apellido_paterno":"Reyes",
+         "apellido_materno":"Leyva",
+         "fecha":"Martes 11 de Junio",
+         "mensaje_corto":"A la edad de 78 años",
+         "se_vela_en":"calle Guillermo Cesar Meraz #101. Col Isabel Almanza",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":522,
+         "titulo":"",
+         "nombre":"Manuel",
+         "apellido_paterno":"Martinez",
+         "apellido_materno":"Verdin",
+         "fecha":"Martes 11 de Junio",
+         "mensaje_corto":"A la edad de 55 años",
+         "se_vela_en":"Calle Rodolfo Fierro 426 Col. Div. del Norte.",
+         "honras":"14:00 hrs Templo Nuestra Sra. de Guadalupe Se despide en panteón Getsemani",
+         "descripcion":""
+      },
       {
          "id":521,
          "titulo":"",
