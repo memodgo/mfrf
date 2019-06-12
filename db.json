@@ -71,30 +71,6 @@
          "se_vela_en":"Calle Rodolfo Fierro 426 Col. Div. del Norte.",
          "honras":"14:00 hrs Templo Nuestra Sra. de Guadalupe Se despide en panteón Getsemani",
          "descripcion":""
-      },
-      {
-         "id":521,
-         "titulo":"",
-         "nombre":"Guadalupe",
-         "apellido_paterno":"Sepulveda",
-         "apellido_materno":"Lares",
-         "fecha":"Martes 11 de Junio",
-         "mensaje_corto":"A la edad de 94 años",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
-         "honras":"12:00 hrs. Templo Ntra. Sra. de los Ángeles. Se despide en panteón Jardín",
-         "descripcion":""
-      },
-      {  
-         "id":520,
-         "titulo":"",
-         "nombre":"Rosa Maria",
-         "apellido_paterno":"Hernandez",
-         "apellido_materno":"Villarreal",
-         "fecha":"Lunes 10 de Junio",
-         "mensaje_corto":"A la edad de 63 años",
-         "se_vela_en":"Calle 1 de Mayo #107 Col. Tierra y Libertad",
-         "honras":"11:00hrs. En el Templo Juan Pablo y se despide en panteón de Tapias",
-         "descripcion":""
       }
    ]
 }
