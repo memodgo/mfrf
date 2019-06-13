@@ -1,5 +1,53 @@
 {
    "obituario":[
+      {  
+         "id":532,
+         "titulo":"",
+         "nombre":"Joel",
+         "apellido_paterno":"Garcia",
+         "apellido_materno":"Reyes",
+         "fecha":"Jueves 13 de Junio",
+         "mensaje_corto":"A la edad de 50 años",
+         "se_vela_en":"Sala de velación pendiente",
+         "honras":"",
+         "descripcion":""
+      },
+      {  
+         "id":531,
+         "titulo":"",
+         "nombre":"Rosa Elvira",
+         "apellido_paterno":"Chavez",
+         "apellido_materno":"Torres",
+         "fecha":"Jueves 13 de Junio",
+         "mensaje_corto":"A la edad de 68 años",
+         "se_vela_en":"Se traslada a el Paso Texas, Tx",
+         "honras":"",
+         "descripcion":""
+      },
+      {  
+         "id":530,
+         "titulo":"",
+         "nombre":"Alfonso Gerardo",
+         "apellido_paterno":"Esquivel",
+         "apellido_materno":"Ramos",
+         "fecha":"Jueves 13 de Junio",
+         "mensaje_corto":"A la edad de 61 años",
+         "se_vela_en":"Suc. Dolores del Río Capilla Oro",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":529,
+         "titulo":"",
+         "nombre":"Sergio Alfredo",
+         "apellido_paterno":"Ruiz",
+         "apellido_materno":"Valenzuela",
+         "fecha":"Jueves 13 de Junio",
+         "mensaje_corto":"A la edad de 61 años",
+         "se_vela_en":"Suc. Dolores del Río Capilla Diamante.",
+         "honras":"16:00 hrs. Templo Ntra. Sra. de los Ángeles y se despide para su cremación",
+         "descripcion":""
+      },
       {
          "id":528,
          "titulo":"",
@@ -57,7 +105,7 @@
          "fecha":"Miercoles 11 de Junio",
          "mensaje_corto":"A la edad de 75 años",
          "se_vela_en":"Dom. Con. Luis Moya, Mpio. Peñon Blanco, Dgo",
-         "honras":"10:00 hrs. Templo del lugar yse despide en panteón del lugar.",
+         "honras":"10:00 hrs. Templo del lugar y se despide en panteón del lugar.",
          "descripcion":""
       },
       {  
@@ -69,19 +117,7 @@
          "fecha":"Martes 11 de Junio",
          "mensaje_corto":"A la edad de 78 años",
          "se_vela_en":"calle Guillermo Cesar Meraz #101. Col Isabel Almanza",
-         "honras":"14:00 hrs. Templo de la Asunción y se despide en parque residencial Flores",
-         "descripcion":""
-      },
-      {  
-         "id":522,
-         "titulo":"",
-         "nombre":"Manuel",
-         "apellido_paterno":"Martinez",
-         "apellido_materno":"Verdin",
-         "fecha":"Martes 11 de Junio",
-         "mensaje_corto":"A la edad de 55 años",
-         "se_vela_en":"Calle Rodolfo Fierro 426 Col. Div. del Norte.",
-         "honras":"14:00 hrs Templo Nuestra Sra. de Guadalupe Se despide en panteón Getsemani",
+         "honras":"14:00 hrs. Templo De la Asuncion (Fracc. Benito Juárez) Se despide en panteon Parque Residencial Flores.",
          "descripcion":""
       }
    ]
