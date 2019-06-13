@@ -1,5 +1,17 @@
 {
    "obituario":[
+      {
+         "id":528,
+         "titulo":"",
+         "nombre":"Juana ",
+         "apellido_paterno":"Retana",
+         "apellido_materno":"Perez",
+         "fecha":"Miércoles 12 de Junio",
+         "mensaje_corto":"A la edad de 79 años",
+         "se_vela_en":"En las Higueras Rodeo Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
       {  
          "id":527,
          "titulo":"",
@@ -21,7 +33,7 @@
          "fecha":"Miercoles 11 de Junio",
          "mensaje_corto":"A la edad de 78 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Plata",
-         "honras":"Pendientes",
+         "honras":"10:00hrs. Templo SAn Jose Obrero y se despide en panteón de Oriente",
          "descripcion":""
       },
       {  
@@ -33,7 +45,7 @@
          "fecha":"Miercoles 11 de Junio",
          "mensaje_corto":"A la edad de 93 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
-         "honras":"Pendientes",
+         "honras":"16:00 hrs. Templo de Ntra. Señora de Fátima y se despide en panteón Valle de los Sabinos",
          "descripcion":""
       },
       {  
@@ -45,7 +57,7 @@
          "fecha":"Miercoles 11 de Junio",
          "mensaje_corto":"A la edad de 75 años",
          "se_vela_en":"Dom. Con. Luis Moya, Mpio. Peñon Blanco, Dgo",
-         "honras":"Pendientes",
+         "honras":"10:00 hrs. Templo del lugar yse despide en panteón del lugar.",
          "descripcion":""
       },
       {  
@@ -57,7 +69,7 @@
          "fecha":"Martes 11 de Junio",
          "mensaje_corto":"A la edad de 78 años",
          "se_vela_en":"calle Guillermo Cesar Meraz #101. Col Isabel Almanza",
-         "honras":"Pendientes",
+         "honras":"14:00 hrs. Templo de la Asunción y se despide en parque residencial Flores",
          "descripcion":""
       },
       {  
