@@ -1,6 +1,30 @@
 {
    "obituario":[
       {  
+         "id":534,
+         "titulo":"",
+         "nombre":"Luis",
+         "apellido_paterno":"Gonzales",
+         "apellido_materno":"Gonzales",
+         "fecha":"Sabado 15 de Junio",
+         "mensaje_corto":"A la edad de 85 años",
+         "se_vela_en":"Calle 11 de Octubre #300 Col. Arturo Gamiz",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":533,
+         "titulo":"",
+         "nombre":"Ruperto",
+         "apellido_paterno":"Amaya",
+         "apellido_materno":"Aldaco",
+         "fecha":"Sabado 15 de Junio",
+         "mensaje_corto":"A la edad de 57 años",
+         "se_vela_en":"Dom. Con. El Porvenir, Coneto de Comonfort, Dgo",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
          "id":532,
          "titulo":"",
          "nombre":"Joel",
