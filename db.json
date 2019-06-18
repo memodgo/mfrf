@@ -1,5 +1,29 @@
 {  
-   "obituario":[  
+   "obituario":[
+      {  
+         "id":6,
+         "titulo":"",
+         "nombre":"Marcelino Garcia",
+         "apellido_paterno":"",
+         "apellido_materno":"",
+         "fecha":"Martes 18 de Junio",
+         "mensaje_corto":"",
+         "se_vela_en":"Se traslada de Phoenix Arizona a Dom. Con. Gabriel Hernández, Mpio. Nombre de Dios, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {  
+         "id":5,
+         "titulo":"",
+         "nombre":"Fidel",
+         "apellido_paterno":"Garcia",
+         "apellido_materno":"Herrera",
+         "fecha":"Martes 18 de Junio",
+         "mensaje_corto":"A la edad de 95 años",
+         "se_vela_en":"Dom. Con. Mesa de Navar, Tepehuanes, Dgo.",
+         "honras":"14:00 hrs. Templo del lugar y se despide en panteón del lugar.",
+         "descripcion":"(Fidelita)"
+      },
       {  
          "id":4,
          "titulo":"",
