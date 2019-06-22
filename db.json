@@ -1,75 +1,75 @@
-{  
+{
    "obituario":[
-      {  
-         "id":6,
+      {
+         "id":37,
          "titulo":"",
-         "nombre":"Marcelino Garcia",
-         "apellido_paterno":"",
-         "apellido_materno":"",
-         "fecha":"Martes 18 de Junio",
-         "mensaje_corto":"",
-         "se_vela_en":"Se traslada de Phoenix Arizona a Dom. Con. Gabriel Hernández, Mpio. Nombre de Dios, Dgo.",
+         "nombre":"Lucila",
+         "apellido_paterno":"Alvarado ",
+         "apellido_materno":"Lugo",
+         "fecha":"Miercoles 19 de Junio",
+         "mensaje_corto":"A la edad de 72 años",
+         "se_vela_en":"Dom. Con. Abrham Glez, Dgo.",
          "honras":"Pendientes",
          "descripcion":""
       },
-      {  
-         "id":5,
+      {
+         "id":38,
          "titulo":"",
-         "nombre":"Fidela",
-         "apellido_paterno":"Garcia",
-         "apellido_materno":"Herrera",
-         "fecha":"Martes 18 de Junio",
-         "mensaje_corto":"A la edad de 95 años",
-         "se_vela_en":"Dom. Con. Mesa de Navar, Tepehuanes, Dgo.",
-         "honras":"14:00 hrs. Templo del lugar y se despide en panteón del lugar.",
-         "descripcion":"(Fidelita)"
-      },
-      {  
-         "id":4,
-         "titulo":"",
-         "nombre":"Adrian",
-         "apellido_paterno":"Moreno",
-         "apellido_materno":"Avila",
-         "fecha":"Lunes 17 de Junio",
-         "mensaje_corto":"A la edad de 76 años",
-         "se_vela_en":"Suc. Dolores del Río Capilla Diamante.",
-         "honras":"11:00 hrs. Templo Sagrado Corazón. ( Col. Hipódromo ) y se despide en panteón Oriente.",
-         "descripcion":""
-      },
-      {  
-         "id":3,
-         "titulo":"",
-         "nombre":"Margarito",
-         "apellido_paterno":"Gonzales",
-         "apellido_materno":"Herrera",
-         "fecha":"Lunes 17 de Junio",
-         "mensaje_corto":"A la edad de 76 años",
-         "se_vela_en":"Capilla Santo Santiago. Suc. Santiago Papasquiaro, Dgo.",
-         "honras":"17:00 hrs. Templo Ntra. Sra. del Refugio de Arriba. Se despide en panteón del Tambor.",
-         "descripcion":""
-      },
-      {  
-         "id":2,
-         "titulo":"",
-         "nombre":"Fidel",
-         "apellido_paterno":"Garcia",
-         "apellido_materno":"Herrera",
-         "fecha":"Lunes 17 de Junio",
-         "mensaje_corto":"A la edad de 95 años",
-         "se_vela_en":"Dom. Con. Mesa de Navar, Tepehuanes, Dgo.",
+         "nombre":"Susano",
+         "apellido_paterno":"Cisneros",
+         "apellido_materno":"Bacio",
+         "fecha":"Jueves 19 de Junio",
+         "mensaje_corto":"A la edad de 64 años",
+         "se_vela_en":"Fco. I. Madero #312 Col. J. Gpe. Rguez.",
          "honras":"Pendientes",
          "descripcion":""
       },
-      {  
-         "id":1,
+      {
+         "id":39,
          "titulo":"",
-         "nombre":"Jesus",
-         "apellido_paterno":"Ruvalcaba",
-         "apellido_materno":"Murillo",
-         "fecha":"Lunes 17 de Junio",
-         "mensaje_corto":"A la edad de 24 años",
-         "se_vela_en":"Suc. Dolores del Río Capilla Oro",
-         "honras":"15:00 hrs. Templo Santísima Trinidad y se despide en panteón Oriente",
+         "nombre":"Jose Angel",
+         "apellido_paterno":"Reyes",
+         "apellido_materno":"German",
+         "fecha":"Jueves 19 de Junio",
+         "mensaje_corto":"A la edad de 63 años",
+         "se_vela_en":"Se traslada de los Ángeles California a Durango Dgo.",
+         "honras":"",
+         "descripcion":""
+      },
+      {
+         "id":40,
+         "titulo":"",
+         "nombre":"Rogelio",
+         "apellido_paterno":"Lopez",
+         "apellido_materno":"Gomez",
+         "fecha":"Jueves 19 de Junio",
+         "mensaje_corto":"A la edad de 67 años",
+         "se_vela_en":"Dom. Con. Fuente del Llano, Nvo. Ideal, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":41,
+         "titulo":"",
+         "nombre":"Marcelino",
+         "apellido_paterno":"Garcia",
+         "apellido_materno":"Perez",
+         "fecha":"Jueves 19 de Junio",
+         "mensaje_corto":"A la edad de  años",
+         "se_vela_en":"Dom. Con. Gabriel Hdez. Mpio. Nombre de Dios, Dgo.",
+         "honras":"10 Hrs. Templo del lugar y se despide en el panteón del lugar.",
+         "descripcion":""
+      },
+      {
+         "id":42,
+         "titulo":"",
+         "nombre":"Ana Luisa",
+         "apellido_paterno":"Castro",
+         "apellido_materno":"Miranda",
+         "fecha":"Viernes 21 de Junio",
+         "mensaje_corto":"A la edad de 48 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
+         "honras":"Pendientes",
          "descripcion":""
       }
    ]
