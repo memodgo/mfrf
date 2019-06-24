@@ -1,6 +1,66 @@
 {
    "obituario":[
       {
+        "id": 48,
+        "titulo": "",
+        "nombre": "Francisco",
+        "apellido_paterno": "Valenzuela",
+        "apellido_materno": "Garcia",
+        "fecha": "Domingo 23 de Junio",
+        "mensaje_corto": "A la edad de 78 años",
+        "se_vela_en": "Calle Simon Bolivar #109 Col. Asentamientos Humanos",
+        "honras": "14:00 hrs. Templo San Felipe de Jesús",
+        "descripcion": ""
+    },
+    {
+        "id": 47,
+        "titulo": "",
+        "nombre": "Irvin Adrian",
+        "apellido_paterno": "Guerra",
+        "apellido_materno": "Rodriguez",
+        "fecha": "Domingo 23 de Junio",
+        "mensaje_corto": "A la edad de 23 años",
+        "se_vela_en": "Santa María del Oro, Dgo.",
+        "honras": "Pendientes",
+        "descripcion": ""
+    },
+    {
+        "id": 46,
+        "titulo": "",
+        "nombre": "Joaquin",
+        "apellido_paterno": "Alvarado",
+        "apellido_materno": "Valenzuela",
+        "fecha": "Domingo 23 de Junio",
+        "mensaje_corto": "A la edad de 78 años",
+        "se_vela_en": "Poblado Juan B. Ceballos",
+        "honras": "Pendientes",
+        "descripcion": ""
+    },
+    {
+        "id": 45,
+        "titulo": "",
+        "nombre": "Jose Luis",
+        "apellido_paterno": "Contreras",
+        "apellido_materno": "Acosta",
+        "fecha": "Domingo 23 de Junio",
+        "mensaje_corto": "A la edad de 61 años",
+        "se_vela_en": "El Manzanal, Canatlan, Dgo.",
+        "honras": "Pendientes",
+        "descripcion": ""
+    },
+    {
+        "id": 44,
+        "titulo": "",
+        "nombre": "Antonio",
+        "apellido_paterno": "Díaz",
+        "apellido_materno": "Ávila",
+        "fecha": "Domingo 23 de Junio",
+        "mensaje_corto": "A la edad de 70 años",
+        "se_vela_en": "Santa Gertrudis, El Mezquital Dgo.",
+        "honras": "Pendientes",
+        "descripcion": ""
+    },
+      {
         "id": 42,
         "titulo": "",
         "nombre": "Ana Luisa",
