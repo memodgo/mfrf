@@ -1,16 +1,69 @@
 {
    "obituario":[
     {
-        "id": 56,
+        "id": 60,
         "titulo": "",
+        "nombre": "Selsa",
+        "apellido_paterno": "Luna",
+        "apellido_materno": "Murillo",
+        "fecha": "Jueves 27 de Junio",
+        "mensaje_corto": "A la edad de 75 años",
+        "se_vela_en": "Ignacio Zaragoza, Otinapa Dgo.",
+        "honras": "Pendientes",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 59,
+        "titulo": "Sra.",
+        "nombre": "Ma de la Paz",
+        "apellido_paterno": "Salas",
+        "apellido_materno": "Gonzales",
+        "fecha": "Jueves 27 de Junio",
+        "mensaje_corto": "A la edad de 76 años",
+        "se_vela_en": "Villa Insurgentes, Zacatecas",
+        "honras": "Pendientes",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 58,
+        "titulo": "",
+        "nombre": "Rogelio",
+        "apellido_paterno": "Diaz",
+        "apellido_materno": "Vazquez",
+        "fecha": "Jueves 27 de Junio",
+        "mensaje_corto": "A la edad de 81 años",
+        "se_vela_en": "Dom. Con. Presidios, Tepehuanes, Dgo.",
+        "honras": "Pendientes",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 57,
+        "titulo": "Sra.",
+        "nombre": "Guadalupe",
+        "apellido_paterno": "Salas",
+        "apellido_materno": "Ruvalcaba",
+        "fecha": "Jueves 27 de Junio",
+        "mensaje_corto": "A la edad de 83 años",
+        "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+        "honras": "14:00 hrs.en el Templo de nuestra señora de los Ángeles y se despide en el panteón valle de los sabinos",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 56,
+        "titulo": "Sr.",
         "nombre": "Guadalupe",
         "apellido_paterno": "Carmona",
         "apellido_materno": "Villa",
         "fecha": "Miercoles 26 de Junio",
-        "mensaje_corto": "",
-        "se_vela_en": "Se traslada de Mazatlán, Sin. al Poblado Antonio Gaxiola, Dgo.",
-        "honras": "Pendientes",
-        "descripcion": ""
+        "mensaje_corto": "A la edad de 95 años",
+        "se_vela_en": "Dom. Con. Antonio Gaxiola, Dgo.",
+        "honras": "17:00 hrs. Templo San Antonio de Padua y se despide en el panteón del lugar",
+        "descripcion": "",
+        "estatus": "1"
     },
     {
         "id": 54,
@@ -21,8 +74,9 @@
         "fecha": "Miercoles 26 de Junio",
         "mensaje_corto": "A la edad de 63 años",
         "se_vela_en": "Capilla Esmeralda de Sucursal Dolores del Rio",
-        "honras": "Pendientes",
-        "descripcion": ""
+        "honras": "13:00 hrs. Templo de la Divina Providencia y se despide en el panteón Getsemani",
+        "descripcion": "",
+        "estatus": "1"
     },
     {
         "id": 53,
@@ -34,7 +88,8 @@
         "mensaje_corto": "A la edad de 75 años",
         "se_vela_en": "Capilla Plata, de Sucursal Dolores del Rio",
         "honras": "16:00 hrs en el Templo Nuestra Señora de los Angeles y se despide para su cremacion",
-        "descripcion": ""
+        "descripcion": "",
+        "estatus": "1"
     },
     {
         "id": 52,
@@ -44,21 +99,23 @@
         "apellido_materno": "Flores",
         "fecha": "Miercoles 26 de Junio",
         "mensaje_corto": "A la edad de 76 años",
-        "se_vela_en": "poblado Juan B. Ceballos",
-        "honras": "14:00 hrs Parroquia de San Miguel y se despide en panteón del lugar ",
-        "descripcion": ""
+        "se_vela_en": "Dom. Con. poblado Juan B. Ceballos",
+        "honras": "28 de Junio 14:00 hrs Parroquia de San Miguel y se despide en panteón del lugar ",
+        "descripcion": "",
+        "estatus": "1"
     },
     {
         "id": 51,
-        "titulo": "",
+        "titulo": "Sr.",
         "nombre": "Arnulfo",
         "apellido_paterno": "Andrade",
         "apellido_materno": "Salas",
         "fecha": "Miercoles 26 de Junio",
-        "mensaje_corto": "",
-        "se_vela_en": "Se traslada de Tijuana a Dgo.",
-        "honras": "Pendientes",
-        "descripcion": ""
+        "mensaje_corto": "A la edad de 52 años",
+        "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
+        "honras": "17:00 hrs. Templo Divina Providencia y se despide en panteón de Oriente",
+        "descripcion": "",
+        "estatus": "1"
     },
     {
         "id": 50,
@@ -70,19 +127,8 @@
         "mensaje_corto": "A la edad de 55 años",
         "se_vela_en": "Calle 12 de Octubre #210 Asentamientos Humanos",
         "honras": "14:00 hrs en el Templo Santo Domingo y se despide en panteon Getsemani",
-        "descripcion": ""
-    },
-    {
-        "id": 49,
-        "titulo": "Srita.",
-        "nombre": "Andrea",
-        "apellido_paterno": "Orozco",
-        "apellido_materno": "Perez",
-        "fecha": "Martes 25 de Junio",
-        "mensaje_corto": "A la edad de 88 años",
-        "se_vela_en": "Dom. Con. San Lucas de Ocampo, Dgo.",
-        "honras": "12:00 hrs. Templo del lugar y se despide en el panteón del lugar",
-        "descripcion": ""
+        "descripcion": "",
+        "estatus": "1"
     }
 ]
 }
