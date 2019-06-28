@@ -1,6 +1,19 @@
 {
    "obituario":[
     {
+        "id": 61,
+        "titulo": "",
+        "nombre": "Ma. Macrina",
+        "apellido_paterno": "Diaz",
+        "apellido_materno": "Ruiz",
+        "fecha": "Viernes 28 de Junio",
+        "mensaje_corto": "A la edad de 76 años",
+        "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
+        "honras": "Pendientes",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
         "id": 60,
         "titulo": "",
         "nombre": "Selsa",
@@ -29,7 +42,7 @@
     {
         "id": 58,
         "titulo": "",
-        "nombre": "Rogelio",
+        "nombre": "Rodolfo",
         "apellido_paterno": "Diaz",
         "apellido_materno": "Vazquez",
         "fecha": "Jueves 27 de Junio",
@@ -53,19 +66,6 @@
         "estatus": "1"
     },
     {
-        "id": 56,
-        "titulo": "Sr.",
-        "nombre": "Guadalupe",
-        "apellido_paterno": "Carmona",
-        "apellido_materno": "Villa",
-        "fecha": "Miercoles 26 de Junio",
-        "mensaje_corto": "A la edad de 95 años",
-        "se_vela_en": "Dom. Con. Antonio Gaxiola, Dgo.",
-        "honras": "17:00 hrs. Templo San Antonio de Padua y se despide en el panteón del lugar",
-        "descripcion": "",
-        "estatus": "1"
-    },
-    {
         "id": 54,
         "titulo": "",
         "nombre": "Maria del Rocio",
@@ -75,19 +75,6 @@
         "mensaje_corto": "A la edad de 63 años",
         "se_vela_en": "Capilla Esmeralda de Sucursal Dolores del Rio",
         "honras": "13:00 hrs. Templo de la Divina Providencia y se despide en el panteón Getsemani",
-        "descripcion": "",
-        "estatus": "1"
-    },
-    {
-        "id": 53,
-        "titulo": "",
-        "nombre": "Eloisa",
-        "apellido_paterno": "Borrego",
-        "apellido_materno": "Lares",
-        "fecha": "Miercoles 26 de Junio",
-        "mensaje_corto": "A la edad de 75 años",
-        "se_vela_en": "Capilla Plata, de Sucursal Dolores del Rio",
-        "honras": "16:00 hrs en el Templo Nuestra Señora de los Angeles y se despide para su cremacion",
         "descripcion": "",
         "estatus": "1"
     },
@@ -114,19 +101,6 @@
         "mensaje_corto": "A la edad de 52 años",
         "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
         "honras": "17:00 hrs. Templo Divina Providencia y se despide en panteón de Oriente",
-        "descripcion": "",
-        "estatus": "1"
-    },
-    {
-        "id": 50,
-        "titulo": "",
-        "nombre": "Maria Victoria",
-        "apellido_paterno": "Najera",
-        "apellido_materno": "Rodriguez",
-        "fecha": "Martes 25 de Junio",
-        "mensaje_corto": "A la edad de 55 años",
-        "se_vela_en": "Calle 12 de Octubre #210 Asentamientos Humanos",
-        "honras": "14:00 hrs en el Templo Santo Domingo y se despide en panteon Getsemani",
         "descripcion": "",
         "estatus": "1"
     }
