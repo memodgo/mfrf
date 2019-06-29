@@ -1,67 +1,69 @@
-[
-   {
-      "id":62,
-      "titulo":"",
-      "nombre":"Romelia",
-      "apellido_paterno":"Herrera",
-      "apellido_materno":"Gonzales",
-      "fecha":"Sabado 29 de Junio",
-      "mensaje_corto":"A la edad de 87 años",
-      "se_vela_en":"Martires de Abajo, Santiago Papasquiaro",
-      "honras":"Pendientes",
-      "descripcion":"",
-      "estatus":"1"
-   },
-   {
-      "id":61,
-      "titulo":"",
-      "nombre":"Ma. Macrina",
-      "apellido_paterno":"Diaz",
-      "apellido_materno":"Ruiz",
-      "fecha":"Viernes 28 de Junio",
-      "mensaje_corto":"A la edad de 76 años",
-      "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
-      "honras":"14:00 hrs Templo de Santa Ana Se despide en panteón Valle de los Sabinos",
-      "descripcion":"",
-      "estatus":"1"
-   },
-   {
-      "id":60,
-      "titulo":"",
-      "nombre":"Selsa",
-      "apellido_paterno":"Luna",
-      "apellido_materno":"Murillo",
-      "fecha":"Jueves 27 de Junio",
-      "mensaje_corto":"A la edad de 75 años",
-      "se_vela_en":"Ignacio Zaragoza, Otinapa Dgo.",
-      "honras":"el dia sabado 29 junio a las 12:00 hrs. Templo del lugar. Se despide en panteón del  lugar.",
-      "descripcion":"",
-      "estatus":"1"
-   },
-   {
-      "id":59,
-      "titulo":"Sra.",
-      "nombre":"Ma de la Paz",
-      "apellido_paterno":"Salas",
-      "apellido_materno":"Gonzales",
-      "fecha":"Jueves 27 de Junio",
-      "mensaje_corto":"A la edad de 76 años",
-      "se_vela_en":"Villa Insurgentes, Zacatecas",
-      "honras":"Pendientes",
-      "descripcion":"",
-      "estatus":"1"
-   },
-   {
-      "id":58,
-      "titulo":"",
-      "nombre":"Rodolfo",
-      "apellido_paterno":"Diaz",
-      "apellido_materno":"Vazquez",
-      "fecha":"Jueves 27 de Junio",
-      "mensaje_corto":"A la edad de 81 años",
-      "se_vela_en":"Dom. Con. Presidios, Tepehuanes, Dgo.",
-      "honras":"Pendientes",
-      "descripcion":"",
-      "estatus":"1"
-   }
-]
+{
+   "obituarios":[
+      {
+         "id":62,
+         "titulo":"",
+         "nombre":"Romelia",
+         "apellido_paterno":"Herrera",
+         "apellido_materno":"Gonzales",
+         "fecha":"Sabado 29 de Junio",
+         "mensaje_corto":"A la edad de 87 años",
+         "se_vela_en":"Martires de Abajo, Santiago Papasquiaro",
+         "honras":"Pendientes",
+         "descripcion":"",
+         "estatus":"1"
+      },
+      {
+         "id":61,
+         "titulo":"",
+         "nombre":"Ma. Macrina",
+         "apellido_paterno":"Diaz",
+         "apellido_materno":"Ruiz",
+         "fecha":"Viernes 28 de Junio",
+         "mensaje_corto":"A la edad de 76 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
+         "honras":"14:00 hrs Templo de Santa Ana Se despide en panteón Valle de los Sabinos",
+         "descripcion":"",
+         "estatus":"1"
+      },
+      {
+         "id":60,
+         "titulo":"",
+         "nombre":"Selsa",
+         "apellido_paterno":"Luna",
+         "apellido_materno":"Murillo",
+         "fecha":"Jueves 27 de Junio",
+         "mensaje_corto":"A la edad de 75 años",
+         "se_vela_en":"Ignacio Zaragoza, Otinapa Dgo.",
+         "honras":"el dia sabado 29 junio a las 12:00 hrs. Templo del lugar. Se despide en panteón del  lugar.",
+         "descripcion":"",
+         "estatus":"1"
+      },
+      {
+         "id":59,
+         "titulo":"Sra.",
+         "nombre":"Ma de la Paz",
+         "apellido_paterno":"Salas",
+         "apellido_materno":"Gonzales",
+         "fecha":"Jueves 27 de Junio",
+         "mensaje_corto":"A la edad de 76 años",
+         "se_vela_en":"Villa Insurgentes, Zacatecas",
+         "honras":"Pendientes",
+         "descripcion":"",
+         "estatus":"1"
+      },
+      {
+         "id":58,
+         "titulo":"",
+         "nombre":"Rodolfo",
+         "apellido_paterno":"Diaz",
+         "apellido_materno":"Vazquez",
+         "fecha":"Jueves 27 de Junio",
+         "mensaje_corto":"A la edad de 81 años",
+         "se_vela_en":"Dom. Con. Presidios, Tepehuanes, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":"",
+         "estatus":"1"
+      }
+   ]
+}
