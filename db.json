@@ -1,64 +1,82 @@
 {
    "obituario":[
-      {
-         "id":62,
-         "titulo":"",
-         "nombre":"Romelia",
-         "apellido_paterno":"Herrera",
-         "apellido_materno":"Gonzales",
-         "fecha":"Sabado 29 de Junio",
-         "mensaje_corto":"A la edad de 87 años",
-         "se_vela_en":"Martires de Abajo, Santiago Papasquiaro",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":61,
-         "titulo":"",
-         "nombre":"Ma. Macrina",
-         "apellido_paterno":"Diaz",
-         "apellido_materno":"Ruiz",
-         "fecha":"Viernes 28 de Junio",
-         "mensaje_corto":"A la edad de 76 años",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
-         "honras":"14:00 hrs Templo de Santa Ana Se despide en panteón Valle de los Sabinos",
-         "descripcion":""
-      },
-      {
-         "id":60,
-         "titulo":"",
-         "nombre":"Selsa",
-         "apellido_paterno":"Luna",
-         "apellido_materno":"Murillo",
-         "fecha":"Jueves 27 de Junio",
-         "mensaje_corto":"A la edad de 75 años",
-         "se_vela_en":"Ignacio Zaragoza, Otinapa Dgo.",
-         "honras":"el dia sabado 29 junio a las 12:00 hrs. Templo del lugar. Se despide en panteón del  lugar.",
-         "descripcion":""
-      },
-      {
-         "id":59,
-         "titulo":"Sra.",
-         "nombre":"Ma de la Paz",
-         "apellido_paterno":"Salas",
-         "apellido_materno":"Gonzales",
-         "fecha":"Jueves 27 de Junio",
-         "mensaje_corto":"A la edad de 76 años",
-         "se_vela_en":"Villa Insurgentes, Zacatecas",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":58,
-         "titulo":"",
-         "nombre":"Rodolfo",
-         "apellido_paterno":"Diaz",
-         "apellido_materno":"Vazquez",
-         "fecha":"Jueves 27 de Junio",
-         "mensaje_corto":"A la edad de 81 años",
-         "se_vela_en":"Dom. Con. Presidios, Tepehuanes, Dgo.",
-         "honras":"Pendientes",
-         "descripcion":""
-      }
-   ]
+    {
+        "id": 68,
+        "titulo": "Joven",
+        "nombre": "Hugo Alejandro",
+        "apellido_paterno": "Fierro",
+        "apellido_materno": "Loera",
+        "fecha": "Lunes 01 de Julio",
+        "mensaje_corto": "A la edad de 29 años",
+        "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
+        "honras": "16:00 hrs. Templo Ntra. Señora de Talpa y se despide en panteón Jardín",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 67,
+        "titulo": "",
+        "nombre": "Andres",
+        "apellido_paterno": "Fileto",
+        "apellido_materno": "Valdez",
+        "fecha": "Lunes 01 de Julio",
+        "mensaje_corto": "A la edad de 77 años",
+        "se_vela_en": "Dom. Con. Atotonilco, Stgo. Papasquiaro, Dgo.",
+        "honras": "Pendientes",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 66,
+        "titulo": "",
+        "nombre": "Estanislada",
+        "apellido_paterno": "Angel",
+        "apellido_materno": "Garcia",
+        "fecha": "Lunes 01 de Julio",
+        "mensaje_corto": "A la edad de 78 años",
+        "se_vela_en": "Dom. Con. Santa Lucia, Canatlán, Dgo.",
+        "honras": "17:00 hrs. Templo del lugar y se despide en el panteón del lugar.",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 65,
+        "titulo": "",
+        "nombre": "Beatriz ",
+        "apellido_paterno": "Jimenez",
+        "apellido_materno": "Arce",
+        "fecha": "Lunes 01 de Julio",
+        "mensaje_corto": "A la edad de 85 años",
+        "se_vela_en": "Loc. 5 de Febrero, Dgo.",
+        "honras": "Pendientes",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 64,
+        "titulo": "",
+        "nombre": "Jaime",
+        "apellido_paterno": "Mendoza",
+        "apellido_materno": "Avalos",
+        "fecha": "Lunes 01 de Julio",
+        "mensaje_corto": "A la edad de 76 años",
+        "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+        "honras": "14:00 hrs. y se despide en el panteón Valle de los Sabinos",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 63,
+        "titulo": "",
+        "nombre": "Maria Elisa",
+        "apellido_paterno": "Galaviz",
+        "apellido_materno": "Violante",
+        "fecha": "Lunes 01 de Julio",
+        "mensaje_corto": "A la edad de 90 años",
+        "se_vela_en": "Calle Arturo Gamiz #430 Cpl. Asentamientos Humanos",
+        "honras": "12:00 hrs. Templo Santa Teresita de Jesus y se despide en pantón de San Juan del Río, Dgo.",
+        "descripcion": "",
+        "estatus": "1"
+    }
+]
 }
