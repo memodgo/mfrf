@@ -1,5 +1,18 @@
 {
    "obituario":[
+      {
+        "id": 71,
+        "titulo": "",
+        "nombre": "Daniel",
+        "apellido_paterno": "Perez",
+        "apellido_materno": "Soria",
+        "fecha": "Miercoles 03 de Julio",
+        "mensaje_corto": "A la edad de 80 años",
+        "se_vela_en": "Dom. Con. Santa Bárbara, Rodeo, Dgo.",
+        "honras": "Pendientes",
+        "descripcion": "",
+        "estatus": "1"
+    },
     {
         "id": 70,
         "titulo": "",
