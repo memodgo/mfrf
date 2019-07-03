@@ -1,6 +1,32 @@
 {
    "obituario":[
     {
+        "id": 70,
+        "titulo": "",
+        "nombre": "Lorena Ivonne",
+        "apellido_paterno": "Gallegos",
+        "apellido_materno": "Duron",
+        "fecha": "Martes 02 de Julio",
+        "mensaje_corto": "A la edad de 36 años",
+        "se_vela_en": "Se traslada directo al panteón viejo de Canatlán Dgo.",
+        "honras": "",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 69,
+        "titulo": "Niña. R.N. ",
+        "nombre": "Brenda Sophia",
+        "apellido_paterno": "Cordero",
+        "apellido_materno": "Gutierrez",
+        "fecha": "Martes 02 de Julio",
+        "mensaje_corto": "",
+        "se_vela_en": "Los Angeles Poana, Dgo.",
+        "honras": "",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
         "id": 68,
         "titulo": "Joven",
         "nombre": "Hugo Alejandro",
