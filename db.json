@@ -1,6 +1,32 @@
 {
    "obituario":[
       {
+        "id": 81,
+        "titulo": "",
+        "nombre": "Jose Luis ",
+        "apellido_paterno": "Arellano",
+        "apellido_materno": "Hernandez",
+        "fecha": "Lunes 08 de Julio",
+        "mensaje_corto": "",
+        "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+        "honras": "Capilla del Hogar de Ancianos Ntra. Sra. de Guadalupe (Calle Cuauhtémoc ) Se despide en panteón Oriente.",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 80,
+        "titulo": "",
+        "nombre": "Felipe",
+        "apellido_paterno": "Meza",
+        "apellido_materno": "Casas",
+        "fecha": "Lunes 08 de Julio",
+        "mensaje_corto": "A la edad de 68 años",
+        "se_vela_en": "Calle Luis Angel Tejada Espino #72 Col. PRI.",
+        "honras": "Pendientes",
+        "descripcion": "",
+        "estatus": "1"
+    },
+      {
          "id":79,
          "titulo":"",
          "nombre":"Santiago",
@@ -67,6 +93,32 @@
       }
    ],
    "obituario_ingles":[
+      {
+        "id": 81,
+        "titulo": "",
+        "nombre": "Jose Luis ",
+        "apellido_paterno": "Arellano",
+        "apellido_materno": "Hernandez",
+        "fecha": "Monday, July 08",
+        "mensaje_corto": "",
+        "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+        "honras": "Capilla del Hogar de Ancianos Ntra. Sra. de Guadalupe (Calle Cuauhtémoc ) Se despide en panteón Oriente.",
+        "descripcion": "",
+        "estatus": "1"
+    },
+    {
+        "id": 80,
+        "titulo": "",
+        "nombre": "Felipe",
+        "apellido_paterno": "Meza",
+        "apellido_materno": "Casas",
+        "fecha": "Monday, July 08",
+        "mensaje_corto": "A la edad de 68 años",
+        "se_vela_en": "Calle Luis Angel Tejada Espino #72 Col. PRI.",
+        "honras": "Pendientes",
+        "descripcion": "",
+        "estatus": "1"
+    },
       {
          "id":79,
          "titulo":"",
