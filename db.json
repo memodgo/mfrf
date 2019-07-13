@@ -10,8 +10,7 @@
          "mensaje_corto":"A la edad de 61 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
          "honras":"16:00 hrs Templo de nuestra Sra. de la Salud Se despide para su cremación ",
-         "descripcion":null,
-         "estatus":"1"
+         "descripcion":""
       },
       {
          "id":89,
@@ -23,8 +22,7 @@
          "mensaje_corto":"A la edad de 60 años",
          "se_vela_en":"Dom. Con. La Joya, Dgo.",
          "honras":"Pendientes",
-         "descripcion":null,
-         "estatus":"1"
+         "descripcion":""
       },
       {
          "id":88,
@@ -36,8 +34,7 @@
          "mensaje_corto":"A la edad de 74 años",
          "se_vela_en":"Dom. Con. Emiliano Zapata, Cuenca, Dgo.",
          "honras":"15:00 hrs Templo Nuestra Sra. de Guadalupe Se despide en panteon del lugar",
-         "descripcion":"",
-         "estatus":"1"
+         "descripcion":""
       },
       {
          "id":85,
@@ -49,8 +46,7 @@
          "mensaje_corto":"A la edad de 58 años",
          "se_vela_en":"Dom. Con. San Vicente de Chupaderos, Dgo.",
          "honras":"15:00 hrs Templo San Vicente Se despide en panteon del lugar ",
-         "descripcion":"",
-         "estatus":"1"
+         "descripcion":""
       }
    ],
    "obituario_ingles":[
@@ -77,8 +73,7 @@
          "mensaje_corto":"A la edad de 60 años",
          "se_vela_en":"Dom. Con. La Joya, Dgo.",
          "honras":"Pendents",
-         "descripcion":null,
-         "estatus":"1"
+         "descripcion":""
       },
       {
          "id":88,
@@ -90,8 +85,7 @@
          "mensaje_corto":"A la edad de 74 años",
          "se_vela_en":"Dom. Con. Emiliano Zapata, Cuenca, Dgo.",
          "honras":"15:00 hrs Templo Nuestra Sra. de Guadalupe Se despide en panteon del lugar",
-         "descripcion":"",
-         "estatus":"1"
+         "descripcion":""
       },
       {
          "id":85,
@@ -103,8 +97,7 @@
          "mensaje_corto":"A la edad de 58 años",
          "se_vela_en":"Dom. Con. San Vicente de Chupaderos, Dgo.",
          "honras":"15:00 hrs Templo San Vicente Se despide en panteon del lugar ",
-         "descripcion":"",
-         "estatus":"1"
+         "descripcion":""
       }
    ]
 }
