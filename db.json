@@ -1,79 +1,103 @@
 {
    "obituario":[
-     {
-        "id": 87,
-        "titulo": "R.N.",
-        "nombre": "",
-        "apellido_paterno": "Dominguez",
-        "apellido_materno": "Hernandez",
-        "fecha": "Jueves 11 de Julio",
-        "mensaje_corto": "",
-        "se_vela_en": "Calle Doroteo Arango #241 Fracc. San Marcos",
-        "honras": "Pendientes",
-        "descripcion": ""
-    },
-    {
-        "id": 86,
-        "titulo": "Niño",
-        "nombre": "Baltazar Guillermo",
-        "apellido_paterno": "Hernández",
-        "apellido_materno": "Bustamante",
-        "fecha": "Jueves 11 de Julio",
-        "mensaje_corto": "A la edad de 3 meses",
-        "se_vela_en": "Calle Sastres #421 Fracc. Fidel Velazquez I",
-        "honras": "Pendientes",
-        "descripcion": ""
-    },
-    {
-        "id": 85,
-        "titulo": "",
-        "nombre": "Dalia Elena",
-        "apellido_paterno": "Ortíz",
-        "apellido_materno": "Salinas",
-        "fecha": "Jueves 11 de Julio",
-        "mensaje_corto": "A la edad de 58 años",
-        "se_vela_en": "Dom. Con. San Vicente de Chupaderos, Dgo.",
-        "honras": "Pendientes",
-        "descripcion": ""
-    },
-    {
-        "id": 84,
-        "titulo": "",
-        "nombre": "Jesús Enrique",
-        "apellido_paterno": "Rodríguez",
-        "apellido_materno": "Galavíz",
-        "fecha": "Jueves 11 de Julio",
-        "mensaje_corto": "",
-        "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-        "honras": "16:00 hrs. Templo de Nuestra Señora de los Ángeles y se despide en panteón de oriente",
-        "descripcion":""
-    },
-    {
-        "id": 83,
-        "titulo": "",
-        "nombre": "Narciso",
-        "apellido_paterno": "Covarrubias",
-        "apellido_materno": "Romero",
-        "fecha": "Miercoles 10 de Julio",
-        "mensaje_corto": "A la edad de 97 años",
-        "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-        "honras": "16:00 hrs. Templo de Santa Ana y se despide para su cremación",
-        "descripcion": ""
-    },
-    {
-        "id": 82,
-        "titulo": "",
-        "nombre": "Jesus",
-        "apellido_paterno": "Corchado",
-        "apellido_materno": "Corchado",
-        "fecha": "Miercoles 10 de Julio",
-        "mensaje_corto": "A la edad de 29 años",
-        "se_vela_en": "San Luis del Cordero, San Dimas, Dgo.",
-        "honras": "Pendientes",
-        "descripcion": ""
-    }
+     {  
+      "id":88,
+      "titulo":"",
+      "nombre":"Gloria",
+      "apellido_paterno":"Ramirez",
+      "apellido_materno":"Perez",
+      "fecha":"Viernes 12 de Julio",
+      "mensaje_corto":"A la edad de 74 años",
+      "se_vela_en":"Dom. Con. Emiliano Zapata, Cuenca, Dgo.",
+      "honras":"Pendientes",
+      "descripcion":""
+   },
+   {  
+      "id":87,
+      "titulo":"R.N.",
+      "nombre":"",
+      "apellido_paterno":"Dominguez",
+      "apellido_materno":"Hernandez",
+      "fecha":"Jueves 11 de Julio",
+      "mensaje_corto":"",
+      "se_vela_en":"Calle Doroteo Arango #241 Fracc. San Marcos",
+      "honras":"Pendientes",
+      "descripcion":""
+   },
+   {  
+      "id":86,
+      "titulo":"Niño",
+      "nombre":"Baltazar Guillermo",
+      "apellido_paterno":"Hernández",
+      "apellido_materno":"Bustamante",
+      "fecha":"Jueves 11 de Julio",
+      "mensaje_corto":"A la edad de 3 meses",
+      "se_vela_en":"Calle Sastres #421 Fracc. Fidel Velazquez I",
+      "honras":"Pendientes",
+      "descripcion":""
+   },
+   {  
+      "id":85,
+      "titulo":"",
+      "nombre":"Dalia Elena",
+      "apellido_paterno":"Ortíz",
+      "apellido_materno":"Salinas",
+      "fecha":"Jueves 11 de Julio",
+      "mensaje_corto":"A la edad de 58 años",
+      "se_vela_en":"Dom. Con. San Vicente de Chupaderos, Dgo.",
+      "honras":"Pendientes",
+      "descripcion":""
+   },
+   {  
+      "id":84,
+      "titulo":"",
+      "nombre":"Jesús Enrique",
+      "apellido_paterno":"Rodríguez",
+      "apellido_materno":"Galavíz",
+      "fecha":"Jueves 11 de Julio",
+      "mensaje_corto":"A la edad de 47 años",
+      "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
+      "honras":"16:00 hrs. Templo de Nuestra Señora de los Ángeles y se despide en panteón de oriente",
+      "descripcion":""
+   },
+   {  
+      "id":83,
+      "titulo":"",
+      "nombre":"Narciso",
+      "apellido_paterno":"Covarrubias",
+      "apellido_materno":"Romero",
+      "fecha":"Miercoles 10 de Julio",
+      "mensaje_corto":"A la edad de 97 años",
+      "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
+      "honras":"16:00 hrs. Templo de Santa Ana y se despide para su cremación",
+      "descripcion":""
+   },
+   {  
+      "id":82,
+      "titulo":"",
+      "nombre":"Jesus",
+      "apellido_paterno":"Corchado",
+      "apellido_materno":"Corchado",
+      "fecha":"Miercoles 10 de Julio",
+      "mensaje_corto":"A la edad de 29 años",
+      "se_vela_en":"San Luis del Cordero, San Dimas, Dgo.",
+      "honras":"Pendientes",
+      "descripcion":""
+   }
    ],
    "obituario_ingles":[
+      {  
+      "id":88,
+      "titulo":"",
+      "nombre":"Gloria",
+      "apellido_paterno":"Ramirez",
+      "apellido_materno":"Perez",
+      "fecha":"Friday, July 12",
+      "mensaje_corto":"A la edad de 74 años",
+      "se_vela_en":"Dom. Con. Emiliano Zapata, Cuenca, Dgo.",
+      "honras":"Pendents",
+      "descripcion":""
+   },
      {
         "id": 87,
         "titulo": "R.N.",
