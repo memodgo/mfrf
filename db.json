@@ -1,103 +1,79 @@
 {
    "obituario":[
-      {
-         "id":90,
-         "titulo":"",
-         "nombre":"Adan",
-         "apellido_paterno":"Garcia",
-         "apellido_materno":"Gomez",
-         "fecha":"Sábado 13 de Julio",
-         "mensaje_corto":"A la edad de 61 años",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
-         "honras":"16:00 hrs Templo de nuestra Sra. de la Salud Se despide para su cremación ",
-         "descripcion":""
-      },
-      {
-         "id":89,
-         "titulo":"",
-         "nombre":"Bernando",
-         "apellido_paterno":"Gonzales",
-         "apellido_materno":"Zavala",
-         "fecha":"Sábado 13 de Julio",
-         "mensaje_corto":"A la edad de 60 años",
-         "se_vela_en":"Dom. Con. La Joya, Dgo.",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":88,
-         "titulo":"",
-         "nombre":"Gloria",
-         "apellido_paterno":"Ramirez",
-         "apellido_materno":"Perez",
-         "fecha":"Viernes 12 de Julio",
-         "mensaje_corto":"A la edad de 74 años",
-         "se_vela_en":"Dom. Con. Emiliano Zapata, Cuenca, Dgo.",
-         "honras":"15:00 hrs Templo Nuestra Sra. de Guadalupe Se despide en panteon del lugar",
-         "descripcion":""
-      },
-      {
-         "id":85,
-         "titulo":"",
-         "nombre":"Dalia Elena",
-         "apellido_paterno":"Ortíz",
-         "apellido_materno":"Salinas",
-         "fecha":"Jueves 11 de Julio",
-         "mensaje_corto":"A la edad de 58 años",
-         "se_vela_en":"Dom. Con. San Vicente de Chupaderos, Dgo.",
-         "honras":"15:00 hrs Templo San Vicente Se despide en panteon del lugar ",
-         "descripcion":""
-      }
-   ],
+    {
+        "id": 92,
+        "titulo": "",
+        "nombre": "Maria Cruz",
+        "apellido_paterno": "Barral",
+        "apellido_materno": "Ontiveros",
+        "fecha": "Domingo 14 de Julio",
+        "mensaje_corto": "A la edad de 72 años",
+        "se_vela_en": "Suc. Dolores del Río en Capilla Diamante y Esmeralda",
+        "honras": "11:00 hrs. Catedral Basilica Menor y se despide en panteón Valle de los Sabinos",
+        "descripcion": ""
+    },
+    {
+        "id": 91,
+        "titulo": "",
+        "nombre": "Maria Ines",
+        "apellido_paterno": "Cazares",
+        "apellido_materno": "Garcia",
+        "fecha": "Domingo 14 de Julio",
+        "mensaje_corto": "A la edad de 84 años",
+        "se_vela_en": "Suc. Dolores del Río en Capilla ",
+        "honras": "Hoy 16:00 hrs. Templo de Nuestra Señora de los Angeles y se despide para su cremación",
+        "descripcion": ""
+    },
+    {
+        "id": 89,
+        "titulo": "",
+        "nombre": "Bernando",
+        "apellido_paterno": "Gonzalez",
+        "apellido_materno": "Zavala",
+        "fecha": "Sábado 13 de Julio",
+        "mensaje_corto": "A la edad de 60 años",
+        "se_vela_en": "Dom. Con. La Joya, Dgo.",
+        "honras": "14:00 hrs. Templo San Isidro Labrador y se despide en el panteón del lugar",
+        "descripcion": ""
+    }
+],
+
    "obituario_ingles":[
-      {
-         "id":90,
-         "titulo":"",
-         "nombre":"Adan",
-         "apellido_paterno":"Garcia",
-         "apellido_materno":"Gomez",
-         "fecha":"Saturday, July 13",
-         "mensaje_corto":"At the age of 61 years",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
-         "honras":"16:00 hrs Templo de nuestra Sra. de la Salud Se despide para su cremación ",
-         "descripcion":null,
-         "estatus":"1"
-      },
-      {
-         "id":89,
-         "titulo":"",
-         "nombre":"Bernando",
-         "apellido_paterno":"Gonzales",
-         "apellido_materno":"Zavala",
-         "fecha":"Sturday,July 13",
-         "mensaje_corto":"At the age of 60 years",
-         "se_vela_en":"Dom. Con. La Joya, Dgo.",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":88,
-         "titulo":"",
-         "nombre":"Gloria",
-         "apellido_paterno":"Ramirez",
-         "apellido_materno":"Perez",
-         "fecha":"Friday, July 12",
-         "mensaje_corto":"At the age of 74 years",
-         "se_vela_en":"Dom. Con. Emiliano Zapata, Cuenca, Dgo.",
-         "honras":"15:00 hrs Templo Nuestra Sra. de Guadalupe Se despide en panteon del lugar",
-         "descripcion":""
-      },
-      {
-         "id":85,
-         "titulo":"",
-         "nombre":"Dalia Elena",
-         "apellido_paterno":"Ortíz",
-         "apellido_materno":"Salinas",
-         "fecha":"Thursday, July 11",
-         "mensaje_corto":"At the age of 58 years",
-         "se_vela_en":"Dom. Con. San Vicente de Chupaderos, Dgo.",
-         "honras":"15:00 hrs Templo San Vicente Se despide en panteon del lugar ",
-         "descripcion":""
-      }
-   ]
+    {
+        "id": 92,
+        "titulo": "",
+        "nombre": "Maria Cruz",
+        "apellido_paterno": "Barral",
+        "apellido_materno": "Ontiveros",
+        "fecha": "Sunday, July 14",
+        "mensaje_corto": "At the age of 72 years",
+        "se_vela_en": "Suc. Dolores del Río en Capilla Diamante y Esmeralda",
+        "honras": "11:00 hrs. Catedral Basilica Menor y se despide en panteón Valle de los Sabinos",
+        "descripcion": ""
+    },
+    {
+        "id": 91,
+        "titulo": "",
+        "nombre": "Maria Ines",
+        "apellido_paterno": "Cazares",
+        "apellido_materno": "Garcia",
+        "fecha": "Sunday, July 14",
+        "mensaje_corto": "At the age of 84 years",
+        "se_vela_en": "Suc. Dolores del Río en Capilla ",
+        "honras": "Hoy 16:00 hrs. Templo de Nuestra Señora de los Angeles y se despide para su cremación",
+        "descripcion": ""
+    },
+    {
+        "id": 89,
+        "titulo": "",
+        "nombre": "Bernando",
+        "apellido_paterno": "Gonzalez",
+        "apellido_materno": "Zavala",
+        "fecha": "Ssturday, July 13",
+        "mensaje_corto": "At the age of 60 years",
+        "se_vela_en": "Dom. Con. La Joya, Dgo.",
+        "honras": "14:00 hrs. Templo San Isidro Labrador y se despide en el panteón del lugar",
+        "descripcion": ""
+    }
+]
 }
