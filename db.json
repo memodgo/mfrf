@@ -1,102 +1,78 @@
 {
    "obituario":[
-      {
-         "id":105,
-         "titulo":"",
-         "nombre":"Martha Guadalupe",
-         "apellido_paterno":"Camarillo",
-         "apellido_materno":"Gutierrez",
-         "fecha":"Sábado 20 de Julio",
-         "mensaje_corto":"A la edad de 77 años",
-         "se_vela_en":"Calle Atardecer 115 Fracc. Rinconadas del Sol.",
-         "honras":"15:00 hrs. Templo Santos Mártires. Se despide para su cremación.",
-         "descripcion":""
-      },
-      {
-         "id":104,
-         "titulo":"",
-         "nombre":"Angel Noel",
-         "apellido_paterno":"Corral",
-         "apellido_materno":"Rocha",
-         "fecha":"Sábado 20 de Julio",
-         "mensaje_corto":"A la edad de 59 años",
-         "se_vela_en":"Suc. Ferrocarril, Santiago Papasquiaro, Dgo.",
-         "honras":"12:00 hrs. Templo Virgen de Guadalupe del 10 de Abril. Se despide en panteón del 10 de Abril.",
-         "descripcion":""
-      },
-      {
-         "id":103,
-         "titulo":"",
-         "nombre":"Lucio",
-         "apellido_paterno":"Ayala",
-         "apellido_materno":"Nuñez",
-         "fecha":"Sábado 20 de Julio",
-         "mensaje_corto":"A la edad de 70 años",
-         "se_vela_en":"Dom. Con. Tolpia, Dgo.",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":99,
-         "titulo":"Sr.",
-         "nombre":"Ventura",
-         "apellido_paterno":"Valenzuela",
-         "apellido_materno":"Favela",
-         "fecha":"Viernes 19 de Julio",
-         "mensaje_corto":"A la edad de 77 años",
-         "se_vela_en":"Guanacevi, Dgo.",
-         "honras":"13:00 hrs. Templo Inmaculada Concepción. Se despide en panteón del lugar.",
-         "descripcion":""
-      }
-   ],
+    {
+      "id": 108,
+      "titulo": "",
+      "nombre": "Manuela",
+      "apellido_paterno": "Martinez",
+      "apellido_materno": "Reyes",
+      "fecha": "Lunes 22 de Julio",
+      "mensaje_corto": "A la edad de 72 años",
+      "se_vela_en": "Suc. Dolores del Río en Capila Diamante",
+      "honras": "16:00 hrs. Templo Santa Ana y la Sagrada Familia. Se despide en panteón Valle de los Sabinos.",
+      "descripcion": ""
+    },
+    {
+      "id": 107,
+      "titulo": "",
+      "nombre": "Elvira",
+      "apellido_paterno": "Leal",
+      "apellido_materno": "Alvarado",
+      "fecha": "Lunes 22 de Julio",
+      "mensaje_corto": "A la edad de 80 años",
+      "se_vela_en": "Dom. Con. J. Refugio Salcido, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 106,
+      "titulo": "",
+      "nombre": "Cristina",
+      "apellido_paterno": "Hernandez",
+      "apellido_materno": "Aguilar",
+      "fecha": "Lunes 22 de Julio",
+      "mensaje_corto": "A la edad de 34 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Oro",
+      "honras": "Pendientes",
+      "descripcion": ""
+    }
+  ],
    "obituario_ingles":[
-      {
-         "id":105,
-         "titulo":"",
-         "nombre":"Martha Guadalupe",
-         "apellido_paterno":"Camarillo",
-         "apellido_materno":"Gutierrez",
-         "fecha":"Saturday, July 20",
-         "mensaje_corto":"At the age of 77 years",
-         "se_vela_en":"Calle Atardecer 115 Fracc. Rinconadas del Sol.",
-         "honras":"15:00 hrs. Templo Santos Mártires. Se despide para su cremación.",
-         "descripcion":""
-      },
-      {
-         "id":104,
-         "titulo":"",
-         "nombre":"Angel Noel",
-         "apellido_paterno":"Corral",
-         "apellido_materno":"Rocha",
-         "fecha":"Saturday, July 20",
-         "mensaje_corto":"At the age of 59 years",
-         "se_vela_en":"Suc. Ferrocarril, Santiago Papasquiaro, Dgo.",
-         "honras":"12:00 hrs. Templo Virgen de Guadalupe del 10 de Abril. Se despide en panteón del 10 de Abril.",
-         "descripcion":""
-      },
-      {
-         "id":103,
-         "titulo":"",
-         "nombre":"Lucio",
-         "apellido_paterno":"Ayala",
-         "apellido_materno":"Nuñez",
-         "fecha":"Saturday, July 20",
-         "mensaje_corto":"At the age of 70 years",
-         "se_vela_en":"Dom. Con. Tolpia, Dgo.",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":99,
-         "titulo":"Sr.",
-         "nombre":"Ventura",
-         "apellido_paterno":"Valenzuela",
-         "apellido_materno":"Favela",
-         "fecha":"Friday, July 19",
-         "mensaje_corto":"At the age of 77 years",
-         "se_vela_en":"Guanacevi, Dgo.",
-         "honras":"13:00 hrs. Templo Inmaculada Concepción. Se despide en panteón del lugar.",
-         "descripcion":""
-      }
-   ]
+    {
+      "id": 108,
+      "titulo": "",
+      "nombre": "Manuela",
+      "apellido_paterno": "Martinez",
+      "apellido_materno": "Reyes",
+      "fecha": "Monday, July 22",
+      "mensaje_corto": "At the age of 72 years",
+      "se_vela_en": "Suc. Dolores del Río en Capila Diamante",
+      "honras": "16:00 hrs. Templo Santa Ana y la Sagrada Familia. Se despide en panteón Valle de los Sabinos.",
+      "descripcion": ""
+    },
+    {
+      "id": 107,
+      "titulo": "",
+      "nombre": "Elvira",
+      "apellido_paterno": "Leal",
+      "apellido_materno": "Alvarado",
+      "fecha": "Monday, July 22",
+      "mensaje_corto": "At the age of 80 years",
+      "se_vela_en": "Dom. Con. J. Refugio Salcido, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 106,
+      "titulo": "",
+      "nombre": "Cristina",
+      "apellido_paterno": "Hernandez",
+      "apellido_materno": "Aguilar",
+      "fecha": "Monday, July 22",
+      "mensaje_corto": "At the age of 34 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Oro",
+      "honras": "Pendents",
+      "descripcion": ""
+    }
+  ]
 }
