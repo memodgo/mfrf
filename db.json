@@ -1,6 +1,30 @@
 {
    "obituario":[
       {
+         "id":117,
+         "titulo":"",
+         "nombre":"Raul",
+         "apellido_paterno":"Burgos",
+         "apellido_materno":"Flores",
+         "fecha":"Sábado 27 de Julio",
+         "mensaje_corto":"A la edad de 65 años",
+         "se_vela_en":"Suc. Dolores del Rio Capilla Oro.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":116,
+         "titulo":"Sra.",
+         "nombre":"Delfina",
+         "apellido_paterno":"Villanueva",
+         "apellido_materno":"Terrazas",
+         "fecha":"Sábado 27 de Julio",
+         "mensaje_corto":"A la edad de 83 años",
+         "se_vela_en":"Dom. Con. Los Herreras, Stgo. Papasquiaro, Dgo.",
+         "honras":"15:00 hrs. Templo San Francisco Javier. Se despide en panteón del lugar.",
+         "descripcion":""
+      },
+      {
          "id":115,
          "titulo":"",
          "nombre":"Velia",
@@ -13,18 +37,6 @@
          "descripcion":""
       },
       {
-         "id":114,
-         "titulo":"",
-         "nombre":"Pablo",
-         "apellido_paterno":"Torres",
-         "apellido_materno":"Renteria",
-         "fecha":"Viernes 26 de Julio",
-         "mensaje_corto":"A la edad de 72 años",
-         "se_vela_en":"Chalchihuites Zacatecas",
-         "honras":"16:00 hrs. Templo del lugar y se despide en el panteón del lugar",
-         "descripcion":""
-      },
-      {
          "id":113,
          "titulo":"",
          "nombre":"Hugo Javier",
@@ -33,35 +45,35 @@
          "fecha":"Viernes 26 de Julio",
          "mensaje_corto":"A la edad de 94 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":112,
-         "titulo":"",
-         "nombre":"Sandra Paulina",
-         "apellido_paterno":"Ortega",
-         "apellido_materno":"Vera",
-         "fecha":"Miercoles 24 de Julio",
-         "mensaje_corto":"A la edad de 34 años",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Oro",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":111,
-         "titulo":"",
-         "nombre":"Ignacio",
-         "apellido_paterno":"Loera",
-         "apellido_materno":"Vazquez",
-         "fecha":"Miercoles 24 de Julio",
-         "mensaje_corto":"A la edad de 66 años",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
-         "honras":"Pendientes",
+         "honras":"14:00 hrs. Templo Santa Rosa de Lima. Se despide para su cremación.",
          "descripcion":""
       }
    ],
    "obituario_ingles":[
+      {
+         "id":117,
+         "titulo":"",
+         "nombre":"Raul",
+         "apellido_paterno":"Burgos",
+         "apellido_materno":"Flores",
+         "fecha":"Saturday, July 27",
+         "mensaje_corto":"At the age of 65 years",
+         "se_vela_en":"Suc. Dolores del Rio Capilla Oro.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":116,
+         "titulo":"Sra.",
+         "nombre":"Delfina",
+         "apellido_paterno":"Villanueva",
+         "apellido_materno":"Terrazas",
+         "fecha":"Saturday, July 27",
+         "mensaje_corto":"At the age of 83 years",
+         "se_vela_en":"Dom. Con. Los Herreras, Stgo. Papasquiaro, Dgo.",
+         "honras":"15:00 hrs. Templo San Francisco Javier. Se despide en panteón del lugar.",
+         "descripcion":""
+      },
       {
          "id":115,
          "titulo":"",
@@ -75,18 +87,6 @@
          "descripcion":""
       },
       {
-         "id":114,
-         "titulo":"",
-         "nombre":"Pablo",
-         "apellido_paterno":"Torres",
-         "apellido_materno":"Renteria",
-         "fecha":"Friday, July 26",
-         "mensaje_corto":"At the age of 72 years",
-         "se_vela_en":"Chalchihuites Zacatecas",
-         "honras":"16:00 hrs. Templo del lugar y se despide en el panteón del lugar",
-         "descripcion":""
-      },
-      {
          "id":113,
          "titulo":"",
          "nombre":"Hugo Javier",
@@ -95,31 +95,7 @@
          "fecha":"Friday, July 26",
          "mensaje_corto":"At the age of 94 years",
          "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":112,
-         "titulo":"",
-         "nombre":"Sandra Paulina",
-         "apellido_paterno":"Ortega",
-         "apellido_materno":"Vera",
-         "fecha":"Wednesday, July 24",
-         "mensaje_corto":"At the age of 34 years",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Oro",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":111,
-         "titulo":"",
-         "nombre":"Ignacio",
-         "apellido_paterno":"Loera",
-         "apellido_materno":"Vazquez",
-         "fecha":"Wednesday, July 24",
-         "mensaje_corto":"At the age of 34 years",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
-         "honras":"Pendents",
+         "honras":"14:00 hrs. Templo Santa Rosa de Lima. Se despide para su cremación.",
          "descripcion":""
       }
    ]
