@@ -1,15 +1,27 @@
 {
    "obituario":[
       {
+         "id":118,
+         "titulo":"",
+         "nombre":"Rafael",
+         "apellido_paterno":"Rivera ",
+         "apellido_materno":"Trujillo",
+         "fecha":"Jueves 01 de Agosto",
+         "mensaje_corto":"A la edad de 79 años",
+         "se_vela_en":"Guanaceví, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":122,
          "titulo":"",
          "nombre":"Juan Daniel",
          "apellido_paterno":"Muñoz",
          "apellido_materno":"",
-         "fecha":"Miercoles 31 de Julio",
+         "fecha":"Miercoles 13 de Julio",
          "mensaje_corto":"A la edad de 48 años",
          "se_vela_en":"Dom. Con. Guazamota, Dgo.",
-         "honras":"Pendientes",
+         "honras":"Pendeintes",
          "descripcion":""
       },
       {
@@ -18,14 +30,26 @@
          "nombre":"David",
          "apellido_paterno":"Garcia",
          "apellido_materno":"",
-         "fecha":"Miercoles 31 de Julio",
-         "mensaje_corto":"",
+         "fecha":"Miercoles 13 de Julio",
+         "mensaje_corto":"Edad desconocida",
          "se_vela_en":"Dom. Con. La Candela, Mpio. de Tepehuanes, Dgo.",
          "honras":"Pendientes",
          "descripcion":""
       }
    ],
    "obituario_ingles":[
+      {
+         "id":118,
+         "titulo":"",
+         "nombre":"Rafael",
+         "apellido_paterno":"Rivera ",
+         "apellido_materno":"Trujillo",
+         "fecha":"Tursday, August 01",
+         "mensaje_corto":"At the age of 79 years",
+         "se_vela_en":"Guanaceví, Dgo.",
+         "honras":"Pendents",
+         "descripcion":""
+      },
       {
          "id":122,
          "titulo":"",
