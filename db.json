@@ -1,6 +1,18 @@
 {
    "obituario":[
       {
+         "id":150,
+         "titulo":"",
+         "nombre":"David",
+         "apellido_paterno":"Ruvalcaba",
+         "apellido_materno":"Ceniceros",
+         "fecha":"Jueves 15 de Agosto",
+         "mensaje_corto":"A la edad de 40 años",
+         "se_vela_en":"Capilla Ferrocarril, Suc. Santiago Papasquiaro, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":149,
          "titulo":"",
          "nombre":"Olga Guillermina",
@@ -50,6 +62,18 @@
       }
    ],
    "obituario_ingles":[
+      {
+         "id":150,
+         "titulo":"",
+         "nombre":"David",
+         "apellido_paterno":"Ruvalcaba",
+         "apellido_materno":"Ceniceros",
+         "fecha":"Tursday, August 15",
+         "mensaje_corto":"At the age of 40 years",
+         "se_vela_en":"Capilla Ferrocarril, Suc. Santiago Papasquiaro, Dgo.",
+         "honras":"Pendents",
+         "descripcion":""
+      },
       {
          "id":149,
          "titulo":"",
