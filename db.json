@@ -1,30 +1,78 @@
 {
    "obituario":[
       {
-         "id": 6,
-         "titulo": "",
-         "nombre": "Anita",
-         "apellido_paterno": "Armendariz",
-         "apellido_materno": "Lainez",
-         "fecha": "Sábado 17 de Agosto",
-         "mensaje_corto": "A la edad de 92 años",
-         "se_vela_en": "Dom. Con. San Juan, Angel, Cuencame, Dgo",
-         "honras": "Domingo 18 de Agosto a las 10:30  a.m. Templo San Angel y se despide en el panteón del lugar",
-         "descripcion": ""
+         "id":9,
+         "titulo":"",
+         "nombre":"Hermelinda",
+         "apellido_paterno":"Prieto",
+         "apellido_materno":"Palacios",
+         "fecha":"Lunes 19 de Agosto",
+         "mensaje_corto":"A la edad de 52 años",
+         "se_vela_en":"Loc. Ignacio Allende, Gpe. Vic, Dgo",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":8,
+         "titulo":"",
+         "nombre":"Juan Francisco",
+         "apellido_paterno":"Velazquez",
+         "apellido_materno":"",
+         "fecha":"Domingo 18 de Agosto",
+         "mensaje_corto":"A la edad de 91 años",
+         "se_vela_en":"La Purisima Tepehuanes",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":7,
+         "titulo":"",
+         "nombre":"Atanacio",
+         "apellido_paterno":"Romero",
+         "apellido_materno":"Reyes",
+         "fecha":"Domingo 18 de Agosto",
+         "mensaje_corto":"A la edad de 70 años",
+         "se_vela_en":"Alamillo, Rodeo, Dgo.",
+         "honras":"17:00 hrs. Templo San Juan de los Lagos. Se despide en panteón  del lugar.",
+         "descripcion":""
       }
    ],
    "obituario_ingles":[
       {
-         "id": 6,
-         "titulo": "",
-         "nombre": "Anita",
-         "apellido_paterno": "Armendariz",
-         "apellido_materno": "Lainez",
-         "fecha": "Saturday, August 17",
-         "mensaje_corto": "At the age of 92 years",
-         "se_vela_en": "Dom. Con. San Juan, Angel, Cuencame, Dgo",
-         "honras": "Domingo 18 de Agosto a las 10:30  a.m. Templo San Angel y se despide en el panteón del lugar",
-         "descripcion": ""
+         "id":9,
+         "titulo":"",
+         "nombre":"Hermelinda",
+         "apellido_paterno":"Prieto",
+         "apellido_materno":"Palacios",
+         "fecha":"Lunes 19 de Agosto",
+         "mensaje_corto":"A la edad de 52 años",
+         "se_vela_en":"Loc. Ignacio Allende, Gpe. Vic, Dgo",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":8,
+         "titulo":"",
+         "nombre":"Juan Francisco",
+         "apellido_paterno":"Velazquez",
+         "apellido_materno":"",
+         "fecha":"Sunday, August 18",
+         "mensaje_corto":"At the age of 91 years",
+         "se_vela_en":"La Purisima Tepehuanes",
+         "honras":"Pendents",
+         "descripcion":""
+      },
+      {
+         "id":7,
+         "titulo":"",
+         "nombre":"Atanacio",
+         "apellido_paterno":"Romero",
+         "apellido_materno":"Reyes",
+         "fecha":"Sunday, August 18",
+         "mensaje_corto":"At the age of 70 years",
+         "se_vela_en":"Alamillo, Rodeo, Dgo.",
+         "honras":"17:00 hrs. Templo San Juan de los Lagos. Se despide en panteón  del lugar.",
+         "descripcion":""
       }
    ]
 }
