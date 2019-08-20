@@ -1,6 +1,30 @@
 {
    "obituario":[
       {
+         "id":11,
+         "titulo":"",
+         "nombre":"Juana",
+         "apellido_paterno":"Morales",
+         "apellido_materno":"Abad",
+         "fecha":"Martes 20 de Agosto",
+         "mensaje_corto":"A la edad de 69 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":10,
+         "titulo":"",
+         "nombre":"María Reyes",
+         "apellido_paterno":"Castro",
+         "apellido_materno":"Berumen",
+         "fecha":"Martes 20 de Agosto",
+         "mensaje_corto":"A la edad de 84 años",
+         "se_vela_en":"Guadalupe Victoria, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":9,
          "titulo":"",
          "nombre":"Hermelinda",
@@ -10,68 +34,44 @@
          "mensaje_corto":"A la edad de 52 años",
          "se_vela_en":"Loc. Ignacio Allende, Gpe. Vic, Dgo",
          "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":8,
-         "titulo":"",
-         "nombre":"Juan Francisco",
-         "apellido_paterno":"Velazquez",
-         "apellido_materno":"",
-         "fecha":"Domingo 18 de Agosto",
-         "mensaje_corto":"A la edad de 91 años",
-         "se_vela_en":"La Purisima Tepehuanes",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":7,
-         "titulo":"",
-         "nombre":"Atanacio",
-         "apellido_paterno":"Romero",
-         "apellido_materno":"Reyes",
-         "fecha":"Domingo 18 de Agosto",
-         "mensaje_corto":"A la edad de 70 años",
-         "se_vela_en":"Alamillo, Rodeo, Dgo.",
-         "honras":"17:00 hrs. Templo San Juan de los Lagos. Se despide en panteón  del lugar.",
          "descripcion":""
       }
    ],
    "obituario_ingles":[
       {
+         "id":11,
+         "titulo":"",
+         "nombre":"Juana",
+         "apellido_paterno":"Morales",
+         "apellido_materno":"Abad",
+         "fecha":"Tuesday, August 20",
+         "mensaje_corto":"At the age of 69 years",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
+         "honras":"Pendents",
+         "descripcion":""
+      },
+      {
+         "id":10,
+         "titulo":"",
+         "nombre":"María Reyes",
+         "apellido_paterno":"Castro",
+         "apellido_materno":"Berumen",
+         "fecha":"Tuesday, August 20",
+         "mensaje_corto":"At the age of 84 years",
+         "se_vela_en":"Guadalupe Victoria, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":9,
          "titulo":"",
          "nombre":"Hermelinda",
          "apellido_paterno":"Prieto",
          "apellido_materno":"Palacios",
-         "fecha":"Lunes 19 de Agosto",
-         "mensaje_corto":"A la edad de 52 años",
+         "fecha":"Monday, August 19",
+         "mensaje_corto":"At the age of 52 years",
          "se_vela_en":"Loc. Ignacio Allende, Gpe. Vic, Dgo",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":8,
-         "titulo":"",
-         "nombre":"Juan Francisco",
-         "apellido_paterno":"Velazquez",
-         "apellido_materno":"",
-         "fecha":"Sunday, August 18",
-         "mensaje_corto":"At the age of 91 years",
-         "se_vela_en":"La Purisima Tepehuanes",
          "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":7,
-         "titulo":"",
-         "nombre":"Atanacio",
-         "apellido_paterno":"Romero",
-         "apellido_materno":"Reyes",
-         "fecha":"Sunday, August 18",
-         "mensaje_corto":"At the age of 70 years",
-         "se_vela_en":"Alamillo, Rodeo, Dgo.",
-         "honras":"17:00 hrs. Templo San Juan de los Lagos. Se despide en panteón  del lugar.",
          "descripcion":""
       }
    ]
