@@ -1,6 +1,18 @@
 {
    "obituario":[
       {
+         "id":12,
+         "titulo":"",
+         "nombre":"Ma. Magdalena",
+         "apellido_paterno":"Martínez",
+         "apellido_materno":"Zavala",
+         "fecha":"Miercoles 21 de Agosto",
+         "mensaje_corto":"A la edad de 64 años",
+         "se_vela_en":"Col. La Turbina, Stgo. Papasquiaro, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":11,
          "titulo":"",
          "nombre":"Juana",
@@ -9,8 +21,8 @@
          "fecha":"Martes 20 de Agosto",
          "mensaje_corto":"A la edad de 69 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
-         "honras":"Pendientes",
-         "descripcion":""
+         "honras":"11:00 hrs. Templo de la Inmaculada Concepción de Mariano Matamoros y se despide en panteón de Mariano Matamoros",
+         "descripcion":"Se traslada a las 10:00 hrs. Dom. Con. Mariano de Matamoros, Dgo."
       },
       {
          "id":10,
@@ -21,7 +33,7 @@
          "fecha":"Martes 20 de Agosto",
          "mensaje_corto":"A la edad de 84 años",
          "se_vela_en":"Guadalupe Victoria, Dgo.",
-         "honras":"Pendientes",
+         "honras":"16:00 hrs. Templo Santa Maria de Guadalupe y se despide en panteón San Pedro de los Angeles.",
          "descripcion":""
       },
       {
@@ -33,11 +45,23 @@
          "fecha":"Lunes 19 de Agosto",
          "mensaje_corto":"A la edad de 52 años",
          "se_vela_en":"Loc. Ignacio Allende, Gpe. Vic, Dgo",
-         "honras":"Pendientes",
+         "honras":"13:00 hrs. Templo de Ntra. Sra. del Perpetuo Socorro y se despide en panteón del lugar.",
          "descripcion":""
       }
    ],
    "obituario_ingles":[
+      {
+         "id":12,
+         "titulo":"",
+         "nombre":"Ma. Magdalena",
+         "apellido_paterno":"Martínez",
+         "apellido_materno":"Zavala",
+         "fecha":"Wednesday, August 21",
+         "mensaje_corto":"At the age of 64 years",
+         "se_vela_en":"Col. La Turbina, Stgo. Papasquiaro, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
       {
          "id":11,
          "titulo":"",
@@ -47,8 +71,8 @@
          "fecha":"Tuesday, August 20",
          "mensaje_corto":"At the age of 69 years",
          "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
-         "honras":"Pendents",
-         "descripcion":""
+         "honras":"11:00 hrs. Templo de la Inmaculada Concepción de Mariano Matamoros y se despide en panteón de Mariano Matamoros",
+         "descripcion":"Se traslada a las 10:00 hrs. Dom. Con. Mariano de Matamoros, Dgo."
       },
       {
          "id":10,
@@ -59,7 +83,7 @@
          "fecha":"Tuesday, August 20",
          "mensaje_corto":"At the age of 84 years",
          "se_vela_en":"Guadalupe Victoria, Dgo.",
-         "honras":"Pendientes",
+         "honras":"16:00 hrs. Templo Santa Maria de Guadalupe y se despide en panteón San Pedro de los Angeles.",
          "descripcion":""
       },
       {
@@ -71,7 +95,7 @@
          "fecha":"Monday, August 19",
          "mensaje_corto":"At the age of 52 years",
          "se_vela_en":"Loc. Ignacio Allende, Gpe. Vic, Dgo",
-         "honras":"Pendents",
+         "honras":"13:00 hrs. Templo de Ntra. Sra. del Perpetuo Socorro y se despide en panteón del lugar.",
          "descripcion":""
       }
    ]
