@@ -1,6 +1,30 @@
 {
    "obituario":[
       {
+         "id":16,
+         "titulo":"",
+         "nombre":"Margarita",
+         "apellido_paterno":"Delicias",
+         "apellido_materno":"Livas",
+         "fecha":"Sábado 24 de Agosto",
+         "mensaje_corto":"",
+         "se_vela_en":"Se traslada a Delicias, Chihuahua",
+         "honras":"",
+         "descripcion":""
+      },
+      {
+         "id":15,
+         "titulo":"",
+         "nombre":"José Rodolfo",
+         "apellido_paterno":"Ramirez",
+         "apellido_materno":"Ceniceros",
+         "fecha":"Sábado 24 de Agosto",
+         "mensaje_corto":"A la edad de 73 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Plata",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":14,
          "titulo":"Joven",
          "nombre":"Cesar",
@@ -11,21 +35,33 @@
          "se_vela_en":"Calle San Juan #100 Col. F.O.S. La virgen",
          "honras":"Pendientes",
          "descripcion":""
-      },
-      {
-         "id":13,
-         "titulo":"",
-         "nombre":"Maria del Refugio",
-         "apellido_paterno":"Martinez",
-         "apellido_materno":"Lara",
-         "fecha":"Jueves 22 de Agosto",
-         "mensaje_corto":"A la edad de 81 años",
-         "se_vela_en":"Dom. Con. José María Morelos antes la Tinaja",
-         "honras":"15:30 hrs. Templo Sagrado Corazón de Jesus (del lugar) y se despide en panteón del lugar",
-         "descripcion":""
       }
    ],
    "obituario_ingles":[
+      {
+         "id":16,
+         "titulo":"",
+         "nombre":"Margarita",
+         "apellido_paterno":"Delicias",
+         "apellido_materno":"Livas",
+         "fecha":"Saturday, August 24",
+         "mensaje_corto":"",
+         "se_vela_en":"Se traslada a Delicias, Chihuahua",
+         "honras":"",
+         "descripcion":""
+      },
+      {
+         "id":15,
+         "titulo":"",
+         "nombre":"José Rodolfo",
+         "apellido_paterno":"Ramirez",
+         "apellido_materno":"Ceniceros",
+         "fecha":"Saturday, August 24",
+         "mensaje_corto":"At the age of 73 years",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Plata",
+         "honras":"Pendents",
+         "descripcion":""
+      },
       {
          "id":14,
          "titulo":"Joven",
@@ -36,18 +72,6 @@
          "mensaje_corto":"At the age of 15 years",
          "se_vela_en":"Calle San Juan #100 Col. F.O.S. La virgen",
          "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":13,
-         "titulo":"",
-         "nombre":"Maria del Refugio",
-         "apellido_paterno":"Martinez",
-         "apellido_materno":"Lara",
-         "fecha":"Thursday, august 22",
-         "mensaje_corto":"At the age of 81 years",
-         "se_vela_en":"Dom. Con. José María Morelos antes la Tinaja",
-         "honras":"15:30 hrs. Templo Sagrado Corazón de Jesus (del lugar) y se despide en panteón del lugar",
          "descripcion":""
       }
    ]
