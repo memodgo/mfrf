@@ -1,7 +1,7 @@
 {
    "obituario":[
       {
-         "id":20,
+         "id":18,
          "titulo":"",
          "nombre":"Salvador",
          "apellido_paterno":"Burgos ",
@@ -13,7 +13,7 @@
          "descripcion":""
       },
       {
-         "id":19,
+         "id":17,
          "titulo":"",
          "nombre":"Abdon",
          "apellido_paterno":"Rubio ",
@@ -27,7 +27,7 @@
    ],
    "obituario_ingles":[
       {
-         "id":20,
+         "id":18,
          "titulo":"",
          "nombre":"Salvador",
          "apellido_paterno":"Burgos ",
@@ -39,7 +39,7 @@
          "descripcion":""
       },
       {
-         "id":19,
+         "id":17,
          "titulo":"",
          "nombre":"Abdon",
          "apellido_paterno":"Rubio ",
