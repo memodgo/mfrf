@@ -1,53 +1,125 @@
 {
    "obituario":[
       {
+         "id":22,
+         "titulo":"",
+         "nombre":"José Ramón",
+         "apellido_paterno":"Obregón",
+         "apellido_materno":"Hernández",
+         "fecha":"Martes 27 de Agosto",
+         "mensaje_corto":"A la edad de 75 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":21,
+         "titulo":"",
+         "nombre":"Armando",
+         "apellido_paterno":"Salas",
+         "apellido_materno":"Leos",
+         "fecha":"Martes 27 de Agosto",
+         "mensaje_corto":"A la edad de 82 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":20,
+         "titulo":"",
+         "nombre":"José Gabriel",
+         "apellido_paterno":"Alvarez",
+         "apellido_materno":"Cabrera",
+         "fecha":"Martes 27 de Agosto",
+         "mensaje_corto":"A la edad de 88 años",
+         "se_vela_en":"vela Calle Ganchi 141 Col. Arturo Gámiz.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
+         "id":19,
+         "titulo":"",
+         "nombre":"Martín",
+         "apellido_paterno":"Gallegos",
+         "apellido_materno":"Simental",
+         "fecha":"Martes 27 de Agosto",
+         "mensaje_corto":"A la edad de 91 años",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Plata",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":18,
          "titulo":"",
          "nombre":"Salvador",
          "apellido_paterno":"Burgos ",
          "apellido_materno":"Hernández",
          "fecha":"Lunes 26 de Agosto",
-         "mensaje_corto":"",
-         "se_vela_en":"Pendiente",
+         "mensaje_corto":"A la edad de 77 años",
+         "se_vela_en":"Calle Berilio 504 Col. Luis Echeverria.",
          "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":17,
-         "titulo":"",
-         "nombre":"Abdon",
-         "apellido_paterno":"Rubio ",
-         "apellido_materno":"Unzueta",
-         "fecha":"Lunes 26 de Agosto",
-         "mensaje_corto":"A la edad de 68 años",
-         "se_vela_en":"Capilla Raúl Flors Suc. Baca Ortiz, Santiago Papasquiaro, Dgo.",
-         "honras":"Se traslada al Salitre San Matín, Hidalgo.",
          "descripcion":""
       }
    ],
    "obituario_ingles":[
       {
+         "id":22,
+         "titulo":"",
+         "nombre":"José Ramón",
+         "apellido_paterno":"Obregón",
+         "apellido_materno":"Hernández",
+         "fecha":"Thursday, August 27",
+         "mensaje_corto":"At the age of 75 years",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Esmeralda",
+         "honras":"Pendents",
+         "descripcion":""
+      },
+      {
+         "id":21,
+         "titulo":"",
+         "nombre":"Armando",
+         "apellido_paterno":"Salas",
+         "apellido_materno":"Leos",
+         "fecha":"Thursday, August 27",
+         "mensaje_corto":"At the age of 82 years",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
+         "honras":"Pendents",
+         "descripcion":""
+      },
+      {
+         "id":20,
+         "titulo":"",
+         "nombre":"José Gabriel",
+         "apellido_paterno":"Alvarez",
+         "apellido_materno":"Cabrera",
+         "fecha":"Thusday, August 27",
+         "mensaje_corto":"At the age of 88 years",
+         "se_vela_en":"vela Calle Ganchi 141 Col. Arturo Gámiz.",
+         "honras":"Pendents",
+         "descripcion":""
+      },
+      {
+         "id":19,
+         "titulo":"",
+         "nombre":"Martín",
+         "apellido_paterno":"Gallegos",
+         "apellido_materno":"Simental",
+         "fecha":"Thusday, August 27",
+         "mensaje_corto":"At the age of 91 years",
+         "se_vela_en":"Suc. Dolores del Río en Capilla Plata",
+         "honras":"Pendents",
+         "descripcion":""
+      },
+      {
          "id":18,
          "titulo":"",
          "nombre":"Salvador",
          "apellido_paterno":"Burgos ",
          "apellido_materno":"Hernández",
          "fecha":"Monday, August 26",
-         "mensaje_corto":"",
-         "se_vela_en":"Pendent",
+         "mensaje_corto":"At the age of 77 years",
+         "se_vela_en":"Calle Berilio 504 Col. Luis Echeverria.",
          "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":17,
-         "titulo":"",
-         "nombre":"Abdon",
-         "apellido_paterno":"Rubio ",
-         "apellido_materno":"Unzueta",
-         "fecha":"Monday, August 26",
-         "mensaje_corto":"At the age of 68 years",
-         "se_vela_en":"Capilla Raúl Flors Suc. Baca Ortiz, Santiago Papasquiaro, Dgo.",
-         "honras":"Se traslada al Salitre San Matín, Hidalgo.",
          "descripcion":""
       }
    ]
