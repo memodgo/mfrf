@@ -1,6 +1,30 @@
 {
    "obituario":[
       {
+         "id":28,
+         "titulo":"",
+         "nombre":"Maria Carmen",
+         "apellido_paterno":"Morales",
+         "apellido_materno":"Gonzalez",
+         "fecha":"Viernes 30 de Agosto",
+         "mensaje_corto":"A la edad de 72 años",
+         "se_vela_en":"Calle Zacatecas #1201 Col. Morga.",
+         "honras":"Pendientes",
+         "descripcion":null
+      },
+      {
+         "id":27,
+         "titulo":"Niña",
+         "nombre":"Marilu Guadalupe",
+         "apellido_paterno":"Perez",
+         "apellido_materno":"Escalera",
+         "fecha":"Viernes 30 de Agosto",
+         "mensaje_corto":"",
+         "se_vela_en":"Dom. Con. El Molino, Nombre de Dio, Dgo.",
+         "honras":"Se despide directo en panteon Nombre de Dio, Dgo. a las 10:00 hrs.",
+         "descripcion":null
+      },
+      {
          "id":26,
          "titulo":"",
          "nombre":"Federico",
@@ -21,7 +45,7 @@
          "fecha":"Jueves 29 de Agosto",
          "mensaje_corto":"A la edad de 88 años",
          "se_vela_en":"Calle  Retorno Insurgentes 32 Fracc. Gpe. Vic, Infonavit.",
-         "honras":"Pendientes",
+         "honras":"11:00 hrs. el día 31 de Agosto 2019. Templo San Jose Obrero. Se despide en panteón Oriente.",
          "descripcion":""
       },
       {
@@ -33,7 +57,7 @@
          "fecha":"Jueves 29 de Agosto",
          "mensaje_corto":"A la edad de 79 años",
          "se_vela_en":"Suc. Dolores del Río en Capilla Plata",
-         "honras":"Pendientes",
+         "honras":"10:00 hrs. Templo Fatima del Carmen. Se despide para su cremación.",
          "descripcion":""
       },
       {
@@ -51,12 +75,36 @@
    ],
    "obituario_ingles":[
       {
+         "id":28,
+         "titulo":"",
+         "nombre":"Maria Carmen",
+         "apellido_paterno":"Morales",
+         "apellido_materno":"Gonzalez",
+         "fecha":"Friday, August 30",
+         "mensaje_corto":"At the age of 72 years",
+         "se_vela_en":"Calle Zacatecas #1201 Col. Morga.",
+         "honras":"Pendents",
+         "descripcion":""
+      },
+      {
+         "id":27,
+         "titulo":"Niña",
+         "nombre":"Marilu Guadalupe",
+         "apellido_paterno":"Perez",
+         "apellido_materno":"Escalera",
+         "fecha":"Friday, August 30",
+         "mensaje_corto":"",
+         "se_vela_en":"Dom. Con. El Molino, Nombre de Dio, Dgo.",
+         "honras":"Se despide directo en panteon Nombre de Dio, Dgo. a las 10:00 hrs.",
+         "descripcion":null
+      },
+      {
          "id":26,
          "titulo":"",
          "nombre":"Federico",
          "apellido_paterno":"Gandarilla",
          "apellido_materno":"Aguirre",
-         "fecha":"Tuesday, August 29",
+         "fecha":"Tursday, August 29",
          "mensaje_corto":"At the age of 52 years",
          "se_vela_en":"Dom. EL Potrero del Llano, Inde Dgo.",
          "honras":"Pendents",
@@ -68,10 +116,10 @@
          "nombre":"Nicolas",
          "apellido_paterno":"Quirino",
          "apellido_materno":"Gurrola",
-         "fecha":"Tuesday, August 29",
+         "fecha":"Tursday, August 29",
          "mensaje_corto":"At the age of 88 years",
          "se_vela_en":"Calle  Retorno Insurgentes 32 Fracc. Gpe. Vic, Infonavit.",
-         "honras":"Pendents",
+         "honras":"11:00 hrs. el día 31 de Agosto 2019. Templo San Jose Obrero. Se despide en panteón Oriente.",
          "descripcion":""
       },
       {
@@ -80,10 +128,10 @@
          "nombre":"Saúl",
          "apellido_paterno":"Herrera",
          "apellido_materno":"Navar",
-         "fecha":"Tuesday, August 29",
+         "fecha":"Tursday, August 29",
          "mensaje_corto":"At the age of 79 years",
          "se_vela_en":"Suc. Dolores del Río en Capilla Plata",
-         "honras":"Pendents",
+         "honras":"10:00 hrs. Templo Fatima del Carmen. Se despide para su cremación.",
          "descripcion":""
       },
       {
@@ -92,7 +140,7 @@
          "nombre":"Paulina",
          "apellido_paterno":"Nava",
          "apellido_materno":"Corral",
-         "fecha":"Tuesday, August 29",
+         "fecha":"Tursday, August 29",
          "mensaje_corto":"At the age of 59 years",
          "se_vela_en":"Dom. Con. El Alamito, Stgo. Papasquiaro, Dgo.",
          "honras":"Pendents",
