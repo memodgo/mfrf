@@ -1,6 +1,18 @@
 {
    "obituario":[
       {
+         "id":34,
+         "titulo":"",
+         "nombre":"Diego Alejandro",
+         "apellido_paterno":"Martinez",
+         "apellido_materno":"Marrufo",
+         "fecha":"Lunes 02 de Septiembre",
+         "mensaje_corto":"A la edad de 30 años",
+         "se_vela_en":"Dom. Con. Villa  Montemorelos, Dgo.",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":33,
          "titulo":"",
          "nombre":"Martha Alicia",
@@ -33,19 +45,7 @@
          "fecha":"Domingo 01 de Septiembre",
          "mensaje_corto":"A la edad de 80 años",
          "se_vela_en":"Capilla Diamante en Suc. Dolores del Río",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":30,
-         "titulo":"",
-         "nombre":"Raquel",
-         "apellido_paterno":"Dominguez",
-         "apellido_materno":"Cortez",
-         "fecha":"Sábado 31 de Agosto",
-         "mensaje_corto":"A la edad de 55 años",
-         "se_vela_en":"Gualterio, Zacatecas",
-         "honras":"13:00 hrs,en capilla de panteón Gualterio, Zac., y se despide en panteón del lugar",
+         "honras":"10:00 hrs. Templo De la Asuncion (Maximo Gamiz ) Se traslada a Gualteio, Zac. Honras a las 13:00 hrs. Templo del lugar. Se despide en panteón de Gualterio Zacatecas.",
          "descripcion":""
       },
       {
@@ -62,6 +62,18 @@
       }
    ],
    "obituario_ingles":[
+      {
+         "id":34,
+         "titulo":"",
+         "nombre":"Diego Alejandro",
+         "apellido_paterno":"Martinez",
+         "apellido_materno":"Marrufo",
+         "fecha":"Monday, September 02",
+         "mensaje_corto":"At the age of 30 years",
+         "se_vela_en":"Dom. Con. Villa  Montemorelos, Dgo.",
+         "honras":"Pendents",
+         "descripcion":""
+      },
       {
          "id":33,
          "titulo":"",
@@ -95,19 +107,7 @@
          "fecha":"Sunday, September 01",
          "mensaje_corto":"At the age of 80 years",
          "se_vela_en":"Capilla Diamante en Suc. Dolores del Río",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":30,
-         "titulo":"",
-         "nombre":"Raquel",
-         "apellido_paterno":"Dominguez",
-         "apellido_materno":"Cortez",
-         "fecha":"Saturday, August 31",
-         "mensaje_corto":"At the age of 55 years",
-         "se_vela_en":"Gualterio, Zacatecas",
-         "honras":"13:00 hrs,en capilla de panteón Gualterio, Zac., y se despide en panteón del lugar",
+         "honras":"10:00 hrs. Templo De la Asuncion (Maximo Gamiz ) Se traslada a Gualteio, Zac. Honras a las 13:00 hrs. Templo del lugar. Se despide en panteón de Gualterio Zacatecas.",
          "descripcion":""
       },
       {
