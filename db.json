@@ -1,6 +1,42 @@
 {
    "obituario":[
       {
+         "id":33,
+         "titulo":"",
+         "nombre":"Martha Alicia",
+         "apellido_paterno":"Renteria",
+         "apellido_materno":"Martinez",
+         "fecha":"Domingo 01 de Septiembre",
+         "mensaje_corto":"A la edad de 59 años",
+         "se_vela_en":"Dom. Con. Guatimape, Nuevo Ideal, Dgo.",
+         "honras":"16:00 hrs. Templo San Miguel Arcangel y se despide en panteón del lugar",
+         "descripcion":""
+      },
+      {
+         "id":32,
+         "titulo":"",
+         "nombre":"Rosa Elva",
+         "apellido_paterno":"Lopez",
+         "apellido_materno":"Atienzo",
+         "fecha":"Domingo 01 de Septiembre",
+         "mensaje_corto":"A la edad de 65 años",
+         "se_vela_en":"Capilla Plata Suc. Dolores del Río",
+         "honras":"15:00 hrs. Templo de Santa Ana y se despide en panteón de Oriente",
+         "descripcion":""
+      },
+      {
+         "id":31,
+         "titulo":"",
+         "nombre":"Maria Yolanda",
+         "apellido_paterno":"Ayala",
+         "apellido_materno":"Andrade",
+         "fecha":"Domingo 01 de Septiembre",
+         "mensaje_corto":"A la edad de 80 años",
+         "se_vela_en":"Capilla Diamante en Suc. Dolores del Río",
+         "honras":"Pendientes",
+         "descripcion":""
+      },
+      {
          "id":30,
          "titulo":"",
          "nombre":"Raquel",
@@ -9,47 +45,59 @@
          "fecha":"Sábado 31 de Agosto",
          "mensaje_corto":"A la edad de 55 años",
          "se_vela_en":"Gualterio, Zacatecas",
-         "honras":"Pendientes",
+         "honras":"13:00 hrs,en capilla de panteón Gualterio, Zac., y se despide en panteón del lugar",
          "descripcion":""
       },
       {
          "id":29,
          "titulo":"",
-         "nombre":"Lucina",
+         "nombre":"Luciana",
          "apellido_paterno":"Valdez",
          "apellido_materno":"Zamarripa",
          "fecha":"Sábado 31 de Agosto",
          "mensaje_corto":"A la edad de 59 años",
          "se_vela_en":"San José del Molino",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":28,
-         "titulo":"",
-         "nombre":"Maria Carmen",
-         "apellido_paterno":"Morales",
-         "apellido_materno":"Gonzalez",
-         "fecha":"Viernes 30 de Agosto",
-         "mensaje_corto":"A la edad de 72 años",
-         "se_vela_en":"Calle Zacatecas #1201 Col. Morga.",
-         "honras":"Pendientes",
-         "descripcion":null
-      },
-      {
-         "id":25,
-         "titulo":"",
-         "nombre":"Nicolas",
-         "apellido_paterno":"Quirino",
-         "apellido_materno":"Gurrola",
-         "fecha":"Jueves 29 de Agosto",
-         "mensaje_corto":"A la edad de 88 años",
-         "se_vela_en":"Calle  Retorno Insurgentes 32 Fracc. Gpe. Vic, Infonavit.",
-         "honras":"11:00 hrs. Templo San Jose Obrero. Se despide en panteón Oriente.",
+         "honras":"13:00 hrs. en Templo San José y se despide en panteón del lugar",
          "descripcion":""
       }
    ],
    "obituario_ingles":[
+      {
+         "id":33,
+         "titulo":"",
+         "nombre":"Martha Alicia",
+         "apellido_paterno":"Renteria",
+         "apellido_materno":"Martinez",
+         "fecha":"Sunday, September 01",
+         "mensaje_corto":"At the age of 59 years",
+         "se_vela_en":"Dom. Con. Guatimape, Nuevo Ideal, Dgo.",
+         "honras":"16:00 hrs. Templo San Miguel Arcangel y se despide en panteón del lugar",
+         "descripcion":""
+      },
+      {
+         "id":32,
+         "titulo":"",
+         "nombre":"Rosa Elva",
+         "apellido_paterno":"Lopez",
+         "apellido_materno":"Atienzo",
+         "fecha":"Sunday, September 01",
+         "mensaje_corto":"At the age of 65 years",
+         "se_vela_en":"Capilla Plata Suc. Dolores del Río",
+         "honras":"15:00 hrs. Templo de Santa Ana y se despide en panteón de Oriente",
+         "descripcion":""
+      },
+      {
+         "id":31,
+         "titulo":"",
+         "nombre":"Maria Yolanda",
+         "apellido_paterno":"Ayala",
+         "apellido_materno":"Andrade",
+         "fecha":"Sunday, September 01",
+         "mensaje_corto":"At the age of 80 years",
+         "se_vela_en":"Capilla Diamante en Suc. Dolores del Río",
+         "honras":"Pendents",
+         "descripcion":""
+      },
       {
          "id":30,
          "titulo":"",
@@ -59,43 +107,19 @@
          "fecha":"Saturday, August 31",
          "mensaje_corto":"At the age of 55 years",
          "se_vela_en":"Gualterio, Zacatecas",
-         "honras":"Pendents",
+         "honras":"13:00 hrs,en capilla de panteón Gualterio, Zac., y se despide en panteón del lugar",
          "descripcion":""
       },
       {
          "id":29,
          "titulo":"",
-         "nombre":"Lucina",
+         "nombre":"Luciana",
          "apellido_paterno":"Valdez",
          "apellido_materno":"Zamarripa",
          "fecha":"Saturday, August 31",
          "mensaje_corto":"At the age of 59 years",
          "se_vela_en":"San José del Molino",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":28,
-         "titulo":"",
-         "nombre":"Maria Carmen",
-         "apellido_paterno":"Morales",
-         "apellido_materno":"Gonzalez",
-         "fecha":"Friday, August 30",
-         "mensaje_corto":"At the age of 72 years",
-         "se_vela_en":"Calle Zacatecas #1201 Col. Morga.",
-         "honras":"Pendientes",
-         "descripcion":null
-      },
-      {
-         "id":25,
-         "titulo":"",
-         "nombre":"Nicolas",
-         "apellido_paterno":"Quirino",
-         "apellido_materno":"Gurrola",
-         "fecha":"Thursday, August 29",
-         "mensaje_corto":"At the age of 88 years",
-         "se_vela_en":"Calle  Retorno Insurgentes 32 Fracc. Gpe. Vic, Infonavit.",
-         "honras":"11:00 hrs. Templo San Jose Obrero. Se despide en panteón Oriente.",
+         "honras":"13:00 hrs. en Templo San José y se despide en panteón del lugar",
          "descripcion":""
       }
    ]
