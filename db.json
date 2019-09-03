@@ -1,126 +1,102 @@
 {
-   "obituario":[
-      {
-         "id":34,
-         "titulo":"",
-         "nombre":"Diego Alejandro",
-         "apellido_paterno":"Martinez",
-         "apellido_materno":"Marrufo",
-         "fecha":"Lunes 02 de Septiembre",
-         "mensaje_corto":"A la edad de 30 años",
-         "se_vela_en":"Dom. Con. Villa  Montemorelos, Dgo.",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":33,
-         "titulo":"",
-         "nombre":"Martha Alicia",
-         "apellido_paterno":"Renteria",
-         "apellido_materno":"Martinez",
-         "fecha":"Domingo 01 de Septiembre",
-         "mensaje_corto":"A la edad de 59 años",
-         "se_vela_en":"Dom. Con. Guatimape, Nuevo Ideal, Dgo.",
-         "honras":"16:00 hrs. Templo San Miguel Arcangel y se despide en panteón del lugar",
-         "descripcion":""
-      },
-      {
-         "id":32,
-         "titulo":"",
-         "nombre":"Rosa Elva",
-         "apellido_paterno":"Lopez",
-         "apellido_materno":"Atienzo",
-         "fecha":"Domingo 01 de Septiembre",
-         "mensaje_corto":"A la edad de 65 años",
-         "se_vela_en":"Capilla Plata Suc. Dolores del Río",
-         "honras":"15:00 hrs. Templo de Santa Ana y se despide en panteón de Oriente",
-         "descripcion":""
-      },
-      {
-         "id":31,
-         "titulo":"",
-         "nombre":"Maria Yolanda",
-         "apellido_paterno":"Ayala",
-         "apellido_materno":"Andrade",
-         "fecha":"Domingo 01 de Septiembre",
-         "mensaje_corto":"A la edad de 80 años",
-         "se_vela_en":"Capilla Diamante en Suc. Dolores del Río",
-         "honras":"10:00 hrs. Templo De la Asuncion (Maximo Gamiz ) Se traslada a Gualteio, Zac. Honras a las 13:00 hrs. Templo del lugar. Se despide en panteón de Gualterio Zacatecas.",
-         "descripcion":""
-      },
-      {
-         "id":29,
-         "titulo":"",
-         "nombre":"Luciana",
-         "apellido_paterno":"Valdez",
-         "apellido_materno":"Zamarripa",
-         "fecha":"Sábado 31 de Agosto",
-         "mensaje_corto":"A la edad de 59 años",
-         "se_vela_en":"San José del Molino",
-         "honras":"13:00 hrs. en Templo San José y se despide en panteón del lugar",
-         "descripcion":""
-      }
+   "obituario": [
+     {
+       "id": 34,
+       "titulo": "",
+       "nombre": "Diego Alejandro",
+       "apellido_paterno": "Martinez",
+       "apellido_materno": "Marrufo",
+       "fecha": "Lunes 02 de Septiembre",
+       "mensaje_corto": "A la edad de 30 años",
+       "se_vela_en": "Dom. Con. Villa  Montemorelos, Dgo.",
+       "honras": "10.00 hrs. Templo San Jose Obrero. Se despide en panteón de lugar.",
+       "descripcion": ""
+     },
+     {
+       "id": 33,
+       "titulo": "",
+       "nombre": "Martha Alicia",
+       "apellido_paterno": "Renteria",
+       "apellido_materno": "Martinez",
+       "fecha": "Domingo 01 de Septiembre",
+       "mensaje_corto": "A la edad de 59 años",
+       "se_vela_en": "Dom. Con. Guatimape, Nuevo Ideal, Dgo.",
+       "honras": "16:00 hrs. Templo San Miguel Arcangel y se despide en panteón del lugar",
+       "descripcion": ""
+     },
+     {
+       "id": 32,
+       "titulo": "",
+       "nombre": "Rosa Elva",
+       "apellido_paterno": "Lopez",
+       "apellido_materno": "Atienzo",
+       "fecha": "Domingo 01 de Septiembre",
+       "mensaje_corto": "A la edad de 65 años",
+       "se_vela_en": "Capilla Plata Suc. Dolores del Río",
+       "honras": "15:00 hrs. Templo de Santa Ana y se despide en panteón de Oriente",
+       "descripcion": ""
+     },
+     {
+       "id": 31,
+       "titulo": "",
+       "nombre": "Maria Yolanda",
+       "apellido_paterno": "Ayala",
+       "apellido_materno": "Andrade",
+       "fecha": "Domingo 01 de Septiembre",
+       "mensaje_corto": "A la edad de 80 años",
+       "se_vela_en": "Capilla Diamante en Suc. Dolores del Río",
+       "honras": "10:00 hrs. Templo De la Asuncion (Maximo Gamiz ) Se traslada a Gualteio, Zac. Honras a las 13:00 hrs. Templo del lugar. Se despide en panteón de Gualterio Zacatecas.",
+       "descripcion": ""
+     }
    ],
-   "obituario_ingles":[
-      {
-         "id":34,
-         "titulo":"",
-         "nombre":"Diego Alejandro",
-         "apellido_paterno":"Martinez",
-         "apellido_materno":"Marrufo",
-         "fecha":"Monday, September 02",
-         "mensaje_corto":"At the age of 30 years",
-         "se_vela_en":"Dom. Con. Villa  Montemorelos, Dgo.",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":33,
-         "titulo":"",
-         "nombre":"Martha Alicia",
-         "apellido_paterno":"Renteria",
-         "apellido_materno":"Martinez",
-         "fecha":"Sunday, September 01",
-         "mensaje_corto":"At the age of 59 years",
-         "se_vela_en":"Dom. Con. Guatimape, Nuevo Ideal, Dgo.",
-         "honras":"16:00 hrs. Templo San Miguel Arcangel y se despide en panteón del lugar",
-         "descripcion":""
-      },
-      {
-         "id":32,
-         "titulo":"",
-         "nombre":"Rosa Elva",
-         "apellido_paterno":"Lopez",
-         "apellido_materno":"Atienzo",
-         "fecha":"Sunday, September 01",
-         "mensaje_corto":"At the age of 65 years",
-         "se_vela_en":"Capilla Plata Suc. Dolores del Río",
-         "honras":"15:00 hrs. Templo de Santa Ana y se despide en panteón de Oriente",
-         "descripcion":""
-      },
-      {
-         "id":31,
-         "titulo":"",
-         "nombre":"Maria Yolanda",
-         "apellido_paterno":"Ayala",
-         "apellido_materno":"Andrade",
-         "fecha":"Sunday, September 01",
-         "mensaje_corto":"At the age of 80 years",
-         "se_vela_en":"Capilla Diamante en Suc. Dolores del Río",
-         "honras":"10:00 hrs. Templo De la Asuncion (Maximo Gamiz ) Se traslada a Gualteio, Zac. Honras a las 13:00 hrs. Templo del lugar. Se despide en panteón de Gualterio Zacatecas.",
-         "descripcion":""
-      },
-      {
-         "id":29,
-         "titulo":"",
-         "nombre":"Luciana",
-         "apellido_paterno":"Valdez",
-         "apellido_materno":"Zamarripa",
-         "fecha":"Saturday, August 31",
-         "mensaje_corto":"At the age of 59 years",
-         "se_vela_en":"San José del Molino",
-         "honras":"13:00 hrs. en Templo San José y se despide en panteón del lugar",
-         "descripcion":""
-      }
+   "obituario_ingles": [
+     {
+       "id": 34,
+       "titulo": "",
+       "nombre": "Diego Alejandro",
+       "apellido_paterno": "Martinez",
+       "apellido_materno": "Marrufo",
+       "fecha": "Monday, September 02",
+       "mensaje_corto": "At the age of 30 years",
+       "se_vela_en": "Dom. Con. Villa  Montemorelos, Dgo.",
+       "honras": "10.00 hrs. Templo San Jose Obrero. Se despide en panteón de lugar.",
+       "descripcion": ""
+     },
+     {
+       "id": 33,
+       "titulo": "",
+       "nombre": "Martha Alicia",
+       "apellido_paterno": "Renteria",
+       "apellido_materno": "Martinez",
+       "fecha": "Sunday, September 01",
+       "mensaje_corto": "At the age of 59 years",
+       "se_vela_en": "Dom. Con. Guatimape, Nuevo Ideal, Dgo.",
+       "honras": "16:00 hrs. Templo San Miguel Arcangel y se despide en panteón del lugar",
+       "descripcion": ""
+     },
+     {
+       "id": 32,
+       "titulo": "",
+       "nombre": "Rosa Elva",
+       "apellido_paterno": "Lopez",
+       "apellido_materno": "Atienzo",
+       "fecha": "Sunday, September 01",
+       "mensaje_corto": "At the age of 65 years",
+       "se_vela_en": "Capilla Plata Suc. Dolores del Río",
+       "honras": "15:00 hrs. Templo de Santa Ana y se despide en panteón de Oriente",
+       "descripcion": ""
+     },
+     {
+       "id": 31,
+       "titulo": "",
+       "nombre": "Maria Yolanda",
+       "apellido_paterno": "Ayala",
+       "apellido_materno": "Andrade",
+       "fecha": "Sunday, September 01",
+       "mensaje_corto": "At the age of 80 years",
+       "se_vela_en": "Capilla Diamante en Suc. Dolores del Río",
+       "honras": "10:00 hrs. Templo De la Asuncion (Maximo Gamiz ) Se traslada a Gualteio, Zac. Honras a las 13:00 hrs. Templo del lugar. Se despide en panteón de Gualterio Zacatecas.",
+       "descripcion": ""
+     }
    ]
-}
+ }
