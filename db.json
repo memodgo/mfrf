@@ -1,102 +1,150 @@
 {
-   "obituario":[
-      {
-         "id":37,
-         "titulo":"",
-         "nombre":"Enedelina",
-         "apellido_paterno":"Garcia",
-         "apellido_materno":"Navar",
-         "fecha":"Miercoles 04 de Septiembre",
-         "mensaje_corto":"A la edad de 76 años",
-         "se_vela_en":"Capilla Santa Catarina, Tepehuanes, Dgo.",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":36,
-         "titulo":"",
-         "nombre":"Cleofas",
-         "apellido_paterno":"Hernandez",
-         "apellido_materno":"Olguin",
-         "fecha":"Miercoles 04 de Septiembre",
-         "mensaje_corto":"Edad Desconocida",
-         "se_vela_en":"Tepehuanes, Dgo.",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":35,
-         "titulo":"",
-         "nombre":"Sixton",
-         "apellido_paterno":"Rincon",
-         "apellido_materno":"",
-         "fecha":"Miercoles 04 de Septiembre",
-         "mensaje_corto":"A la edad de 62 años",
-         "se_vela_en":"Pendiente",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":34,
-         "titulo":"",
-         "nombre":"Diego Alejandro",
-         "apellido_paterno":"Martinez",
-         "apellido_materno":"Marrufo",
-         "fecha":"Lunes 02 de Septiembre",
-         "mensaje_corto":"A la edad de 30 años",
-         "se_vela_en":"Dom. Con. Villa  Montemorelos, Dgo.",
-         "honras":"10.00 hrs. Templo San Jose Obrero. Se despide en panteón de lugar.",
-         "descripcion":""
-      }
-   ],
-   "obituario_ingles":[
-      {
-         "id":37,
-         "titulo":"",
-         "nombre":"Enedelina",
-         "apellido_paterno":"Garcia",
-         "apellido_materno":"Navar",
-         "fecha":"Wednesday, September 04",
-         "mensaje_corto":"At the age of 76 years",
-         "se_vela_en":"Capilla Santa Catarina, Tepehuanes, Dgo.",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":36,
-         "titulo":"",
-         "nombre":"Cleofas",
-         "apellido_paterno":"Hernandez",
-         "apellido_materno":"Olguin",
-         "fecha":"Wednesday, September 04",
-         "mensaje_corto":"Unknown Age",
-         "se_vela_en":"Tepehuanes, Dgo.",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":35,
-         "titulo":"",
-         "nombre":"Sixton",
-         "apellido_paterno":"Rincon",
-         "apellido_materno":"",
-         "fecha":"Wednesday, September 04",
-         "mensaje_corto":"At the age of 62 years",
-         "se_vela_en":"Pendent",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":34,
-         "titulo":"",
-         "nombre":"Diego Alejandro",
-         "apellido_paterno":"Martinez",
-         "apellido_materno":"Marrufo",
-         "fecha":"Monday, September 02",
-         "mensaje_corto":"At teh age of 30 years",
-         "se_vela_en":"Dom. Con. Villa  Montemorelos, Dgo.",
-         "honras":"10.00 hrs. Templo San Jose Obrero. Se despide en panteón de lugar.",
-         "descripcion":""
-      }
-   ]
+  "obituario": [
+    {
+      "id": 40,
+      "titulo": "",
+      "nombre": "Jorge",
+      "apellido_paterno": "Perez",
+      "apellido_materno": "Monroy",
+      "fecha": "Jueves 05 de Septiembre",
+      "mensaje_corto": "A la edad de 68 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
+      "honras": "16:00 hrs. Templo de Santa Ana y la Sagrada Familia y se despide para su cremación",
+      "descripcion": ""
+    },
+    {
+      "id": 39,
+      "titulo": "",
+      "nombre": "Joel",
+      "apellido_paterno": "Valdez",
+      "apellido_materno": "Alatorre",
+      "fecha": "Jueves 05 de Septiembre",
+      "mensaje_corto": "A la edad de 73 años",
+      "se_vela_en": "Dom. Con. Santa Lucia en la Escuela Normal J. Gpe. Aguilera",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 38,
+      "titulo": "",
+      "nombre": "Fancisco",
+      "apellido_paterno": "de Lara ",
+      "apellido_materno": "Rubio",
+      "fecha": "Jueves 05 de Septiembre",
+      "mensaje_corto": "A la edad de 63 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 37,
+      "titulo": "",
+      "nombre": "Enedelina",
+      "apellido_paterno": "Garcia",
+      "apellido_materno": "Navar",
+      "fecha": "Miercoles 04 de Septiembre",
+      "mensaje_corto": "A la edad de 76 años",
+      "se_vela_en": "Capilla Santa Catarina, Tepehuanes, Dgo.",
+      "honras": "15:00 hrs. Templo Santa Catarina. Se despide en panteón del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 36,
+      "titulo": "",
+      "nombre": "Cleofas",
+      "apellido_paterno": "Hernandez",
+      "apellido_materno": "Olguin",
+      "fecha": "Miercoles 04 de Septiembre",
+      "mensaje_corto": "A la edad de 87 años",
+      "se_vela_en": "Tepehuanes, Dgo.",
+      "honras": "11:00 hrs. Templo Santa Catarina. Se despide en panteón del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 35,
+      "titulo": "",
+      "nombre": "Sixton",
+      "apellido_paterno": "Rincon",
+      "apellido_materno": "",
+      "fecha": "Miercoles 04 de Septiembre",
+      "mensaje_corto": "A la edad de 62 años",
+      "se_vela_en": "Se traslada de Chicago, Illinois. a Durango, Dgo.",
+      "honras": "Sala de velacion y honras pendientes.",
+      "descripcion": ""
+    }
+  ],
+  "obituario_ingles": [
+    {
+      "id": 40,
+      "titulo": "",
+      "nombre": "Jorge",
+      "apellido_paterno": "Perez",
+      "apellido_materno": "Monroy",
+      "fecha": "Thursday, September 05",
+      "mensaje_corto": "At the age of 68 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
+      "honras": "16:00 hrs. Templo de Santa Ana y la Sagrada Familia y se despide para su cremación",
+      "descripcion": ""
+    },
+    {
+      "id": 39,
+      "titulo": "",
+      "nombre": "Joel",
+      "apellido_paterno": "Valdez",
+      "apellido_materno": "Alatorre",
+      "fecha": "Thursday, September 05",
+      "mensaje_corto": "At the age of 73 years",
+      "se_vela_en": "Dom. Con. Santa Lucia en la Escuela Normal J. Gpe. Aguilera",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 38,
+      "titulo": "",
+      "nombre": "Fancisco",
+      "apellido_paterno": "de Lara ",
+      "apellido_materno": "Rubio",
+      "fecha": "Thursday, September 05",
+      "mensaje_corto": "At the age of 63 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 37,
+      "titulo": "",
+      "nombre": "Enedelina",
+      "apellido_paterno": "Garcia",
+      "apellido_materno": "Navar",
+      "fecha": "Wednesday, September 04",
+      "mensaje_corto": "At the age of 76 years",
+      "se_vela_en": "Capilla Santa Catarina, Tepehuanes, Dgo.",
+      "honras": "15:00 hrs. Templo Santa Catarina. Se despide en panteón del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 36,
+      "titulo": "",
+      "nombre": "Cleofas",
+      "apellido_paterno": "Hernandez",
+      "apellido_materno": "Olguin",
+      "fecha": "Wednesday, September 04",
+      "mensaje_corto": "At the age of 87 years",
+      "se_vela_en": "Tepehuanes, Dgo.",
+      "honras": "11:00 hrs. Templo Santa Catarina. Se despide en panteón del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 35,
+      "titulo": "",
+      "nombre": "Sixton",
+      "apellido_paterno": "Rincon",
+      "apellido_materno": "",
+      "fecha": "Wednesday, September 04",
+      "mensaje_corto": "At the age of 62 years",
+      "se_vela_en": "Se traslada de Chicago, Illinois. a Durango, Dgo.",
+      "honras": "Sala de velacion y honras pendientes.",
+      "descripcion": ""
+    }
+  ]
 }
