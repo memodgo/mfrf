@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 41,
+      "titulo": "",
+      "nombre": "Catarino",
+      "apellido_paterno": "Quiñones",
+      "apellido_materno": "Reyes",
+      "fecha": "Jueves 05 de Septiembre",
+      "mensaje_corto": "A la edad de 70 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
+      "honras": "13:00 hrs. Nvo. Santuario de nuestra señora de Guadalupe y se despide para su cremación",
+      "descripcion": ""
+    },
+    {
       "id": 40,
       "titulo": "",
       "nombre": "Jorge",
@@ -27,13 +39,13 @@
     {
       "id": 38,
       "titulo": "",
-      "nombre": "Fancisco",
+      "nombre": "FRancisco",
       "apellido_paterno": "de Lara ",
       "apellido_materno": "Rubio",
       "fecha": "Jueves 05 de Septiembre",
       "mensaje_corto": "A la edad de 63 años",
       "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
-      "honras": "Pendientes",
+      "honras": "15:00 hrs. Templo de Ntra. Señora del Sagrado Corazón(Col. Hipodromo) y se despide en panteón de Oriente",
       "descripcion": ""
     },
     {
@@ -75,6 +87,18 @@
   ],
   "obituario_ingles": [
     {
+      "id": 41,
+      "titulo": "",
+      "nombre": "Catarino",
+      "apellido_paterno": "Quiñones",
+      "apellido_materno": "Reyes",
+      "fecha": "Thursday, September 05",
+      "mensaje_corto": "At the age of 70 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
+      "honras": "13:00 hrs. Nvo. Santuario de nuestra señora de Guadalupe y se despide para su cremación",
+      "descripcion": ""
+    },
+    {
       "id": 40,
       "titulo": "",
       "nombre": "Jorge",
@@ -101,13 +125,13 @@
     {
       "id": 38,
       "titulo": "",
-      "nombre": "Fancisco",
+      "nombre": "FRancisco",
       "apellido_paterno": "de Lara ",
       "apellido_materno": "Rubio",
       "fecha": "Thursday, September 05",
       "mensaje_corto": "At the age of 63 years",
       "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
-      "honras": "Pendents",
+      "honras": "15:00 hrs. Templo de Ntra. Señora del Sagrado Corazón(Col. Hipodromo) y se despide en panteón de Oriente",
       "descripcion": ""
     },
     {
