@@ -1,126 +1,174 @@
 {
-   "obituario":[
-      {
-         "id":43,
-         "titulo":"",
-         "nombre":"Natalia",
-         "apellido_paterno":"Garcia",
-         "apellido_materno":"Mendoza",
-         "fecha":"Viernes 06 de Septiembre",
-         "mensaje_corto":"A la edad de 75 años",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":42,
-         "titulo":"",
-         "nombre":"Ma. Elena",
-         "apellido_paterno":"Hernandez",
-         "apellido_materno":"Sanchez",
-         "fecha":"Viernes 06 de Septiembre",
-         "mensaje_corto":"A la edad de 75 años",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Oro y Plata",
-         "honras":"Pendientes",
-         "descripcion":""
-      },
-      {
-         "id":41,
-         "titulo":"",
-         "nombre":"Catarino",
-         "apellido_paterno":"Quiñones",
-         "apellido_materno":"Reyes",
-         "fecha":"Jueves 05 de Septiembre",
-         "mensaje_corto":"A la edad de 70 años",
-         "se_vela_en":"Suc. Dolores del Rio Capilla Esmeralda posteriormente se retira de capilla a las 17:00 hrs para trasladarse a su domicilio, Calle Zacatecas # 609 Col. Morga.",
-         "honras":"el dia sabado 07/ Sept/ 19 a las 13:00 hrs. Nuevo Santuario de Ntra. Sra. de Guadalupe. Se despide para su cremación.",
-         "descripcion":""
-      },
-      {
-         "id":38,
-         "titulo":"",
-         "nombre":"Francisco",
-         "apellido_paterno":"de Lara ",
-         "apellido_materno":"Rubio",
-         "fecha":"Jueves 05 de Septiembre",
-         "mensaje_corto":"A la edad de 63 años",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
-         "honras":"15:00 hrs. Templo de Ntra. Señora del Sagrado Corazón(Col. Hipodromo) y se despide en panteón de Oriente",
-         "descripcion":""
-      },
-      {
-         "id":35,
-         "titulo":"",
-         "nombre":"Sixton",
-         "apellido_paterno":"Rincon",
-         "apellido_materno":"",
-         "fecha":"Miercoles 04 de Septiembre",
-         "mensaje_corto":"A la edad de 62 años",
-         "se_vela_en":"Se traslada de Chicago, Illinois. a Durango, Dgo.",
-         "honras":"Sala de velacion y honras pendientes.",
-         "descripcion":""
-      }
-   ],
-   "obituario_ingles":[
-      {
-         "id":43,
-         "titulo":"",
-         "nombre":"Natalia",
-         "apellido_paterno":"Garcia",
-         "apellido_materno":"Mendoza",
-         "fecha":"Friday, September 06",
-         "mensaje_corto":"At the age of 75 years",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":42,
-         "titulo":"",
-         "nombre":"Ma. Elena",
-         "apellido_paterno":"Hernandez",
-         "apellido_materno":"Sanchez",
-         "fecha":"Friday, September 06",
-         "mensaje_corto":"At the age of 75 years",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Oro y Plata",
-         "honras":"Pendents",
-         "descripcion":""
-      },
-      {
-         "id":41,
-         "titulo":"",
-         "nombre":"Catarino",
-         "apellido_paterno":"Quiñones",
-         "apellido_materno":"Reyes",
-         "fecha":"Thursday, September 05",
-         "mensaje_corto":"At the age of 70 years",
-         "se_vela_en":"Suc. Dolores del Rio Capilla Esmeralda posteriormente se retira de capilla a las 17:00 hrs para trasladarse a su domicilio, Calle Zacatecas # 609 Col. Morga.",
-         "honras":"el dia sabado 07/ Sept/ 19 a las 13:00 hrs. Nuevo Santuario de Ntra. Sra. de Guadalupe. Se despide para su cremación.",
-         "descripcion":""
-      },
-      {
-         "id":38,
-         "titulo":"",
-         "nombre":"Francisco",
-         "apellido_paterno":"de Lara ",
-         "apellido_materno":"Rubio",
-         "fecha":"Thursday, September 05",
-         "mensaje_corto":"At the age of 63 years",
-         "se_vela_en":"Suc. Dolores del Río en Capilla Diamante",
-         "honras":"15:00 hrs. Templo de Ntra. Señora del Sagrado Corazón(Col. Hipodromo) y se despide en panteón de Oriente",
-         "descripcion":""
-      },
-      {
-         "id":35,
-         "titulo":"",
-         "nombre":"Sixton",
-         "apellido_paterno":"Rincon",
-         "apellido_materno":"",
-         "fecha":"Wednesday, September 04",
-         "mensaje_corto":"At the age of 62 years",
-         "se_vela_en":"Se traslada de Chicago, Illinois. a Durango, Dgo.",
-         "honras":"Chapel and Graveside Ceremoni pendientes.",
-         "descripcion":""
-      }
-   ]
+  "obituario": [
+    {
+      "id": 46,
+      "titulo": "",
+      "nombre": "Micaela",
+      "apellido_paterno": "Jara",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Sabado 07 de Septiembre",
+      "mensaje_corto": "A la edad de 69 años",
+      "se_vela_en": "Se traslada de Durango, Dgo. a Torreón, Coah.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 45,
+      "titulo": "",
+      "nombre": "Juan Antonio",
+      "apellido_paterno": "Arroyo",
+      "apellido_materno": "Gutierrez",
+      "fecha": "Sabado 07 de Septiembre",
+      "mensaje_corto": "A la edad de 65 años",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 44,
+      "titulo": "Srita.",
+      "nombre": "Dulce Samantha",
+      "apellido_paterno": "Gallegos",
+      "apellido_materno": "Gallegos",
+      "fecha": "Sabado 07 de Septiembre",
+      "mensaje_corto": "A la edad de 17 años",
+      "se_vela_en": "Col. Anahuac. Mpio. Canatlan, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 43,
+      "titulo": "",
+      "nombre": "Natalia",
+      "apellido_paterno": "Garcia",
+      "apellido_materno": "Mendoza",
+      "fecha": "Viernes 06 de Septiembre",
+      "mensaje_corto": "A la edad de 75 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+      "honras": "15:00 hrs. Templo Expiatorio Sagrado Corazón de Jesús. Se despide para su cremación.",
+      "descripcion": ""
+    },
+    {
+      "id": 42,
+      "titulo": "",
+      "nombre": "Ma. Elena",
+      "apellido_paterno": "Hernandez",
+      "apellido_materno": "Sanchez",
+      "fecha": "Viernes 06 de Septiembre",
+      "mensaje_corto": "A la edad de 75 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Oro y Plata",
+      "honras": "14:00 hrs. Templo Ntra. Sra. del Sagrado Corazón. Se despide en panteón Oriente.",
+      "descripcion": ""
+    },
+    {
+      "id": 41,
+      "titulo": "",
+      "nombre": "Catarino",
+      "apellido_paterno": "Quiñones",
+      "apellido_materno": "Reyes",
+      "fecha": "Jueves 05 de Septiembre",
+      "mensaje_corto": "A la edad de 70 años",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Esmeralda posteriormente se retira de capilla a las 17:00 hrs para trasladarse a su domicilio, Calle Zacatecas # 609 Col. Morga.",
+      "honras": "el dia sabado 07/ Sept/ 19 a las 13:00 hrs. Nuevo Santuario de Ntra. Sra. de Guadalupe. Se despide para su cremación.",
+      "descripcion": ""
+    },
+    {
+      "id": 35,
+      "titulo": "",
+      "nombre": "Sixton",
+      "apellido_paterno": "Rincon",
+      "apellido_materno": "",
+      "fecha": "Miercoles 04 de Septiembre",
+      "mensaje_corto": "A la edad de 62 años",
+      "se_vela_en": "Se traslada de Chicago, Illinois. a Durango, Dgo.",
+      "honras": "Sala de velacion y honras pendientes.",
+      "descripcion": ""
+    }
+  ],
+  "obituario_ingles": [
+    {
+      "id": 46,
+      "titulo": "",
+      "nombre": "Micaela",
+      "apellido_paterno": "Jara",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Saturday, September 07",
+      "mensaje_corto": "At the age of 69 years",
+      "se_vela_en": "Se traslada de Durango, Dgo. a Torreón, Coah.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 45,
+      "titulo": "",
+      "nombre": "Juan Antonio",
+      "apellido_paterno": "Arroyo",
+      "apellido_materno": "Gutierrez",
+      "fecha": "Saturday, September 07",
+      "mensaje_corto": "At the age of 65 years",
+      "se_vela_en": "Pendent",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 44,
+      "titulo": "Srita.",
+      "nombre": "Dulce Samantha",
+      "apellido_paterno": "Gallegos",
+      "apellido_materno": "Gallegos",
+      "fecha": "Saturday, September 07",
+      "mensaje_corto": "At the age of 17 years",
+      "se_vela_en": "Col. Anahuac. Mpio. Canatlan, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 43,
+      "titulo": "",
+      "nombre": "Natalia",
+      "apellido_paterno": "Garcia",
+      "apellido_materno": "Mendoza",
+      "fecha": "Friday, September 06",
+      "mensaje_corto": "At the age of 75 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+      "honras": "15:00 hrs. Templo Expiatorio Sagrado Corazón de Jesús. Se despide para su cremación.",
+      "descripcion": ""
+    },
+    {
+      "id": 42,
+      "titulo": "",
+      "nombre": "Ma. Elena",
+      "apellido_paterno": "Hernandez",
+      "apellido_materno": "Sanchez",
+      "fecha": "Friday, September 06",
+      "mensaje_corto": "At the age of 75 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Oro y Plata",
+      "honras": "14:00 hrs. Templo Ntra. Sra. del Sagrado Corazón. Se despide en panteón Oriente.",
+      "descripcion": ""
+    },
+    {
+      "id": 41,
+      "titulo": "",
+      "nombre": "Catarino",
+      "apellido_paterno": "Quiñones",
+      "apellido_materno": "Reyes",
+      "fecha": "Thursday, September 05",
+      "mensaje_corto": "At the age of 70 years",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Esmeralda posteriormente se retira de capilla a las 17:00 hrs para trasladarse a su domicilio, Calle Zacatecas # 609 Col. Morga.",
+      "honras": "el dia sabado 07/ Sept/ 19 a las 13:00 hrs. Nuevo Santuario de Ntra. Sra. de Guadalupe. Se despide para su cremación.",
+      "descripcion": ""
+    },
+    {
+      "id": 35,
+      "titulo": "",
+      "nombre": "Sixton",
+      "apellido_paterno": "Rincon",
+      "apellido_materno": "",
+      "fecha": "Wednesday, September 04",
+      "mensaje_corto": "At the age of Wednesday years",
+      "se_vela_en": "Se traslada de Chicago, Illinois. a Durango, Dgo.",
+      "honras": "Sala de velacion y honras pendientes.",
+      "descripcion": ""
+    }
+  ]
 }
