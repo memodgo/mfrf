@@ -1,174 +1,78 @@
 {
-   "obituario": [
-     {
-       "id": 53,
-       "titulo": "",
-       "nombre": "Seferino",
-       "apellido_paterno": "Palacios",
-       "apellido_materno": "Contreras",
-       "fecha": "Lunes 09 de Septiembre",
-       "mensaje_corto": "A la edad de 58 años",
-       "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
-       "honras": "Pendientes",
-       "descripcion": ""
-     },
-     {
-       "id": 52,
-       "titulo": "",
-       "nombre": "Miguel Angel",
-       "apellido_paterno": "Lechuga",
-       "apellido_materno": "Aragon",
-       "fecha": "Lunes 09 de Septiembre",
-       "mensaje_corto": "A la edad de 73 años",
-       "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-       "honras": "12:00 hrs. PArroquia de Santa Ana y se despide para su cremación.",
-       "descripcion": ""
-     },
-     {
-       "id": 51,
-       "titulo": "",
-       "nombre": "Jesus",
-       "apellido_paterno": "Terrones",
-       "apellido_materno": "Rodriguez",
-       "fecha": "Lunes 09 de Septiembre",
-       "mensaje_corto": "A la edad de 79 años",
-       "se_vela_en": "Dom. Con. Veracruz, Mpio. de Poanas, Dgo.",
-       "honras": "15:00 hrs. Templo San Antonio Abad y se despide en panteón del lugar",
-       "descripcion": ""
-     },
-     {
-       "id": 50,
-       "titulo": "",
-       "nombre": "Jose Luis",
-       "apellido_paterno": "Ibarra",
-       "apellido_materno": "Salcido",
-       "fecha": "Lunes 09 de Septiembre",
-       "mensaje_corto": "A la edad de 64 años",
-       "se_vela_en": "Calle Molino del Rey #403 Col. Niños Héroes.",
-       "honras": "16:00 hrs. Templo Ntra. Sra.de Guadalupe (viejo) y se despide en panteón Residencial Flores",
-       "descripcion": ""
-     },
-     {
-       "id": 49,
-       "titulo": "Niño",
-       "nombre": "Brandon Giovani",
-       "apellido_paterno": "Salmeron",
-       "apellido_materno": "Ruiz",
-       "fecha": "Lunes 09 de Septiembre",
-       "mensaje_corto": "A la edad de 9 años",
-       "se_vela_en": "Calle Casa Redonda #109 Col. San Martin de Porres",
-       "honras": "15:00 hrs. Parroquia de Santa Ana y de la Sagrada Familia y se despide en panteón de Oriente.",
-       "descripcion": ""
-     },
-     {
-       "id": 48,
-       "titulo": "",
-       "nombre": "Rosalio",
-       "apellido_paterno": "Meraz",
-       "apellido_materno": "Rodriguez",
-       "fecha": "Lunes 09 de Septiembre",
-       "mensaje_corto": "A la edad de 73 años",
-       "se_vela_en": "Dom. Con. Nuevo San Diego de Tenzaens, (el cabalo), Santiago Papasquiaro, Dgo.",
-       "honras": "14:00 hrs. Templo San Martín Caballero y se despide en panteón del lugar",
-       "descripcion": ""
-     },
-     {
-       "id": 47,
-       "titulo": "",
-       "nombre": "Serafino",
-       "apellido_paterno": "Palacios",
-       "apellido_materno": "Contreras",
-       "fecha": "Lunes 09 de Septiembre",
-       "mensaje_corto": "A la edad de 58 años",
-       "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
-       "honras": "Pendientes",
-       "descripcion": ""
-     }
-   ],
-   "obituario_ingles": [
-     {
-       "id": 53,
-       "titulo": "",
-       "nombre": "Seferino",
-       "apellido_paterno": "Palacios",
-       "apellido_materno": "Contreras",
-       "fecha": "Monday, September 09",
-       "mensaje_corto": "At the age of 58 years",
-       "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
-       "honras": "Pendents",
-       "descripcion": ""
-     },
-     {
-       "id": 52,
-       "titulo": "",
-       "nombre": "Miguel Angel",
-       "apellido_paterno": "Lechuga",
-       "apellido_materno": "Aragon",
-       "fecha": "Monday, September 09",
-       "mensaje_corto": "At the age of 73 years",
-       "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-       "honras": "12:00 hrs. PArroquia de Santa Ana y se despide para su cremación.",
-       "descripcion": ""
-     },
-     {
-       "id": 51,
-       "titulo": "",
-       "nombre": "Jesus",
-       "apellido_paterno": "Terrones",
-       "apellido_materno": "Rodriguez",
-       "fecha": "Monday, September 09",
-       "mensaje_corto": "At the age of 79 years",
-       "se_vela_en": "Dom. Con. Veracruz, Mpio. de Poanas, Dgo.",
-       "honras": "15:00 hrs. Templo San Antonio Abad y se despide en panteón del lugar",
-       "descripcion": ""
-     },
-     {
-       "id": 50,
-       "titulo": "",
-       "nombre": "Jose Luis",
-       "apellido_paterno": "Ibarra",
-       "apellido_materno": "Salcido",
-       "fecha": "Monday, September 09",
-       "mensaje_corto": "At the age of 64 years",
-       "se_vela_en": "Calle Molino del Rey #403 Col. Niños Héroes.",
-       "honras": "16:00 hrs. Templo Ntra. Sra.de Guadalupe (viejo) y se despide en panteón Residencial Flores",
-       "descripcion": ""
-     },
-     {
-       "id": 49,
-       "titulo": "Niño",
-       "nombre": "Brandon Giovani",
-       "apellido_paterno": "Salmeron",
-       "apellido_materno": "Ruiz",
-       "fecha": "Monday, September 09",
-       "mensaje_corto": "At the age of 9 years",
-       "se_vela_en": "Calle Casa Redonda #109 Col. San Martin de Porres",
-       "honras": "15:00 hrs. Parroquia de Santa Ana y de la Sagrada Familia y se despide en panteón de Oriente.",
-       "descripcion": ""
-     },
-     {
-       "id": 48,
-       "titulo": "",
-       "nombre": "Rosalio",
-       "apellido_paterno": "Meraz",
-       "apellido_materno": "Rodriguez",
-       "fecha": "Monday, September 09",
-       "mensaje_corto": "At the age of 73 years",
-       "se_vela_en": "Dom. Con. Nuevo San Diego de Tenzaens, (el cabalo), Santiago Papasquiaro, Dgo.",
-       "honras": "14:00 hrs. Templo San Martín Caballero y se despide en panteón del lugar",
-       "descripcion": ""
-     },
-     {
-       "id": 47,
-       "titulo": "",
-       "nombre": "Serafino",
-       "apellido_paterno": "Palacios",
-       "apellido_materno": "Contreras",
-       "fecha": "Monday, September 09",
-       "mensaje_corto": "At the age of 58 years",
-       "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
-       "honras": "Pendents",
-       "descripcion": ""
-     }
-   ]
- }
+  "obituario": [
+    {
+      "id": 54,
+      "titulo": "",
+      "nombre": "Rafael",
+      "apellido_paterno": "Abrego",
+      "apellido_materno": "",
+      "fecha": "Martes 10 de Septiembre",
+      "mensaje_corto": "A la edad de 70 años",
+      "se_vela_en": "Dom. Con. Guatimape, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 48,
+      "titulo": "",
+      "nombre": "Rosalio",
+      "apellido_paterno": "Meraz",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Lunes 09 de Septiembre",
+      "mensaje_corto": "A la edad de 73 años",
+      "se_vela_en": "Dom. Con. Nuevo San Diego de Tenzaens, (el cabalo), Santiago Papasquiaro, Dgo.",
+      "honras": "14:00 hrs. Templo San Martín Caballero y se despide en panteón del lugar",
+      "descripcion": ""
+    },
+    {
+      "id": 47,
+      "titulo": "",
+      "nombre": "Serafino",
+      "apellido_paterno": "Palacios",
+      "apellido_materno": "Contreras",
+      "fecha": "Lunes 09 de Septiembre",
+      "mensaje_corto": "A la edad de 58 años",
+      "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
+      "honras": "Hora de las honras aun pendiente. Templo Sagrado Corazón de Jesús. Se despide en panteón del lugar.",
+      "descripcion": ""
+    }
+  ],
+  "obituario_ingles": [
+    {
+      "id": 54,
+      "titulo": "",
+      "nombre": "Rafael",
+      "apellido_paterno": "Abrego",
+      "apellido_materno": "",
+      "fecha": "Tuesday, September 10",
+      "mensaje_corto": "At the age of 70 years",
+      "se_vela_en": "Dom. Con. Guatimape, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 48,
+      "titulo": "",
+      "nombre": "Rosalio",
+      "apellido_paterno": "Meraz",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Monday, September 09",
+      "mensaje_corto": "At the age of 73 years",
+      "se_vela_en": "Dom. Con. Nuevo San Diego de Tenzaens, (el cabalo), Santiago Papasquiaro, Dgo.",
+      "honras": "14:00 hrs. Templo San Martín Caballero y se despide en panteón del lugar",
+      "descripcion": ""
+    },
+    {
+      "id": 47,
+      "titulo": "",
+      "nombre": "Serafino",
+      "apellido_paterno": "Palacios",
+      "apellido_materno": "Contreras",
+      "fecha": "Monday, September 09",
+      "mensaje_corto": "At the age of 58 years",
+      "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
+      "honras": "Hora de las honras aun pendiente. Templo Sagrado Corazón de Jesús. Se despide en panteón del lugar.",
+      "descripcion": ""
+    }
+  ]
+}
