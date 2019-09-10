@@ -1,6 +1,18 @@
 {
    "obituario": [
      {
+       "id": 53,
+       "titulo": "",
+       "nombre": "Seferino",
+       "apellido_paterno": "Palacios",
+       "apellido_materno": "Contreras",
+       "fecha": "Lunes 09 de Septiembre",
+       "mensaje_corto": "A la edad de 58 años",
+       "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
+       "honras": "Pendientes",
+       "descripcion": ""
+     },
+     {
        "id": 52,
        "titulo": "",
        "nombre": "Miguel Angel",
@@ -57,7 +69,7 @@
        "fecha": "Lunes 09 de Septiembre",
        "mensaje_corto": "A la edad de 73 años",
        "se_vela_en": "Dom. Con. Nuevo San Diego de Tenzaens, (el cabalo), Santiago Papasquiaro, Dgo.",
-       "honras": "Martes 10 de Septiembre a las 14:00 hrs. Templo San Martín Caballero y se despide en panteón del lugar",
+       "honras": "14:00 hrs. Templo San Martín Caballero y se despide en panteón del lugar",
        "descripcion": ""
      },
      {
@@ -74,6 +86,18 @@
      }
    ],
    "obituario_ingles": [
+     {
+       "id": 53,
+       "titulo": "",
+       "nombre": "Seferino",
+       "apellido_paterno": "Palacios",
+       "apellido_materno": "Contreras",
+       "fecha": "Monday, September 09",
+       "mensaje_corto": "At the age of 58 years",
+       "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
+       "honras": "Pendents",
+       "descripcion": ""
+     },
      {
        "id": 52,
        "titulo": "",
@@ -131,7 +155,7 @@
        "fecha": "Monday, September 09",
        "mensaje_corto": "At the age of 73 years",
        "se_vela_en": "Dom. Con. Nuevo San Diego de Tenzaens, (el cabalo), Santiago Papasquiaro, Dgo.",
-       "honras": "Martes 10 de Septiembre a las 14:00 hrs. Templo San Martín Caballero y se despide en panteón del lugar",
+       "honras": "14:00 hrs. Templo San Martín Caballero y se despide en panteón del lugar",
        "descripcion": ""
      },
      {
