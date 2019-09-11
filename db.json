@@ -9,31 +9,19 @@
       "fecha": "Martes 10 de Septiembre",
       "mensaje_corto": "A la edad de 70 años",
       "se_vela_en": "Dom. Con. Guatimape, Dgo.",
-      "honras": "Pendientes",
+      "honras": "14:00 hrs. Templo San Miguel Arcángel. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
-      "id": 48,
+      "id": 53,
       "titulo": "",
-      "nombre": "Rosalio",
-      "apellido_paterno": "Meraz",
-      "apellido_materno": "Rodriguez",
-      "fecha": "Lunes 09 de Septiembre",
-      "mensaje_corto": "A la edad de 73 años",
-      "se_vela_en": "Dom. Con. Nuevo San Diego de Tenzaens, (el cabalo), Santiago Papasquiaro, Dgo.",
-      "honras": "14:00 hrs. Templo San Martín Caballero y se despide en panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": 47,
-      "titulo": "",
-      "nombre": "Serafino",
+      "nombre": "Seferino",
       "apellido_paterno": "Palacios",
       "apellido_materno": "Contreras",
       "fecha": "Lunes 09 de Septiembre",
       "mensaje_corto": "A la edad de 58 años",
       "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
-      "honras": "Hora de las honras aun pendiente. Templo Sagrado Corazón de Jesús. Se despide en panteón del lugar.",
+      "honras": "16:00 hrs. Templo Sagrado Corazón de Jesús. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ],
@@ -47,31 +35,19 @@
       "fecha": "Tuesday, September 10",
       "mensaje_corto": "At the age of 70 years",
       "se_vela_en": "Dom. Con. Guatimape, Dgo.",
-      "honras": "Pendents",
+      "honras": "14:00 hrs. Templo San Miguel Arcángel. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
-      "id": 48,
+      "id": 53,
       "titulo": "",
-      "nombre": "Rosalio",
-      "apellido_paterno": "Meraz",
-      "apellido_materno": "Rodriguez",
-      "fecha": "Monday, September 09",
-      "mensaje_corto": "At the age of 73 years",
-      "se_vela_en": "Dom. Con. Nuevo San Diego de Tenzaens, (el cabalo), Santiago Papasquiaro, Dgo.",
-      "honras": "14:00 hrs. Templo San Martín Caballero y se despide en panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": 47,
-      "titulo": "",
-      "nombre": "Serafino",
+      "nombre": "Seferino",
       "apellido_paterno": "Palacios",
       "apellido_materno": "Contreras",
       "fecha": "Monday, September 09",
       "mensaje_corto": "At the age of 58 years",
       "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
-      "honras": "Hora de las honras aun pendiente. Templo Sagrado Corazón de Jesús. Se despide en panteón del lugar.",
+      "honras": "16:00 hrs. Templo Sagrado Corazón de Jesús. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ]
