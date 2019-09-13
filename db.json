@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 56,
+      "titulo": "",
+      "nombre": "Jose",
+      "apellido_paterno": "Gomez",
+      "apellido_materno": "Herrera",
+      "fecha": "Jueves 12 de Septiembre",
+      "mensaje_corto": "A la edad de 96 años",
+      "se_vela_en": "Dom. Con. Meza del Navar, Tepehuanes, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 55,
+      "titulo": "",
+      "nombre": "Martha Azucena",
+      "apellido_paterno": "Rodriguez",
+      "apellido_materno": "Sanchez",
+      "fecha": "Jueves 12 de Septiembre",
+      "mensaje_corto": "A la edad de 35 años",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Esmeralda",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 54,
       "titulo": "",
       "nombre": "Rafael",
@@ -11,43 +35,43 @@
       "se_vela_en": "Dom. Con. Guatimape, Dgo.",
       "honras": "14:00 hrs. Templo San Miguel Arcángel. Se despide en panteón del lugar.",
       "descripcion": ""
-    },
-    {
-      "id": 53,
-      "titulo": "",
-      "nombre": "Seferino",
-      "apellido_paterno": "Palacios",
-      "apellido_materno": "Contreras",
-      "fecha": "Lunes 09 de Septiembre",
-      "mensaje_corto": "A la edad de 58 años",
-      "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
-      "honras": "16:00 hrs. Templo Sagrado Corazón de Jesús. Se despide en panteón del lugar.",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 56,
+      "titulo": "",
+      "nombre": "Jose",
+      "apellido_paterno": "Gomez",
+      "apellido_materno": "Herrera",
+      "fecha": "Thursday, September 12",
+      "mensaje_corto": "At the age of 96 years",
+      "se_vela_en": "Dom. Con. Meza del Navar, Tepehuanes, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 55,
+      "titulo": "",
+      "nombre": "Martha Azucena",
+      "apellido_paterno": "Rodriguez",
+      "apellido_materno": "Sanchez",
+      "fecha": "Thursday, September 12",
+      "mensaje_corto": "At the age of 35 years",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Esmeralda",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
     {
       "id": 54,
       "titulo": "",
       "nombre": "Rafael",
       "apellido_paterno": "Abrego",
       "apellido_materno": "",
-      "fecha": "Tuesday, September 10",
+      "fecha": "Wednesday, September 11",
       "mensaje_corto": "At the age of 70 years",
       "se_vela_en": "Dom. Con. Guatimape, Dgo.",
       "honras": "14:00 hrs. Templo San Miguel Arcángel. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 53,
-      "titulo": "",
-      "nombre": "Seferino",
-      "apellido_paterno": "Palacios",
-      "apellido_materno": "Contreras",
-      "fecha": "Monday, September 09",
-      "mensaje_corto": "At the age of 58 years",
-      "se_vela_en": "Calle San Benito Juarez s/n Col. Hidalgo",
-      "honras": "16:00 hrs. Templo Sagrado Corazón de Jesús. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ]
