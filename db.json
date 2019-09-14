@@ -1,28 +1,28 @@
 {
   "obituario": [
     {
-      "id": 61,
+      "id": 63,
       "titulo": "",
-      "nombre": "Miguel",
-      "apellido_paterno": "Galvez",
-      "apellido_materno": "Meza",
-      "fecha": "Viernes 13 de Septiembre",
-      "mensaje_corto": "A la edad de 86 años",
-      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
-      "honras": " 13:00 hrs. Templo Ntra. Sra. de Fatima. Se despide para su cremación.",
-      "descripcion": ""
+      "nombre": "Maria",
+      "apellido_paterno": "Montoya",
+      "apellido_materno": "Palafox",
+      "fecha": "Sábado 14 de  Septiembre",
+      "mensaje_corto": "A la edad de 87 años",
+      "se_vela_en": "Nocolas Bravo 302 Col. España",
+      "honras": "17:00 hrs Templo Santo Santiago Apostol Se despide en panteon los Nogales",
+      "descripcion": null
     },
     {
-      "id": 60,
+      "id": 62,
       "titulo": "",
-      "nombre": "Estela",
-      "apellido_paterno": "Herrera",
-      "apellido_materno": "Rojas",
-      "fecha": "Viernes 13 de Septiembre",
-      "mensaje_corto": "A la edad de 85 años",
-      "se_vela_en": "Calle Madereros #310 Fracc. Fidel Velazquez I.",
-      "honras": "15:00 hrs. Templo San Jose y la Sagrada Familia. Se despide en panteón Oriente.",
-      "descripcion": ""
+      "nombre": "Ileana",
+      "apellido_paterno": "Vargas",
+      "apellido_materno": "Aguilera",
+      "fecha": "Sábado 14 de  Septiembre",
+      "mensaje_corto": "A la edad de 46 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
+      "honras": "Pendientes",
+      "descripcion": null
     },
     {
       "id": 59,
@@ -57,58 +57,34 @@
       "fecha": "Viernes 13 de Septiembre",
       "mensaje_corto": "A la edad de 75 años",
       "se_vela_en": "Suc. Dolores del Río en Capilla Oro y Plata a las 11:00 a.m.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 56,
-      "titulo": "",
-      "nombre": "Jose",
-      "apellido_paterno": "Gomez",
-      "apellido_materno": "Herrera",
-      "fecha": "Jueves 12 de Septiembre",
-      "mensaje_corto": "A la edad de 96 años",
-      "se_vela_en": "Dom. Con. Meza del Navar, Tepehuanes, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 55,
-      "titulo": "",
-      "nombre": "Martha Azucena",
-      "apellido_paterno": "Rodriguez",
-      "apellido_materno": "Sanchez",
-      "fecha": "Jueves 12 de Septiembre",
-      "mensaje_corto": "A la edad de 35 años",
-      "se_vela_en": "Suc. Dolores del Rio Capilla Esmeralda",
-      "honras": "Discurso Bíblico misma Capilla Esmeralda a las 15:00 hrs. Se despide para su cremación.",
+      "honras": "16:00 hrs Catedral Basilica Menor Se despide en panteon de oriente",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 61,
+      "id": 63,
       "titulo": "",
-      "nombre": "Miguel",
-      "apellido_paterno": "Galvez",
-      "apellido_materno": "Meza",
-      "fecha": "Friday, September 13",
-      "mensaje_corto": "At the age of 86 years",
-      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
-      "honras": " 13:00 hrs. Templo Ntra. Sra. de Fatima. Se despide para su cremación.",
+      "nombre": "Maria",
+      "apellido_paterno": "Montoya",
+      "apellido_materno": "Palafox",
+      "fecha": "Saturday, September 14",
+      "mensaje_corto": "At the age of 87 years",
+      "se_vela_en": "Nocolas Bravo 302 Col. España",
+      "honras": "17:00 hrs Templo Santo Santiago Apostol Se despide en panteon los Nogales",
       "descripcion": ""
     },
     {
-      "id": 60,
+      "id": 62,
       "titulo": "",
-      "nombre": "Estela",
-      "apellido_paterno": "Herrera",
-      "apellido_materno": "Rojas",
-      "fecha": "Friday, September 13",
-      "mensaje_corto": "At the age of 85 years",
-      "se_vela_en": "Calle Madereros #310 Fracc. Fidel Velazquez I.",
-      "honras": "15:00 hrs. Templo San Jose y la Sagrada Familia. Se despide en panteón Oriente.",
-      "descripcion": ""
+      "nombre": "Ileana",
+      "apellido_paterno": "Vargas",
+      "apellido_materno": "Aguilera",
+      "fecha": "Saturday, September 14",
+      "mensaje_corto": "At the age of 46 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
+      "honras": "Pendents",
+      "descripcion": null
     },
     {
       "id": 59,
@@ -131,7 +107,7 @@
       "fecha": "Friday, September 13",
       "mensaje_corto": "At the age of 84 years",
       "se_vela_en": "Suc.  Dolores del Río Capilla Plata y Se traslada hoy a las 10:00 a.m. a Guanacevi, Dgo.",
-      "honras": "Pendientes",
+      "honras": "Pendents",
       "descripcion": ""
     },
     {
@@ -141,33 +117,9 @@
       "apellido_paterno": "Ceballos",
       "apellido_materno": "Cisneros",
       "fecha": "Friday, September 13",
-      "mensaje_corto": "At the age of 75 years",
+      "mensaje_corto": "At the age of 84 years",
       "se_vela_en": "Suc. Dolores del Río en Capilla Oro y Plata a las 11:00 a.m.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 56,
-      "titulo": "",
-      "nombre": "Jose",
-      "apellido_paterno": "Gomez",
-      "apellido_materno": "Herrera",
-      "fecha": "Thursday, September 12",
-      "mensaje_corto": "At the age of 96 years",
-      "se_vela_en": "Dom. Con. Meza del Navar, Tepehuanes, Dgo.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 55,
-      "titulo": "",
-      "nombre": "Martha Azucena",
-      "apellido_paterno": "Rodriguez",
-      "apellido_materno": "Sanchez",
-      "fecha": "Thursday, September 12",
-      "mensaje_corto": "At the age of 35 years",
-      "se_vela_en": "Suc. Dolores del Rio Capilla Esmeralda",
-      "honras": "Discurso Bíblico misma Capilla Esmeralda a las 15:00 hrs. Se despide para su cremación.",
+      "honras": "16:00 hrs Catedral Basilica Menor Se despide en panteon de oriente",
       "descripcion": ""
     }
   ]
