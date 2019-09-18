@@ -1,39 +1,51 @@
 {
   "obituario": [
     {
-      "id": 71,
+      "id": 74,
       "titulo": "",
       "nombre": "Guadalupe",
-      "apellido_paterno": "Rocha",
-      "apellido_materno": "Raymundo",
-      "fecha": "Lunes 16 de Septiembre",
-      "mensaje_corto": "A la edad de 81 años",
-      "se_vela_en": "Calle Francisco Villa #51, San Juan del Río.",
-      "honras": "16:00 hrs Templo San Francisco de Asis Se despide en panteón del lugar",
+      "apellido_paterno": "Gonzales",
+      "apellido_materno": "Barajas",
+      "fecha": "Miercoles 18 de Agosto",
+      "mensaje_corto": "A la edad de 82 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 73,
+      "titulo": "Niño",
+      "nombre": "Javier Alexis",
+      "apellido_paterno": "Velazquez",
+      "apellido_materno": "Vazquez",
+      "fecha": "Miercoles 18 de Agosto",
+      "mensaje_corto": "A la edad de 2 años",
+      "se_vela_en": "Funeraria Municipal de Nombre de Dios, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 72,
+      "titulo": "Profesor",
+      "nombre": "Lucas",
+      "apellido_paterno": "Sariñana",
+      "apellido_materno": "Castañeda",
+      "fecha": "Miercoles 18 de Agosto",
+      "mensaje_corto": "A la edad de 56 años",
+      "se_vela_en": "Rodeo, Dgo.",
+      "honras": "Pendientes",
       "descripcion": ""
     },
     {
       "id": 70,
       "titulo": "",
-      "nombre": "Carmen",
+      "nombre": "Mari del Carmen",
       "apellido_paterno": "Espinoza",
       "apellido_materno": "Torres",
       "fecha": "Lunes 16 de Septiembre",
       "mensaje_corto": "A la edad de 74 años",
       "se_vela_en": "Calle Revolucion esq con 10 de Febrero Col. Mexico",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 69,
-      "titulo": "",
-      "nombre": "Miguel Angel",
-      "apellido_paterno": "Huerta",
-      "apellido_materno": "Guerrero",
-      "fecha": "Lunes 16 de Septiembre",
-      "mensaje_corto": "A la edad de 73 años",
-      "se_vela_en": "Calle 22 de Noviembre #107 Col. Jose Revueltas",
-      "honras": "12:00 hrs  Templo San Antonio de Padua Se despide en panteón del poblado Donato Guerra",
+      "honras": "16.00 hrs. Templo Sagrado Corazón de Lerdo de Tejada. Se despide en panteón de lerdo",
       "descripcion": ""
     },
     {
@@ -45,7 +57,7 @@
       "fecha": "Lunes 16 de Septiembre",
       "mensaje_corto": "A la edad de 70 años",
       "se_vela_en": "Poblado 18 de Agosto, Poanas, Dgo.",
-      "honras": "Pendientes",
+      "honras": "10.00 a.m. Templo Sagrado Corazón de Jesús. (se regresa al domicilio) Se despide en panteón del lugar a las 17:00  hrs.",
       "descripcion": ""
     },
     {
@@ -57,45 +69,57 @@
       "fecha": "Domingo 15 de Septiembre",
       "mensaje_corto": "A la edad de 72 años",
       "se_vela_en": "Ricardo Lirios #505 Col. Los Agaves",
-      "honras": "Pendientes",
+      "honras": "15:00 hrs. Templo Santa Teresita del Niño Jesús. Se despide en panteón Oriente",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 71,
+      "id": 74,
       "titulo": "",
       "nombre": "Guadalupe",
-      "apellido_paterno": "Rocha",
-      "apellido_materno": "Raymundo",
-      "fecha": "Monday, September 16",
-      "mensaje_corto": "At the age of 81 years",
-      "se_vela_en": "Calle Francisco Villa #51, San Juan del Río.",
-      "honras": "16:00 hrs Templo San Francisco de Asis Se despide en panteón del lugar",
+      "apellido_paterno": "Gonzales",
+      "apellido_materno": "Barajas",
+      "fecha": "Wednesday, September 18",
+      "mensaje_corto": "At the age of 82 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 73,
+      "titulo": "Niño",
+      "nombre": "Javier Alexis",
+      "apellido_paterno": "Velazquez",
+      "apellido_materno": "Vazquez",
+      "fecha": "Wednesday, September 18",
+      "mensaje_corto": "At the age of 2 years",
+      "se_vela_en": "Funeraria Municipal de Nombre de Dios, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 72,
+      "titulo": "Profesor",
+      "nombre": "Lucas",
+      "apellido_paterno": "Sariñana",
+      "apellido_materno": "Castañeda",
+      "fecha": "Wednesday, September 18",
+      "mensaje_corto": "At the age of 56 years",
+      "se_vela_en": "Rodeo, Dgo.",
+      "honras": "Pendientes",
       "descripcion": ""
     },
     {
       "id": 70,
       "titulo": "",
-      "nombre": "Carmen",
+      "nombre": "Mari del Carmen",
       "apellido_paterno": "Espinoza",
       "apellido_materno": "Torres",
       "fecha": "Monday, September 16",
       "mensaje_corto": "At the age of 74 years",
       "se_vela_en": "Calle Revolucion esq con 10 de Febrero Col. Mexico",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 69,
-      "titulo": "",
-      "nombre": "Miguel Angel",
-      "apellido_paterno": "Huerta",
-      "apellido_materno": "Guerrero",
-      "fecha": "Monday, September 16",
-      "mensaje_corto": "At the age of 73 years",
-      "se_vela_en": "Calle 22 de Noviembre #107 Col. Jose Revueltas",
-      "honras": "12:00 hrs  Templo San Antonio de Padua Se despide en panteón del poblado Donato Guerra",
+      "honras": "16.00 hrs. Templo Sagrado Corazón de Lerdo de Tejada. Se despide en panteón de lerdo",
       "descripcion": ""
     },
     {
@@ -107,7 +131,7 @@
       "fecha": "Monday, September 16",
       "mensaje_corto": "At the age of 70 years",
       "se_vela_en": "Poblado 18 de Agosto, Poanas, Dgo.",
-      "honras": "Pendientes",
+      "honras": "10.00 a.m. Templo Sagrado Corazón de Jesús. (se regresa al domicilio) Se despide en panteón del lugar a las 17:00  hrs.",
       "descripcion": ""
     },
     {
@@ -119,7 +143,7 @@
       "fecha": "Sunday, September 15",
       "mensaje_corto": "At the age of 72 years",
       "se_vela_en": "Ricardo Lirios #505 Col. Los Agaves",
-      "honras": "Pendientes",
+      "honras": "15:00 hrs. Templo Santa Teresita del Niño Jesús. Se despide en panteón Oriente",
       "descripcion": ""
     }
   ]
