@@ -1,14 +1,14 @@
 {
   "obituario": [
     {
-      "id": 87,
+      "id": 88,
       "titulo": "",
-      "nombre": "Graciela",
-      "apellido_paterno": "Torres",
-      "apellido_materno": "Vargas",
-      "fecha": "Lunes 23 de Septiembre",
-      "mensaje_corto": "A la edad de 75 años",
-      "se_vela_en": "Capilla Esmeralda de Suc. Dolores del Río",
+      "nombre": "Rosa Maria",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Hernandez",
+      "fecha": "Martes 24 de Septiembre",
+      "mensaje_corto": "A la edad de 70 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda",
       "honras": "Pendientes",
       "descripcion": ""
     },
@@ -22,30 +22,6 @@
       "mensaje_corto": "A la edad de 56 años",
       "se_vela_en": "Av. Emiliano Zapata #303 Col. Ignacio Allende. Gpe. Victoria, Dgo.",
       "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 85,
-      "titulo": "",
-      "nombre": "Juan Angel",
-      "apellido_paterno": "Rivera",
-      "apellido_materno": "Chaidez",
-      "fecha": "Domingo 22 de Septiembre",
-      "mensaje_corto": "A la edad de 58 años",
-      "se_vela_en": "Capilla Plata, de Suc. Dolores del Río",
-      "honras": "13:00 hrs. Templo Expiatorio Sagrado Corazón de Jesús, se despide en panteón Valle de los Sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 84,
-      "titulo": "",
-      "nombre": "Higinio",
-      "apellido_paterno": "Victorino",
-      "apellido_materno": "Gurrola",
-      "fecha": "Domingo 22 de Septiembre",
-      "mensaje_corto": "A la edad de 73 años",
-      "se_vela_en": "Dom. Con. Lerdo de Tejada",
-      "honras": "15:00 hrs. Templo del lugar y se despide en panteón del lugar",
       "descripcion": ""
     },
     {
@@ -63,14 +39,14 @@
   ],
   "obituario_ingles": [
     {
-      "id": 87,
+      "id": 88,
       "titulo": "",
-      "nombre": "Graciela",
-      "apellido_paterno": "Torres",
-      "apellido_materno": "Vargas",
-      "fecha": "Monday, September 23",
-      "mensaje_corto": "At the age of 75 years",
-      "se_vela_en": "Capilla Esmeralda de Suc. Dolores del Río",
+      "nombre": "Rosa Maria",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Hernandez",
+      "fecha": "Tuesday, September 24",
+      "mensaje_corto": "At the age of 70 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda",
       "honras": "Pendents",
       "descripcion": ""
     },
@@ -84,30 +60,6 @@
       "mensaje_corto": "At the age of 56 years",
       "se_vela_en": "Av. Emiliano Zapata #303 Col. Ignacio Allende. Gpe. Victoria, Dgo.",
       "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 85,
-      "titulo": "",
-      "nombre": "Juan Angel",
-      "apellido_paterno": "Rivera",
-      "apellido_materno": "Chaidez",
-      "fecha": "Sunday, September 22",
-      "mensaje_corto": "At the age of 58 years",
-      "se_vela_en": "Capilla Plata, de Suc. Dolores del Río",
-      "honras": "13:00 hrs. Templo Expiatorio Sagrado Corazón de Jesús, se despide en panteón Valle de los Sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 84,
-      "titulo": "",
-      "nombre": "Higinio",
-      "apellido_paterno": "Victorino",
-      "apellido_materno": "Gurrola",
-      "fecha": "Sunday, September 22",
-      "mensaje_corto": "At the age of 73 years",
-      "se_vela_en": "Dom. Con. Lerdo de Tejada",
-      "honras": "15:00 hrs. Templo del lugar y se despide en panteón del lugar",
       "descripcion": ""
     },
     {
