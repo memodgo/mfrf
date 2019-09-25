@@ -1,6 +1,54 @@
 {
   "obituario": [
     {
+      "id": 92,
+      "titulo": "",
+      "nombre": "Joaquín ",
+      "apellido_paterno": "Monreal",
+      "apellido_materno": "Zuñiga",
+      "fecha": "Miercoles 25 de Septiembre",
+      "mensaje_corto": "A la edad de 73 años",
+      "se_vela_en": "Dom. Con. San José del Molino, Dgo.",
+      "honras": "16:00 hrs. Templo del Lugar y se despide en panteón del lugar",
+      "descripcion": ""
+    },
+    {
+      "id": 91,
+      "titulo": "",
+      "nombre": "Josefina",
+      "apellido_paterno": "Barrios",
+      "apellido_materno": "Hernandez",
+      "fecha": "Miercoles 25 de Septiembre",
+      "mensaje_corto": "A la edad de 78 años",
+      "se_vela_en": "Calle Máquina 501 #306, Col. 16 de Septiembre ",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 90,
+      "titulo": "",
+      "nombre": "Crescencia",
+      "apellido_paterno": "Arreola",
+      "apellido_materno": "Romero",
+      "fecha": "Miercoles 25 de Septiembre",
+      "mensaje_corto": "A la edad de 80 años",
+      "se_vela_en": "Rodeo, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 89,
+      "titulo": "Sr.",
+      "nombre": "Trinidad",
+      "apellido_paterno": "Mata",
+      "apellido_materno": "Barraza",
+      "fecha": "Martes 24 de Septiembre",
+      "mensaje_corto": "A la edad de 50 años",
+      "se_vela_en": "Capilla de Guanaceví, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 88,
       "titulo": "",
       "nombre": "Rosa Maria",
@@ -9,35 +57,59 @@
       "fecha": "Martes 24 de Septiembre",
       "mensaje_corto": "A la edad de 70 años",
       "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 86,
-      "titulo": "",
-      "nombre": "Maria Guadalupe",
-      "apellido_paterno": "Hernandez",
-      "apellido_materno": "Loera",
-      "fecha": "Lunes 23 de Septiembre",
-      "mensaje_corto": "A la edad de 56 años",
-      "se_vela_en": "Av. Emiliano Zapata #303 Col. Ignacio Allende. Gpe. Victoria, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 83,
-      "titulo": "Sra.",
-      "nombre": "Trinidad",
-      "apellido_paterno": "Aguirre",
-      "apellido_materno": "Aguirre",
-      "fecha": "Domingo 22 de Septiembre",
-      "mensaje_corto": "A la edad de 73 años",
-      "se_vela_en": "Coscomate, Guanacevi, Dgo.",
-      "honras": "Pendientes",
+      "honras": "11:00 Templo San Jose Se despide en panteon de oriente",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 92,
+      "titulo": "",
+      "nombre": "Joaquín ",
+      "apellido_paterno": "Monreal",
+      "apellido_materno": "Zuñiga",
+      "fecha": "Wednesday, September 25",
+      "mensaje_corto": "At the age of 73 years",
+      "se_vela_en": "Dom. Con. San José del Molino, Dgo.",
+      "honras": "16:00 hrs. Templo del Lugar y se despide en panteón del lugar",
+      "descripcion": ""
+    },
+    {
+      "id": 91,
+      "titulo": "",
+      "nombre": "Josefina",
+      "apellido_paterno": "Barrios",
+      "apellido_materno": "Hernandez",
+      "fecha": "Wednesday, September 25",
+      "mensaje_corto": "At the age of 78 years",
+      "se_vela_en": "Calle Máquina 501 #306, Col. 16 de Septiembre ",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 90,
+      "titulo": "",
+      "nombre": "Crescencia",
+      "apellido_paterno": "Arreola",
+      "apellido_materno": "Romero",
+      "fecha": "Wednesday, September 25",
+      "mensaje_corto": "At the age of 80 years",
+      "se_vela_en": "Rodeo, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 89,
+      "titulo": "Sr.",
+      "nombre": "Trinidad",
+      "apellido_paterno": "Mata",
+      "apellido_materno": "Barraza",
+      "fecha": "Tuesday, September 24",
+      "mensaje_corto": "At the age of 50 years",
+      "se_vela_en": "Capilla de Guanaceví, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 88,
       "titulo": "",
@@ -47,31 +119,7 @@
       "fecha": "Tuesday, September 24",
       "mensaje_corto": "At the age of 70 years",
       "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 86,
-      "titulo": "",
-      "nombre": "Maria Guadalupe",
-      "apellido_paterno": "Hernandez",
-      "apellido_materno": "Loera",
-      "fecha": "Monday, September 23",
-      "mensaje_corto": "At the age of 56 years",
-      "se_vela_en": "Av. Emiliano Zapata #303 Col. Ignacio Allende. Gpe. Victoria, Dgo.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 83,
-      "titulo": "Sra.",
-      "nombre": "Trinidad",
-      "apellido_paterno": "Aguirre",
-      "apellido_materno": "Aguirre",
-      "fecha": "Sunday, September 22",
-      "mensaje_corto": "At the age of 73 years",
-      "se_vela_en": "Coscomate, Guanacevi, Dgo.",
-      "honras": "Pendents",
+      "honras": "11:00 Templo San Jose Se despide en panteon de oriente",
       "descripcion": ""
     }
   ]
