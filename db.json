@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 96,
+      "titulo": "",
+      "nombre": "Jose Luis",
+      "apellido_paterno": "Duran",
+      "apellido_materno": "Buendia",
+      "fecha": "Jueves 26 de Septiembre",
+      "mensaje_corto": "A la edad de 73 años",
+      "se_vela_en": "Suchil, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 95,
       "titulo": "",
       "nombre": "Francisco Javier",
@@ -9,141 +21,33 @@
       "fecha": "Jueves 26 de Septiembre",
       "mensaje_corto": "A la edad de 59 años",
       "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 94,
-      "titulo": "",
-      "nombre": "Josefina",
-      "apellido_paterno": "Rios",
-      "apellido_materno": "Farias",
-      "fecha": "Miercoles 25 de Septiembre",
-      "mensaje_corto": "A la edad de 70 años",
-      "se_vela_en": "Dom. Con. Villa Unión, Dgo.",
-      "honras": "16:00 hrs Templo del lugar y se despide en panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": 93,
-      "titulo": "",
-      "nombre": "Fancisco Luis",
-      "apellido_paterno": "Meraz",
-      "apellido_materno": "Meraz",
-      "fecha": "Miercoles 25 de Septiembre",
-      "mensaje_corto": "A la edad de 92 años",
-      "se_vela_en": "Poblado Barrazas, Santiago Papasquiaro",
-      "honras": "15:00 hrs. Templo Sagrado Corazón y se despide en panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": 91,
-      "titulo": "",
-      "nombre": "Josefina",
-      "apellido_paterno": "Barrios",
-      "apellido_materno": "Hernandez",
-      "fecha": "Miercoles 25 de Septiembre",
-      "mensaje_corto": "A la edad de 78 años",
-      "se_vela_en": "Calle Máquina 501 #306, Col. 16 de Septiembre ",
-      "honras": "10:00 hrs. templo del Rayoy se despide en panteón de oriente",
-      "descripcion": ""
-    },
-    {
-      "id": 90,
-      "titulo": "",
-      "nombre": "Crescencia",
-      "apellido_paterno": "Arreola",
-      "apellido_materno": "Romero",
-      "fecha": "Miercoles 25 de Septiembre",
-      "mensaje_corto": "A la edad de 80 años",
-      "se_vela_en": "Rodeo, Dgo.",
-      "honras": "16:00 hrs. Templo San Isidro Labrador y se despide en panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": 89,
-      "titulo": "Sr.",
-      "nombre": "Trinidad",
-      "apellido_paterno": "Mata",
-      "apellido_materno": "Barraza",
-      "fecha": "Martes 24 de Septiembre",
-      "mensaje_corto": "A la edad de 50 años",
-      "se_vela_en": "Capilla de Guanaceví, Dgo.",
-      "honras": "12:00 hrs. Templo Ntra. Sra. Inmaculada Concepción y se despide en panteón del lugar",
+      "honras": "16:00 hrs. Templo de Ntra. Señora del Rayo y se despide en panteón Valle de los Sabinos",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 96,
+      "titulo": "",
+      "nombre": "Jose Luis",
+      "apellido_paterno": "Duran",
+      "apellido_materno": "Buendia",
+      "fecha": "Thursday, September 26",
+      "mensaje_corto": "At the age of 73 years",
+      "se_vela_en": "Suchil, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 95,
       "titulo": "",
       "nombre": "Francisco Javier",
       "apellido_paterno": "Perez",
       "apellido_materno": "Castillo",
-      "fecha": "Thursaday, September 26",
+      "fecha": "Thursday, September 26",
       "mensaje_corto": "At the age of 59 years",
       "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 94,
-      "titulo": "",
-      "nombre": "Josefina",
-      "apellido_paterno": "Rios",
-      "apellido_materno": "Farias",
-      "fecha": "Wednesday, September 25",
-      "mensaje_corto": "At the age of 70 years",
-      "se_vela_en": "Dom. Con. Villa Unión, Dgo.",
-      "honras": "16:00 hrs Templo del lugar y se despide en panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": 93,
-      "titulo": "",
-      "nombre": "Fancisco Luis",
-      "apellido_paterno": "Meraz",
-      "apellido_materno": "Meraz",
-      "fecha": "Wednesday, September 25",
-      "mensaje_corto": "At the age of 92 years",
-      "se_vela_en": "Poblado Barrazas, Santiago Papasquiaro",
-      "honras": "15:00 hrs. Templo Sagrado Corazón y se despide en panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": 91,
-      "titulo": "",
-      "nombre": "Josefina",
-      "apellido_paterno": "Barrios",
-      "apellido_materno": "Hernandez",
-      "fecha": "Wednesday, September 25",
-      "mensaje_corto": "At the age of 78 years",
-      "se_vela_en": "Calle Máquina 501 #306, Col. 16 de Septiembre ",
-      "honras": "10:00 hrs. templo del Rayoy se despide en panteón de oriente",
-      "descripcion": ""
-    },
-    {
-      "id": 90,
-      "titulo": "",
-      "nombre": "Crescencia",
-      "apellido_paterno": "Arreola",
-      "apellido_materno": "Romero",
-      "fecha": "Wednesday, September 25",
-      "mensaje_corto": "At the age of 80 years",
-      "se_vela_en": "Rodeo, Dgo.",
-      "honras": "16:00 hrs. Templo San Isidro Labrador y se despide en panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": 89,
-      "titulo": "Sr.",
-      "nombre": "Trinidad",
-      "apellido_paterno": "Mata",
-      "apellido_materno": "Barraza",
-      "fecha": "Tuesday, September 24",
-      "mensaje_corto": "At the age of 50 years",
-      "se_vela_en": "Capilla de Guanaceví, Dgo.",
-      "honras": "12:00 hrs. Templo Ntra. Sra. Inmaculada Concepción y se despide en panteón del lugar",
+      "honras": "16:00 hrs. Templo de Ntra. Señora del Rayo y se despide en panteón Valle de los Sabinos",
       "descripcion": ""
     }
   ]
