@@ -1,7 +1,19 @@
 {
   "obituario": [
     {
-      "id": 103,
+      "id": "105",
+      "titulo": "",
+      "nombre": "Alejandrina",
+      "apellido_paterno": "Garcia",
+      "apellido_materno": "Marrufo",
+      "fecha": "Martes 01 de Octubre",
+      "mensaje_corto": "A la edad de 75 años",
+      "se_vela_en": "Dom. Con. Cieneguilla, Poanas, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": "103",
       "titulo": "",
       "nombre": "Socorro",
       "apellido_paterno": "Corral",
@@ -9,23 +21,11 @@
       "fecha": "Lunes 30 de Septiembre",
       "mensaje_corto": "A la edad de 84 años",
       "se_vela_en": "Dom. Con. Presidios, Tepehuanes, Dgo.",
-      "honras": "Pendientes",
+      "honras": "16:00 hrs. Templo San Nicolas Tolentino y se despide en panteón del lugar",
       "descripcion": ""
     },
     {
-      "id": 102,
-      "titulo": "",
-      "nombre": "Rene",
-      "apellido_paterno": "Sanchez",
-      "apellido_materno": "Valle",
-      "fecha": "Lunes 30 de Septiembre",
-      "mensaje_corto": "A la edad de 69 años",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 97,
+      "id": "97",
       "titulo": "",
       "nombre": "Jaime",
       "apellido_paterno": "Chavez",
@@ -33,13 +33,25 @@
       "fecha": "Viernes 27 de Agosto",
       "mensaje_corto": "A la edad de 65 años",
       "se_vela_en": "Calle Fco. Sarabia #402 Fco. I. Madero, Dgo.",
-      "honras": "el dia martes 01 de Octubre a las 16:00 hrs. Templo Virgen Ma. de Guadalupe. Se despide en panteón del lugar.",
+      "honras": "16:00 hrs. Templo Virgen de Guadalupe. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 103,
+      "id": "105",
+      "titulo": "",
+      "nombre": "Alejandrina",
+      "apellido_paterno": "Garcia",
+      "apellido_materno": "Marrufo",
+      "fecha": "Tuesday, October 01",
+      "mensaje_corto": "At the age of 75 years",
+      "se_vela_en": "Dom. Con. Cieneguilla, Poanas, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": "103",
       "titulo": "",
       "nombre": "Socorro",
       "apellido_paterno": "Corral",
@@ -47,31 +59,19 @@
       "fecha": "Monday, September 30",
       "mensaje_corto": "At the age of 84 years",
       "se_vela_en": "Dom. Con. Presidios, Tepehuanes, Dgo.",
-      "honras": "Pendents",
+      "honras": "16:00 hrs. Templo San Nicolas Tolentino y se despide en panteón del lugar",
       "descripcion": ""
     },
     {
-      "id": 102,
-      "titulo": "",
-      "nombre": "Rene",
-      "apellido_paterno": "Sanchez",
-      "apellido_materno": "Valle",
-      "fecha": "Monday, September 30",
-      "mensaje_corto": "At the age of 69 years",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 97,
+      "id": "97",
       "titulo": "",
       "nombre": "Jaime",
       "apellido_paterno": "Chavez",
       "apellido_materno": "Berumen",
       "fecha": "Friday, September 27",
-      "mensaje_corto": "At the age of 65 years",
+      "mensaje_corto": "A la edad de 65 años",
       "se_vela_en": "Calle Fco. Sarabia #402 Fco. I. Madero, Dgo.",
-      "honras": "el dia martes 01 de Octubre a las 16:00 hrs. Templo Virgen Ma. de Guadalupe. Se despide en panteón del lugar.",
+      "honras": "16:00 hrs. Templo Virgen de Guadalupe. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ]
