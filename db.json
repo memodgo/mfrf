@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": "109",
+      "titulo": "",
+      "nombre": "Jose Heriberto",
+      "apellido_paterno": "Padilla ",
+      "apellido_materno": "Montes",
+      "fecha": "Jueves 03 de Octubre",
+      "mensaje_corto": "A la edad de 45 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
+      "honras": "10:00 hrs Templo Ntrs. Señora de los Ángeles",
+      "descripcion": "Se despide en panteón Getsemaní"
+    },
+    {
       "id": "108",
       "titulo": "",
       "nombre": "Socorro ",
@@ -8,8 +20,8 @@
       "apellido_materno": "Vazquez",
       "fecha": "Miercoles 02 de Octubre",
       "mensaje_corto": "A la edad de 71 años",
-      "se_vela_en": "Dom. Con. Presidios, Tepehuanes, Dgo.",
-      "honras": "Pendientes",
+      "se_vela_en": "Dom. Con. La Candela, Tepehuanes, Dgo.",
+      "honras": "16:00 hrs. Templo Santa Clara de Asís y se despide en panteón del lugar",
       "descripcion": ""
     },
     {
@@ -33,11 +45,23 @@
       "fecha": "Miercoles 02 de Octubre",
       "mensaje_corto": "A la edad de 71 años",
       "se_vela_en": "Capilla Diamante de Suc. Dolores del Río",
-      "honras": "Pendientes",
+      "honras": "15:00 hrs. Templo Sagrado Corazón de Jesus y se despide en panteón de Oriente",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": "109",
+      "titulo": "",
+      "nombre": "Jose Heriberto",
+      "apellido_paterno": "Padilla ",
+      "apellido_materno": "Montes",
+      "fecha": "Thursday, October 03",
+      "mensaje_corto": "At the age of 45 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
+      "honras": "10:00 hrs Templo Ntrs. Señora de los Ángeles",
+      "descripcion": "Se despide en panteón Getsemaní"
+    },
     {
       "id": "108",
       "titulo": "",
@@ -46,8 +70,8 @@
       "apellido_materno": "Vazquez",
       "fecha": "Wednesday, October 02",
       "mensaje_corto": "At the age of 71 years",
-      "se_vela_en": "Dom. Con. Presidios, Tepehuanes, Dgo.",
-      "honras": "Pendents",
+      "se_vela_en": "Dom. Con. La Candela, Tepehuanes, Dgo.",
+      "honras": "16:00 hrs. Templo Santa Clara de Asís y se despide en panteón del lugar",
       "descripcion": ""
     },
     {
@@ -71,7 +95,7 @@
       "fecha": "Wednesday, October 02",
       "mensaje_corto": "At the age of 71 years",
       "se_vela_en": "Capilla Diamante de Suc. Dolores del Río",
-      "honras": "Pendents",
+      "honras": "15:00 hrs. Templo Sagrado Corazón de Jesus y se despide en panteón de Oriente",
       "descripcion": ""
     }
   ]
