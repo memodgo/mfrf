@@ -1,101 +1,29 @@
 {
   "obituario": [
     {
-      "id": "109",
+      "id": 110,
       "titulo": "",
-      "nombre": "Jose Heriberto",
-      "apellido_paterno": "Padilla ",
-      "apellido_materno": "Montes",
-      "fecha": "Jueves 03 de Octubre",
-      "mensaje_corto": "A la edad de 45 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
-      "honras": "10:00 hrs Templo Ntrs. Señora de los Ángeles",
-      "descripcion": "Se despide en panteón Getsemaní"
-    },
-    {
-      "id": "108",
-      "titulo": "",
-      "nombre": "Socorro ",
-      "apellido_paterno": "Garcia",
-      "apellido_materno": "Vazquez",
-      "fecha": "Miercoles 02 de Octubre",
-      "mensaje_corto": "A la edad de 71 años",
-      "se_vela_en": "Dom. Con. La Candela, Tepehuanes, Dgo.",
-      "honras": "16:00 hrs. Templo Santa Clara de Asís y se despide en panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": "107",
-      "titulo": "",
-      "nombre": "Maria Micaela",
-      "apellido_paterno": "Carreño",
-      "apellido_materno": "Diaz",
-      "fecha": "Miercoles 02 de Octubre",
-      "mensaje_corto": "A la edad de 92 años",
-      "se_vela_en": "Calle Bravo S/N Col. Altamira, Santiago Papasquiaro",
-      "honras": "12:00 hrs Templo Santo Santiago Apostol Se despide en panteon Los Nogales",
-      "descripcion": ""
-    },
-    {
-      "id": "106",
-      "titulo": "",
-      "nombre": "Renato",
-      "apellido_paterno": "Lucero",
-      "apellido_materno": "Ortiz",
-      "fecha": "Miercoles 02 de Octubre",
-      "mensaje_corto": "A la edad de 71 años",
-      "se_vela_en": "Capilla Diamante de Suc. Dolores del Río",
-      "honras": "15:00 hrs. Templo Sagrado Corazón de Jesus y se despide en panteón de Oriente",
+      "nombre": "Juan Manuel",
+      "apellido_paterno": "Simental",
+      "apellido_materno": "Avitia",
+      "fecha": "Sábado 05 de Octubre",
+      "mensaje_corto": "A la edad de 70 años",
+      "se_vela_en": "Se traslada de Nuevo Ideal, Dgo. A Caborca, Son.",
+      "honras": "Pendientes",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": "109",
+      "id": 110,
       "titulo": "",
-      "nombre": "Jose Heriberto",
-      "apellido_paterno": "Padilla ",
-      "apellido_materno": "Montes",
-      "fecha": "Thursday, October 03",
-      "mensaje_corto": "At the age of 45 years",
-      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
-      "honras": "10:00 hrs Templo Ntrs. Señora de los Ángeles",
-      "descripcion": "Se despide en panteón Getsemaní"
-    },
-    {
-      "id": "108",
-      "titulo": "",
-      "nombre": "Socorro ",
-      "apellido_paterno": "Garcia",
-      "apellido_materno": "Vazquez",
-      "fecha": "Wednesday, October 02",
-      "mensaje_corto": "At the age of 71 years",
-      "se_vela_en": "Dom. Con. La Candela, Tepehuanes, Dgo.",
-      "honras": "16:00 hrs. Templo Santa Clara de Asís y se despide en panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": "107",
-      "titulo": "",
-      "nombre": "Maria Micaela",
-      "apellido_paterno": "Carreño",
-      "apellido_materno": "Diaz",
-      "fecha": "Wednesday, October 02",
-      "mensaje_corto": "At the age of 92 years",
-      "se_vela_en": "Calle Bravo S/N Col. Altamira, Santiago Papasquiaro",
-      "honras": "12:00 hrs Templo Santo Santiago Apostol Se despide en panteon Los Nogales",
-      "descripcion": ""
-    },
-    {
-      "id": "106",
-      "titulo": "",
-      "nombre": "Renato",
-      "apellido_paterno": "Lucero",
-      "apellido_materno": "Ortiz",
-      "fecha": "Wednesday, October 02",
-      "mensaje_corto": "At the age of 71 years",
-      "se_vela_en": "Capilla Diamante de Suc. Dolores del Río",
-      "honras": "15:00 hrs. Templo Sagrado Corazón de Jesus y se despide en panteón de Oriente",
+      "nombre": "Juan Manuel",
+      "apellido_paterno": "Simental",
+      "apellido_materno": "Avitia",
+      "fecha": "Saturday, Obtober 05",
+      "mensaje_corto": "At the age of 70 years",
+      "se_vela_en": "Se traslada de Nuevo Ideal, Dgo. A Caborca, Son.",
+      "honras": "Pendents",
       "descripcion": ""
     }
   ]
