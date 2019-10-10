@@ -21,7 +21,7 @@
       "fecha": "Miercoles 09 de Octubre",
       "mensaje_corto": "A la edad de 66 años",
       "se_vela_en": "Dom. Con. La Purísima, Tepehuanes, Dgo.",
-      "honras": "Pendientes",
+      "honras": "16:00 hrs. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -33,7 +33,7 @@
       "fecha": "Miercoles 09 de Octubre",
       "mensaje_corto": "A la edad de 77 años",
       "se_vela_en": "Dom .Con. San José de la Boca, Tepehuanes, Dgo.",
-      "honras": "Pendientes",
+      "honras": "18:00 hrs. Templo San José. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -45,7 +45,7 @@
       "fecha": "Miercoles 09 de Octubre",
       "mensaje_corto": "A la edad de 68 años",
       "se_vela_en": "Dom. Con. Jose Ma. Morelos y Pavon, Dgo. (La tinaja)",
-      "honras": "Pendientes",
+      "honras": "13:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -57,19 +57,7 @@
       "fecha": "Miercoles 09 de Octubre",
       "mensaje_corto": "A la edad de 68 años",
       "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 117,
-      "titulo": "Joven",
-      "nombre": "Luis Leonel",
-      "apellido_paterno": "Moreno",
-      "apellido_materno": "Gomez",
-      "fecha": "Martes 08 de Octubre",
-      "mensaje_corto": "A la edad de 17 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Río a las 10:00 hrs.",
-      "honras": "11:00 hrs. Templo Ntra. Sra. de la Salud y se despide en panteón Getsemaní",
+      "honras": "12:00 hrs. Templo María Auxiliadora. Se despide para su cremación",
       "descripcion": ""
     }
   ],
@@ -95,7 +83,7 @@
       "fecha": "Wednesday, October 09",
       "mensaje_corto": "At the age of 66 years",
       "se_vela_en": "Dom. Con. La Purísima, Tepehuanes, Dgo.",
-      "honras": "Pendents",
+      "honras": "16:00 hrs. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -107,7 +95,7 @@
       "fecha": "Wednesday, October 09",
       "mensaje_corto": "At the age of 77 years",
       "se_vela_en": "Dom .Con. San José de la Boca, Tepehuanes, Dgo.",
-      "honras": "Pendientes",
+      "honras": "18:00 hrs. Templo San José. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -119,7 +107,7 @@
       "fecha": "Wednesday, October 09",
       "mensaje_corto": "At the age of 68 years",
       "se_vela_en": "Dom. Con. Jose Ma. Morelos y Pavon, Dgo. (La tinaja)",
-      "honras": "Pendents",
+      "honras": "13:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -131,19 +119,7 @@
       "fecha": "Wednesday, October 09",
       "mensaje_corto": "At the age of 68 years",
       "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 117,
-      "titulo": "Joven",
-      "nombre": "Luis Leonel",
-      "apellido_paterno": "Moreno",
-      "apellido_materno": "Gomez",
-      "fecha": "Tuesday, October 08",
-      "mensaje_corto": "At the age of 17 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Río a las 10:00 hrs.",
-      "honras": "11:00 hrs. Templo Ntra. Sra. de la Salud y se despide en panteón Getsemaní",
+      "honras": "12:00 hrs. Templo María Auxiliadora. Se despide para su cremación",
       "descripcion": ""
     }
   ]
