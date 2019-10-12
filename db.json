@@ -1,14 +1,26 @@
 {
   "obituario": [
     {
+      "id": 126,
+      "titulo": "",
+      "nombre": "Jaime",
+      "apellido_paterno": "Herrera",
+      "apellido_materno": "Diaz",
+      "fecha": "Sábado 12 de Octubre",
+      "mensaje_corto": "A la edad de 66 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante y Esmeralda",
+      "honras": "Se traslada el día de hoy  Sábado 12 de Octubre a Simi Valley, California.",
+      "descripcion": ""
+    },
+    {
       "id": 125,
       "titulo": "",
       "nombre": "Maria Francisca",
       "apellido_paterno": "Adame",
-      "apellido_materno": "",
+      "apellido_materno": "Gallegos",
       "fecha": "Viernes 11 de Octubre",
-      "mensaje_corto": "A la edad de 49 años",
-      "se_vela_en": "Se traslada a San Juan del Río, Dgo.",
+      "mensaje_corto": "At the age of 49 years",
+      "se_vela_en": "Dom. Con. Los Charcos, San Juan del Río, Dgo.",
       "honras": "Pendientes",
       "descripcion": ""
     },
@@ -20,33 +32,33 @@
       "apellido_materno": "Rodriguez",
       "fecha": "Viernes 11 de Octubre",
       "mensaje_corto": "",
-      "se_vela_en": "Se traslada de Chihuahua, Chih. a Cd. de Durango",
-      "honras": "pendietes",
-      "descripcion": ""
-    },
-    {
-      "id": 123,
-      "titulo": "",
-      "nombre": "Rodrigo",
-      "apellido_paterno": "Molina",
-      "apellido_materno": "Sarmiento",
-      "fecha": "Jueves 10 de Octubre",
-      "mensaje_corto": "A la edad de 22 años",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-      "honras": "San Luis Batis Casa Sacerdotal y se despide en panteón Getsemaní",
+      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
+      "honras": "8:00 hrs. Templo San José. Se despide en panteón Oriente.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
+      "id": 126,
+      "titulo": "",
+      "nombre": "Jaime",
+      "apellido_paterno": "Herrera",
+      "apellido_materno": "Diaz",
+      "fecha": "Saturday, October 12",
+      "mensaje_corto": "At the age of 66 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante y Esmeralda",
+      "honras": "Se traslada el día de hoy  Sábado 12 de Octubre a Simi Valley, California.",
+      "descripcion": ""
+    },
+    {
       "id": 125,
       "titulo": "",
       "nombre": "Maria Francisca",
       "apellido_paterno": "Adame",
-      "apellido_materno": "",
+      "apellido_materno": "Gallegos",
       "fecha": "Friday, October 11",
       "mensaje_corto": "At the age of 49 years",
-      "se_vela_en": "Se traslada a San Juan del Río, Dgo.",
+      "se_vela_en": "Dom. Con. Los Charcos, San Juan del Río, Dgo.",
       "honras": "Pendents",
       "descripcion": ""
     },
@@ -58,20 +70,8 @@
       "apellido_materno": "Rodriguez",
       "fecha": "Friday, October 11",
       "mensaje_corto": "",
-      "se_vela_en": "Se traslada de Chihuahua, Chih. a Cd. de Durango",
-      "honras": "pendets",
-      "descripcion": ""
-    },
-    {
-      "id": 123,
-      "titulo": "",
-      "nombre": "Rodrigo",
-      "apellido_paterno": "Molina",
-      "apellido_materno": "Sarmiento",
-      "fecha": "Thursday, October 10",
-      "mensaje_corto": "At the age of 22 years",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-      "honras": "San Luis Batis Casa Sacerdotal y se despide en panteón Getsemaní",
+      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
+      "honras": "8:00 hrs. Templo San José. Se despide en panteón Oriente.",
       "descripcion": ""
     }
   ]
