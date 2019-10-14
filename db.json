@@ -1,6 +1,66 @@
 {
   "obituario": [
     {
+      "id": 131,
+      "titulo": "",
+      "nombre": "Gerardo",
+      "apellido_paterno": "Espinoza",
+      "apellido_materno": "Nevarez",
+      "fecha": "Lunes 14 de Octubre",
+      "mensaje_corto": "A la edad de 54 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda",
+      "honras": "10:00 hrs. Templo Ntra. Señora de los Ángeles. Se despide en panteón Tapias.",
+      "descripcion": ""
+    },
+    {
+      "id": 130,
+      "titulo": "",
+      "nombre": "Olga",
+      "apellido_paterno": "Reyes",
+      "apellido_materno": "Gongora",
+      "fecha": "Lunes 14 de Octubre",
+      "mensaje_corto": "A la edad de 89 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
+      "honras": "Se despide en panteón Valle de los Sabinos el dia martes 15 oct a las 13:00 hrs.",
+      "descripcion": ""
+    },
+    {
+      "id": 129,
+      "titulo": "",
+      "nombre": "Sergio",
+      "apellido_paterno": "Ciénega",
+      "apellido_materno": "Vazquez",
+      "fecha": "Lunes 14 de Octubre",
+      "mensaje_corto": "A la edad de 61 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Plata",
+      "honras": "Se traslada a su domicilio a las 4:30 hrs en Privada Niño Artillero #300 entre 1 de Mayo y Felipe Angeles. Honras el dia martes 15 de oct a las 15:00 hrs. Se despide en panteón Getsemaní.",
+      "descripcion": ""
+    },
+    {
+      "id": 128,
+      "titulo": "Sra.",
+      "nombre": "Cleotilde",
+      "apellido_paterno": "Dominguez",
+      "apellido_materno": "Dominguez",
+      "fecha": "Lunes 14 de Octubre",
+      "mensaje_corto": "A la edad de 68 años",
+      "se_vela_en": "Dom .Con. Felipe Ángeles s/n Col Ejidal, Nombre de Dios, Dgo.",
+      "honras": "Pendeintes",
+      "descripcion": ""
+    },
+    {
+      "id": 127,
+      "titulo": "Ing.",
+      "nombre": "Marco Antonio",
+      "apellido_paterno": "Gonzales",
+      "apellido_materno": "Bracho",
+      "fecha": "Lunes 14 de Octubre",
+      "mensaje_corto": "A la edad de 80 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Oro.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 126,
       "titulo": "",
       "nombre": "Jaime",
@@ -11,33 +71,69 @@
       "se_vela_en": "Suc. Dolores del Río Capilla Diamante y Esmeralda",
       "honras": "Se traslada el día de hoy  Sábado 12 de Octubre a Simi Valley, California.",
       "descripcion": ""
-    },
-    {
-      "id": 125,
-      "titulo": "",
-      "nombre": "Maria Francisca",
-      "apellido_paterno": "Adame",
-      "apellido_materno": "Gallegos",
-      "fecha": "Viernes 11 de Octubre",
-      "mensaje_corto": "At the age of 49 years",
-      "se_vela_en": "Dom. Con. Los Charcos, San Juan del Río, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 124,
-      "titulo": "",
-      "nombre": "Francisco Javier",
-      "apellido_paterno": "Cabada",
-      "apellido_materno": "Rodriguez",
-      "fecha": "Viernes 11 de Octubre",
-      "mensaje_corto": "",
-      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
-      "honras": "8:00 hrs. Templo San José. Se despide en panteón Oriente.",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 131,
+      "titulo": "",
+      "nombre": "Gerardo",
+      "apellido_paterno": "Espinoza",
+      "apellido_materno": "Nevarez",
+      "fecha": "Monday, October 14",
+      "mensaje_corto": "At the age of 54 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda",
+      "honras": "10:00 hrs. Templo Ntra. Señora de los Ángeles. Se despide en panteón Tapias.",
+      "descripcion": ""
+    },
+    {
+      "id": 130,
+      "titulo": "",
+      "nombre": "Olga",
+      "apellido_paterno": "Reyes",
+      "apellido_materno": "Gongora",
+      "fecha": "Monday, October 14",
+      "mensaje_corto": "At the age of 89 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
+      "honras": "Se despide en panteón Valle de los Sabinos el dia martes 15 oct a las 13:00 hrs.",
+      "descripcion": ""
+    },
+    {
+      "id": 129,
+      "titulo": "",
+      "nombre": "Sergio",
+      "apellido_paterno": "Ciénega",
+      "apellido_materno": "Vazquez",
+      "fecha": "Monday, October 14",
+      "mensaje_corto": "At the age of 61 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Plata",
+      "honras": "Se traslada a su domicilio a las 4:30 hrs en Privada Niño Artillero #300 entre 1 de Mayo y Felipe Angeles. Honras el dia martes 15 de oct a las 15:00 hrs. Se despide en panteón Getsemaní.",
+      "descripcion": ""
+    },
+    {
+      "id": 128,
+      "titulo": "Sra.",
+      "nombre": "Cleotilde",
+      "apellido_paterno": "Dominguez",
+      "apellido_materno": "Dominguez",
+      "fecha": "Monday, October 14",
+      "mensaje_corto": "At the age of 68 years",
+      "se_vela_en": "Dom .Con. Felipe Ángeles s/n Col Ejidal, Nombre de Dios, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 127,
+      "titulo": "Ing.",
+      "nombre": "Marco Antonio",
+      "apellido_paterno": "Gonzales",
+      "apellido_materno": "Bracho",
+      "fecha": "Monday, October 14",
+      "mensaje_corto": "At the age of 80 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Oro.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 126,
       "titulo": "",
@@ -48,30 +144,6 @@
       "mensaje_corto": "At the age of 66 years",
       "se_vela_en": "Suc. Dolores del Río Capilla Diamante y Esmeralda",
       "honras": "Se traslada el día de hoy  Sábado 12 de Octubre a Simi Valley, California.",
-      "descripcion": ""
-    },
-    {
-      "id": 125,
-      "titulo": "",
-      "nombre": "Maria Francisca",
-      "apellido_paterno": "Adame",
-      "apellido_materno": "Gallegos",
-      "fecha": "Friday, October 11",
-      "mensaje_corto": "At the age of 49 years",
-      "se_vela_en": "Dom. Con. Los Charcos, San Juan del Río, Dgo.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 124,
-      "titulo": "",
-      "nombre": "Francisco Javier",
-      "apellido_paterno": "Cabada",
-      "apellido_materno": "Rodriguez",
-      "fecha": "Friday, October 11",
-      "mensaje_corto": "",
-      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
-      "honras": "8:00 hrs. Templo San José. Se despide en panteón Oriente.",
       "descripcion": ""
     }
   ]
