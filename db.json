@@ -1,26 +1,26 @@
 {
   "obituario": [
     {
+      "id": 140,
+      "titulo": "",
+      "nombre": "Manuel",
+      "apellido_paterno": "Mendoza",
+      "apellido_materno": "Quiñonez",
+      "fecha": "Jueves 17 de Octubre",
+      "mensaje_corto": "A la edad de 70 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+      "honras": "Templo de Ntra. Sra. de la Salud, se despide para su cremación ",
+      "descripcion": ""
+    },
+    {
       "id": 139,
       "titulo": "",
       "nombre": "Ramón",
       "apellido_paterno": "Ochoa",
       "apellido_materno": "Romero",
-      "fecha": "Jueves 17 de Octubre ",
+      "fecha": "Jueves 17 de Octubre",
       "mensaje_corto": "A la edad de 58 años",
       "se_vela_en": "Dom. Con. Los Nogales, Coneto de Comonfort",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 138,
-      "titulo": "",
-      "nombre": "Gregorio ",
-      "apellido_paterno": "Nuñez",
-      "apellido_materno": "Sánchez",
-      "fecha": "Jueves 17 de Octubre",
-      "mensaje_corto": "A la edad de 68 años",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
       "honras": "Pendientes",
       "descripcion": ""
     },
@@ -33,23 +33,23 @@
       "fecha": "Jueves 17 de Octubre",
       "mensaje_corto": "A la edad de 67 años",
       "se_vela_en": "Se traslada de Chicago a Santiago Papasquiaro Dgo.",
-      "honras": "Pendintes",
-      "descripcion": ""
-    },
-    {
-      "id": 136,
-      "titulo": "R.N.",
-      "nombre": "José Alberto",
-      "apellido_paterno": "Delgado",
-      "apellido_materno": "Ávila",
-      "fecha": "Jueves 17 de Octubre",
-      "mensaje_corto": "",
-      "se_vela_en": "Dom. Con. Colonia Hidalgo, Dgo.",
-      "honras": "Se le despidió  en panteón del lugar",
+      "honras": "Pendientes",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 140,
+      "titulo": "",
+      "nombre": "Manuel",
+      "apellido_paterno": "Mendoza",
+      "apellido_materno": "Quiñonez",
+      "fecha": "Thursday, October 17",
+      "mensaje_corto": "At the age of 70 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+      "honras": "Templo de Ntra. Sra. de la Salud, se despide para su cremación ",
+      "descripcion": ""
+    },
     {
       "id": 139,
       "titulo": "",
@@ -63,18 +63,6 @@
       "descripcion": ""
     },
     {
-      "id": 138,
-      "titulo": "",
-      "nombre": "Gregorio ",
-      "apellido_paterno": "Nuñez",
-      "apellido_materno": "Sánchez",
-      "fecha": "Thursday, October 17",
-      "mensaje_corto": "At the age of 68 years",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
       "id": 137,
       "titulo": "",
       "nombre": "Rubén",
@@ -84,18 +72,6 @@
       "mensaje_corto": "At the age of 67 years",
       "se_vela_en": "Se traslada de Chicago a Santiago Papasquiaro Dgo.",
       "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 136,
-      "titulo": "R.N.",
-      "nombre": "José Alberto",
-      "apellido_paterno": "Delgado",
-      "apellido_materno": "Ávila",
-      "fecha": "Thursday, October 17",
-      "mensaje_corto": "",
-      "se_vela_en": "Dom. Con. Colonia Hidalgo, Dgo.",
-      "honras": "Se le despidió  en panteón del lugar",
       "descripcion": ""
     }
   ]
