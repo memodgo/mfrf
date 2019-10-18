@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 141,
+      "titulo": "",
+      "nombre": "Nely Mariela",
+      "apellido_paterno": "Leal",
+      "apellido_materno": "Bañuelos",
+      "fecha": "Viernes 18 de Octubre",
+      "mensaje_corto": "A la edad de 45 años",
+      "se_vela_en": "-",
+      "honras": "-",
+      "descripcion": "Se despide para su cremación"
+    },
+    {
       "id": 140,
       "titulo": "",
       "nombre": "Manuel",
@@ -9,7 +21,7 @@
       "fecha": "Jueves 17 de Octubre",
       "mensaje_corto": "A la edad de 70 años",
       "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
-      "honras": "Templo de Ntra. Sra. de la Salud, se despide para su cremación ",
+      "honras": "11:00 hrs Templo Nuestra Sra. de la Salud Se despide para su cremación ",
       "descripcion": ""
     },
     {
@@ -21,7 +33,19 @@
       "fecha": "Jueves 17 de Octubre",
       "mensaje_corto": "A la edad de 58 años",
       "se_vela_en": "Dom. Con. Los Nogales, Coneto de Comonfort",
-      "honras": "Pendientes",
+      "honras": "16:00 hrs. en el templo de Nuestra Sra. del Refugio se despide en el panteón del lugar",
+      "descripcion": ""
+    },
+    {
+      "id": 138,
+      "titulo": "",
+      "nombre": "Gregorio ",
+      "apellido_paterno": "Nuñez",
+      "apellido_materno": "Sánchez",
+      "fecha": "Jueves 17 de Octubre",
+      "mensaje_corto": "A la edad de 68 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
+      "honras": "Se sepulto en panteón del Pueblito",
       "descripcion": ""
     },
     {
@@ -32,22 +56,34 @@
       "apellido_materno": "",
       "fecha": "Jueves 17 de Octubre",
       "mensaje_corto": "A la edad de 67 años",
-      "se_vela_en": "Se traslada de Chicago a Santiago Papasquiaro Dgo.",
+      "se_vela_en": "-",
       "honras": "Pendientes",
-      "descripcion": ""
+      "descripcion": "Se traslada de Chicago a Santiago Papasquiaro Dgo."
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 141,
+      "titulo": "",
+      "nombre": "Nely Mariela",
+      "apellido_paterno": "Leal",
+      "apellido_materno": "Bañuelos",
+      "fecha": "Friday, October 18",
+      "mensaje_corto": "At the age of 45 years",
+      "se_vela_en": "-",
+      "honras": "-",
+      "descripcion": "Se despide para su cremación"
+    },
     {
       "id": 140,
       "titulo": "",
       "nombre": "Manuel",
       "apellido_paterno": "Mendoza",
       "apellido_materno": "Quiñonez",
-      "fecha": "Thursday, October 17",
+      "fecha": "Thurday, October 17",
       "mensaje_corto": "At the age of 70 years",
       "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
-      "honras": "Templo de Ntra. Sra. de la Salud, se despide para su cremación ",
+      "honras": "11:00 hrs Templo Nuestra Sra. de la Salud Se despide para su cremación ",
       "descripcion": ""
     },
     {
@@ -56,10 +92,22 @@
       "nombre": "Ramón",
       "apellido_paterno": "Ochoa",
       "apellido_materno": "Romero",
-      "fecha": "Thursday, October 17",
+      "fecha": "Thurday, October 17",
       "mensaje_corto": "At the age of 58 years",
       "se_vela_en": "Dom. Con. Los Nogales, Coneto de Comonfort",
-      "honras": "Pendents",
+      "honras": "16:00 hrs. en el templo de Nuestra Sra. del Refugio se despide en el panteón del lugar",
+      "descripcion": ""
+    },
+    {
+      "id": 138,
+      "titulo": "",
+      "nombre": "Gregorio ",
+      "apellido_paterno": "Nuñez",
+      "apellido_materno": "Sánchez",
+      "fecha": "Thurday, October 17",
+      "mensaje_corto": "At the age of 68 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
+      "honras": "Se sepulto en panteón del Pueblito",
       "descripcion": ""
     },
     {
@@ -68,11 +116,11 @@
       "nombre": "Rubén",
       "apellido_paterno": "Rodriguez",
       "apellido_materno": "",
-      "fecha": "Thursday, October 17",
+      "fecha": "Thurday, October 17",
       "mensaje_corto": "At the age of 67 years",
-      "se_vela_en": "Se traslada de Chicago a Santiago Papasquiaro Dgo.",
+      "se_vela_en": "-",
       "honras": "Pendents",
-      "descripcion": ""
+      "descripcion": "Se traslada de Chicago a Santiago Papasquiaro Dgo."
     }
   ]
 }
