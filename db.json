@@ -1,102 +1,174 @@
 {
-  "obituario": [
-    {
-      "id": "146",
-      "titulo": "Niña",
-      "nombre": "Thaily Nicole",
-      "apellido_paterno": "Medina",
-      "apellido_materno": "Rodríguez",
-      "fecha": "Martes 22 de Octubre",
-      "mensaje_corto": "A la edad de 5 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Río",
-      "honras": "14:00 hrs Templo de Ntra. Señora de los angeles y se despide en panteón de Oriente",
-      "descripcion": ""
-    },
-    {
-      "id": "145",
-      "titulo": "Joven",
-      "nombre": "Luis Alexis",
-      "apellido_paterno": "Arvelay",
-      "apellido_materno": "Salazar",
-      "fecha": "Martes 22 de Octubre",
-      "mensaje_corto": "A la edad de 22 años",
-      "se_vela_en": "Privada León # 104 Fracc. San Diego",
-      "honras": "12:00 hrs. en el templo de San Felipe de Jesús se le despide en el panteón Getsemaní",
-      "descripcion": ""
-    },
-    {
-      "id": "144",
-      "titulo": "",
-      "nombre": "Jesús",
-      "apellido_paterno": "Ríos",
-      "apellido_materno": "Ramírez",
-      "fecha": "Martes 22 de Octubre",
-      "mensaje_corto": "A la edad de 93 años",
-      "se_vela_en": "Dom. Con Nicolás Romero, Dgo.",
-      "honras": "15:00 hrs. en el templo del Sagrado Corazón de Jesús (poblado Nicolás Romero) se le despide en el panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": "143",
-      "titulo": "",
-      "nombre": "Karla Elizabeth",
-      "apellido_paterno": "Calderón",
-      "apellido_materno": "Rodríguez",
-      "fecha": "Martes 22 de Octubre",
-      "mensaje_corto": "A la edad de 41 años",
-      "se_vela_en": "Capilla Oro y Plata de Suc. Dolores del Río",
-      "honras": "12:00 hrs. en el templo de Nuestra sra. de los Ángeles se le despide en el panteón de oriente",
-      "descripcion": ""
-    }
-  ],
-  "obituario_ingles": [
-    {
-      "id": "146",
-      "titulo": "Niña",
-      "nombre": "Thaily Nicole",
-      "apellido_paterno": "Medina",
-      "apellido_materno": "Rodríguez",
-      "fecha": "Tuesday, October 22",
-      "mensaje_corto": "At the age of 5 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Río",
-      "honras": "14:00 hrs Templo de Ntra. Señora de los angeles y se despide en panteón de Oriente",
-      "descripcion": ""
-    },
-    {
-      "id": "145",
-      "titulo": "Joven",
-      "nombre": "Luis Alexis",
-      "apellido_paterno": "Arvelay",
-      "apellido_materno": "Salazar",
-      "fecha": "Tuesday, October 22",
-      "mensaje_corto": "At the age of 22 years",
-      "se_vela_en": "Privada León # 104 Fracc. San Diego",
-      "honras": "12:00 hrs. en el templo de San Felipe de Jesús se le despide en el panteón Getsemaní",
-      "descripcion": ""
-    },
-    {
-      "id": "144",
-      "titulo": "",
-      "nombre": "Jesús",
-      "apellido_paterno": "Ríos",
-      "apellido_materno": "Ramírez",
-      "fecha": "Tuesday, October 22",
-      "mensaje_corto": "At the age of 93 years",
-      "se_vela_en": "Dom. Con Nicolás Romero, Dgo.",
-      "honras": "15:00 hrs. en el templo del Sagrado Corazón de Jesús (poblado Nicolás Romero) se le despide en el panteón del lugar",
-      "descripcion": ""
-    },
-    {
-      "id": "143",
-      "titulo": "",
-      "nombre": "Karla Elizabeth",
-      "apellido_paterno": "Calderón",
-      "apellido_materno": "Rodríguez",
-      "fecha": "Tuesday, October 22",
-      "mensaje_corto": "At the age of 41 years",
-      "se_vela_en": "Capilla Oro y Plata de Suc. Dolores del Río",
-      "honras": "12:00 hrs. en el templo de Nuestra sra. de los Ángeles se le despide en el panteón de oriente",
-      "descripcion": ""
-    }
-  ]
-}
+    "obituario":[
+       {
+          "id":148,
+          "titulo":"R.N.",
+          "nombre":"Santiago Adoneey",
+          "apellido_paterno":"Valles",
+          "apellido_materno":"Valdez",
+          "fecha":"Jueves 24 de Octubre",
+          "mensaje_corto":"",
+          "se_vela_en":"",
+          "honras":"",
+          "descripcion":"Se despide para su cremación"
+       },
+       {
+          "id":147,
+          "titulo":"",
+          "nombre":"Manuel",
+          "apellido_paterno":"Gonzales",
+          "apellido_materno":"Rodriguez",
+          "fecha":"Jueves 24 de Octubre",
+          "mensaje_corto":"A la edad de 88 años",
+          "se_vela_en":"Se velo en Capilla DIamante de Suc. Dolores del Rio",
+          "honras":"Culto de despedida a las 13:30 hrs. el día Jueves Templo Monte Sinai y se despidió en panteón de Oriente",
+          "descripcion":""
+       },
+       {
+          "id":146,
+          "titulo":"Niña",
+          "nombre":"Thaily Nicole",
+          "apellido_paterno":"Medina",
+          "apellido_materno":"Rodríguez",
+          "fecha":"Martes 22 de Octubre",
+          "mensaje_corto":"A la edad de 5 años",
+          "se_vela_en":"Se velo en Capilla Diamante Suc. Dolores del Río",
+          "honras":"14:00 hrs Templo de Ntra. Señora de los angeles y se despide en panteón de Oriente",
+          "descripcion":""
+       },
+       {
+          "id":145,
+          "titulo":"Joven",
+          "nombre":"Luis Alexis",
+          "apellido_paterno":"Arvelay",
+          "apellido_materno":"Salazar",
+          "fecha":"Martes 22 de Octubre",
+          "mensaje_corto":"A la edad de 22 años",
+          "se_vela_en":"Se velo en Privada León # 104 Fracc. San Diego",
+          "honras":"12:00 hrs. en el templo de San Felipe de Jesús se le despide en el panteón Getsemaní",
+          "descripcion":""
+       },
+       {
+          "id":144,
+          "titulo":"",
+          "nombre":"Jesús",
+          "apellido_paterno":"Ríos",
+          "apellido_materno":"Ramírez",
+          "fecha":"Martes 22 de Octubre",
+          "mensaje_corto":"A la edad de 93 años",
+          "se_vela_en":"Se velo en Dom. Con Nicolás Romero, Dgo.",
+          "honras":"12:00 hrs. en el templo del Sagrado Corazón de Jesús (poblado Nicolás Romero) se le despide en el panteón del lugar",
+          "descripcion":""
+       },
+       {
+          "id":143,
+          "titulo":"",
+          "nombre":"Karla Elizabeth",
+          "apellido_paterno":"Calderón",
+          "apellido_materno":"Rodríguez",
+          "fecha":"Martes 22 de Octubre",
+          "mensaje_corto":"A la edad de 41 años",
+          "se_vela_en":"Se velo en Capilla Oro y Plata de Suc. Dolores del Río",
+          "honras":"12:00 hrs. en el templo de Nuestra sra. de los Ángeles se le despide en el panteón de oriente",
+          "descripcion":""
+       },
+       {
+          "id":137,
+          "titulo":"",
+          "nombre":"Rubén",
+          "apellido_paterno":"Rodriguez",
+          "apellido_materno":"Nevarez",
+          "fecha":"Jueves 17 de Octubre",
+          "mensaje_corto":"A la edad de 67 años",
+          "se_vela_en":"Capilla Santiago Papasquiaro, Dgo.",
+          "honras":"23 de Octubre 9:00 a.m. en el templo de santiago apostol y se despidió en panteón Nogales",
+          "descripcion":""
+       }
+    ],
+    "obituario_ingles":[
+       {
+          "id":148,
+          "titulo":"R.N.",
+          "nombre":"Santiago Adoneey",
+          "apellido_paterno":"Valles",
+          "apellido_materno":"Valdez",
+          "fecha":"Thursday, October 24",
+          "mensaje_corto":"",
+          "se_vela_en":"",
+          "honras":"",
+          "descripcion":"Se despide para su cremación"
+       },
+       {
+          "id":147,
+          "titulo":"",
+          "nombre":"Manuel",
+          "apellido_paterno":"Gonzales",
+          "apellido_materno":"Rodriguez",
+          "fecha":"Thursday, October 24",
+          "mensaje_corto":"At the age of 88 years",
+          "se_vela_en":"Se velo en Capilla DIamante de Suc. Dolores del Rio",
+          "honras":"Culto de despedida a las 13:30 hrs. el día Jueves Templo Monte Sinai y se despidió en panteón de Oriente",
+          "descripcion":""
+       },
+       {
+          "id":146,
+          "titulo":"Niña",
+          "nombre":"Thaily Nicole",
+          "apellido_paterno":"Medina",
+          "apellido_materno":"Rodríguez",
+          "fecha":"Tuesday, October 22",
+          "mensaje_corto":"At the age of 5 years",
+          "se_vela_en":"Se velo en Capilla Diamante Suc. Dolores del Río",
+          "honras":"14:00 hrs Templo de Ntra. Señora de los angeles y se despide en panteón de Oriente",
+          "descripcion":""
+       },
+       {
+          "id":145,
+          "titulo":"Joven",
+          "nombre":"Luis Alexis",
+          "apellido_paterno":"Arvelay",
+          "apellido_materno":"Salazar",
+          "fecha":"Tuesday, October 22",
+          "mensaje_corto":"At the age of 22 years",
+          "se_vela_en":"Se velo en Privada León # 104 Fracc. San Diego",
+          "honras":"12:00 hrs. en el templo de San Felipe de Jesús se le despide en el panteón Getsemaní",
+          "descripcion":""
+       },
+       {
+          "id":144,
+          "titulo":"",
+          "nombre":"Jesús",
+          "apellido_paterno":"Ríos",
+          "apellido_materno":"Ramírez",
+          "fecha":"Tuesday, October 22",
+          "mensaje_corto":"At the age of 93 years",
+          "se_vela_en":"Se velo en Dom. Con Nicolás Romero, Dgo.",
+          "honras":"12:00 hrs. en el templo del Sagrado Corazón de Jesús (poblado Nicolás Romero) se le despide en el panteón del lugar",
+          "descripcion":""
+       },
+       {
+          "id":143,
+          "titulo":"",
+          "nombre":"Karla Elizabeth",
+          "apellido_paterno":"Calderón",
+          "apellido_materno":"Rodríguez",
+          "fecha":"Tuesday, October 22",
+          "mensaje_corto":"At the age of 41 years",
+          "se_vela_en":"Se velo en Capilla Oro y Plata de Suc. Dolores del Río",
+          "honras":"12:00 hrs. en el templo de Nuestra sra. de los Ángeles se le despide en el panteón de oriente",
+          "descripcion":""
+       },
+       {
+          "id":137,
+          "titulo":"",
+          "nombre":"Rubén",
+          "apellido_paterno":"Rodriguez",
+          "apellido_materno":"Nevarez",
+          "fecha":"Thursday, October 17",
+          "mensaje_corto":"At the age of 67 years",
+          "se_vela_en":"Capilla Santiago Papasquiaro, Dgo.",
+          "honras":"23 de Octubre 9:00 a.m. en el templo de santiago apostol y se despidió en panteón Nogales",
+          "descripcion":""
+       }
+    ]
+ }
