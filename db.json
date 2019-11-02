@@ -1,210 +1,102 @@
 {
-  "obituario": [
-    {
-      "id": 159,
-      "titulo": "",
-      "nombre": "Miguel",
-      "apellido_paterno": "Velazquez",
-      "apellido_materno": "Favela",
-      "fecha": "Jueves 31 de Octubre",
-      "mensaje_corto": "",
-      "se_vela_en": "Se traslada de Chicago, Illinois a Durango, Dgo.",
-      "honras": "Honras y sala de velación aún pendientes.",
-      "descripcion": ""
-    },
-    {
-      "id": 158,
-      "titulo": "",
-      "nombre": "Imeldo",
-      "apellido_paterno": "Alarcón",
-      "apellido_materno": "",
-      "fecha": "Jueves 31 de Octubre",
-      "mensaje_corto": "",
-      "se_vela_en": "Se traslada de Chicago, Illinois. a Durango, Dgo.",
-      "honras": "Honras y sala de velación aún pendientes.",
-      "descripcion": ""
-    },
-    {
-      "id": 157,
-      "titulo": "",
-      "nombre": "Ma. Guadalupe",
-      "apellido_paterno": "Castillo",
-      "apellido_materno": "Rodriguez",
-      "fecha": "Jueves 31 de Octubre",
-      "mensaje_corto": "A la edad de 75 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
-      "honras": "13:00 hrs.  Templo Ntra. de la Salud. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 156,
-      "titulo": "",
-      "nombre": "Maria Concepcion",
-      "apellido_paterno": "Rodriguez",
-      "apellido_materno": "Portillo",
-      "fecha": "Miercoles 30 de Octubre",
-      "mensaje_corto": "A la edad de 79 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Diamante.",
-      "honras": "16:00 hrs. Templo San José. Se despide en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 155,
-      "titulo": "",
-      "nombre": "Jose Alberto",
-      "apellido_paterno": "Morales",
-      "apellido_materno": "Parga",
-      "fecha": "Miercoles 30 de Octubre",
-      "mensaje_corto": "A la edad de 35 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Plata.",
-      "honras": "19:00 hrs. Templo Santa Ana. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 154,
-      "titulo": "",
-      "nombre": "Irma Elena",
-      "apellido_paterno": "Gonzalez",
-      "apellido_materno": "Hernandez",
-      "fecha": "Miercoles 30 de Octubre",
-      "mensaje_corto": "A la edad de 51 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Oro.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 153,
-      "titulo": "",
-      "nombre": "Norma Alicia",
-      "apellido_paterno": "Rubio",
-      "apellido_materno": "Barraza",
-      "fecha": "Miercoles 30 de Octubre",
-      "mensaje_corto": "A la edad de 30 años",
-      "se_vela_en": "Se vela Dom. Con. San José del Barranco, Inde, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 151,
-      "titulo": "",
-      "nombre": "Pascual",
-      "apellido_paterno": "Ociel",
-      "apellido_materno": "Gonzalez",
-      "fecha": "Jueves 31 de Octubre",
-      "mensaje_corto": "A la edad de 33 años",
-      "se_vela_en": "Se veló Dom. Con. Nombre de Dios, Dgo.",
-      "honras": "Sus honras fueron el dia 31/oct/2019 en el  Santuario de Guadalupe. Se despidió en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 150,
-      "titulo": "",
-      "nombre": "Reyna",
-      "apellido_paterno": "Ramirez",
-      "apellido_materno": "Barrientos",
-      "fecha": "Jueves 31 de Octubre",
-      "mensaje_corto": "A la edad de 66 años",
-      "se_vela_en": "Se veló en San Jose de Gracia, Canatlan, Dgo.",
-      "honras": "Sus honras fueron el dia 30/oct/2019 templo Virgen de Guadalupe. Se despidió en panteón del lugar.",
-      "descripcion": ""
-    }
-  ],
-  "obituario_ingles": [
-    {
-      "id": 159,
-      "titulo": "",
-      "nombre": "Miguel",
-      "apellido_paterno": "Velazquez",
-      "apellido_materno": "Favela",
-      "fecha": "Thursday, October 31",
-      "mensaje_corto": "",
-      "se_vela_en": "Se traslada de Chicago, Illinois a Durango, Dgo.",
-      "honras": "Honras y sala de velación aún pendientes.",
-      "descripcion": ""
-    },
-    {
-      "id": 158,
-      "titulo": "",
-      "nombre": "Imeldo",
-      "apellido_paterno": "Alarcón",
-      "apellido_materno": "",
-      "fecha": "Thursday, October 31",
-      "mensaje_corto": "",
-      "se_vela_en": "Se traslada de Chicago, Illinois. a Durango, Dgo.",
-      "honras": "Honras y sala de velación aún pendientes.",
-      "descripcion": ""
-    },
-    {
-      "id": 157,
-      "titulo": "",
-      "nombre": "Ma. Guadalupe",
-      "apellido_paterno": "Castillo",
-      "apellido_materno": "Rodriguez",
-      "fecha": "Thursday, October 31",
-      "mensaje_corto": "At the age of 75 years",
-      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
-      "honras": "13:00 hrs.  Templo Ntra. de la Salud. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 156,
-      "titulo": "",
-      "nombre": "Maria Concepcion",
-      "apellido_paterno": "Rodriguez",
-      "apellido_materno": "Portillo",
-      "fecha": "Wednesday, October 30",
-      "mensaje_corto": "At the age of 79 years",
-      "se_vela_en": "Suc. Dolores del Río Capilla Diamante.",
-      "honras": "16:00 hrs. Templo San José. Se despide en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 155,
-      "titulo": "",
-      "nombre": "Jose Alberto",
-      "apellido_paterno": "Morales",
-      "apellido_materno": "Parga",
-      "fecha": "Wednesday, October 30",
-      "mensaje_corto": "At the age of 35 years",
-      "se_vela_en": "Suc. Dolores del Río Capilla Plata.",
-      "honras": "19:00 hrs. Templo Santa Ana. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 154,
-      "titulo": "",
-      "nombre": "Irma Elena",
-      "apellido_paterno": "Gonzalez",
-      "apellido_materno": "Hernandez",
-      "fecha": "Wednesday, October 30",
-      "mensaje_corto": "At the age of 51 years",
-      "se_vela_en": "Suc. Dolores del Río Capilla Oro.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 153,
-      "titulo": "",
-      "nombre": "Norma Alicia",
-      "apellido_paterno": "Rubio",
-      "apellido_materno": "Barraza",
-      "fecha": "Wednesday, October 30",
-      "mensaje_corto": "At the age of 30 years",
-      "se_vela_en": "Se vela Dom. Con. San José del Barranco, Inde, Dgo.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 151,
-      "titulo": "",
-      "nombre": "Pascual",
-      "apellido_paterno": "Ociel",
-      "apellido_materno": "Gonzalez",
-      "fecha": "Thursday, October 31",
-      "mensaje_corto": "At the age of 33 years",
-      "se_vela_en": "Se veló Dom. Con. Nombre de Dios, Dgo.",
-      "honras": "Sus honras fueron el dia 31/oct/2019 en el  Santuario de Guadalupe. Se despidió en panteón del lugar.",
-      "descripcion": ""
-    }
-  ]
-}
+    "obituario": [
+      {
+        "id": "160",
+        "titulo": "",
+        "nombre": "Eulalia",
+        "apellido_paterno": "Holguín",
+        "apellido_materno": "",
+        "fecha": "Viernes 01 de Noviembre",
+        "mensaje_corto": "A la edad de 69 años",
+        "se_vela_en": "Cienega de Escobar, Tepehuanes Dgo",
+        "honras": "Pendientes",
+        "descripcion": ""
+      },
+      {
+        "id": "159",
+        "titulo": "",
+        "nombre": "Miguel",
+        "apellido_paterno": "Velazquez",
+        "apellido_materno": "Favela",
+        "fecha": "Jueves 31 de Octubre",
+        "mensaje_corto": "",
+        "se_vela_en": "Se traslada de Chicago, Illinois a Durango, Dgo.",
+        "honras": "Honras y sala de velación aún pendientes.",
+        "descripcion": ""
+      },
+      {
+        "id": "158",
+        "titulo": "",
+        "nombre": "Imeldo",
+        "apellido_paterno": "Alarcón",
+        "apellido_materno": "",
+        "fecha": "Jueves 31 de Octubre",
+        "mensaje_corto": "",
+        "se_vela_en": "Se traslada de Chicago, Illinois. a Durango, Dgo.",
+        "honras": "Honras y sala de velación aún pendientes.",
+        "descripcion": ""
+      },
+      {
+        "id": "157",
+        "titulo": "",
+        "nombre": "Ma. Guadalupe",
+        "apellido_paterno": "Castillo",
+        "apellido_materno": "Rodriguez",
+        "fecha": "Jueves 31 de Octubre",
+        "mensaje_corto": "A la edad de 75 años",
+        "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
+        "honras": "13:00 hrs.  Templo Ntra. de la Salud. Se despide para su cremación.",
+        "descripcion": ""
+      }
+    ],
+    "obituario_ingles": [
+      {
+        "id": "160",
+        "titulo": "",
+        "nombre": "Eulalia",
+        "apellido_paterno": "Holguín",
+        "apellido_materno": "",
+        "fecha": "Friday, November 01",
+        "mensaje_corto": "At the age of 69 years",
+        "se_vela_en": "Cienega de Escobar, Tepehuanes Dgo",
+        "honras": "Pendents",
+        "descripcion": ""
+      },
+      {
+        "id": "159",
+        "titulo": "",
+        "nombre": "Miguel",
+        "apellido_paterno": "Velazquez",
+        "apellido_materno": "Favela",
+        "fecha": "Thursday, October 31",
+        "mensaje_corto": "",
+        "se_vela_en": "Se traslada de Chicago, Illinois a Durango, Dgo.",
+        "honras": "Honras y sala de velación aún pendientes.",
+        "descripcion": ""
+      },
+      {
+        "id": "158",
+        "titulo": "",
+        "nombre": "Imeldo",
+        "apellido_paterno": "Alarcón",
+        "apellido_materno": "",
+        "fecha": "Thursday, October 31",
+        "mensaje_corto": "",
+        "se_vela_en": "Se traslada de Chicago, Illinois. a Durango, Dgo.",
+        "honras": "Honras y sala de velación aún pendientes.",
+        "descripcion": ""
+      },
+      {
+        "id": "157",
+        "titulo": "",
+        "nombre": "Ma. Guadalupe",
+        "apellido_paterno": "Castillo",
+        "apellido_materno": "Rodriguez",
+        "fecha": "Thursday, October 31",
+        "mensaje_corto": "At the age of 75 years",
+        "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
+        "honras": "13:00 hrs.  Templo Ntra. de la Salud. Se despide para su cremación.",
+        "descripcion": ""
+      }
+    ]
+  }
