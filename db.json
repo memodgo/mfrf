@@ -1,102 +1,126 @@
 {
-    "obituario": [
-      {
-        "id": "160",
-        "titulo": "",
-        "nombre": "Eulalia",
-        "apellido_paterno": "Holguín",
-        "apellido_materno": "",
-        "fecha": "Viernes 01 de Noviembre",
-        "mensaje_corto": "A la edad de 69 años",
-        "se_vela_en": "Cienega de Escobar, Tepehuanes Dgo",
-        "honras": "Pendientes",
-        "descripcion": ""
-      },
-      {
-        "id": "159",
-        "titulo": "",
-        "nombre": "Miguel",
-        "apellido_paterno": "Velazquez",
-        "apellido_materno": "Favela",
-        "fecha": "Jueves 31 de Octubre",
-        "mensaje_corto": "",
-        "se_vela_en": "Se traslada de Chicago, Illinois a Durango, Dgo.",
-        "honras": "Honras y sala de velación aún pendientes.",
-        "descripcion": ""
-      },
-      {
-        "id": "158",
-        "titulo": "",
-        "nombre": "Imeldo",
-        "apellido_paterno": "Alarcón",
-        "apellido_materno": "",
-        "fecha": "Jueves 31 de Octubre",
-        "mensaje_corto": "",
-        "se_vela_en": "Se traslada de Chicago, Illinois. a Durango, Dgo.",
-        "honras": "Honras y sala de velación aún pendientes.",
-        "descripcion": ""
-      },
-      {
-        "id": "157",
-        "titulo": "",
-        "nombre": "Ma. Guadalupe",
-        "apellido_paterno": "Castillo",
-        "apellido_materno": "Rodriguez",
-        "fecha": "Jueves 31 de Octubre",
-        "mensaje_corto": "A la edad de 75 años",
-        "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
-        "honras": "13:00 hrs.  Templo Ntra. de la Salud. Se despide para su cremación.",
-        "descripcion": ""
-      }
-    ],
-    "obituario_ingles": [
-      {
-        "id": "160",
-        "titulo": "",
-        "nombre": "Eulalia",
-        "apellido_paterno": "Holguín",
-        "apellido_materno": "",
-        "fecha": "Friday, November 01",
-        "mensaje_corto": "At the age of 69 years",
-        "se_vela_en": "Cienega de Escobar, Tepehuanes Dgo",
-        "honras": "Pendents",
-        "descripcion": ""
-      },
-      {
-        "id": "159",
-        "titulo": "",
-        "nombre": "Miguel",
-        "apellido_paterno": "Velazquez",
-        "apellido_materno": "Favela",
-        "fecha": "Thursday, October 31",
-        "mensaje_corto": "",
-        "se_vela_en": "Se traslada de Chicago, Illinois a Durango, Dgo.",
-        "honras": "Honras y sala de velación aún pendientes.",
-        "descripcion": ""
-      },
-      {
-        "id": "158",
-        "titulo": "",
-        "nombre": "Imeldo",
-        "apellido_paterno": "Alarcón",
-        "apellido_materno": "",
-        "fecha": "Thursday, October 31",
-        "mensaje_corto": "",
-        "se_vela_en": "Se traslada de Chicago, Illinois. a Durango, Dgo.",
-        "honras": "Honras y sala de velación aún pendientes.",
-        "descripcion": ""
-      },
-      {
-        "id": "157",
-        "titulo": "",
-        "nombre": "Ma. Guadalupe",
-        "apellido_paterno": "Castillo",
-        "apellido_materno": "Rodriguez",
-        "fecha": "Thursday, October 31",
-        "mensaje_corto": "At the age of 75 years",
-        "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
-        "honras": "13:00 hrs.  Templo Ntra. de la Salud. Se despide para su cremación.",
-        "descripcion": ""
-      }
-    ]
-  }
+  "obituario": [
+    {
+      "id": 162,
+      "titulo": "",
+      "nombre": "Roberto",
+      "apellido_paterno": "Torres",
+      "apellido_materno": "Medrano",
+      "fecha": "Sábado 02 de Noviembre",
+      "mensaje_corto": "A la edad de 69 años",
+      "se_vela_en": "Dolores del Río Capilla Esmeralda.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 161,
+      "titulo": "",
+      "nombre": "Eulalio",
+      "apellido_paterno": "Holguin",
+      "apellido_materno": "",
+      "fecha": "Sábado 02 de Noviembre",
+      "mensaje_corto": "A la edad de 69 años",
+      "se_vela_en": "Dom. Con. Cienega de Escobar, Tepehuanes, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    }
+    {
+      "id": 159,
+      "titulo": "",
+      "nombre": "Miguel",
+      "apellido_paterno": "Velazquez",
+      "apellido_materno": "Favela",
+      "fecha": "Jueves 31 de Octubre",
+      "mensaje_corto": "",
+      "se_vela_en": "Suc. Dolores del Río Capilla Plata.",
+      "honras": "el dia domingo 03/nov/2019  a las 14:30 hrs. Templo Santo Niño. Se despide en panteón Valle de los Sabinos.",
+      "descripcion": ""
+    },
+    {
+      "id": 158,
+      "titulo": "",
+      "nombre": "Imeldo",
+      "apellido_paterno": "Alarcón",
+      "apellido_materno": "",
+      "fecha": "Jueves 31 de Octubre",
+      "mensaje_corto": "",
+      "se_vela_en": "Tepehuanes, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 157,
+      "titulo": "",
+      "nombre": "Ma. Guadalupe",
+      "apellido_paterno": "Castillo",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Jueves 31 de Octubre",
+      "mensaje_corto": "A la edad de 75 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
+      "honras": "13:00 hrs.  Templo Ntra. de la Salud. Se despide para su cremación.",
+      "descripcion": ""
+    }
+  ],
+  "obituario_ingles": [
+    {
+      "id": 162,
+      "titulo": "",
+      "nombre": "Roberto",
+      "apellido_paterno": "Torres",
+      "apellido_materno": "Medrano",
+      "fecha": "Saturday, November 02",
+      "mensaje_corto": "At the age of 69 years",
+      "se_vela_en": "Dolores del Río Capilla Esmeralda.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 161,
+      "titulo": "",
+      "nombre": "Eulalio",
+      "apellido_paterno": "Holguin",
+      "apellido_materno": "",
+      "fecha": "Saturday, November 02",
+      "mensaje_corto": "At the age of 69 years",
+      "se_vela_en": "Dom. Con. Cienega de Escobar, Tepehuanes, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 159,
+      "titulo": "",
+      "nombre": "Miguel",
+      "apellido_paterno": "Velazquez",
+      "apellido_materno": "Favela",
+      "fecha": "Thursday, October 31",
+      "mensaje_corto": "",
+      "se_vela_en": "Suc. Dolores del Río Capilla Plata.",
+      "honras": "el dia domingo 03/nov/2019  a las 14:30 hrs. Templo Santo Niño. Se despide en panteón Valle de los Sabinos.",
+      "descripcion": ""
+    },
+    {
+      "id": 158,
+      "titulo": "",
+      "nombre": "Imeldo",
+      "apellido_paterno": "Alarcón",
+      "apellido_materno": "",
+      "fecha": "Thursday, October 31",
+      "mensaje_corto": "",
+      "se_vela_en": "Tepehuanes, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 157,
+      "titulo": "",
+      "nombre": "Ma. Guadalupe",
+      "apellido_paterno": "Castillo",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Thursday, October 31",
+      "mensaje_corto": "At the age of 75 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
+      "honras": "13:00 hrs.  Templo Ntra. de la Salud. Se despide para su cremación.",
+      "descripcion": ""
+    }
+  ]
+}
