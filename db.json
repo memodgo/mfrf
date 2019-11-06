@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 173,
+      "titulo": "",
+      "nombre": "Margarita",
+      "apellido_paterno": "Garcia",
+      "apellido_materno": "Barbosa",
+      "fecha": "Miercoles 06 de Noviembre",
+      "mensaje_corto": "A la edad de 74 años",
+      "se_vela_en": "Calle Pipila #101 Loc. El Nayar, Dgo",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 172,
+      "titulo": "",
+      "nombre": "Maria del Socorro",
+      "apellido_paterno": "Reyna",
+      "apellido_materno": "Colunga",
+      "fecha": "Miercoles 06 de Noviembre",
+      "mensaje_corto": "A la edad de 58 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 171,
       "titulo": "",
       "nombre": "Teresita",
@@ -33,7 +57,7 @@
       "fecha": "Lunes 04 de Noviembre",
       "mensaje_corto": "A la edad de 60 años",
       "se_vela_en": "Tepehuanes, Dgo.",
-      "honras": "Pendientes",
+      "honras": "14:00 hrs. Templo Santa Catarina. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -71,33 +95,33 @@
       "se_vela_en": "Dom. Con. Carlos Real, Dgo.",
       "honras": "10:00 hrs. Templo Ntra. Sra. del Rosario. Se despide en panteón del lugar.",
       "descripcion": ""
-    },
-    {
-      "id": 165,
-      "titulo": "",
-      "nombre": "Maria Ines",
-      "apellido_paterno": "Cisneros",
-      "apellido_materno": "Guerrero",
-      "fecha": "Lunes 04 de Noviembre",
-      "mensaje_corto": "A la edad de 90 años",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
-      "honras": "13:00 hrs. Templo Santuario de Guadalupe (nuevo) Se despide en panteón Valle de los Sabinos.",
-      "descripcion": ""
-    },
-    {
-      "id": 164,
-      "titulo": "",
-      "nombre": "Luis ",
-      "apellido_paterno": "Herrera",
-      "apellido_materno": "Salas",
-      "fecha": "Lunes 04 de Noviembre",
-      "mensaje_corto": "A la edad de 88 años",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Oro y Plata",
-      "honras": "05/nov/2019 Templo Ntra. Sra. de Fatima. Se despidió en panteón Oriente.",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 173,
+      "titulo": "",
+      "nombre": "Margarita",
+      "apellido_paterno": "Garcia",
+      "apellido_materno": "Barbosa",
+      "fecha": "Wednesday, November 06",
+      "mensaje_corto": "At the age of 74 years",
+      "se_vela_en": "Calle Pipila #101 Loc. El Nayar, Dgo",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 172,
+      "titulo": "",
+      "nombre": "Maria del Socorro",
+      "apellido_paterno": "Reyna",
+      "apellido_materno": "Colunga",
+      "fecha": "Wednesday, November 06",
+      "mensaje_corto": "At the age of 58 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 171,
       "titulo": "",
@@ -106,7 +130,7 @@
       "apellido_materno": "Favila",
       "fecha": "Tuesday, November 05",
       "mensaje_corto": "At the age of 67 years",
-      "se_vela_en": "Emeralda Chapel of Dolores del Rio Branch",
+      "se_vela_en": "Capilla Esmeralda de Suc. Dolores del Rio ",
       "honras": "Pendents",
       "descripcion": ""
     },
@@ -118,7 +142,7 @@
       "apellido_materno": "Quezada",
       "fecha": "Tuesday, November 05",
       "mensaje_corto": "At the age of 89 years",
-      "se_vela_en": "Diamante Chapel of Dolores del Rio Branch",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante.",
       "honras": "14:00 hrs Templo de Nuestra Sra. de los Angeles Se despide en panteon Valle de los Sabinos",
       "descripcion": ""
     },
@@ -131,7 +155,7 @@
       "fecha": "Monday, November 04",
       "mensaje_corto": "At the age of 60 years",
       "se_vela_en": "Tepehuanes, Dgo.",
-      "honras": "Pendents",
+      "honras": "14:00 hrs. Templo Santa Catarina. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -168,30 +192,6 @@
       "mensaje_corto": "At the age of 63 years",
       "se_vela_en": "Dom. Con. Carlos Real, Dgo.",
       "honras": "10:00 hrs. Templo Ntra. Sra. del Rosario. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 165,
-      "titulo": "",
-      "nombre": "Maria Ines",
-      "apellido_paterno": "Cisneros",
-      "apellido_materno": "Guerrero",
-      "fecha": "Monday, November 04",
-      "mensaje_corto": "At the age of 90 years",
-      "se_vela_en": "Diamante Chapel of Dolores del Rio Branch",
-      "honras": "13:00 hrs. Templo Santuario de Guadalupe (nuevo) Se despide en panteón Valle de los Sabinos.",
-      "descripcion": ""
-    },
-    {
-      "id": 164,
-      "titulo": "",
-      "nombre": "Luis ",
-      "apellido_paterno": "Herrera",
-      "apellido_materno": "Salas",
-      "fecha": "Monday, November 04",
-      "mensaje_corto": "At the age of 88 years",
-      "se_vela_en": "Oro & Plata Chapel of Dolores del Rio Branch",
-      "honras": "05/nov/2019 Templo Ntra. Sra. de Fatima. Se despidió en panteón Oriente.",
       "descripcion": ""
     }
   ]
