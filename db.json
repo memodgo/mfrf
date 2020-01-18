@@ -1,6 +1,42 @@
 {
   "obituario": [
     {
+      "id": 225,
+      "titulo": "",
+      "nombre": "Manuel",
+      "apellido_paterno": "Renteria",
+      "apellido_materno": "Castillo",
+      "fecha": "Sábado 18 de Enero",
+      "mensaje_corto": "A la edad de 57 años",
+      "se_vela_en": "Dom. Con. Estación Guadiana, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 224,
+      "titulo": "",
+      "nombre": "Herlinda ",
+      "apellido_paterno": "Gonzales ",
+      "apellido_materno": "de Gonzales",
+      "fecha": "Sábado 18 de Enero",
+      "mensaje_corto": "A la edad de 65 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Oro",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 223,
+      "titulo": "",
+      "nombre": "Maria Romelia",
+      "apellido_paterno": "Aldama",
+      "apellido_materno": "Juarez",
+      "fecha": "Sábado 18 de Enero",
+      "mensaje_corto": "A la edad de 64 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
+      "honras": "16:00hrs en Templo Divina Providencia se despide en panteón de Oriente",
+      "descripcion": ""
+    },
+    {
       "id": 222,
       "titulo": "",
       "nombre": "Jose Abelardo",
@@ -9,7 +45,7 @@
       "fecha": "Viernes 17 de Enero",
       "mensaje_corto": "A la edad de 71 años",
       "se_vela_en": "Dom. Con. La Joya, Poanas, Dgo.",
-      "honras": "Pendientes",
+      "honras": "15:00hrs en Templo del lugar y se despide en panteon del lugar",
       "descripcion": ""
     },
     {
@@ -69,7 +105,7 @@
       "fecha": "Viernes 17 de Enero",
       "mensaje_corto": "A la edad de 59 años",
       "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-      "honras": "Pendientes",
+      "honras": "16:00hrs en Templo de Fátima y se despide en anteon de Oriente",
       "descripcion": ""
     },
     {
@@ -80,22 +116,58 @@
       "apellido_materno": "Simental",
       "fecha": "Viernes 17 de Enero",
       "mensaje_corto": "A la edad de 53 años",
-      "se_vela_en": "Pendientes",
-      "honras": "Pendientes",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+      "honras": "13:00hrs en Templo Cristo Rey y se despide en panteón de Oriente",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 225,
+      "titulo": "",
+      "nombre": "Manuel",
+      "apellido_paterno": "Renteria",
+      "apellido_materno": "Castillo",
+      "fecha": "Saturday, Junuary 18",
+      "mensaje_corto": "At the age of 57 years",
+      "se_vela_en": "Dom. Con. Estación Guadiana, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 224,
+      "titulo": "",
+      "nombre": "Herlinda ",
+      "apellido_paterno": "Gonzales ",
+      "apellido_materno": "de Gonzales",
+      "fecha": "Saturday, Junuary 18",
+      "mensaje_corto": "At the age of 65 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Oro",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 223,
+      "titulo": "",
+      "nombre": "Maria Romelia",
+      "apellido_paterno": "Aldama",
+      "apellido_materno": "Juarez",
+      "fecha": "Saturday, Junuary 18",
+      "mensaje_corto": "At the age of 64 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
+      "honras": "16:00hrs en Templo Divina Providencia se despide en panteón de Oriente",
+      "descripcion": ""
+    },
     {
       "id": 222,
       "titulo": "",
       "nombre": "Jose Abelardo",
       "apellido_paterno": "Flores",
       "apellido_materno": "Macias",
-      "fecha": "Friday, Junuary 17",
+      "fecha": "Saturday, Junuary 18",
       "mensaje_corto": "At the age of 71 years",
       "se_vela_en": "Dom. Con. La Joya, Poanas, Dgo.",
-      "honras": "Pendents",
+      "honras": "15:00hrs en Templo del lugar y se despide en panteon del lugar",
       "descripcion": ""
     },
     {
@@ -155,7 +227,7 @@
       "fecha": "Friday, Junuary 17",
       "mensaje_corto": "At the age of 59 years",
       "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-      "honras": "Pendents",
+      "honras": "16:00hrs en Templo de Fátima y se despide en anteon de Oriente",
       "descripcion": ""
     },
     {
@@ -166,8 +238,8 @@
       "apellido_materno": "Simental",
       "fecha": "Friday, Junuary 17",
       "mensaje_corto": "At the age of 53 years",
-      "se_vela_en": "Pendents",
-      "honras": "Pendents",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Diamante",
+      "honras": "13:00hrs en Templo Cristo Rey y se despide en panteón de Oriente",
       "descripcion": ""
     }
   ]
