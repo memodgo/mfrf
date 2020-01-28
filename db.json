@@ -1,14 +1,38 @@
 {
   "obituario": [
     {
-      "id": 237,
+      "id": 240,
       "titulo": "",
-      "nombre": "Juan Manuel",
-      "apellido_paterno": "Minchaca",
-      "apellido_materno": "Vargas",
-      "fecha": "Lunes 27 de Enero",
-      "mensaje_corto": "A la edad de 62 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Plata y Oro.",
+      "nombre": "Catarino",
+      "apellido_paterno": "Favela",
+      "apellido_materno": "Lopez",
+      "fecha": "Martes 28 de Enero",
+      "mensaje_corto": "A la edad de 58 años",
+      "se_vela_en": "Capilla Santa Catarina, Tepehuanes, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 239,
+      "titulo": "",
+      "nombre": "Pablo de la Cruz",
+      "apellido_paterno": "Sarmiento",
+      "apellido_materno": "Ontiveros",
+      "fecha": "Martes 28 de Enero",
+      "mensaje_corto": "",
+      "se_vela_en": "Santiago Papasquiaro, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 238,
+      "titulo": "",
+      "nombre": "Ma. Rosa ",
+      "apellido_paterno": "Morales",
+      "apellido_materno": "Morales",
+      "fecha": "Martes 28 de Enero",
+      "mensaje_corto": "A la edad de 61 años",
+      "se_vela_en": "Calle Calisto Contreras #500 Col. Emiliano Zapata",
       "honras": "Pendientes",
       "descripcion": ""
     },
@@ -47,66 +71,42 @@
       "se_vela_en": "Dom. Con. Tepehuanes, Dgo.",
       "honras": "9:00 hrs. Templo Santuario de GUADALUPE. Se despide en panteón del lugar.",
       "descripcion": ""
-    },
-    {
-      "id": 233,
-      "titulo": "",
-      "nombre": "Ruben",
-      "apellido_paterno": "Rocha",
-      "apellido_materno": "Martinez",
-      "fecha": "Lunes 27 de Enero",
-      "mensaje_corto": "A la edad de 60 años",
-      "se_vela_en": "Se veló en Suc. Calle Gómez Palacio Capilla Santa Catarina",
-      "honras": "Sus honras fueron el dia domingo 26 de enero Santuario de Ntra. Sra. de Guadalupe. Lo despidieron en panteón Valle de Los Sabinos.",
-      "descripcion": ""
-    },
-    {
-      "id": 232,
-      "titulo": "",
-      "nombre": "Elisa",
-      "apellido_paterno": "Cordero ",
-      "apellido_materno": "Luna",
-      "fecha": "Lunes 27 de Enero",
-      "mensaje_corto": "A la edad de 79 años",
-      "se_vela_en": "Se veló en Suc. Dolores del Río Capilla Oro",
-      "honras": "Sus honras fueron el dia domingo 26 de enero Parroquia de Ntra. Sra. de Guadalupe. Lo despidieron en panteón Getsemaní",
-      "descripcion": ""
-    },
-    {
-      "id": 231,
-      "titulo": "",
-      "nombre": "Herminia",
-      "apellido_paterno": "Carrera",
-      "apellido_materno": "de Gamboa",
-      "fecha": "Lunes 27 de Enero",
-      "mensaje_corto": "A la edad de 76 años",
-      "se_vela_en": "Se veló en Suc. Dolores del Río Capilla Diamante y Esmeralda.",
-      "honras": "fueron el dia domingo Templo Santa Rosa de Lima. La despidieron en panteon Jardin",
-      "descripcion": ""
-    },
-    {
-      "id": 230,
-      "titulo": "",
-      "nombre": "Gabriela",
-      "apellido_paterno": "Torres",
-      "apellido_materno": "Melendez",
-      "fecha": "Lunes 27 de Enero",
-      "mensaje_corto": "A la edad de 65 años",
-      "se_vela_en": "Se velo Suc. Dolores del Río Capilla Plata",
-      "honras": "fueron el dia domingo 26 de enero Templo Santa Ana. La despidieron en panteón de Santiago Bayacora, Dgo.",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 237,
+      "id": 240,
       "titulo": "",
-      "nombre": "Juan Manuel",
-      "apellido_paterno": "Minchaca",
-      "apellido_materno": "Vargas",
-      "fecha": "Monday, Junuary 27",
-      "mensaje_corto": "At the age of 62 years",
-      "se_vela_en": "Suc. Dolores del Río Capilla Plata y Oro.",
+      "nombre": "Catarino",
+      "apellido_paterno": "Favela",
+      "apellido_materno": "Lopez",
+      "fecha": "Tuesday, Junuary 28",
+      "mensaje_corto": "At the age of 58 years",
+      "se_vela_en": "Capilla Santa Catarina, Tepehuanes, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 239,
+      "titulo": "",
+      "nombre": "Pablo de la Cruz",
+      "apellido_paterno": "Sarmiento",
+      "apellido_materno": "Ontiveros",
+      "fecha": "Tuesday, Junuary 28",
+      "mensaje_corto": "",
+      "se_vela_en": "Santiago Papasquiaro, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 238,
+      "titulo": "",
+      "nombre": "Ma. Rosa ",
+      "apellido_paterno": "Morales",
+      "apellido_materno": "Morales",
+      "fecha": "Tuesday, Junuary 28",
+      "mensaje_corto": "At the age of 61 years",
+      "se_vela_en": "Calle Calisto Contreras #500 Col. Emiliano Zapata",
       "honras": "Pendents",
       "descripcion": ""
     },
@@ -144,54 +144,6 @@
       "mensaje_corto": "",
       "se_vela_en": "Dom. Con. Tepehuanes, Dgo.",
       "honras": "9:00 hrs. Templo Santuario de GUADALUPE. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 233,
-      "titulo": "",
-      "nombre": "Ruben",
-      "apellido_paterno": "Rocha",
-      "apellido_materno": "Martinez",
-      "fecha": "Monday, Junuary 27",
-      "mensaje_corto": "At the age of 60 years",
-      "se_vela_en": "Se veló en Suc. Calle Gómez Palacio Capilla Santa Catarina",
-      "honras": "Sus honras fueron el dia domingo 26 de enero Santuario de Ntra. Sra. de Guadalupe. Lo despidieron en panteón Valle de Los Sabinos.",
-      "descripcion": ""
-    },
-    {
-      "id": 232,
-      "titulo": "",
-      "nombre": "Elisa",
-      "apellido_paterno": "Cordero ",
-      "apellido_materno": "Luna",
-      "fecha": "Monday, Junuary 27",
-      "mensaje_corto": "At the age of 79 years",
-      "se_vela_en": "Se veló en Suc. Dolores del Río Capilla Oro",
-      "honras": "Sus honras fueron el dia domingo 26 de enero Parroquia de Ntra. Sra. de Guadalupe. Lo despidieron en panteón Getsemaní",
-      "descripcion": ""
-    },
-    {
-      "id": 231,
-      "titulo": "",
-      "nombre": "Herminia",
-      "apellido_paterno": "Carrera",
-      "apellido_materno": "de Gamboa",
-      "fecha": "Monday, Junuary 27",
-      "mensaje_corto": "At the age of 76 years",
-      "se_vela_en": "Se veló en Suc. Dolores del Río Capilla Diamante y Esmeralda.",
-      "honras": "fueron el dia domingo Templo Santa Rosa de Lima. La despidieron en panteon Jardin",
-      "descripcion": ""
-    },
-    {
-      "id": 230,
-      "titulo": "",
-      "nombre": "Gabriela",
-      "apellido_paterno": "Torres",
-      "apellido_materno": "Melendez",
-      "fecha": "Monday, Junuary 27",
-      "mensaje_corto": "At the age of 65 years",
-      "se_vela_en": "Se velo Suc. Dolores del Río Capilla Plata",
-      "honras": "fueron el dia domingo 26 de enero Templo Santa Ana. La despidieron en panteón de Santiago Bayacora, Dgo.",
       "descripcion": ""
     }
   ]
