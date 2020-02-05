@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 248,
+      "titulo": "",
+      "nombre": "J. Isaac",
+      "apellido_paterno": "Vidaña",
+      "apellido_materno": "Perez",
+      "fecha": "Miercoles, 05 de Febrero",
+      "mensaje_corto": "A la edad de 83 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
+      "honras": "El día Jueves 6 de febrero a las 13:00 hrs. En templo San Isidro Labrador y se despide en panteón Getsemaní ",
+      "descripcion": ""
+    },
+    {
       "id": 247,
       "titulo": "",
       "nombre": "Maria Dolores",
@@ -50,6 +62,18 @@
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 248,
+      "titulo": "",
+      "nombre": "J. Isaac",
+      "apellido_paterno": "Vidaña",
+      "apellido_materno": "Perez",
+      "fecha": "Wednesday, February 05",
+      "mensaje_corto": "A la edad de 83 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
+      "honras": "El día Jueves 6 de febrero a las 13:00 hrs. En templo San Isidro Labrador y se despide en panteón Getsemaní ",
+      "descripcion": ""
+    },
     {
       "id": 247,
       "titulo": "",
