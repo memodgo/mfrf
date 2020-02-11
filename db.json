@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 267,
+      "titulo": "",
+      "nombre": "Loreto",
+      "apellido_paterno": "Aguilera",
+      "apellido_materno": "Carreño",
+      "fecha": "Martes 11 de febrero",
+      "mensaje_corto": "A la edad de 92 años",
+      "se_vela_en": "El Carmen, Valle de Topia, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 266,
+      "titulo": "R. N.",
+      "nombre": "",
+      "apellido_paterno": "Arreola",
+      "apellido_materno": "Ruiz",
+      "fecha": "Martes 11 de febrero",
+      "mensaje_corto": "",
+      "se_vela_en": "Calle Alvarado Obregon s/n Esq. 16 de Septiembre Col. 20 de Noviembre",
+      "honras": "Se despide en panteón Oriente a las 12.00 hrs",
+      "descripcion": ""
+    },
+    {
       "id": 265,
       "titulo": "",
       "nombre": "Jose Ignacio",
@@ -9,31 +33,7 @@
       "fecha": "Lunes 10 de Febrero",
       "mensaje_corto": "A la edad de 71 años",
       "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 264,
-      "titulo": "",
-      "nombre": "Julia ",
-      "apellido_paterno": "Verdin ",
-      "apellido_materno": "Huizar.",
-      "fecha": "Lunes 10 de Febrero",
-      "mensaje_corto": "A la edad de 49 años",
-      "se_vela_en": "Col. 20 de Noviembre.",
-      "honras": "15.00 hrs. Templo de la Col. 20 de Noviembre. Se despide en panteón Oriente",
-      "descripcion": ""
-    },
-    {
-      "id": 263,
-      "titulo": "",
-      "nombre": "Alma Bertha",
-      "apellido_paterno": "García ",
-      "apellido_materno": "Ruiz.",
-      "fecha": "Lunes 10 de Febrero",
-      "mensaje_corto": "A la edad de 58 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda",
-      "honras": "12.00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Getsemaní",
+      "honras": "15.00 hrs. Santuario de Ntra. Sra. de Guadalupe (nuevo) Se despide en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -47,21 +47,33 @@
       "se_vela_en": "Dom. Con. Luna Gonzalez, Santiago Papasquiaro, Dgo.",
       "honras": "Pendientes",
       "descripcion": ""
-    },
-    {
-      "id": 256,
-      "titulo": "",
-      "nombre": "Felipe",
-      "apellido_paterno": "Torres",
-      "apellido_materno": "Garcia",
-      "fecha": "Viernes 07 de Febrero",
-      "mensaje_corto": "A la edad de 84 años",
-      "se_vela_en": "Dom. Con. Ignacio López Rayón, Dgo.",
-      "honras": "12.00 hrs. Templo del lugar",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 267,
+      "titulo": "",
+      "nombre": "Loreto",
+      "apellido_paterno": "Aguilera",
+      "apellido_materno": "Carreño",
+      "fecha": "Tuesday, february 11",
+      "mensaje_corto": "At the age of 92 years",
+      "se_vela_en": "El Carmen, Valle de Topia, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 266,
+      "titulo": "R. N.",
+      "nombre": "",
+      "apellido_paterno": "Arreola",
+      "apellido_materno": "Ruiz",
+      "fecha": "Tuesday, february 11",
+      "mensaje_corto": "",
+      "se_vela_en": "Calle Alvarado Obregon s/n Esq. 16 de Septiembre Col. 20 de Noviembre",
+      "honras": "Se despide en panteón Oriente a las 12.00 hrs",
+      "descripcion": ""
+    },
     {
       "id": 265,
       "titulo": "",
@@ -71,31 +83,7 @@
       "fecha": "Monday, february 10",
       "mensaje_corto": "At the age of 71 years",
       "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 264,
-      "titulo": "",
-      "nombre": "Julia ",
-      "apellido_paterno": "Verdin ",
-      "apellido_materno": "Huizar.",
-      "fecha": "Monday, february 10",
-      "mensaje_corto": "At the age of 49 years",
-      "se_vela_en": "Col. 20 de Noviembre.",
-      "honras": "15.00 hrs. Templo de la Col. 20 de Noviembre. Se despide en panteón Oriente",
-      "descripcion": ""
-    },
-    {
-      "id": 263,
-      "titulo": "",
-      "nombre": "Alma Bertha",
-      "apellido_paterno": "García ",
-      "apellido_materno": "Ruiz.",
-      "fecha": "Monday, february 10",
-      "mensaje_corto": "At the age of 58 years",
-      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda",
-      "honras": "12.00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Getsemaní",
+      "honras": "15.00 hrs. Santuario de Ntra. Sra. de Guadalupe (nuevo) Se despide en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -108,18 +96,6 @@
       "mensaje_corto": "At the age of 70 years",
       "se_vela_en": "Dom. Con. Luna Gonzalez, Santiago Papasquiaro, Dgo.",
       "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 256,
-      "titulo": "",
-      "nombre": "Felipe",
-      "apellido_paterno": "Torres",
-      "apellido_materno": "Garcia",
-      "fecha": "Friday, february 07",
-      "mensaje_corto": "At the age of 84 years",
-      "se_vela_en": "Dom. Con. Ignacio López Rayón, Dgo.",
-      "honras": "12.00 hrs. Templo del lugar",
       "descripcion": ""
     }
   ]
