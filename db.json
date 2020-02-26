@@ -1,77 +1,29 @@
 {
   "obituario": [
     {
-      "id": 275,
+      "id": 277,
       "titulo": "",
-      "nombre": "Servando",
-      "apellido_paterno": "Lares",
-      "apellido_materno": "Quezada",
-      "fecha": "Viernes 20 de Febrero",
-      "mensaje_corto": "A la edad de 52 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Oro.",
-      "honras": "13:00 hrs Templo San Francisco de Asis  y se despide en panteón Jardín",
-      "descripcion": ""
-    },
-    {
-      "id": 274,
-      "titulo": "",
-      "nombre": "Rosa",
-      "apellido_paterno": "Rodriguez",
-      "apellido_materno": "Silva",
-      "fecha": "Viernes 20 de Febrero",
-      "mensaje_corto": "A la edad de 65 años",
-      "se_vela_en": "Topia, Dgo.",
+      "nombre": "Sergio",
+      "apellido_paterno": "Montiel",
+      "apellido_materno": "Gonzáles",
+      "fecha": "Miercoles 26 de febrero",
+      "mensaje_corto": "A la edad de 67 años",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Río",
       "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 273,
-      "titulo": "",
-      "nombre": "Socorro",
-      "apellido_paterno": "Colon",
-      "apellido_materno": "Delgado",
-      "fecha": "Viernes 20 de Febrero",
-      "mensaje_corto": "A la edad de 90 años",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
-      "honras": "16:00 hrs Templo Santo Niño de Atocha y se despide en panteón de Oriente",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 275,
+      "id": 277,
       "titulo": "",
-      "nombre": "Servando",
-      "apellido_paterno": "Lares",
-      "apellido_materno": "Quezada",
-      "fecha": "Friday, february 20",
-      "mensaje_corto": "At the age of 52 years",
-      "se_vela_en": "Suc. Dolores del Río Capilla Oro.",
-      "honras": "13:00 hrs Templo San Francisco de Asis  y se despide en panteón Jardín",
-      "descripcion": ""
-    },
-    {
-      "id": 274,
-      "titulo": "",
-      "nombre": "Rosa",
-      "apellido_paterno": "Rodriguez",
-      "apellido_materno": "Silva",
-      "fecha": "Friday, february 20",
-      "mensaje_corto": "At the age of 65 years",
-      "se_vela_en": "Topia, Dgo.",
+      "nombre": "Sergio",
+      "apellido_paterno": "Montiel",
+      "apellido_materno": "Gonzáles",
+      "fecha": "Wednesday, february 26",
+      "mensaje_corto": "At the age of 67 years",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Río",
       "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 273,
-      "titulo": "",
-      "nombre": "Socorro",
-      "apellido_paterno": "Colon",
-      "apellido_materno": "Delgado",
-      "fecha": "Friday, february 20",
-      "mensaje_corto": "At the age of 90 years",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
-      "honras": "16:00 hrs Templo Santo Niño de Atocha y se despide en panteón de Oriente",
       "descripcion": ""
     }
   ]
