@@ -1,6 +1,66 @@
 {
   "obituario": [
     {
+      "id": 282,
+      "titulo": "",
+      "nombre": "Salvador",
+      "apellido_paterno": "Lucero",
+      "apellido_materno": "Santillano",
+      "fecha": "Jueves 27 de febrero",
+      "mensaje_corto": "A la edad de 68 años",
+      "se_vela_en": "Dom. Con. Leandro Valle, Rodeo, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 281,
+      "titulo": "",
+      "nombre": "Isidro",
+      "apellido_paterno": "Mascorro",
+      "apellido_materno": "Reyes",
+      "fecha": "Jueves 27 de febrero",
+      "mensaje_corto": "A la edad de 75 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 280,
+      "titulo": "",
+      "nombre": "Delfina",
+      "apellido_paterno": "Avitia",
+      "apellido_materno": "Barraza",
+      "fecha": "Jueves 27 de febrero",
+      "mensaje_corto": "A la edad de 72 años",
+      "se_vela_en": "Dom. Con. Las Cruces, Santiago Papasquiaro, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 279,
+      "titulo": "",
+      "nombre": "Manuel Alberto",
+      "apellido_paterno": "Melendez ",
+      "apellido_materno": "Lopez",
+      "fecha": "Jueves 27 de febrero",
+      "mensaje_corto": "A la edad de 36 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Plata",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 278,
+      "titulo": "",
+      "nombre": "Juan Manuel",
+      "apellido_paterno": "Gutierrez ",
+      "apellido_materno": "Martinez",
+      "fecha": "Jueves 27 de febrero",
+      "mensaje_corto": "A la edad de 51 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
+      "honras": "13:00 hrs. Santuario Ntra. Sra. de Guadalupe  Se despide en panteón Oriente",
+      "descripcion": ""
+    },
+    {
       "id": 277,
       "titulo": "",
       "nombre": "Sergio",
@@ -9,11 +69,71 @@
       "fecha": "Miercoles 26 de febrero",
       "mensaje_corto": "A la edad de 67 años",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Río",
-      "honras": "Pendientes",
+      "honras": "12:00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Valle de Los Sabinos.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 282,
+      "titulo": "",
+      "nombre": "Salvador",
+      "apellido_paterno": "Lucero",
+      "apellido_materno": "Santillano",
+      "fecha": "Thursday, february 27",
+      "mensaje_corto": "At the age of 68 years",
+      "se_vela_en": "Dom. Con. Leandro Valle, Rodeo, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 281,
+      "titulo": "",
+      "nombre": "Isidro",
+      "apellido_paterno": "Mascorro",
+      "apellido_materno": "Reyes",
+      "fecha": "Thursday, february 27",
+      "mensaje_corto": "At the age of 75 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 280,
+      "titulo": "",
+      "nombre": "Delfina",
+      "apellido_paterno": "Avitia",
+      "apellido_materno": "Barraza",
+      "fecha": "Thursday, february 27",
+      "mensaje_corto": "At the age of 72 years",
+      "se_vela_en": "Dom. Con. Las Cruces, Santiago Papasquiaro, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 279,
+      "titulo": "",
+      "nombre": "Manuel Alberto",
+      "apellido_paterno": "Melendez ",
+      "apellido_materno": "Lopez",
+      "fecha": "Thursday, february 27",
+      "mensaje_corto": "At the age of 36 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Plata",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 278,
+      "titulo": "",
+      "nombre": "Juan Manuel",
+      "apellido_paterno": "Gutierrez ",
+      "apellido_materno": "Martinez",
+      "fecha": "Thursday, february 27",
+      "mensaje_corto": "At the age of 51 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Oro",
+      "honras": "13:00 hrs. Santuario Ntra. Sra. de Guadalupe  Se despide en panteón Oriente",
+      "descripcion": ""
+    },
     {
       "id": 277,
       "titulo": "",
@@ -23,7 +143,7 @@
       "fecha": "Wednesday, february 26",
       "mensaje_corto": "At the age of 67 years",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Río",
-      "honras": "Pendents",
+      "honras": "12:00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Valle de Los Sabinos.",
       "descripcion": ""
     }
   ]
