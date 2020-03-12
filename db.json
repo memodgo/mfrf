@@ -1,15 +1,39 @@
 {
   "obituario": [
     {
+      "id": 295,
+      "titulo": "",
+      "nombre": "Jose Angel",
+      "apellido_paterno": "Mancinas",
+      "apellido_materno": "Quiñones",
+      "fecha": "Jueves 12 de marzo ",
+      "mensaje_corto": "A la edad de 66 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 294,
+      "titulo": "R.N. ",
+      "nombre": "Ivan",
+      "apellido_paterno": "Velazquez",
+      "apellido_materno": "Reyna",
+      "fecha": "Jueves 12 de marzo ",
+      "mensaje_corto": "",
+      "se_vela_en": "Se vela Prol. Hidalgo #856 Zona Centro",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 293,
       "titulo": "",
       "nombre": "Francisca",
       "apellido_paterno": "Hernandez",
       "apellido_materno": "Vargas",
-      "fecha": "Miercoles 11 de febrero",
+      "fecha": "Miercoles 11 de marzo",
       "mensaje_corto": "A la edad de 49 años",
       "se_vela_en": "Suc. Dolores del Río Capilla Oro",
-      "honras": "Pendientes",
+      "honras": "e despide directo en panteón Getsemaní a las 14.00 hrs",
       "descripcion": ""
     },
     {
@@ -18,7 +42,7 @@
       "nombre": "Tomasa Esther",
       "apellido_paterno": "Valencia",
       "apellido_materno": "Valencia",
-      "fecha": "Miercoles 11 de febrero",
+      "fecha": "Miercoles 11 de marzo",
       "mensaje_corto": "A la edad de 49 años",
       "se_vela_en": "Capilla Raúl Flores, Guanacevi, Dgo.",
       "honras": "Pendientes",
@@ -30,36 +54,48 @@
       "nombre": "Maria del Socorro",
       "apellido_paterno": "Andrade",
       "apellido_materno": "Rodriguez",
-      "fecha": "Miercoles 11 de febrero",
+      "fecha": "Miercoles 11 de marzo",
       "mensaje_corto": "A la edad de 90 años",
       "se_vela_en": "Suc. Dolores del Río Capilla Plata",
       "honras": "9:00 hrs. Templo Ntra. Sra. del Perpetuo Socorro. Posteriormente se vela en  Dom. Con. Tapias, Canatlan, Dgo. Se despide en panteón de Gomelia, Canatlan, Dgo. el dia jueves 12 de marzo",
-      "descripcion": ""
-    },
-    {
-      "id": 290,
-      "titulo": "",
-      "nombre": "Agripna",
-      "apellido_paterno": "Ceniceros",
-      "apellido_materno": "",
-      "fecha": "Miercoles 11 de febrero",
-      "mensaje_corto": "A la edad de 95 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
-      "honras": "13:00 hrs. Culto Bíblico misma Capilla Diamante. Se despide en panteón Getsemaní",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
+      "id": 295,
+      "titulo": "",
+      "nombre": "Jose Angel",
+      "apellido_paterno": "Mancinas",
+      "apellido_materno": "Quiñones",
+      "fecha": "Thursday, march 12",
+      "mensaje_corto": "At the age of 66 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 294,
+      "titulo": "R.N. ",
+      "nombre": "Ivan",
+      "apellido_paterno": "Velazquez",
+      "apellido_materno": "Reyna",
+      "fecha": "Thursday, march 12",
+      "mensaje_corto": "At the age of 66 years",
+      "se_vela_en": "Se vela Prol. Hidalgo #856 Zona Centro",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 293,
       "titulo": "",
       "nombre": "Francisca",
       "apellido_paterno": "Hernandez",
       "apellido_materno": "Vargas",
-      "fecha": "Wednesday, february 11",
+      "fecha": "Wednesday, march 11",
       "mensaje_corto": "At the age of 49 years",
       "se_vela_en": "Suc. Dolores del Río Capilla Oro",
-      "honras": "Pendents",
+      "honras": "e despide directo en panteón Getsemaní a las 14.00 hrs",
       "descripcion": ""
     },
     {
@@ -68,7 +104,7 @@
       "nombre": "Tomasa Esther",
       "apellido_paterno": "Valencia",
       "apellido_materno": "Valencia",
-      "fecha": "Wednesday, february 11",
+      "fecha": "Wednesday, march 11",
       "mensaje_corto": "At the age of 49 years",
       "se_vela_en": "Capilla Raúl Flores, Guanacevi, Dgo.",
       "honras": "Pendents",
@@ -80,22 +116,10 @@
       "nombre": "Maria del Socorro",
       "apellido_paterno": "Andrade",
       "apellido_materno": "Rodriguez",
-      "fecha": "Wednesday, february 11",
+      "fecha": "Wednesday, march 11",
       "mensaje_corto": "At the age of 90 years",
       "se_vela_en": "Suc. Dolores del Río Capilla Plata",
       "honras": "9:00 hrs. Templo Ntra. Sra. del Perpetuo Socorro. Posteriormente se vela en  Dom. Con. Tapias, Canatlan, Dgo. Se despide en panteón de Gomelia, Canatlan, Dgo. el dia jueves 12 de marzo",
-      "descripcion": ""
-    },
-    {
-      "id": 290,
-      "titulo": "",
-      "nombre": "Agripna",
-      "apellido_paterno": "Ceniceros",
-      "apellido_materno": "",
-      "fecha": "Wednesday, february 11",
-      "mensaje_corto": "At the age of 95 years",
-      "se_vela_en": "Suc. Dolores del Río Capilla Diamante",
-      "honras": "13:00 hrs. Culto Bíblico misma Capilla Diamante. Se despide en panteón Getsemaní",
       "descripcion": ""
     }
   ]
