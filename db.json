@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 302,
+      "titulo": "",
+      "nombre": "Francisca",
+      "apellido_paterno": "Alanis",
+      "apellido_materno": "Perez",
+      "fecha": "Viernes 20 de Marzo",
+      "mensaje_corto": "A la edad de 69 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 301,
       "titulo": "",
       "nombre": "Ma. Elena",
@@ -21,11 +33,23 @@
       "fecha": "Jueves 19 de Marzo",
       "mensaje_corto": "A la edad de 58 años",
       "se_vela_en": "Suc. Dolores del Río Capilla Oro y Plata.",
-      "honras": "Pendientes",
+      "honras": "12:00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Oriente.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 302,
+      "titulo": "",
+      "nombre": "Francisca",
+      "apellido_paterno": "Alanis",
+      "apellido_materno": "Perez",
+      "fecha": "Friday, march 20",
+      "mensaje_corto": "At the age of 69 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 301,
       "titulo": "",
@@ -47,7 +71,7 @@
       "fecha": "Thursday, march 19",
       "mensaje_corto": "At the age of 58 years",
       "se_vela_en": "Suc. Dolores del Río Capilla Oro y Plata.",
-      "honras": "Pendents",
+      "honras": "12:00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Oriente.",
       "descripcion": ""
     }
   ]
