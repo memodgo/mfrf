@@ -1,102 +1,126 @@
 {
-    "obituario": [
-      {
-        "id": 308,
-        "titulo": "",
-        "nombre": "Luis",
-        "apellido_paterno": "Plata",
-        "apellido_materno": "Mercado",
-        "fecha": "Domingo 22 de Marzo",
-        "mensaje_corto": "A la edad de 64 años",
-        "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
-        "honras": "Pendientes",
-        "descripcion": ""
-      },
-      {
-        "id": 307,
-        "titulo": "Srita.",
-        "nombre": "Ma Guadalupe",
-        "apellido_paterno": "Pantoja",
-        "apellido_materno": "Soto",
-        "fecha": "Domingo 22 de Marzo",
-        "mensaje_corto": "A la edad de 26 años",
-        "se_vela_en": "Dom. Con. Abasolo, Rodeo, Dgo.",
-        "honras": "Pendientes",
-        "descripcion": ""
-      },
-      {
-        "id": 306,
-        "titulo": "",
-        "nombre": "Jose Raymundo",
-        "apellido_paterno": "Herrera",
-        "apellido_materno": "Castillo",
-        "fecha": "Domingo 22 de Marzo",
-        "mensaje_corto": "A la edad de 57 años",
-        "se_vela_en": "Capilla Diamante de Suc. Dolores del Río",
-        "honras": "13:00hrs en capilla del panteón Valle de los Sabinos y se despide en panteón Valle de los Sabinos",
-        "descripcion": ""
-      },
-      {
-        "id": 305,
-        "titulo": "",
-        "nombre": "Ma Elena",
-        "apellido_paterno": "Felix",
-        "apellido_materno": "Pulido",
-        "fecha": "Domingo 22 de Marzo",
-        "mensaje_corto": "A la edad de 82 años",
-        "se_vela_en": "Dom. Con. Ejido Belisario Dominguez, Dgo.",
-        "honras": "Pendientes",
-        "descripcion": ""
-      }
-    ],
-    "obituario_ingles": [
-      {
-        "id": 308,
-        "titulo": "",
-        "nombre": "Luis",
-        "apellido_paterno": "Plata",
-        "apellido_materno": "Mercado",
-        "fecha": "march, Sunday 22",
-        "mensaje_corto": "At the age of 64 years",
-        "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
-        "honras": "Pendents",
-        "descripcion": ""
-      },
-      {
-        "id": 307,
-        "titulo": "Srita.",
-        "nombre": "Ma Guadalupe",
-        "apellido_paterno": "Pantoja",
-        "apellido_materno": "Soto",
-        "fecha": "march, Sunday 22",
-        "mensaje_corto": "At the age of 26 years",
-        "se_vela_en": "Dom. Con. Abasolo, Rodeo, Dgo.",
-        "honras": "Pendents",
-        "descripcion": ""
-      },
-      {
-        "id": 306,
-        "titulo": "",
-        "nombre": "Jose Raymundo",
-        "apellido_paterno": "Herrera",
-        "apellido_materno": "Castillo",
-        "fecha": "march, Sunday 22",
-        "mensaje_corto": "At the age of 57 years",
-        "se_vela_en": "Capilla Diamante de Suc. Dolores del Río",
-        "honras": "13:00hrs en capilla del panteón Valle de los Sabinos y se despide en panteón Valle de los Sabinos",
-        "descripcion": ""
-      },
-      {
-        "id": 305,
-        "titulo": "",
-        "nombre": "Ma Elena",
-        "apellido_paterno": "Felix",
-        "apellido_materno": "Pulido",
-        "fecha": "march, Sunday 22",
-        "mensaje_corto": "At the age of 82 years",
-        "se_vela_en": "Dom. Con. Ejido Belisario Dominguez, Dgo.",
-        "honras": "Pendents",
-        "descripcion": ""
-      }
-    ]
-  }
+  "obituario": [
+    {
+      "id": 310,
+      "titulo": "",
+      "nombre": "Rita",
+      "apellido_paterno": "Ortega",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Lunes 23 de marzo",
+      "mensaje_corto": "A la edad de 94 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante a partir de las 12.00 hrs.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 309,
+      "titulo": "",
+      "nombre": "Manuel",
+      "apellido_paterno": "Ontiveros",
+      "apellido_materno": "Castro",
+      "fecha": "Lunes 23 de marzo",
+      "mensaje_corto": "A la edad de 88 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 308,
+      "titulo": "",
+      "nombre": "Luis",
+      "apellido_paterno": "Plata",
+      "apellido_materno": "Mercado",
+      "fecha": "Domingo 22 de Marzo",
+      "mensaje_corto": "A la edad de 64 años",
+      "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
+      "honras": "9:30 hrs. Templo Santa Ana y La Sagrada Familia. Se despide en panteón Oriente.",
+      "descripcion": ""
+    },
+    {
+      "id": 307,
+      "titulo": "Srita.",
+      "nombre": "Ma Guadalupe",
+      "apellido_paterno": "Pantoja",
+      "apellido_materno": "Soto",
+      "fecha": "Domingo 22 de Marzo",
+      "mensaje_corto": "A la edad de 26 años",
+      "se_vela_en": "Dom. Con. Abasolo, Rodeo, Dgo.",
+      "honras": "15:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 305,
+      "titulo": "",
+      "nombre": "Ma Elena",
+      "apellido_paterno": "Felix",
+      "apellido_materno": "Pulido",
+      "fecha": "Domingo 22 de Marzo",
+      "mensaje_corto": "A la edad de 82 años",
+      "se_vela_en": "Dom. Con. Ejido Belisario Dominguez, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    }
+  ],
+  "obituario_ingles": [
+    {
+      "id": 310,
+      "titulo": "",
+      "nombre": "Rita",
+      "apellido_paterno": "Ortega",
+      "apellido_materno": "Rodriguez",
+      "fecha": "march, monday 23",
+      "mensaje_corto": "At the age of 94 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante a partir de las 12.00 hrs.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 309,
+      "titulo": "",
+      "nombre": "Manuel",
+      "apellido_paterno": "Ontiveros",
+      "apellido_materno": "Castro",
+      "fecha": "march, monday 23",
+      "mensaje_corto": "At the age of 88 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 308,
+      "titulo": "",
+      "nombre": "Luis",
+      "apellido_paterno": "Plata",
+      "apellido_materno": "Mercado",
+      "fecha": "march, sunday 22",
+      "mensaje_corto": "At the age of 64 years",
+      "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
+      "honras": "9:30 hrs. Templo Santa Ana y La Sagrada Familia. Se despide en panteón Oriente.",
+      "descripcion": ""
+    },
+    {
+      "id": 307,
+      "titulo": "Srita.",
+      "nombre": "Ma Guadalupe",
+      "apellido_paterno": "Pantoja",
+      "apellido_materno": "Soto",
+      "fecha": "march, sunday 22",
+      "mensaje_corto": "At the age of 26 years",
+      "se_vela_en": "Dom. Con. localidad Abasolo, Rodeo, Dgo.",
+      "honras": "15:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 305,
+      "titulo": "",
+      "nombre": "Ma Elena",
+      "apellido_paterno": "Felix",
+      "apellido_materno": "Pulido",
+      "fecha": "march, sunday 22",
+      "mensaje_corto": "At the age of 82 years",
+      "se_vela_en": "Dom. Con. Ejido Belisario Dominguez, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    }
+  ]
+}
