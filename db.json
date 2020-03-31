@@ -1,15 +1,15 @@
 {
   "obituario": [
     {
-      "id": 327,
+      "id": 328,
       "titulo": "",
-      "nombre": "Maria Isabel",
+      "nombre": "Santiago",
       "apellido_paterno": "Paez",
-      "apellido_materno": "Hernandez",
-      "fecha": "Lunes 30 de Marzo",
-      "mensaje_corto": "A la edad de 48 años",
-      "se_vela_en": "Capilla Baca Ortiz, Santiago Papasquiaro, Dgo.",
-      "honras": "16.00 hrs. Templo Cristo Rey. Se despide en panteón Victor Nevarez.",
+      "apellido_materno": "Bañuelos",
+      "fecha": "Martes 31 de Marzo",
+      "mensaje_corto": "A la edad de 70 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante.",
+      "honras": "12.00 hrs. Templo San Agustín. Se despide para su cremación.",
       "descripcion": ""
     },
     {
@@ -21,21 +21,21 @@
       "fecha": "Lunes 30 de Marzo",
       "mensaje_corto": "A la edad de 82 años",
       "se_vela_en": "Dom. Con. Primo del Verdad, San Juan del Rio, Dgo.",
-      "honras": "Pendientes",
+      "honras": "11:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 327,
+      "id": 328,
       "titulo": "",
-      "nombre": "Maria Isabel",
+      "nombre": "Santiago",
       "apellido_paterno": "Paez",
-      "apellido_materno": "Hernandez",
-      "fecha": "march, monday 30",
-      "mensaje_corto": "At the age of 48 years",
-      "se_vela_en": "Capilla Baca Ortiz, Santiago Papasquiaro, Dgo.",
-      "honras": "16.00 hrs. Templo Cristo Rey. Se despide en panteón Victor Nevarez.",
+      "apellido_materno": "Bañuelos",
+      "fecha": "march, Tuesday 31",
+      "mensaje_corto": "At the age of 70 year",
+      "se_vela_en": "Suc. Dolores del Río Capilla Diamante.",
+      "honras": "12.00 hrs. Templo San Agustín. Se despide para su cremación.",
       "descripcion": ""
     },
     {
@@ -44,10 +44,10 @@
       "nombre": "Ma. del Socorro",
       "apellido_paterno": "Felix",
       "apellido_materno": "Landeros",
-      "fecha": "march, monday 30",
-      "mensaje_corto": "At the age of 82 years",
+      "fecha": "march, moday 30",
+      "mensaje_corto": "At the gae of 82 years",
       "se_vela_en": "Dom. Con. Primo del Verdad, San Juan del Rio, Dgo.",
-      "honras": "Pendents",
+      "honras": "11:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ]
