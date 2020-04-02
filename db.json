@@ -1,53 +1,29 @@
 {
   "obituario": [
     {
-      "id": 328,
+      "id": 329,
       "titulo": "",
-      "nombre": "Santiago",
-      "apellido_paterno": "Paez",
-      "apellido_materno": "Bañuelos",
-      "fecha": "Martes 31 de Marzo",
-      "mensaje_corto": "A la edad de 70 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Diamante.",
-      "honras": "12.00 hrs. Templo San Agustín. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 326,
-      "titulo": "",
-      "nombre": "Ma. del Socorro",
-      "apellido_paterno": "Felix",
-      "apellido_materno": "Landeros",
-      "fecha": "Lunes 30 de Marzo",
-      "mensaje_corto": "A la edad de 82 años",
-      "se_vela_en": "Dom. Con. Primo del Verdad, San Juan del Rio, Dgo.",
-      "honras": "11:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "nombre": "Jose Elifonso",
+      "apellido_paterno": "Avila",
+      "apellido_materno": "Hernandez",
+      "fecha": "Jueves 02 de marzo",
+      "mensaje_corto": "A la edad de 59 años",
+      "se_vela_en": "Dom. Con. Francisco Montes de Oca, Dgo.",
+      "honras": "Pendientes",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 328,
+      "id": 329,
       "titulo": "",
-      "nombre": "Santiago",
-      "apellido_paterno": "Paez",
-      "apellido_materno": "Bañuelos",
-      "fecha": "march, Tuesday 31",
-      "mensaje_corto": "At the age of 70 year",
-      "se_vela_en": "Suc. Dolores del Río Capilla Diamante.",
-      "honras": "12.00 hrs. Templo San Agustín. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 326,
-      "titulo": "",
-      "nombre": "Ma. del Socorro",
-      "apellido_paterno": "Felix",
-      "apellido_materno": "Landeros",
-      "fecha": "march, moday 30",
-      "mensaje_corto": "At the gae of 82 years",
-      "se_vela_en": "Dom. Con. Primo del Verdad, San Juan del Rio, Dgo.",
-      "honras": "11:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "nombre": "Jose Elifonso",
+      "apellido_paterno": "Avila",
+      "apellido_materno": "Hernandez",
+      "fecha": "march, Thursday 02",
+      "mensaje_corto": "At the age of 59 years",
+      "se_vela_en": "Dom. Con. Francisco Montes de Oca, Dgo.",
+      "honras": "Pendents",
       "descripcion": ""
     }
   ]
