@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 331,
+      "titulo": "",
+      "nombre": "Juan",
+      "apellido_paterno": "Cumplido",
+      "apellido_materno": "Soto",
+      "fecha": "Jueves 02 de Marzo",
+      "mensaje_corto": "A la edad de 49 años",
+      "se_vela_en": "Calle Alicia Ayala L11 MH Col. Valle Dorado",
+      "honras": "16:00hrs Templo de Santa Ana y se despide en panteón Getsemani",
+      "descripcion": ""
+    },
+    {
+      "id": 330,
+      "titulo": "",
+      "nombre": "Jose Luis",
+      "apellido_paterno": "Rocha",
+      "apellido_materno": "Graciano",
+      "fecha": "Jueves 02 de Marzo",
+      "mensaje_corto": "A la edad de 79 años",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
+      "honras": "11:00hrs Templo Santa Ana y se despide en panteón Valle de los Sabinos",
+      "descripcion": ""
+    },
+    {
       "id": 329,
       "titulo": "",
       "nombre": "Jose Elifonso",
@@ -14,6 +38,30 @@
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 331,
+      "titulo": "",
+      "nombre": "Juan",
+      "apellido_paterno": "Cumplido",
+      "apellido_materno": "Soto",
+      "fecha": "march, Thursday 02",
+      "mensaje_corto": "At the age of 49 years",
+      "se_vela_en": "Calle Alicia Ayala L11 MH Col. Valle Dorado",
+      "honras": "16:00hrs Templo de Santa Ana y se despide en panteón Getsemani",
+      "descripcion": ""
+    },
+    {
+      "id": 330,
+      "titulo": "",
+      "nombre": "Jose Luis",
+      "apellido_paterno": "Rocha",
+      "apellido_materno": "Graciano",
+      "fecha": "march, Thursday 02",
+      "mensaje_corto": "At the age of 79 years",
+      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
+      "honras": "11:00hrs Templo Santa Ana y se despide en panteón Valle de los Sabinos",
+      "descripcion": ""
+    },
     {
       "id": 329,
       "titulo": "",
