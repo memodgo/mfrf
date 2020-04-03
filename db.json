@@ -1,65 +1,65 @@
 {
   "obituario": [
     {
+      "id": 332,
+      "titulo": "R. N.",
+      "nombre": "Emanuel",
+      "apellido_paterno": "Bustillos",
+      "apellido_materno": "Duarte",
+      "fecha": "Viernes 03 de Abril",
+      "mensaje_corto": "",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": "Se traslada a Guanaceví, Dgo."
+    },
+    {
       "id": 331,
       "titulo": "",
       "nombre": "Juan",
       "apellido_paterno": "Cumplido",
       "apellido_materno": "Soto",
-      "fecha": "Jueves 02 de Marzo",
+      "fecha": "Jueves 02 de Abril",
       "mensaje_corto": "A la edad de 49 años",
       "se_vela_en": "Calle Alicia Ayala L11 MH Col. Valle Dorado",
       "honras": "16:00hrs Templo de Santa Ana y se despide en panteón Getsemani",
       "descripcion": ""
     },
     {
-      "id": 330,
-      "titulo": "",
-      "nombre": "Jose Luis",
-      "apellido_paterno": "Rocha",
-      "apellido_materno": "Graciano",
-      "fecha": "Jueves 02 de Marzo",
-      "mensaje_corto": "A la edad de 79 años",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
-      "honras": "11:00hrs Templo Santa Ana y se despide en panteón Valle de los Sabinos",
-      "descripcion": ""
-    },
-    {
       "id": 329,
       "titulo": "",
       "nombre": "Jose Elifonso",
       "apellido_paterno": "Avila",
       "apellido_materno": "Hernandez",
-      "fecha": "Jueves 02 de marzo",
+      "fecha": "Jueves 02 de Abril",
       "mensaje_corto": "A la edad de 59 años",
       "se_vela_en": "Dom. Con. Francisco Montes de Oca, Dgo.",
-      "honras": "Pendientes",
+      "honras": "16.00 hrs. mismo domicilio. Se despide ne panteón del lugar.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 332,
+      "titulo": "R. N.",
+      "nombre": "Emanuel",
+      "apellido_paterno": "Bustillos",
+      "apellido_materno": "Duarte",
+      "fecha": "April, friday 03",
+      "mensaje_corto": "",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se traslada a Guanaceví, Dgo."
+    },
     {
       "id": 331,
       "titulo": "",
       "nombre": "Juan",
       "apellido_paterno": "Cumplido",
       "apellido_materno": "Soto",
-      "fecha": "march, Thursday 02",
+      "fecha": "April, thursday 02",
       "mensaje_corto": "At the age of 49 years",
       "se_vela_en": "Calle Alicia Ayala L11 MH Col. Valle Dorado",
       "honras": "16:00hrs Templo de Santa Ana y se despide en panteón Getsemani",
-      "descripcion": ""
-    },
-    {
-      "id": 330,
-      "titulo": "",
-      "nombre": "Jose Luis",
-      "apellido_paterno": "Rocha",
-      "apellido_materno": "Graciano",
-      "fecha": "march, Thursday 02",
-      "mensaje_corto": "At the age of 79 years",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Plata",
-      "honras": "11:00hrs Templo Santa Ana y se despide en panteón Valle de los Sabinos",
       "descripcion": ""
     },
     {
@@ -68,10 +68,10 @@
       "nombre": "Jose Elifonso",
       "apellido_paterno": "Avila",
       "apellido_materno": "Hernandez",
-      "fecha": "march, Thursday 02",
+      "fecha": "April, thursday 02",
       "mensaje_corto": "At the age of 59 years",
       "se_vela_en": "Dom. Con. Francisco Montes de Oca, Dgo.",
-      "honras": "Pendents",
+      "honras": "16.00 hrs. mismo domicilio. Se despide ne panteón del lugar.",
       "descripcion": ""
     }
   ]
