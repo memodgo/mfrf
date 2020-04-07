@@ -1,102 +1,78 @@
 {
-  "obituario": [
-    {
-      "id": 338,
-      "titulo": "",
-      "nombre": "David",
-      "apellido_paterno": "Romero",
-      "apellido_materno": "Valdespino",
-      "fecha": "Lunes 06 de Abril",
-      "mensaje_corto": "A la edad de 75 años",
-      "se_vela_en": "Suc. Dolores del Río Capilla Oro.",
-      "honras": "13:00 hrs. Templo Santa Ana. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 337,
-      "titulo": "",
-      "nombre": "Consuelo",
-      "apellido_paterno": "Ramirez",
-      "apellido_materno": "Chavez",
-      "fecha": "Lunes 06 de Abril",
-      "mensaje_corto": "A la edad de 74 años",
-      "se_vela_en": "Calle Gardenia #407 Col. Las Palmas.",
-      "honras": "15:00 hrs. Templo ntra. Sra. de Los Ángeles. Se despide en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 336,
-      "titulo": "",
-      "nombre": "Pantaleon",
-      "apellido_paterno": "Vegas",
-      "apellido_materno": "Ramos",
-      "fecha": "Lunes 06 de Abril",
-      "mensaje_corto": "A la edad de 87 años",
-      "se_vela_en": "Dom. Con. Los Ancones, , Guanacevi, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 335,
-      "titulo": "",
-      "nombre": "Eleno",
-      "apellido_paterno": "Silva",
-      "apellido_materno": "Acosta",
-      "fecha": "Lunes 06 de Abril",
-      "mensaje_corto": "A la edad de 98 años",
-      "se_vela_en": "Guanaceví, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    }
-  ],
-  "obituario_ingles": [
-    {
-      "id": 338,
-      "titulo": "",
-      "nombre": "David",
-      "apellido_paterno": "Romero",
-      "apellido_materno": "Valdespino",
-      "fecha": "April, monday 06",
-      "mensaje_corto": "At the age of 75 years",
-      "se_vela_en": "Suc. Dolores del Río Capilla Oro.",
-      "honras": "13:00 hrs. Templo Santa Ana. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 337,
-      "titulo": "",
-      "nombre": "Consuelo",
-      "apellido_paterno": "Ramirez",
-      "apellido_materno": "Chavez",
-      "fecha": "April, monday 06",
-      "mensaje_corto": "At the age of 74 years",
-      "se_vela_en": "Calle Gardenia #407 Col. Las Palmas.",
-      "honras": "15:00 hrs. Templo ntra. Sra. de Los Ángeles. Se despide en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 336,
-      "titulo": "",
-      "nombre": "Pantaleon",
-      "apellido_paterno": "Vegas",
-      "apellido_materno": "Ramos",
-      "fecha": "April, monday 06",
-      "mensaje_corto": "At the age of 87 years",
-      "se_vela_en": "Dom. Con. Los Ancones, , Guanacevi, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 335,
-      "titulo": "",
-      "nombre": "Eleno",
-      "apellido_paterno": "Silva",
-      "apellido_materno": "Acosta",
-      "fecha": "April, monday 06",
-      "mensaje_corto": "At the age of 98 years",
-      "se_vela_en": "Guanaceví, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    }
-  ]
-}
+    "obituario": [
+      {
+        "id": 341,
+        "titulo": "",
+        "nombre": "Ubaldo Rafael",
+        "apellido_paterno": "Enriquez",
+        "apellido_materno": "Orona",
+        "fecha": "Martes 07 de Abril",
+        "mensaje_corto": "A la edad de 20 años",
+        "se_vela_en": "Suc. Dolores del Río Capilla Plata.",
+        "honras": "Discurso biblico misma Capilla Plata durante la mañana. Se traslada a las 14:00 hrs. hoy martes 07 de marzo al Poblado 22 de Mayo, Dgo.",
+        "descripcion": ""
+      },
+      {
+        "id": 340,
+        "titulo": "R. N.",
+        "nombre": "",
+        "apellido_paterno": "Reyes",
+        "apellido_materno": "Aguilar",
+        "fecha": "Martes 07 de Abril",
+        "mensaje_corto": "",
+        "se_vela_en": "Santiago Papasquiaro, Dgo.",
+        "honras": "",
+        "descripcion": ""
+      },
+      {
+        "id": 339,
+        "titulo": "",
+        "nombre": "Francisco Javier",
+        "apellido_paterno": "Paura",
+        "apellido_materno": "Rivera",
+        "fecha": "Martes 07 de Abril",
+        "mensaje_corto": "A la edad de 45 años",
+        "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
+        "honras": "Pendientes",
+        "descripcion": ""
+      }
+    ],
+    "obituario_ingles": [
+      {
+        "id": 341,
+        "titulo": "",
+        "nombre": "Ubaldo Rafael",
+        "apellido_paterno": "Enriquez",
+        "apellido_materno": "Orona",
+        "fecha": "April, Tuesday 07",
+        "mensaje_corto": "At the age of 20 years",
+        "se_vela_en": "Suc. Dolores del Río Capilla Plata.",
+        "honras": "Discurso biblico misma Capilla Plata durante la mañana. Se traslada a las 14:00 hrs. hoy martes 07 de marzo al Poblado 22 de Mayo, Dgo.",
+        "descripcion": ""
+      },
+      {
+        "id": 340,
+        "titulo": "R. N.",
+        "nombre": "",
+        "apellido_paterno": "Reyes",
+        "apellido_materno": "Aguilar",
+        "fecha": "April, Tuesday 07",
+        "mensaje_corto": "",
+        "se_vela_en": "Santiago Papasquiaro, Dgo.",
+        "honras": "",
+        "descripcion": ""
+      },
+      {
+        "id": 339,
+        "titulo": "",
+        "nombre": "Francisco Javier",
+        "apellido_paterno": "Paura",
+        "apellido_materno": "Rivera",
+        "fecha": "April, Tuesday 07",
+        "mensaje_corto": "At the age of 45 years",
+        "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
+        "honras": "Pendents",
+        "descripcion": ""
+      }
+    ]
+  }
