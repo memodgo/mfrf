@@ -1,30 +1,6 @@
 {
   "obituario": [
     {
-      "id": 349,
-      "titulo": "",
-      "nombre": "Juan Francisco",
-      "apellido_paterno": "Contreras",
-      "apellido_materno": "Martinez",
-      "fecha": "Viernes 10 de Abril",
-      "mensaje_corto": "A la edad de 60 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se despide para su Cremacion "
-    },
-    {
-      "id": 348,
-      "titulo": "",
-      "nombre": "Jose Juan",
-      "apellido_paterno": "Alvarado",
-      "apellido_materno": "Martinez",
-      "fecha": "Viernes 10 de Abril",
-      "mensaje_corto": "A la edad de 80 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se despide en panteon Getsemani a las 12:00 hrs"
-    },
-    {
       "id": 347,
       "titulo": "",
       "nombre": "Emmanuel",
@@ -33,20 +9,8 @@
       "fecha": "Viernes 10 de Abril",
       "mensaje_corto": "A la edad de 33 años",
       "se_vela_en": "Calle Armando del Castillo Lote 5 Col. Independencia, Santiago Papasquiaro ",
-      "honras": "Pendientes",
+      "honras": "12:00 hrs. Templo Santo Santiago Apostol. Se despide en panteon Los Nogales.",
       "descripcion": ""
-    },
-    {
-      "id": 346,
-      "titulo": "",
-      "nombre": "Jesus Antonio",
-      "apellido_paterno": "Tafoya",
-      "apellido_materno": "Peralda",
-      "fecha": "Viernes 10 de Abril",
-      "mensaje_corto": "A la edad de 50 años",
-      "se_vela_en": "Gladiola #105 Col. Ampliacion Pri",
-      "honras": "",
-      "descripcion": "Se despide para su cremacion a las 16:00 hrs"
     },
     {
       "id": 345,
@@ -55,10 +19,10 @@
       "apellido_paterno": "Murgia",
       "apellido_materno": "Quirino",
       "fecha": "Viernes 10 de Abril",
-      "mensaje_corto": "",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
-      "descripcion": "Se traslada de Leon Guanajuato a Durango Dgo"
+      "mensaje_corto": "68",
+      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
+      "honras": "12:00 hrs. Templo Santo Domingo. Se despide en panteón Valle de Los Sabinos.",
+      "descripcion": ""
     },
     {
       "id": 344,
@@ -68,8 +32,8 @@
       "apellido_materno": "Casas",
       "fecha": "Viernes 10 de Abril",
       "mensaje_corto": "A la edad de 71 años",
-      "se_vela_en": "Dom. Con. 5 de Mayo",
-      "honras": "Pendientes",
+      "se_vela_en": "Calle Gral. Porfirio Díaz #206 Col. 5 de Mayo, Dgo.",
+      "honras": "16:00 hrs. Templo Ntra. Sra. de Guadalupe. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -80,71 +44,23 @@
       "apellido_materno": "Jimenez",
       "fecha": "Viernes 10 de Abril",
       "mensaje_corto": "A la edad de 40 años",
-      "se_vela_en": "Dom. Con. Ampliación 05 de Mayo",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 342,
-      "titulo": "",
-      "nombre": "Aurora",
-      "apellido_paterno": "Bolivar",
-      "apellido_materno": "Sepulveda",
-      "fecha": "Viernes 10 de Abril",
-      "mensaje_corto": "",
-      "se_vela_en": "capilla Santa Catarina de Suc. Tepehuanes Dgo",
-      "honras": "12:00 hrS Templo Santa Catarina Se despide en panteon del lugar",
+      "se_vela_en": "Ampliación 5 de Mayo. Col. 5 de Mayo, Dgo.",
+      "honras": "12.00 hrs. Templo Ntra. Sra. de Guadalupe. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
-    {
-      "id": 349,
-      "titulo": "",
-      "nombre": "Juan Francisco",
-      "apellido_paterno": "Contreras",
-      "apellido_materno": "Martinez",
-      "fecha": "April, Friday 10",
-      "mensaje_corto": "At the age of 60 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se despide para su Cremacion "
-    },
-    {
-      "id": 348,
-      "titulo": "",
-      "nombre": "Jose Juan",
-      "apellido_paterno": "Alvarado",
-      "apellido_materno": "Martinez",
-      "fecha": "Viernes 10 de Abril",
-      "fecha": "April, Friday 10",
-      "mensaje_corto": "",
-      "honras": "",
-      "descripcion": "Se despide en panteon Getsemani a las 12:00 hrs"
-    },
     {
       "id": 347,
       "titulo": "",
       "nombre": "Emmanuel",
       "apellido_paterno": "Castillo",
       "apellido_materno": "Martinez",
-      "fecha": "April, Friday 10",
+      "fecha": "April, friday 10",
       "mensaje_corto": "At the age of 33 years",
       "se_vela_en": "Calle Armando del Castillo Lote 5 Col. Independencia, Santiago Papasquiaro ",
-      "honras": "Pendientes",
+      "honras": "12:00 hrs. Templo Santo Santiago Apostol. Se despide en panteon Los Nogales.",
       "descripcion": ""
-    },
-    {
-      "id": 346,
-      "titulo": "",
-      "nombre": "Jesus Antonio",
-      "apellido_paterno": "Tafoya",
-      "apellido_materno": "Peralda",
-      "fecha": "April, Friday 10",
-      "mensaje_corto": "At the age of 50 years",
-      "se_vela_en": "Gladiola #105 Col. Ampliacion Pri",
-      "honras": "",
-      "descripcion": "Se despide para su cremacion a las 16:00 hrs"
     },
     {
       "id": 345,
@@ -152,11 +68,11 @@
       "nombre": "Maria Luisa",
       "apellido_paterno": "Murgia",
       "apellido_materno": "Quirino",
-      "fecha": "April, Friday 10",
-      "mensaje_corto": "",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendents",
-      "descripcion": "Se traslada de Leon Guanajuato a Durango Dgo"
+      "fecha": "April, friday 10",
+      "mensaje_corto": "At the age of 68 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Esmeralda.",
+      "honras": "12:00 hrs. Templo Santo Domingo. Se despide en panteón Valle de Los Sabinos.",
+      "descripcion": ""
     },
     {
       "id": 344,
@@ -164,10 +80,10 @@
       "nombre": "Ma. Adelina",
       "apellido_paterno": "Soria",
       "apellido_materno": "Casas",
-      "fecha": "April, Friday 10",
+      "fecha": "April, friday 10",
       "mensaje_corto": "At the age of 71 years",
-      "se_vela_en": "Dom. Con. 5 de Mayo",
-      "honras": "Pendents",
+      "se_vela_en": "Calle Gral. Porfirio Díaz #206 Col. 5 de Mayo, Dgo.",
+      "honras": "16:00 hrs. Templo Ntra. Sra. de Guadalupe. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -176,22 +92,10 @@
       "nombre": "Maria Guadalupe",
       "apellido_paterno": "Burciaga",
       "apellido_materno": "Jimenez",
-      "fecha": "April, Friday 10",
+      "fecha": "April, friday 10",
       "mensaje_corto": "At the age of 40 years",
-      "se_vela_en": "Dom. Con. Ampliación 05 de Mayo",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 342,
-      "titulo": "",
-      "nombre": "Aurora",
-      "apellido_paterno": "Bolivar",
-      "apellido_materno": "Sepulveda",
-      "fecha": "April, Friday 10",
-      "mensaje_corto": "",
-      "se_vela_en": "capilla Santa Catarina de Suc. Tepehuanes Dgo",
-      "honras": "12:00 hrS Templo Santa Catarina Se despide en panteon del lugar",
+      "se_vela_en": "Ampliación 5 de Mayo. Col. 5 de Mayo, Dgo.",
+      "honras": "12.00 hrs. Templo Ntra. Sra. de Guadalupe. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ]
