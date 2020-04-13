@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 356,
+      "titulo": "",
+      "nombre": "Rubisela",
+      "apellido_paterno": "Dominguez",
+      "apellido_materno": "Saucedo",
+      "fecha": "Lunes 13 de Abril",
+      "mensaje_corto": "A la edad de 50 años",
+      "se_vela_en": "Suc. Dolores del Río Capilla Plata.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 355,
       "titulo": "",
       "nombre": "Letica",
@@ -62,6 +74,18 @@
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 356,
+      "titulo": "",
+      "nombre": "Rubisela",
+      "apellido_paterno": "Dominguez",
+      "apellido_materno": "Saucedo",
+      "fecha": "April, Monday 13",
+      "mensaje_corto": "At the age of 50 years",
+      "se_vela_en": "Suc. Dolores del Río Capilla Plata.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 355,
       "titulo": "",
