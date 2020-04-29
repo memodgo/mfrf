@@ -1,126 +1,30 @@
 {
-    "obituario": [
-      {
-        "id": 383,
-        "titulo": "",
-        "nombre": "Horacio",
-        "apellido_paterno": "Chavez",
-        "apellido_materno": "Ramirez",
-        "fecha": "Sábado 25 de Abril",
-        "mensaje_corto": "A la edad de 37 años",
-        "se_vela_en": " Dom. Con. El Arenal, Dgo.",
-        "honras": "Pendientes",
-        "descripcion": ""
-      },
-      {
-        "id": 382,
-        "titulo": "",
-        "nombre": "Diana Guadalupe",
-        "apellido_paterno": "Montalvo",
-        "apellido_materno": "Saucedo",
-        "fecha": "Sábado 25 de Abril",
-        "mensaje_corto": "A la edad de 26 años",
-        "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
-        "honras": "Pendientes",
-        "descripcion": ""
-      },
-      {
-        "id": 381,
-        "titulo": "",
-        "nombre": "Maria Ana",
-        "apellido_paterno": "Hernandez",
-        "apellido_materno": "De los Rios",
-        "fecha": "Sábado 25 de Abril",
-        "mensaje_corto": "A la edad de 57 años",
-        "se_vela_en": "Suc. Dolores del Río Capilla Oro.",
-        "honras": "Pendientes",
-        "descripcion": ""
-      },
-      {
-        "id": 380,
-        "titulo": "",
-        "nombre": "Octavio",
-        "apellido_paterno": "Ortega",
-        "apellido_materno": "Aldana",
-        "fecha": "Sábado 25 de Abril",
-        "mensaje_corto": "A la edad de 70 años",
-        "se_vela_en": "Suc. Dolores del Rio Capilla Esmeralda.",
-        "honras": "Pendientes",
-        "descripcion": ""
-      },
-      {
-        "id": 379,
-        "titulo": "",
-        "nombre": "Roberto",
-        "apellido_paterno": "Molina",
-        "apellido_materno": "Perez",
-        "fecha": "Sábado 25 de Abril",
-        "mensaje_corto": "A la edad de 37 años",
-        "se_vela_en": "Dom. Con. El Pareal, Rodeo, Dgo.",
-        "honras": "Pendientes",
-        "descripcion": ""
-      }
-    ],
-    "obituario_ingles": [
-      {
-        "id": 383,
-        "titulo": "",
-        "nombre": "Horacio",
-        "apellido_paterno": "Chavez",
-        "apellido_materno": "Ramirez",
-        "fecha": "April, Saturday 25",
-        "mensaje_corto": "At the age of 37 years",
-        "se_vela_en": " Dom. Con. El Arenal, Dgo.",
-        "honras": "Pendents",
-        "descripcion": ""
-      },
-      {
-        "id": 382,
-        "titulo": "",
-        "nombre": "Diana Guadalupe",
-        "apellido_paterno": "Montalvo",
-        "apellido_materno": "Saucedo",
-        "fecha": "April, Saturday 25",
-        "mensaje_corto": "At the age of 26 years",
-        "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
-        "honras": "Pendents",
-        "descripcion": ""
-      },
-      {
-        "id": 381,
-        "titulo": "",
-        "nombre": "Maria Ana",
-        "apellido_paterno": "Hernandez",
-        "apellido_materno": "De los Rios",
-        "fecha": "April, Saturday 25",
-        "mensaje_corto": "At the age of 57 years",
-        "se_vela_en": "Suc. Dolores del Río Capilla Oro.",
-        "honras": "Pendents",
-        "descripcion": ""
-      },
-      {
-        "id": 380,
-        "titulo": "",
-        "nombre": "Octavio",
-        "apellido_paterno": "Ortega",
-        "apellido_materno": "Aldana",
-        "fecha": "April, Saturday 25",
-        "mensaje_corto": "At the age of 70 years",
-        "se_vela_en": "Suc. Dolores del Rio Capilla Esmeralda.",
-        "honras": "Pendents",
-        "descripcion": ""
-      },
-      {
-        "id": 379,
-        "titulo": "",
-        "nombre": "Roberto",
-        "apellido_paterno": "Molina",
-        "apellido_materno": "Perez",
-        "fecha": "April, Saturday 25",
-        "mensaje_corto": "At the age of 37 years",
-        "se_vela_en": "Dom. Con. El Pareal, Rodeo, Dgo.",
-        "honras": "Pendents",
-        "descripcion": ""
-      }
-    ]
-  }
+  "obituario": [
+    {
+      "id": 388,
+      "titulo": "",
+      "nombre": "Aureliano",
+      "apellido_paterno": "Rodriguez",
+      "apellido_materno": "Andrade",
+      "fecha": "Lunes 27 de Abril",
+      "mensaje_corto": "A la edad de 63 años",
+      "se_vela_en": "Tepehuanes, Dgo.",
+      "honras": "15:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "descripcion": ""
+    }
+  ],
+  "obituario_ingles": [
+    {
+      "id": 388,
+      "titulo": "",
+      "nombre": "Aureliano",
+      "apellido_paterno": "Rodriguez",
+      "apellido_materno": "Andrade",
+      "fecha": "April, Monday 27",
+      "mensaje_corto": "At the age of 63 years",
+      "se_vela_en": "Tepehuanes, Dgo.",
+      "honras": "15:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "descripcion": ""
+    }
+  ]
+}
