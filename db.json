@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 395,
+      "titulo": "",
+      "nombre": "Jose Lorenzo",
+      "apellido_paterno": "Herrera",
+      "apellido_materno": "Saucedo",
+      "fecha": "Martes 05 de Mayo",
+      "mensaje_corto": "A la edad de 93 años",
+      "se_vela_en": "Col. La Minerva",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 394,
+      "titulo": "",
+      "nombre": "Arturo",
+      "apellido_paterno": "Gonzales",
+      "apellido_materno": "Morales",
+      "fecha": "Martes 05 de Mayo",
+      "mensaje_corto": "A la edad de 77 años",
+      "se_vela_en": "Capilla Esmeralda de Suc. Dolores del Rio",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 393,
       "titulo": "",
       "nombre": "Soledad",
@@ -10,30 +34,6 @@
       "mensaje_corto": "A la edad de 78 años",
       "se_vela_en": " Calle Lucia Cabañas #126 Col. Arturo Gamiz.",
       "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 392,
-      "titulo": "Ing.",
-      "nombre": "Manuel",
-      "apellido_paterno": "Rodriguez",
-      "apellido_materno": "Hernandez",
-      "fecha": "Lunes 04 de Mayo",
-      "mensaje_corto": "A la edad de 25 años",
-      "se_vela_en": "Los Angeles Poanas, Dgo.",
-      "honras": "12:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 391,
-      "titulo": "",
-      "nombre": "Alicia",
-      "apellido_paterno": "Navar",
-      "apellido_materno": "Cano",
-      "fecha": "Lunes 04 de Mayo",
-      "mensaje_corto": "A la edad de 80 años",
-      "se_vela_en": "Dom. Con. San José de La Boca, Tepehuanes, Dgo.",
-      "honras": "13:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -51,39 +51,39 @@
   ],
   "obituario_ingles": [
     {
+      "id": 395,
+      "titulo": "",
+      "nombre": "Jose Lorenzo",
+      "apellido_paterno": "Herrera",
+      "apellido_materno": "Saucedo",
+      "fecha": "May, Tuesday 05",
+      "mensaje_corto": "At the age of 93 años",
+      "se_vela_en": "Col. La Minerva",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 394,
+      "titulo": "",
+      "nombre": "Arturo",
+      "apellido_paterno": "Gonzales",
+      "apellido_materno": "Morales",
+      "fecha": "May, Tuesday 05",
+      "mensaje_corto": "At the age of 77 años",
+      "se_vela_en": "Capilla Esmeralda de Suc. Dolores del Rio",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
       "id": 393,
       "titulo": "",
       "nombre": "Soledad",
       "apellido_paterno": "Martinez",
       "apellido_materno": "Castro",
-      "fecha": "May, Thursday 05",
-      "mensaje_corto": "At the age of 78 years",
+      "fecha": "May, Tuesday 05",
+      "mensaje_corto": "At the age of 78 años",
       "se_vela_en": " Calle Lucia Cabañas #126 Col. Arturo Gamiz.",
       "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 392,
-      "titulo": "Ing.",
-      "nombre": "Manuel",
-      "apellido_paterno": "Rodriguez",
-      "apellido_materno": "Hernandez",
-      "fecha": "May, Thursday 05",
-      "mensaje_corto": "At the age of 25 years",
-      "se_vela_en": "Los Angeles Poanas, Dgo.",
-      "honras": "12:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 391,
-      "titulo": "",
-      "nombre": "Alicia",
-      "apellido_paterno": "Navar",
-      "apellido_materno": "Cano",
-      "fecha": "May, Thursday 05",
-      "mensaje_corto": "At the age of 80 years",
-      "se_vela_en": "Dom. Con. San José de La Boca, Tepehuanes, Dgo.",
-      "honras": "13:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -92,10 +92,10 @@
       "nombre": "Adriana",
       "apellido_paterno": "Silva",
       "apellido_materno": "Simental",
-      "fecha": "Thursday, April 30",
-      "mensaje_corto": "At the age of 36 years",
-      "se_vela_en": "Pendent",
-      "honras": "Pendents",
+      "fecha": "April, Thursday 05",
+      "mensaje_corto": "At the age of 36 años",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
       "descripcion": "Se traslada de Tijuana a la Cd. Durango, Dgo."
     }
   ]
