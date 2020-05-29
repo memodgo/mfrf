@@ -1,6 +1,54 @@
 {
   "obituario": [
     {
+      "id": 418,
+      "titulo": "Sra.",
+      "nombre": "Jesús María",
+      "apellido_paterno": "Sánchez",
+      "apellido_materno": "Holguín",
+      "fecha": "Jueves 28 de Mayo",
+      "mensaje_corto": "A la edad de 95 años",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Plata.",
+      "honras": "10:00 hrs Templo de Nuestra Sra de los Angeles Se despide en panteon de Oriente ",
+      "descripcion": ""
+    },
+    {
+      "id": 417,
+      "titulo": "Sr.",
+      "nombre": "Cruz",
+      "apellido_paterno": "Estala",
+      "apellido_materno": "Bermúdez",
+      "fecha": "Jueves 28 de Mayo",
+      "mensaje_corto": "A la edad de 66 años",
+      "se_vela_en": "Dom. Con. Contreras, Dgo.",
+      "honras": "Misa en domicilio 10:00 hrs Se despide en panteon del lugar ",
+      "descripcion": ""
+    },
+    {
+      "id": 416,
+      "titulo": "",
+      "nombre": "Andrea ",
+      "apellido_paterno": "Leal",
+      "apellido_materno": "Rueda",
+      "fecha": "Jueves 28 de Mayo",
+      "mensaje_corto": "A la edad de 88 años",
+      "se_vela_en": "Dom. Con. Refugio Salcido, Dgo.",
+      "honras": "14:00 hrs Templo Nuestra Sra del Refugio  Se despide en panteon del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 415,
+      "titulo": "",
+      "nombre": "Delfina",
+      "apellido_paterno": "Zapata",
+      "apellido_materno": "Gonzáles",
+      "fecha": "Jueves 28 de Mayo",
+      "mensaje_corto": "A la edad de 82 años",
+      "se_vela_en": "Calle Reforma #802 Col. IV Centenario.",
+      "honras": "10:00 hrs Templo San Felipe de Jesus Se despide en panteón de Oriente.",
+      "descripcion": ""
+    },
+    {
       "id": 414,
       "titulo": "",
       "nombre": "Maria del Refugio",
@@ -13,42 +61,6 @@
       "descripcion": "Se traslada de Carolina del Sur E.U.A. a Durango, Dgo."
     },
     {
-      "id": 413,
-      "titulo": "Sr.",
-      "nombre": "Cruz",
-      "apellido_paterno": "Estala",
-      "apellido_materno": "Bermudez",
-      "fecha": "Miercoles 27 de Mayo",
-      "mensaje_corto": "A la edad de 66 años",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
-      "descripcion": "Se traslada de E.U.A. a Contreras, Dgo."
-    },
-    {
-      "id": 412,
-      "titulo": "Niña",
-      "nombre": "Esmeralda Yamilieth",
-      "apellido_paterno": "Quiñonez",
-      "apellido_materno": "Unzueta",
-      "fecha": "Miercoles 27 de Mayo",
-      "mensaje_corto": "A la edad de 1 años",
-      "se_vela_en": "Dom. Con. Antonio Gaxiola, Dgo.",
-      "honras": "Se despide en panteón del lugar a las 17:00 hrs.",
-      "descripcion": ""
-    },
-    {
-      "id": 411,
-      "titulo": "",
-      "nombre": "Maria Josefina",
-      "apellido_paterno": "Arango",
-      "apellido_materno": "",
-      "fecha": "Miercoles 27 de Mayo",
-      "mensaje_corto": "",
-      "se_vela_en": "Dom. Con. Panuco de Coronado, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
       "id": 410,
       "titulo": "",
       "nombre": "Paulino",
@@ -57,58 +69,70 @@
       "fecha": "Miercoles 27 de Mayo",
       "mensaje_corto": "A la edad de 73 años",
       "se_vela_en": "Calle Mexico #502 Col. Emiliano Zapata.",
-      "honras": "Pendientes",
+      "honras": "10:30 hrs. Templo Santa Teresita. Se despide en panteón Oriente.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 418,
+      "titulo": "Sra.",
+      "nombre": "Jesús María",
+      "apellido_paterno": "Sánchez",
+      "apellido_materno": "Holguín",
+      "fecha": "May, Thursday 28",
+      "mensaje_corto": "At the age of 95 years",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Plata.",
+      "honras": "10:00 hrs Templo de Nuestra Sra de los Angeles Se despide en panteon de Oriente ",
+      "descripcion": ""
+    },
+    {
+      "id": 417,
+      "titulo": "Sr.",
+      "nombre": "Cruz",
+      "apellido_paterno": "Estala",
+      "apellido_materno": "Bermúdez",
+      "fecha": "May, Thursday 28",
+      "mensaje_corto": "At the age of 66 years",
+      "se_vela_en": "Dom. Con. Contreras, Dgo.",
+      "honras": "Misa en domicilio 10:00 hrs Se despide en panteon del lugar ",
+      "descripcion": ""
+    },
+    {
+      "id": 416,
+      "titulo": "",
+      "nombre": "Andrea ",
+      "apellido_paterno": "Leal",
+      "apellido_materno": "Rueda",
+      "fecha": "May, Thursday 28",
+      "mensaje_corto": "At the age of 88 years",
+      "se_vela_en": "Dom. Con. Refugio Salcido, Dgo.",
+      "honras": "14:00 hrs Templo Nuestra Sra del Refugio  Se despide en panteon del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 415,
+      "titulo": "",
+      "nombre": "Delfina",
+      "apellido_paterno": "Zapata",
+      "apellido_materno": "Gonzáles",
+      "fecha": "May, Thursday 28",
+      "mensaje_corto": "At the age of 82 years",
+      "se_vela_en": "Calle Reforma #802 Col. IV Centenario.",
+      "honras": "10:00 hrs Templo San Felipe de Jesus Se despide en panteón de Oriente.",
+      "descripcion": ""
+    },
     {
       "id": 414,
       "titulo": "",
       "nombre": "Maria del Refugio",
       "apellido_paterno": "Moreno",
       "apellido_materno": "Quiñonez",
-      "fecha": "May, Wednesday 27 ",
+      "fecha": "May, Thursday 28",
       "mensaje_corto": "At the age of 76 years",
       "se_vela_en": "Pendent",
       "honras": "Pendents",
       "descripcion": "Se traslada de Carolina del Sur E.U.A. a Durango, Dgo."
-    },
-    {
-      "id": 413,
-      "titulo": "Sr.",
-      "nombre": "Cruz",
-      "apellido_paterno": "Estala",
-      "apellido_materno": "Bermudez",
-      "fecha": "May, Wednesday 27 ",
-      "mensaje_corto": "At the age of 66 years",
-      "se_vela_en": "Pendent",
-      "honras": "Pendents",
-      "descripcion": "Se traslada de E.U.A. a Contreras, Dgo."
-    },
-    {
-      "id": 412,
-      "titulo": "Niña",
-      "nombre": "Esmeralda Yamilieth",
-      "apellido_paterno": "Quiñonez",
-      "apellido_materno": "Unzueta",
-      "fecha": "May, Wednesday 27 ",
-      "mensaje_corto": "At the age of 1 year",
-      "se_vela_en": "Dom. Con. Antonio Gaxiola, Dgo.",
-      "honras": "Se despide en panteón del lugar a las 17:00 hrs.",
-      "descripcion": ""
-    },
-    {
-      "id": 411,
-      "titulo": "",
-      "nombre": "Maria Josefina",
-      "apellido_paterno": "Arango",
-      "apellido_materno": "",
-      "fecha": "May, Wednesday 27 ",
-      "mensaje_corto": "",
-      "se_vela_en": "Dom. Con. Panuco de Coronado, Dgo.",
-      "honras": "Pendents",
-      "descripcion": ""
     },
     {
       "id": 410,
@@ -116,10 +140,10 @@
       "nombre": "Paulino",
       "apellido_paterno": "Salomon",
       "apellido_materno": "Vidales",
-      "fecha": "May, Wednesday 27 ",
+      "fecha": "May, Thursday 28",
       "mensaje_corto": "At the age of 73 years",
       "se_vela_en": "Calle Mexico #502 Col. Emiliano Zapata.",
-      "honras": "Pendents",
+      "honras": "10:30 hrs. Templo Santa Teresita. Se despide en panteón Oriente.",
       "descripcion": ""
     }
   ]
