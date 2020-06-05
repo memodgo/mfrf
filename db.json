@@ -1,6 +1,7 @@
 {
     "obituario": [
       {
+        "id": 431,
         "titulo": "",
         "nombre": "Juana",
         "apellido_paterno": "Rodríguez",
@@ -12,6 +13,7 @@
         "descripcion": ""
       },
       {
+        "id": 430,
         "titulo": "",
         "nombre": "Tiburcio",
         "apellido_paterno": "Martínez",
@@ -23,6 +25,7 @@
         "descripcion": ""
       },
       {
+        "id": 429,
         "titulo": "",
         "nombre": "Juana Graciela",
         "apellido_paterno": "Zarate",
@@ -34,6 +37,7 @@
         "descripcion": "Se despide para su cremación"
       },
       {
+        "id": 428,
         "titulo": " ",
         "nombre": "Ma. Vildalia",
         "apellido_paterno": "Hernández",
@@ -45,6 +49,7 @@
         "descripcion": ""
       },
       {
+        "id": 427,
         "titulo": "Bebé",
         "nombre": "Tadeo Federico",
         "apellido_paterno": "Reyes",
@@ -56,6 +61,7 @@
         "descripcion": ""
       },
       {
+        "id": 426,
         "titulo": "",
         "nombre": "Agustin",
         "apellido_paterno": "Alvarado",
@@ -67,6 +73,7 @@
         "descripcion": ""
       },
       {
+        "id": 425,
         "titulo": "",
         "nombre": "María Amelia",
         "apellido_paterno": "Damas",
@@ -78,6 +85,7 @@
         "descripcion": ""
       },
       {
+        "id": 420,
         "titulo": "",
         "nombre": "Manuel",
         "apellido_paterno": "Vidales",
@@ -91,6 +99,7 @@
     ],
     "obituario_ingles": [
       {
+        "id": 431,
         "titulo": "",
         "nombre": "Juana",
         "apellido_paterno": "Rodríguez",
@@ -102,6 +111,7 @@
         "descripcion": ""
       },
       {
+        "id": 430,
         "titulo": "",
         "nombre": "Tiburcio",
         "apellido_paterno": "Martínez",
@@ -113,17 +123,19 @@
         "descripcion": ""
       },
       {
+        "id": 429,
         "titulo": "",
         "nombre": "Juana Graciela",
         "apellido_paterno": "Zarate",
         "apellido_materno": "Milán",
         "fecha": "June, friday 05",
         "mensaje_corto": "",
-        "se_vela_en": "Pendent",
-        "honras": "Pendents",
+        "se_vela_en": "",
+        "honras": "",
         "descripcion": "Se despide para su cremación"
       },
       {
+        "id": 428,
         "titulo": " ",
         "nombre": "Ma. Vildalia",
         "apellido_paterno": "Hernández",
@@ -135,6 +147,7 @@
         "descripcion": ""
       },
       {
+        "id": 427,
         "titulo": "Bebé",
         "nombre": "Tadeo Federico",
         "apellido_paterno": "Reyes",
@@ -146,6 +159,7 @@
         "descripcion": ""
       },
       {
+        "id": 426,
         "titulo": "",
         "nombre": "Agustin",
         "apellido_paterno": "Alvarado",
@@ -157,6 +171,7 @@
         "descripcion": ""
       },
       {
+        "id": 425,
         "titulo": "",
         "nombre": "María Amelia",
         "apellido_paterno": "Damas",
@@ -168,15 +183,16 @@
         "descripcion": ""
       },
       {
+        "id": 420,
         "titulo": "",
         "nombre": "Manuel",
         "apellido_paterno": "Vidales",
         "apellido_materno": "Santillan",
-        "fecha": "June, Wednesday 04",
-        "mensaje_corto": "At the age of 67 years",
+        "fecha": "June, wednesday 03",
+        "mensaje_corto": "A la edad de 67 años",
         "se_vela_en": "Calle Jesús García #120 Col. Arturo Gamiz.",
         "honras": "12.00 hrs. Templo San Rafael. Se despide en panteón Oriente.",
         "descripcion": ""
       }
     ]
-  }   
+  }
