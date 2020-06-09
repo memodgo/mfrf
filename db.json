@@ -11,30 +11,6 @@
       "se_vela_en": "Dom. Con. Ciénega de Escobar, Tepehuanes, Dgo.",
       "honras": "Pendientes",
       "descripcion": ""
-    },
-    {
-      "id": 437,
-      "titulo": "Joven",
-      "nombre": "Miguel Ángel",
-      "apellido_paterno": "Hernández",
-      "apellido_materno": "Tovar",
-      "fecha": "Lunes 08 de Junio",
-      "mensaje_corto": "A la edad de 19 años",
-      "se_vela_en": "Calle Azucena s/n Col. Fco. Villa, Santiago Papasquiaro, Dgo.",
-      "honras": "16.00 hrs. Templo Cristo Rey. Se despide en panteón Víctor Nevárez.",
-      "descripcion": ""
-    },
-    {
-      "id": 433,
-      "titulo": "",
-      "nombre": "Martin",
-      "apellido_paterno": "Carrillo",
-      "apellido_materno": "Chairez",
-      "fecha": "Domingo 07 de Junio",
-      "mensaje_corto": "A la edad de 50 años",
-      "se_vela_en": "Capilla Diamante de Suc. Dolores del Rio",
-      "honras": "el día martes 09 de junio a las 12.00 hrs. Templo San Francisco de Asís. Se despide en panteón Oriente.",
-      "descripcion": "Se despide para su cremación."
     }
   ],
   "obituario_ingles": [
@@ -49,30 +25,6 @@
       "se_vela_en": "Dom. Con. Ciénega de Escobar, Tepehuanes, Dgo.",
       "honras": "Pendents",
       "descripcion": ""
-    },
-    {
-      "id": 437,
-      "titulo": "Joven",
-      "nombre": "Miguel Ángel",
-      "apellido_paterno": "Hernández",
-      "apellido_materno": "Tovar",
-      "fecha": "June, Monday 08",
-      "mensaje_corto": "At the age of 19 years",
-      "se_vela_en": "Calle Azucena s/n Col. Fco. Villa, Santiago Papasquiaro, Dgo.",
-      "honras": "16.00 hrs. Templo Cristo Rey. Se despide en panteón Víctor Nevárez.",
-      "descripcion": ""
-    },
-    {
-      "id": 433,
-      "titulo": "",
-      "nombre": "Martin",
-      "apellido_paterno": "Carrillo",
-      "apellido_materno": "Chairez",
-      "fecha": "June, Sunday 07",
-      "mensaje_corto": "At the age of 50 years",
-      "se_vela_en": "Capilla Diamante de Suc. Dolores del Rio",
-      "honras": "el día martes 09 de junio a las 12.00 hrs. Templo San Francisco de Asís. Se despide en panteón Oriente.",
-      "descripcion": "Se despide para su cremación."
     }
   ]
 }
