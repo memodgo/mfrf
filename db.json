@@ -1,6 +1,54 @@
 {
   "obituario": [
     {
+      "id": 442,
+      "titulo": "",
+      "nombre": "José Alfredo",
+      "apellido_paterno": "Jiménes",
+      "apellido_materno": "Navarrete",
+      "fecha": "Martes 09 de Junio",
+      "mensaje_corto": "A la edad de 59 años",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Plata y Oro.",
+      "honras": "12:00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Jardín.",
+      "descripcion": ""
+    },
+    {
+      "id": 441,
+      "titulo": "",
+      "nombre": "Maria Teresa",
+      "apellido_paterno": "Gonzáles",
+      "apellido_materno": "Ledesma",
+      "fecha": "Martes 09 de Junio",
+      "mensaje_corto": "A la edad de 59 años",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Esmeralda.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 440,
+      "titulo": "",
+      "nombre": "Ma. Felis",
+      "apellido_paterno": "García",
+      "apellido_materno": "Lozano",
+      "fecha": "Martes 09 de Junio",
+      "mensaje_corto": "A la edad de 65 años",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremación."
+    },
+    {
+      "id": 439,
+      "titulo": "",
+      "nombre": "José Francisco",
+      "apellido_paterno": "Gonzáles",
+      "apellido_materno": "Reyes",
+      "fecha": "Martes 09 de Junio",
+      "mensaje_corto": "A la edad de 67 años",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 438,
       "titulo": "",
       "nombre": "Cleotilde",
@@ -10,18 +58,6 @@
       "mensaje_corto": "A la edad de 91 años",
       "se_vela_en": "Dom. Con. Ciénega de Escobar, Tepehuanes, Dgo.",
       "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 437,
-      "titulo": "Joven",
-      "nombre": "Miguel Ángel",
-      "apellido_paterno": "Hernández",
-      "apellido_materno": "Tovar",
-      "fecha": "Lunes 08 de Junio",
-      "mensaje_corto": "A la edad de 19 años",
-      "se_vela_en": "Calle Azucena s/n Col. Fco. Villa, Santiago Papasquiaro, Dgo.",
-      "honras": "16.00 hrs. Templo Cristo Rey. Se despide en panteón Víctor Nevárez.",
       "descripcion": ""
     },
     {
@@ -35,9 +71,69 @@
       "se_vela_en": "Capilla Diamante de Suc. Dolores del Rio",
       "honras": "el día martes 09 de junio a las 12.00 hrs. Templo San Francisco de Asís. Se despide en panteón Oriente.",
       "descripcion": "Se despide para su cremación."
+    },
+    {
+      "id": 424,
+      "titulo": "",
+      "nombre": "María del Refugio",
+      "apellido_paterno": "Moreno",
+      "apellido_materno": "Quiñonez",
+      "fecha": "Miercoles 04 de Junio",
+      "mensaje_corto": "A la edad de 76 años",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": "Se traslada de Carolina del Sur. E.U.A. a Durango, Dgo."
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 442,
+      "titulo": "",
+      "nombre": "José Alfredo",
+      "apellido_paterno": "Jiménes",
+      "apellido_materno": "Navarrete",
+      "fecha": "June, Tuesday 09",
+      "mensaje_corto": "At the age of 59 years",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Plata y Oro.",
+      "honras": "12:00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Jardín.",
+      "descripcion": ""
+    },
+    {
+      "id": 441,
+      "titulo": "",
+      "nombre": "Maria Teresa",
+      "apellido_paterno": "Gonzáles",
+      "apellido_materno": "Ledesma",
+      "fecha": "June, Tuesday 09",
+      "mensaje_corto": "At the age of 59 years",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Esmeralda.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 440,
+      "titulo": "",
+      "nombre": "Ma. Felis",
+      "apellido_paterno": "García",
+      "apellido_materno": "Lozano",
+      "fecha": "June, Tuesday 09",
+      "mensaje_corto": "At the age of 65 years",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremación."
+    },
+    {
+      "id": 439,
+      "titulo": "",
+      "nombre": "José Francisco",
+      "apellido_paterno": "Gonzáles",
+      "apellido_materno": "Reyes",
+      "fecha": "June, Tuesday 09",
+      "mensaje_corto": "At the age of 67 years",
+      "se_vela_en": "Pendent",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 438,
       "titulo": "",
@@ -51,18 +147,6 @@
       "descripcion": ""
     },
     {
-      "id": 437,
-      "titulo": "Joven",
-      "nombre": "Miguel Ángel",
-      "apellido_paterno": "Hernández",
-      "apellido_materno": "Tovar",
-      "fecha": "June, Monday 08",
-      "mensaje_corto": "At the age of 19 years",
-      "se_vela_en": "Calle Azucena s/n Col. Fco. Villa, Santiago Papasquiaro, Dgo.",
-      "honras": "16.00 hrs. Templo Cristo Rey. Se despide en panteón Víctor Nevárez.",
-      "descripcion": ""
-    },
-    {
       "id": 433,
       "titulo": "",
       "nombre": "Martin",
@@ -73,6 +157,18 @@
       "se_vela_en": "Capilla Diamante de Suc. Dolores del Rio",
       "honras": "el día martes 09 de junio a las 12.00 hrs. Templo San Francisco de Asís. Se despide en panteón Oriente.",
       "descripcion": "Se despide para su cremación."
+    },
+    {
+      "id": 424,
+      "titulo": "",
+      "nombre": "María del Refugio",
+      "apellido_paterno": "Moreno",
+      "apellido_materno": "Quiñonez",
+      "fecha": "June, Wednesday 04",
+      "mensaje_corto": "At the age of 76 years",
+      "se_vela_en": "Pendent",
+      "honras": "Pendents",
+      "descripcion": "Se traslada de Carolina del Sur. E.U.A. a Durango, Dgo."
     }
   ]
 }
