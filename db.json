@@ -25,18 +25,6 @@
       "descripcion": ""
     },
     {
-      "id": 447,
-      "titulo": "",
-      "nombre": "Jesús",
-      "apellido_paterno": "Rodriguez",
-      "apellido_materno": "Enciso",
-      "fecha": "Jueves 11 de Junio",
-      "mensaje_corto": "A la edad de 87 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se despide para su cremación"
-    },
-    {
       "id": 446,
       "titulo": "",
       "nombre": "Moisés ",
@@ -45,7 +33,7 @@
       "fecha": "Jueves 11 de Junio",
       "mensaje_corto": "A la edad de 24 años",
       "se_vela_en": "Poblado Emiliano Zapata, Mpio. de Cuencamé, Dgo.",
-      "honras": "Pendientes",
+      "honras": "10:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -111,18 +99,6 @@
       "descripcion": ""
     },
     {
-      "id": 447,
-      "titulo": "",
-      "nombre": "Jesús",
-      "apellido_paterno": "Rodriguez",
-      "apellido_materno": "Enciso",
-      "fecha": "June, Thursday 11",
-      "mensaje_corto": "At the age of 87 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se despide para su cremación"
-    },
-    {
       "id": 446,
       "titulo": "",
       "nombre": "Moisés ",
@@ -131,7 +107,7 @@
       "fecha": "June, Thursday 11",
       "mensaje_corto": "At the age of 24 years",
       "se_vela_en": "Poblado Emiliano Zapata, Mpio. de Cuencamé, Dgo.",
-      "honras": "Pendents",
+      "honras": "10:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
