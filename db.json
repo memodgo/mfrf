@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 457,
+      "titulo": "",
+      "nombre": "Libia",
+      "apellido_paterno": "Silva",
+      "apellido_materno": "Cano",
+      "fecha": "Lunes 15 de Junio",
+      "mensaje_corto": "A la edad de 59 años",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 456,
+      "titulo": "Niña",
+      "nombre": "Ashley Camila",
+      "apellido_paterno": "Espeleta",
+      "apellido_materno": "Castro",
+      "fecha": "Lunes 15 de Junio",
+      "mensaje_corto": "A la edad de 7 meses",
+      "se_vela_en": "Calle José Rodríguez #403 Col. Felipe Ángeles",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 455,
       "titulo": "",
       "nombre": "Felipe de Jesus",
@@ -9,7 +33,7 @@
       "fecha": "Domingo 14 de Junio",
       "mensaje_corto": "A la edad de 39 años",
       "se_vela_en": "Calle Via lactea #736 Fracc. Villas del Guadiana II",
-      "honras": "Pendientes",
+      "honras": "11.00 hrs. Parroquia de San Cristóbal. Se despide en panteón Getsemaní.",
       "descripcion": ""
     },
     {
@@ -32,44 +56,8 @@
       "apellido_materno": "Valles",
       "fecha": "Domingo 14 de Junio",
       "mensaje_corto": "A la edad de 88 años",
-      "se_vela_en": "Cuauhtemoc Cuencame, Dgo. ",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 452,
-      "titulo": "Bebe",
-      "nombre": "Raquel",
-      "apellido_paterno": "Aguilar",
-      "apellido_materno": "Moreno",
-      "fecha": "Sábado 13 de Junio",
-      "mensaje_corto": "A la edad de 4 meses",
-      "se_vela_en": "Templo Cristiano de la Col. Benjamin Mendez",
-      "honras": "Culto biblico a las 12:00 hrs en el Mismo Templo Se despide en panteon Valle de los Sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 451,
-      "titulo": "",
-      "nombre": "Gabriela",
-      "apellido_paterno": "Ontiveros",
-      "apellido_materno": "Ortiz",
-      "fecha": "Sábado 13 de Junio",
-      "mensaje_corto": "A la edad de 37 años",
-      "se_vela_en": "Calle Luis Donaldo Colosio #103 Col. El Ciprés.",
-      "honras": "10:00 hrs Templo Santo Niño Se despide en panteon Getsemani",
-      "descripcion": ""
-    },
-    {
-      "id": 450,
-      "titulo": "",
-      "nombre": "Carlos Alberto",
-      "apellido_paterno": "Rojas",
-      "apellido_materno": "Pérez",
-      "fecha": "Sábado 13 de Junio",
-      "mensaje_corto": "A la edad de 29 años",
-      "se_vela_en": "Ricardo Flores Magón, Dgo.",
-      "honras": "16:00 hrs Templo Del lugar Se despide en panteon del lugar",
+      "se_vela_en": "Dom. Con. Cuauhtémoc, Cuencamé, Dgo.",
+      "honras": "14.00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -80,12 +68,36 @@
       "apellido_materno": "Quiñonez",
       "fecha": "Miercoles 04 de Junio",
       "mensaje_corto": "A la edad de 76 años",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
-      "descripcion": "Se traslada de Carolina del Sur. E.U.A. a Durango, Dgo."
+      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
+      "honras": "el día martes 16 de junio a las 11.00 hrs. Templo Sant Ana y La Sagrada Familia. Se despide en panton Valle de Los Sabinos.",
+      "descripcion": "Se trasladó de Carolina del Sur. E.U.A. a Durango, Dgo."
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 457,
+      "titulo": "",
+      "nombre": "Libia",
+      "apellido_paterno": "Silva",
+      "apellido_materno": "Cano",
+      "fecha": "June, Monday 15",
+      "mensaje_corto": "At the age of 59 years",
+      "se_vela_en": "Pendent",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 456,
+      "titulo": "Niña",
+      "nombre": "Ashley Camila",
+      "apellido_paterno": "Espeleta",
+      "apellido_materno": "Castro",
+      "fecha": "June, Monday 15",
+      "mensaje_corto": "At the age of 7 months",
+      "se_vela_en": "Calle José Rodríguez #403 Col. Felipe Ángeles",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 455,
       "titulo": "",
@@ -95,7 +107,7 @@
       "fecha": "June, Sunday 14",
       "mensaje_corto": "At the age of 39 years",
       "se_vela_en": "Calle Via lactea #736 Fracc. Villas del Guadiana II",
-      "honras": "Pendents",
+      "honras": "11.00 hrs. Parroquia de San Cristóbal. Se despide en panteón Getsemaní.",
       "descripcion": ""
     },
     {
@@ -107,7 +119,7 @@
       "fecha": "June, Sunday 14",
       "mensaje_corto": "At the age of 43 years",
       "se_vela_en": "El Bagre, Tepehuanes, Dgo.",
-      "honras": "Pendientes",
+      "honras": "Pendents",
       "descripcion": ""
     },
     {
@@ -118,44 +130,8 @@
       "apellido_materno": "Valles",
       "fecha": "June, Sunday 14",
       "mensaje_corto": "At the age of 88 years",
-      "se_vela_en": "Cuauhtemoc Cuencame, Dgo. ",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 452,
-      "titulo": "Baby",
-      "nombre": "Raquel",
-      "apellido_paterno": "Aguilar",
-      "apellido_materno": "Moreno",
-      "fecha": "June, Saturday 13",
-      "mensaje_corto": "At the age of 4 months",
-      "se_vela_en": "Templo Cristiano de la Col. Benjamin Mendez",
-      "honras": "Culto biblico a las 12:00 hrs en el Mismo Templo Se despide en panteon Valle de los Sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 451,
-      "titulo": "",
-      "nombre": "Gabriela",
-      "apellido_paterno": "Ontiveros",
-      "apellido_materno": "Ortiz",
-      "fecha": "June, Saturday 13",
-      "mensaje_corto": "At the age of 37 years",
-      "se_vela_en": "Calle Luis Donaldo Colosio #103 Col. El Ciprés.",
-      "honras": "10:00 hrs Templo Santo Niño Se despide en panteon Getsemani",
-      "descripcion": ""
-    },
-    {
-      "id": 450,
-      "titulo": "",
-      "nombre": "Carlos Alberto",
-      "apellido_paterno": "Rojas",
-      "apellido_materno": "Pérez",
-      "fecha": "June, Saturday 13",
-      "mensaje_corto": "At the age of 29 years",
-      "se_vela_en": "Ricardo Flores Magón, Dgo.",
-      "honras": "16:00 hrs Templo Del lugar Se despide en panteon del lugar",
+      "se_vela_en": "Dom. Con. Cuauhtémoc, Cuencamé, Dgo.",
+      "honras": "14.00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -166,9 +142,9 @@
       "apellido_materno": "Quiñonez",
       "fecha": "June, Wednesday 04",
       "mensaje_corto": "At the age of 76 years",
-      "se_vela_en": "Pendent",
-      "honras": "Pendents",
-      "descripcion": "Se traslada de Carolina del Sur. E.U.A. a Durango, Dgo."
+      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
+      "honras": "el día martes 16 de junio a las 11.00 hrs. Templo Sant Ana y La Sagrada Familia. Se despide en panton Valle de Los Sabinos.",
+      "descripcion": "Se trasladó de Carolina del Sur. E.U.A. a Durango, Dgo."
     }
   ]
 }
