@@ -1,15 +1,39 @@
 {
   "obituario": [
     {
-      "id": 457,
+      "id": 460,
       "titulo": "",
-      "nombre": "Libia",
-      "apellido_paterno": "Silva",
-      "apellido_materno": "Cano",
-      "fecha": "Lunes 15 de Junio",
-      "mensaje_corto": "A la edad de 59 años",
-      "se_vela_en": "Pendiente",
+      "nombre": "Jorge Antonio",
+      "apellido_paterno": "Leyva",
+      "apellido_materno": "",
+      "fecha": "Martes 16 de Junio",
+      "mensaje_corto": "",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
       "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 459,
+      "titulo": "Joven",
+      "nombre": "Kevin Abelardo",
+      "apellido_paterno": "Márquez",
+      "apellido_materno": "Hernandez",
+      "fecha": "Martes 16 de Junio",
+      "mensaje_corto": "A la edad de 18 años",
+      "se_vela_en": "Dom. Con. Banderas del Águila, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 458,
+      "titulo": "",
+      "nombre": "Esthela",
+      "apellido_paterno": "Rojas",
+      "apellido_materno": "Soto",
+      "fecha": "Martes 16 de Junio",
+      "mensaje_corto": "A la edad de 70 años",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Plata.",
+      "honras": "13:00 hrs. Templo Ntra. Sra. de La Salud. Se despide en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -21,43 +45,7 @@
       "fecha": "Lunes 15 de Junio",
       "mensaje_corto": "A la edad de 7 meses",
       "se_vela_en": "Calle José Rodríguez #403 Col. Felipe Ángeles",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 455,
-      "titulo": "",
-      "nombre": "Felipe de Jesus",
-      "apellido_paterno": "Salazar",
-      "apellido_materno": "Hernandez",
-      "fecha": "Domingo 14 de Junio",
-      "mensaje_corto": "A la edad de 39 años",
-      "se_vela_en": "Calle Via lactea #736 Fracc. Villas del Guadiana II",
-      "honras": "11.00 hrs. Parroquia de San Cristóbal. Se despide en panteón Getsemaní.",
-      "descripcion": ""
-    },
-    {
-      "id": 454,
-      "titulo": "",
-      "nombre": "Maria Luisa",
-      "apellido_paterno": "Tarin",
-      "apellido_materno": "Cruz",
-      "fecha": "Domingo 14 de Junio",
-      "mensaje_corto": "A la edad de 43 años",
-      "se_vela_en": "El Bagre, Tepehuanes, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 453,
-      "titulo": "",
-      "nombre": "Carlota",
-      "apellido_paterno": "Hernandez",
-      "apellido_materno": "Valles",
-      "fecha": "Domingo 14 de Junio",
-      "mensaje_corto": "A la edad de 88 años",
-      "se_vela_en": "Dom. Con. Cuauhtémoc, Cuencamé, Dgo.",
-      "honras": "14.00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "honras": "Se despide en panteón Oriente a las 13:00 hrs.",
       "descripcion": ""
     },
     {
@@ -75,15 +63,39 @@
   ],
   "obituario_ingles": [
     {
-      "id": 457,
+      "id": 460,
       "titulo": "",
-      "nombre": "Libia",
-      "apellido_paterno": "Silva",
-      "apellido_materno": "Cano",
-      "fecha": "June, Monday 15",
-      "mensaje_corto": "At the age of 59 years",
-      "se_vela_en": "Pendent",
+      "nombre": "Jorge Antonio",
+      "apellido_paterno": "Leyva",
+      "apellido_materno": "",
+      "fecha": "June, Tuesday 16",
+      "mensaje_corto": "",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
       "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 459,
+      "titulo": "Joven",
+      "nombre": "Kevin Abelardo",
+      "apellido_paterno": "Márquez",
+      "apellido_materno": "Hernandez",
+      "fecha": "June, Tuesday 16",
+      "mensaje_corto": "At the age of 18 years",
+      "se_vela_en": "Dom. Con. Banderas del Águila, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 458,
+      "titulo": "",
+      "nombre": "Esthela",
+      "apellido_paterno": "Rojas",
+      "apellido_materno": "Soto",
+      "fecha": "June, Tuesday 16",
+      "mensaje_corto": "At the age of 70 years",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Plata.",
+      "honras": "13:00 hrs. Templo Ntra. Sra. de La Salud. Se despide en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -95,43 +107,7 @@
       "fecha": "June, Monday 15",
       "mensaje_corto": "At the age of 7 months",
       "se_vela_en": "Calle José Rodríguez #403 Col. Felipe Ángeles",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 455,
-      "titulo": "",
-      "nombre": "Felipe de Jesus",
-      "apellido_paterno": "Salazar",
-      "apellido_materno": "Hernandez",
-      "fecha": "June, Sunday 14",
-      "mensaje_corto": "At the age of 39 years",
-      "se_vela_en": "Calle Via lactea #736 Fracc. Villas del Guadiana II",
-      "honras": "11.00 hrs. Parroquia de San Cristóbal. Se despide en panteón Getsemaní.",
-      "descripcion": ""
-    },
-    {
-      "id": 454,
-      "titulo": "",
-      "nombre": "Maria Luisa",
-      "apellido_paterno": "Tarin",
-      "apellido_materno": "Cruz",
-      "fecha": "June, Sunday 14",
-      "mensaje_corto": "At the age of 43 years",
-      "se_vela_en": "El Bagre, Tepehuanes, Dgo.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 453,
-      "titulo": "",
-      "nombre": "Carlota",
-      "apellido_paterno": "Hernandez",
-      "apellido_materno": "Valles",
-      "fecha": "June, Sunday 14",
-      "mensaje_corto": "At the age of 88 years",
-      "se_vela_en": "Dom. Con. Cuauhtémoc, Cuencamé, Dgo.",
-      "honras": "14.00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "honras": "Se despide en panteón Oriente a las 13:00 hrs.",
       "descripcion": ""
     },
     {
@@ -141,7 +117,7 @@
       "apellido_paterno": "Moreno",
       "apellido_materno": "Quiñonez",
       "fecha": "June, Wednesday 04",
-      "mensaje_corto": "At the age of 76 years",
+      "mensaje_corto": "A la edad de 76 años",
       "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
       "honras": "el día martes 16 de junio a las 11.00 hrs. Templo Sant Ana y La Sagrada Familia. Se despide en panton Valle de Los Sabinos.",
       "descripcion": "Se trasladó de Carolina del Sur. E.U.A. a Durango, Dgo."
