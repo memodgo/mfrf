@@ -1,6 +1,42 @@
 {
   "obituario": [
     {
+      "id": 463,
+      "titulo": "",
+      "nombre": "Celia",
+      "apellido_paterno": "Silva",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Miercoles 17 de Junio",
+      "mensaje_corto": "A la edad de 89 años",
+      "se_vela_en": "Calle Efraín Calderón #330 Col. Lucio Cabañas.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 462,
+      "titulo": "",
+      "nombre": "José Ricardo",
+      "apellido_paterno": "Pérez",
+      "apellido_materno": "Carrasco",
+      "fecha": "Miercoles 17 de Junio",
+      "mensaje_corto": "A la edad de 54 años",
+      "se_vela_en": "Suc. Ferrocarril, Santiago Papasquiaro, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 461,
+      "titulo": "",
+      "nombre": "Alberto",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Esquivel",
+      "fecha": "Miercoles 17 de Junio",
+      "mensaje_corto": "A la edad de 84 años",
+      "se_vela_en": "Calle Parque La Américas #500 Col. Armando del Castillo Franco.",
+      "honras": "17:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "descripcion": "Se traslada a Súchil, el día de hoy miércoles 17 de junio a las 12:00 hrs."
+    },
+    {
       "id": 460,
       "titulo": "",
       "nombre": "Jorge Antonio",
@@ -9,7 +45,7 @@
       "fecha": "Martes 16 de Junio",
       "mensaje_corto": "",
       "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
-      "honras": "Pendientes",
+      "honras": "11.30 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -21,47 +57,47 @@
       "fecha": "Martes 16 de Junio",
       "mensaje_corto": "A la edad de 18 años",
       "se_vela_en": "Dom. Con. Banderas del Águila, Dgo.",
-      "honras": "Pendientes",
+      "honras": "16:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
-    },
-    {
-      "id": 458,
-      "titulo": "",
-      "nombre": "Esthela",
-      "apellido_paterno": "Rojas",
-      "apellido_materno": "Soto",
-      "fecha": "Martes 16 de Junio",
-      "mensaje_corto": "A la edad de 70 años",
-      "se_vela_en": "Suc. Dolores del Rio Capilla Plata.",
-      "honras": "13:00 hrs. Templo Ntra. Sra. de La Salud. Se despide en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 456,
-      "titulo": "Niña",
-      "nombre": "Ashley Camila",
-      "apellido_paterno": "Espeleta",
-      "apellido_materno": "Castro",
-      "fecha": "Lunes 15 de Junio",
-      "mensaje_corto": "A la edad de 7 meses",
-      "se_vela_en": "Calle José Rodríguez #403 Col. Felipe Ángeles",
-      "honras": "Se despide en panteón Oriente a las 13:00 hrs.",
-      "descripcion": ""
-    },
-    {
-      "id": 424,
-      "titulo": "",
-      "nombre": "María del Refugio",
-      "apellido_paterno": "Moreno",
-      "apellido_materno": "Quiñonez",
-      "fecha": "Miercoles 04 de Junio",
-      "mensaje_corto": "A la edad de 76 años",
-      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
-      "honras": "el día martes 16 de junio a las 11.00 hrs. Templo Sant Ana y La Sagrada Familia. Se despide en panton Valle de Los Sabinos.",
-      "descripcion": "Se trasladó de Carolina del Sur. E.U.A. a Durango, Dgo."
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 463,
+      "titulo": "",
+      "nombre": "Celia",
+      "apellido_paterno": "Silva",
+      "apellido_materno": "Rodriguez",
+      "fecha": "June, Wednesday 17",
+      "mensaje_corto": "At the age of 89 years",
+      "se_vela_en": "Calle Efraín Calderón #330 Col. Lucio Cabañas.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 462,
+      "titulo": "",
+      "nombre": "José Ricardo",
+      "apellido_paterno": "Pérez",
+      "apellido_materno": "Carrasco",
+      "fecha": "June, Wednesday 17",
+      "mensaje_corto": "At the age of 54 years",
+      "se_vela_en": "Suc. Ferrocarril, Santiago Papasquiaro, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 461,
+      "titulo": "",
+      "nombre": "Alberto",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Esquivel",
+      "fecha": "June, Wednesday 17",
+      "mensaje_corto": "At the age of 84 years",
+      "se_vela_en": "Calle Parque La Américas #500 Col. Armando del Castillo Franco.",
+      "honras": "17:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "descripcion": "Se traslada a Súchil, el día de hoy miércoles 17 de junio a las 12:00 hrs."
+    },
     {
       "id": 460,
       "titulo": "",
@@ -71,7 +107,7 @@
       "fecha": "June, Tuesday 16",
       "mensaje_corto": "",
       "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
-      "honras": "Pendents",
+      "honras": "11.30 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -83,44 +119,8 @@
       "fecha": "June, Tuesday 16",
       "mensaje_corto": "At the age of 18 years",
       "se_vela_en": "Dom. Con. Banderas del Águila, Dgo.",
-      "honras": "Pendents",
+      "honras": "16:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
-    },
-    {
-      "id": 458,
-      "titulo": "",
-      "nombre": "Esthela",
-      "apellido_paterno": "Rojas",
-      "apellido_materno": "Soto",
-      "fecha": "June, Tuesday 16",
-      "mensaje_corto": "At the age of 70 years",
-      "se_vela_en": "Suc. Dolores del Rio Capilla Plata.",
-      "honras": "13:00 hrs. Templo Ntra. Sra. de La Salud. Se despide en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 456,
-      "titulo": "Niña",
-      "nombre": "Ashley Camila",
-      "apellido_paterno": "Espeleta",
-      "apellido_materno": "Castro",
-      "fecha": "June, Monday 15",
-      "mensaje_corto": "At the age of 7 months",
-      "se_vela_en": "Calle José Rodríguez #403 Col. Felipe Ángeles",
-      "honras": "Se despide en panteón Oriente a las 13:00 hrs.",
-      "descripcion": ""
-    },
-    {
-      "id": 424,
-      "titulo": "",
-      "nombre": "María del Refugio",
-      "apellido_paterno": "Moreno",
-      "apellido_materno": "Quiñonez",
-      "fecha": "June, Wednesday 04",
-      "mensaje_corto": "A la edad de 76 años",
-      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
-      "honras": "el día martes 16 de junio a las 11.00 hrs. Templo Sant Ana y La Sagrada Familia. Se despide en panton Valle de Los Sabinos.",
-      "descripcion": "Se trasladó de Carolina del Sur. E.U.A. a Durango, Dgo."
     }
   ]
 }
