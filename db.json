@@ -1,54 +1,78 @@
 {
   "obituario": [
     {
-      "id": 476,
+      "id": 479,
       "titulo": "",
-      "nombre": "Jesús",
-      "apellido_paterno": "Avila",
-      "apellido_materno": "Román",
+      "nombre": "Rogelio",
+      "apellido_paterno": "Chavez",
+      "apellido_materno": "Paredes",
       "fecha": "Viernes 26 de Junio",
-      "mensaje_corto": "A la edad de 86 años",
-      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
-      "honras": "10:00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Valle de Los Sabinos.",
+      "mensaje_corto": "A la edad de 69 años",
+      "se_vela_en": "Capilla Diamante de Suc Dolores del Rio a partir del dia sabado a las 10:00 am",
+      "honras": "Pendientes",
       "descripcion": ""
     },
     {
-      "id": 475,
+      "id": 478,
       "titulo": "",
-      "nombre": "Belén",
-      "apellido_paterno": "Esparza",
-      "apellido_materno": "Álvarez",
-      "fecha": "Miercoles 24 de Junio",
-      "mensaje_corto": "A la edad de 79 años",
-      "se_vela_en": "Dom. Con. Los Corrales, Tepehuanes, Dgo.",
-      "honras": "17:00 hrs. Templo San Miguel Arcángel. Se despide en panteón del lugar.",
-      "descripcion": ""
+      "nombre": "Santiago",
+      "apellido_paterno": "Alvarado",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Viernes 26 de Junio",
+      "mensaje_corto": "A la edad de 82 años",
+      "se_vela_en": "Capilla Diamante de Suc. Dolores del Rio",
+      "honras": "Seran a las 16:00 hrs Templo del Lugar Panteón del lugar",
+      "descripcion": "Se traslada a las 10:00 hrs el dia 27 de junio a  San Juan del Rio"
+    },
+    {
+      "id": 477,
+      "titulo": "",
+      "nombre": "Amalio",
+      "apellido_paterno": "Ibarra",
+      "apellido_materno": "Garbalena",
+      "fecha": "Viernes 26 de Junio",
+      "mensaje_corto": "88",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremación"
     }
   ],
   "obituario_ingles": [
     {
-      "id": 476,
+      "id": 479,
       "titulo": "",
-      "nombre": "Jesús",
-      "apellido_paterno": "Avila",
-      "apellido_materno": "Román",
+      "nombre": "Rogelio",
+      "apellido_paterno": "Chavez",
+      "apellido_materno": "Paredes",
       "fecha": "June, Friday 26",
-      "mensaje_corto": "At the age of 86 years",
-      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante.",
-      "honras": "10:00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide en panteón Valle de Los Sabinos.",
+      "mensaje_corto": "At the age of 69 years",
+      "se_vela_en": "Capilla Diamante de Suc Dolores del Rio a partir del dia sabado a las 10:00 am",
+      "honras": "Pendents",
       "descripcion": ""
     },
     {
-      "id": 475,
+      "id": 478,
       "titulo": "",
-      "nombre": "Belén",
-      "apellido_paterno": "Esparza",
-      "apellido_materno": "Álvarez",
-      "fecha": "June, Wednesday 24",
-      "mensaje_corto": "At the age of 79 years",
-      "se_vela_en": "Dom. Con. Los Corrales, Tepehuanes, Dgo.",
-      "honras": "17:00 hrs. Templo San Miguel Arcángel. Se despide en panteón del lugar.",
-      "descripcion": ""
+      "nombre": "Santiago",
+      "apellido_paterno": "Alvarado",
+      "apellido_materno": "Rodriguez",
+      "fecha": "June, Friday 26",
+      "mensaje_corto": "At the age of 82 years",
+      "se_vela_en": "Capilla Diamante de Suc. Dolores del Rio",
+      "honras": "Seran a las 16:00 hrs Templo del Lugar Panteón del lugar",
+      "descripcion": "Se traslada a las 10:00 hrs el dia 27 de junio a  San Juan del Rio"
+    },
+    {
+      "id": 477,
+      "titulo": "",
+      "nombre": "Amalio",
+      "apellido_paterno": "Ibarra",
+      "apellido_materno": "Garbalena",
+      "fecha": "June, Friday 26",
+      "mensaje_corto": "At the age of 88 years",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremación"
     }
   ]
 }
