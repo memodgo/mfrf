@@ -1,52 +1,28 @@
 {
   "obituario": [
     {
-      "id": 505,
+      "id": 506,
       "titulo": "",
-      "nombre": "Francisca",
-      "apellido_paterno": "Viera",
-      "apellido_materno": "Paez",
-      "fecha": "Miercoles 15 de Julio",
-      "mensaje_corto": "A la edad de 80 años",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 504,
-      "titulo": "",
-      "nombre": "Socorro",
-      "apellido_paterno": "Diaz",
-      "apellido_materno": "de Monárrez",
-      "fecha": "Miercoles 15 de Julio",
-      "mensaje_corto": "A la edad de 88 años",
-      "se_vela_en": "El corazón, Tepehuanes, Dgo.",
+      "nombre": "Paula",
+      "apellido_paterno": "Alcalá",
+      "apellido_materno": "Hernández",
+      "fecha": "Sábado 18 de Julio",
+      "mensaje_corto": "A la edad de 89 años",
+      "se_vela_en": "Dom. Con. El Ejido Florencia, Fco. I. Madero, Coahuila.",
       "honras": "Pendientes",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 505,
+      "id": 506,
       "titulo": "",
-      "nombre": "Francisca",
-      "apellido_paterno": "Viera",
-      "apellido_materno": "Paez",
-      "fecha": "Wednesday, July 15",
-      "mensaje_corto": "At the age of 80 years",
-      "se_vela_en": "Suc. Dolores del Río en Capilla Esmeralda",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 504,
-      "titulo": "",
-      "nombre": "Socorro",
-      "apellido_paterno": "Diaz",
-      "apellido_materno": "de Monárrez",
-      "fecha": "Wednesday, July 15",
-      "mensaje_corto": "At the age of 88 years",
-      "se_vela_en": "El corazón, Tepehuanes, Dgo.",
+      "nombre": "Paula",
+      "apellido_paterno": "Alcalá",
+      "apellido_materno": "Hernández",
+      "fecha": "July, Saturday 18",
+      "mensaje_corto": "At the age of 89 years",
+      "se_vela_en": "Dom. Con. El Ejido Florencia, Fco. I. Madero, Coahuila.",
       "honras": "Pendents",
       "descripcion": ""
     }
