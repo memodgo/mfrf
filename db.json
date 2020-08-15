@@ -1,6 +1,66 @@
 {
   "obituario": [
     {
+      "id": 538,
+      "titulo": "",
+      "nombre": "Cecilia Irene",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Ortega",
+      "fecha": "Sábado 15 de Agosto",
+      "mensaje_corto": "A la edad de 53 años",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Oro",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 537,
+      "titulo": "",
+      "nombre": "José Trinidad",
+      "apellido_paterno": "Martínez",
+      "apellido_materno": "Leyva",
+      "fecha": "Sábado 15 de Agosto",
+      "mensaje_corto": "A la edad de 77 años",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Plata.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 536,
+      "titulo": "",
+      "nombre": "Aurelio",
+      "apellido_paterno": "Rojas",
+      "apellido_materno": "Holague",
+      "fecha": "Sábado 15 de Agosto",
+      "mensaje_corto": "A la edad de 86 años",
+      "se_vela_en": "El Conejo, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 535,
+      "titulo": "",
+      "nombre": "Francisco",
+      "apellido_paterno": "Corral",
+      "apellido_materno": "Payan",
+      "fecha": "Sábado 15 de Agosto",
+      "mensaje_corto": "A la edad de 90 años",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante y Esmeralda.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 534,
+      "titulo": "",
+      "nombre": "María de Jesus",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Contreras",
+      "fecha": "Sábado 15 de Agosto",
+      "mensaje_corto": "A la edad de 74 años",
+      "se_vela_en": "Calle Toribio Martínez #133 Fracc. Domingo Arrieta.",
+      "honras": "11:00 hrs. Templo San Felipe de Jesús. Se despide en panteón Oriente.",
+      "descripcion": ""
+    },
+    {
       "id": 533,
       "titulo": "",
       "nombre": "Guadalupe",
@@ -9,7 +69,7 @@
       "fecha": "Viernes 14 de Agosto",
       "mensaje_corto": "A la edad de 83 años",
       "se_vela_en": "Dom. Con. Pino Suárez, Dgo.",
-      "honras": "Pendientes",
+      "honras": "13:00 hrs. Templo San José (del lugar) Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -21,69 +81,81 @@
       "fecha": "Viernes 14 de Agosto",
       "mensaje_corto": "A la edad de 75 años",
       "se_vela_en": "Dom. Con. Loc. Cardenchos, Nombre de Dios, Dgo.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 531,
-      "titulo": "",
-      "nombre": "Osiel",
-      "apellido_paterno": "Labrador",
-      "apellido_materno": "Pastrana",
-      "fecha": "Viernes 14 de Agosto",
-      "mensaje_corto": "A la edad de 31 años",
-      "se_vela_en": "Calle Armando del Castillo Franco #113 Col. Gobernadores.",
-      "honras": "15:00 hrs. Templo Ntra. Sra. De La Salud. Se despide en panteón de La Cieneguita.",
-      "descripcion": ""
-    },
-    {
-      "id": 530,
-      "titulo": "",
-      "nombre": "Jorge Jonathan",
-      "apellido_paterno": "Peña",
-      "apellido_materno": "Olivas",
-      "fecha": "Viernes 14 de Agosto",
-      "mensaje_corto": "A la edad de 28 años",
-      "se_vela_en": "Priv. Ébano #102 Fracc. Los Encinos.",
-      "honras": "10:30 hrs. Templo Santo Cristóbal. Se despide en panteón Valle de Los Sabinos.",
-      "descripcion": ""
-    },
-    {
-      "id": 529,
-      "titulo": "",
-      "nombre": "Guillermo",
-      "apellido_paterno": "Alba",
-      "apellido_materno": "Benítez",
-      "fecha": "Viernes 14 de Agosto",
-      "mensaje_corto": "A la edad de 54 años",
-      "se_vela_en": "Calle Nombre de Dios #209 Col. Benigno Montoya.",
-      "honras": "10.00 hrs. Templo Santo Domingo. Se despide en panteón Valle de Los Sabinos.",
-      "descripcion": ""
-    },
-    {
-      "id": 528,
-      "titulo": "",
-      "nombre": "Lucia",
-      "apellido_paterno": "Sarabia",
-      "apellido_materno": "Navarro",
-      "fecha": "Viernes 14 de Agosto",
-      "mensaje_corto": "A la edad de 84 años",
-      "se_vela_en": "Calle Vicente Guerrero #800 Col. Santa Fe.",
-      "honras": "10:00 hrs. Templo María Madre de la Iglesia. Se despide en panteón Getsemaní.",
+      "honras": "13:00 hrs. Templo Santuario de Guadalupe (La Constancia) Se despide en panteón de Texcalillo.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 538,
+      "titulo": "",
+      "nombre": "Cecilia Irene",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Ortega",
+      "fecha": "August, saturday 15",
+      "mensaje_corto": "At the age of 53 years",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Oro",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 537,
+      "titulo": "",
+      "nombre": "José Trinidad",
+      "apellido_paterno": "Martínez",
+      "apellido_materno": "Leyva",
+      "fecha": "August, saturday 15",
+      "mensaje_corto": "At the age of 77 years",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Plata.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 536,
+      "titulo": "",
+      "nombre": "Aurelio",
+      "apellido_paterno": "Rojas",
+      "apellido_materno": "Holague",
+      "fecha": "August, saturday 15",
+      "mensaje_corto": "At the age of 86 years",
+      "se_vela_en": "El Conejo, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 535,
+      "titulo": "",
+      "nombre": "Francisco",
+      "apellido_paterno": "Corral",
+      "apellido_materno": "Payan",
+      "fecha": "August, saturday 15",
+      "mensaje_corto": "At the age of 90 years",
+      "se_vela_en": "Suc. Dolores del Rio Capilla Diamante y Esmeralda.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 534,
+      "titulo": "",
+      "nombre": "María de Jesus",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Contreras",
+      "fecha": "August, saturday 15",
+      "mensaje_corto": "At the age of 74 years",
+      "se_vela_en": "Calle Toribio Martínez #133 Fracc. Domingo Arrieta.",
+      "honras": "11:00 hrs. Templo San Felipe de Jesús. Se despide en panteón Oriente.",
+      "descripcion": ""
+    },
     {
       "id": 533,
       "titulo": "",
       "nombre": "Guadalupe",
       "apellido_paterno": "Rosales",
       "apellido_materno": "Armenta",
-      "fecha": "August, friday 14",
+      "fecha": "August, saturday 15",
       "mensaje_corto": "At the age of 83 years",
       "se_vela_en": "Dom. Con. Pino Suárez, Dgo.",
-      "honras": "Pendents",
+      "honras": "13:00 hrs. Templo San José (del lugar) Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -92,58 +164,10 @@
       "nombre": "Josefina",
       "apellido_paterno": "Flores",
       "apellido_materno": "Chico",
-      "fecha": "August, friday 14",
+      "fecha": "August, saturday 15",
       "mensaje_corto": "At the age of 75 years",
       "se_vela_en": "Dom. Con. Loc. Cardenchos, Nombre de Dios, Dgo.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 531,
-      "titulo": "",
-      "nombre": "Osiel",
-      "apellido_paterno": "Labrador",
-      "apellido_materno": "Pastrana",
-      "fecha": "August, friday 14",
-      "mensaje_corto": "At the age of 31 years",
-      "se_vela_en": "Calle Armando del Castillo Franco #113 Col. Gobernadores.",
-      "honras": "15:00 hrs. Templo Ntra. Sra. De La Salud. Se despide en panteón de La Cieneguita.",
-      "descripcion": ""
-    },
-    {
-      "id": 530,
-      "titulo": "",
-      "nombre": "Jorge Jonathan",
-      "apellido_paterno": "Peña",
-      "apellido_materno": "Olivas",
-      "fecha": "August, friday 14",
-      "mensaje_corto": "At the age of 28 years",
-      "se_vela_en": "Priv. Ébano #102 Fracc. Los Encinos.",
-      "honras": "10:30 hrs. Templo Santo Cristóbal. Se despide en panteón Valle de Los Sabinos.",
-      "descripcion": ""
-    },
-    {
-      "id": 529,
-      "titulo": "",
-      "nombre": "Guillermo",
-      "apellido_paterno": "Alba",
-      "apellido_materno": "Benítez",
-      "fecha": "August, friday 14",
-      "mensaje_corto": "At the age of 54 years",
-      "se_vela_en": "Calle Nombre de Dios #209 Col. Benigno Montoya.",
-      "honras": "10.00 hrs. Templo Santo Domingo. Se despide en panteón Valle de Los Sabinos.",
-      "descripcion": ""
-    },
-    {
-      "id": 528,
-      "titulo": "",
-      "nombre": "Lucia",
-      "apellido_paterno": "Sarabia",
-      "apellido_materno": "Navarro",
-      "fecha": "August, friday 14",
-      "mensaje_corto": "At the age of 84 years",
-      "se_vela_en": "Calle Vicente Guerrero #800 Col. Santa Fe.",
-      "honras": "10:00 hrs. Templo María Madre de la Iglesia. Se despide en panteón Getsemaní.",
+      "honras": "13:00 hrs. Templo Santuario de Guadalupe (La Constancia) Se despide en panteón de Texcalillo.",
       "descripcion": ""
     }
   ]
