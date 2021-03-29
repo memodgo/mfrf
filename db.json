@@ -1,102 +1,54 @@
 {
   "obituario": [
     {
-      "id": 708,
+      "id": 711,
       "titulo": "",
-      "nombre": "Eligio",
-      "apellido_paterno": "Maturino",
-      "apellido_materno": "Romero",
-      "fecha": "Sábado 27 de Marzo",
+      "nombre": "Francisco",
+      "apellido_paterno": "Diaz",
+      "apellido_materno": "Herrera",
+      "fecha": "",
       "mensaje_corto": "A la edad de  años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se traslada de California a Durango"
-    },
-    {
-      "id": 707,
-      "titulo": "",
-      "nombre": "Norma Yolanda",
-      "apellido_paterno": "Sánchez",
-      "apellido_materno": "López",
-      "fecha": "Sábado 27 de Marzo",
-      "mensaje_corto": "A la edad de 51 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio ",
-      "honras": "11:00 hrs. Templo Amor Misericordioso. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 706,
-      "titulo": "",
-      "nombre": "Daniel Guillermo",
-      "apellido_paterno": "Castro",
-      "apellido_materno": "Aragón",
-      "fecha": "Sábado 27 de Marzo",
-      "mensaje_corto": "A la edad de 83 años",
-      "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
-      "honras": "10:00 hrs. Templo Expiatorio del Sagrado Corazón de Jesús. Se despide en panteón de Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 705,
-      "titulo": "Señorita",
-      "nombre": "María de la Cruz",
-      "apellido_paterno": "Hernández",
-      "apellido_materno": "García",
-      "fecha": "Sábado 27 de Marzo",
-      "mensaje_corto": "A la edad de 88 años",
-      "se_vela_en": "Nicolas Romero",
+      "se_vela_en": "Pendiente",
       "honras": "Pendientes",
-      "descripcion": ""
+      "descripcion": "Se traslada de Estados Unidos a Durango"
+    },
+    {
+      "id": 710,
+      "titulo": "",
+      "nombre": "Tomasa",
+      "apellido_paterno": "Marungo",
+      "apellido_materno": "Cepeda",
+      "fecha": "",
+      "mensaje_corto": "A la edad de  años",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": "Se traslada de Estados Unidos a Durango"
     }
   ],
   "obituario_ingles": [
     {
-      "id": 708,
+      "id": 711,
       "titulo": "",
-      "nombre": "Eligio",
-      "apellido_paterno": "Maturino",
-      "apellido_materno": "Romero",
-      "fecha": "Saturday, March 27",
+      "nombre": "Francisco",
+      "apellido_paterno": "Diaz",
+      "apellido_materno": "Herrera",
+      "fecha": "",
       "mensaje_corto": "",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se traslada de California a Durango"
+      "se_vela_en": "Pendint",
+      "honras": "Pendents",
+      "descripcion": "He is transferred from the USA to Durango, Mex."
     },
     {
-      "id": 707,
+      "id": 710,
       "titulo": "",
-      "nombre": "Norma Yolanda",
-      "apellido_paterno": "Sánchez",
-      "apellido_materno": "López",
-      "fecha": "Saturday, March 27",
-      "mensaje_corto": "At the age of 51 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio ",
-      "honras": "11:00 hrs. Templo Amor Misericordioso. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 706,
-      "titulo": "",
-      "nombre": "Daniel Guillermo",
-      "apellido_paterno": "Castro",
-      "apellido_materno": "Aragón",
-      "fecha": "Saturday, March 27",
-      "mensaje_corto": "At the age of 83 years",
-      "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
-      "honras": "10:00 hrs. Templo Expiatorio del Sagrado Corazón de Jesús. Se despide en panteón de Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 705,
-      "titulo": "Señorita",
-      "nombre": "María de la Cruz",
-      "apellido_paterno": "Hernández",
-      "apellido_materno": "García",
-      "fecha": "Saturday, March 27",
-      "mensaje_corto": "At the age of 88 years",
-      "se_vela_en": "Nicolas Romero",
-      "honras": "Pendientes",
-      "descripcion": ""
+      "nombre": "Tomasa",
+      "apellido_paterno": "Marungo",
+      "apellido_materno": "Cepeda",
+      "fecha": "",
+      "mensaje_corto": "",
+      "se_vela_en": "Pendent",
+      "honras": "Pendents",
+      "descripcion": "She is transferred from the USA to Durango, Mex."
     }
   ]
 }
