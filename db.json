@@ -1,6 +1,42 @@
 {
   "obituario": [
     {
+      "id": 728,
+      "titulo": "",
+      "nombre": "Humberto",
+      "apellido_paterno": "Anaya",
+      "apellido_materno": "Barrera",
+      "fecha": "Lunes 05 de Abril",
+      "mensaje_corto": "A la edad de 53 años",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Río",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 727,
+      "titulo": "",
+      "nombre": "Christopher",
+      "apellido_paterno": "Rojas",
+      "apellido_materno": "Ruiz",
+      "fecha": "Lunes 05 de Abril",
+      "mensaje_corto": "A la edad de 7 años",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Río",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 726,
+      "titulo": "",
+      "nombre": "Martina",
+      "apellido_paterno": "Rodríguez",
+      "apellido_materno": "",
+      "fecha": "Lunes 05 de Abril",
+      "mensaje_corto": "A la edad de 95 años",
+      "se_vela_en": "el poblado Santa Lucía, Canatlán",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 725,
       "titulo": "",
       "nombre": "Maria",
@@ -75,6 +111,42 @@
   ],
   "obituario_ingles": [
     {
+      "id": 728,
+      "titulo": "",
+      "nombre": "Humberto",
+      "apellido_paterno": "Anaya",
+      "apellido_materno": "Barrera",
+      "fecha": "Monday, April 05",
+      "mensaje_corto": "At the age of 53 years",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Río",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 727,
+      "titulo": "",
+      "nombre": "Christopher",
+      "apellido_paterno": "Rojas",
+      "apellido_materno": "Ruiz",
+      "fecha": "Monday, April 05",
+      "mensaje_corto": "At the age of 7 years",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Río",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 726,
+      "titulo": "",
+      "nombre": "Martina",
+      "apellido_paterno": "Rodríguez",
+      "apellido_materno": "",
+      "fecha": "Monday, April 05",
+      "mensaje_corto": "At the age of 95 years",
+      "se_vela_en": "el poblado Santa Lucía, Canatlán",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
       "id": 725,
       "titulo": "",
       "nombre": "Maria",
@@ -83,7 +155,7 @@
       "fecha": "Monday, April 05",
       "mensaje_corto": "At the age of 74 years",
       "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
-      "honras": "Pendents",
+      "honras": "Pendientes",
       "descripcion": ""
     },
     {
