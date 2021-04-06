@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 729,
+      "titulo": "Niño",
+      "nombre": "Christopher",
+      "apellido_paterno": "Rojas",
+      "apellido_materno": "Ruiz",
+      "fecha": "Martes 06 de Abril",
+      "mensaje_corto": "A la edad de 6 años",
+      "se_vela_en": " Capilla Diamante Suc. Dolores del Rio",
+      "honras": " Culto Bíblico Iglesia en Valle Verde a las 10.00 hrs. Se despide en panteón Valle de Los Sabinos.",
+      "descripcion": ""
+    },
+    {
       "id": 728,
       "titulo": "",
       "nombre": "Humberto",
@@ -9,19 +21,7 @@
       "fecha": "Lunes 05 de Abril",
       "mensaje_corto": "A la edad de 53 años",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Río",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 727,
-      "titulo": "",
-      "nombre": "Christopher",
-      "apellido_paterno": "Rojas",
-      "apellido_materno": "Ruiz",
-      "fecha": "Lunes 05 de Abril",
-      "mensaje_corto": "A la edad de 7 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Río",
-      "honras": "Pendientes",
+      "honras": "Pendents",
       "descripcion": ""
     },
     {
@@ -33,7 +33,7 @@
       "fecha": "Lunes 05 de Abril",
       "mensaje_corto": "A la edad de 95 años",
       "se_vela_en": "el poblado Santa Lucía, Canatlán",
-      "honras": "Pendientes",
+      "honras": "17:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -45,93 +45,33 @@
       "fecha": "Lunes 05 de Abril",
       "mensaje_corto": "A la edad de 74 años",
       "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 724,
-      "titulo": "",
-      "nombre": "Cándido",
-      "apellido_paterno": "Chairez",
-      "apellido_materno": "Herrera",
-      "fecha": "Lunes 05 de Abril",
-      "mensaje_corto": "A la edad de 80 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio.",
-      "honras": "12.00 hrs. Templo San Francisco de Asís. Se despide en panteón de Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 723,
-      "titulo": "",
-      "nombre": "Maria",
-      "apellido_paterno": "Sabina",
-      "apellido_materno": "Salazar",
-      "fecha": "Lunes 05 de Abril",
-      "mensaje_corto": "A la edad de 70 años",
-      "se_vela_en": "Dom. Con. Francisco Montes de Oca.",
-      "honras": "17:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 722,
-      "titulo": "",
-      "nombre": "José Leonardo",
-      "apellido_paterno": "Ramirez",
-      "apellido_materno": "Rivera",
-      "fecha": "Lunes 05 de Abril",
-      "mensaje_corto": "A la edad de 40 años",
-      "se_vela_en": "Calle Elorreaga #408 Ote, Zona Centro.",
-      "honras": "11:00 hrs. Catedral Basílica Menos. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 721,
-      "titulo": "",
-      "nombre": "María del Rosario",
-      "apellido_paterno": "Santillan",
-      "apellido_materno": "López",
-      "fecha": "Lunes 05 de Abril",
-      "mensaje_corto": "",
-      "se_vela_en": "Dom. Con. El Parían, Rodeo, Dgo.",
-      "honras": "16:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 720,
-      "titulo": "",
-      "nombre": "Ma. Genara",
-      "apellido_paterno": "Deras",
-      "apellido_materno": "",
-      "fecha": "Lunes 05 de Abril",
-      "mensaje_corto": "A la edad de 89 años",
-      "se_vela_en": "Capillas Esmeralda Suc. Dolores del Rio.",
-      "honras": "11:00 hrs. en dom. con. San José de la Parrilla. Templo del lugar. Se despide en panteón del lugar.",
+      "honras": " hora aun pendiente. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 729,
+      "titulo": "Niño",
+      "nombre": "Christopher",
+      "apellido_paterno": "Rojas",
+      "apellido_materno": "Ruiz",
+      "fecha": "Tuesday, April 06",
+      "mensaje_corto": "At the age of 6 years",
+      "se_vela_en": " Capilla Diamante Suc. Dolores del Rio",
+      "honras": " Culto Bíblico Iglesia en Valle Verde a las 10.00 hrs. Se despide en panteón Valle de Los Sabinos.",
+      "descripcion": ""
+    },
     {
       "id": 728,
       "titulo": "",
       "nombre": "Humberto",
       "apellido_paterno": "Anaya",
       "apellido_materno": "Barrera",
-      "fecha": "Monday, April 05",
+      "fecha": "Tuesday, April 05",
       "mensaje_corto": "At the age of 53 years",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Río",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 727,
-      "titulo": "",
-      "nombre": "Christopher",
-      "apellido_paterno": "Rojas",
-      "apellido_materno": "Ruiz",
-      "fecha": "Monday, April 05",
-      "mensaje_corto": "At the age of 7 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Río",
-      "honras": "Pendents",
+      "honras": "Pendientes",
       "descripcion": ""
     },
     {
@@ -140,10 +80,10 @@
       "nombre": "Martina",
       "apellido_paterno": "Rodríguez",
       "apellido_materno": "",
-      "fecha": "Monday, April 05",
+      "fecha": "Tuesday, April 05",
       "mensaje_corto": "At the age of 95 years",
       "se_vela_en": "el poblado Santa Lucía, Canatlán",
-      "honras": "Pendents",
+      "honras": "17:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -152,70 +92,10 @@
       "nombre": "Maria",
       "apellido_paterno": "Diaz",
       "apellido_materno": "",
-      "fecha": "Monday, April 05",
+      "fecha": "Tuesday, April 05",
       "mensaje_corto": "At the age of 74 years",
       "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 724,
-      "titulo": "",
-      "nombre": "Cándido",
-      "apellido_paterno": "Chairez",
-      "apellido_materno": "Herrera",
-      "fecha": "Monday, April 05",
-      "mensaje_corto": "At the age of 80 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio.",
-      "honras": "12.00 hrs. Templo San Francisco de Asís. Se despide en panteón de Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 723,
-      "titulo": "",
-      "nombre": "Maria",
-      "apellido_paterno": "Sabina",
-      "apellido_materno": "Salazar",
-      "fecha": "Monday, April 05",
-      "mensaje_corto": "At the age of 70 years",
-      "se_vela_en": "Dom. Con. Francisco Montes de Oca.",
-      "honras": "17:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 722,
-      "titulo": "",
-      "nombre": "José Leonardo",
-      "apellido_paterno": "Ramirez",
-      "apellido_materno": "Rivera",
-      "fecha": "Monday, April 05",
-      "mensaje_corto": "At the age of 40 years",
-      "se_vela_en": "Calle Elorreaga #408 Ote, Zona Centro.",
-      "honras": "11:00 hrs. Catedral Basílica Menos. Se despide para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 721,
-      "titulo": "",
-      "nombre": "María del Rosario",
-      "apellido_paterno": "Santillan",
-      "apellido_materno": "López",
-      "fecha": "Monday, April 05",
-      "mensaje_corto": "",
-      "se_vela_en": "Dom. Con. El Parían, Rodeo, Dgo.",
-      "honras": "16:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 720,
-      "titulo": "",
-      "nombre": "Ma. Genara",
-      "apellido_paterno": "Deras",
-      "apellido_materno": "",
-      "fecha": "Monday, April 05",
-      "mensaje_corto": "At the age of 89 years",
-      "se_vela_en": "Capillas Esmeralda Suc. Dolores del Rio.",
-      "honras": "11:00 hrs. en dom. con. San José de la Parrilla. Templo del lugar. Se despide en panteón del lugar.",
+      "honras": " hora aun pendiente. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ]
