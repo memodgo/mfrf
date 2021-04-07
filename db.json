@@ -1,15 +1,15 @@
 {
   "obituario": [
     {
-      "id": 729,
+      "id": 730,
       "titulo": "Niño",
-      "nombre": "Christopher",
-      "apellido_paterno": "Rojas",
-      "apellido_materno": "Ruiz",
-      "fecha": "Martes 06 de Abril",
-      "mensaje_corto": "A la edad de 6 años",
-      "se_vela_en": " Capilla Diamante Suc. Dolores del Rio",
-      "honras": " Culto Bíblico Iglesia en Valle Verde a las 10.00 hrs. Se despide en panteón Valle de Los Sabinos.",
+      "nombre": "José Renato",
+      "apellido_paterno": "Mata",
+      "apellido_materno": "Beltrán",
+      "fecha": "Miércoles 07 de Abril",
+      "mensaje_corto": "A la edad de 11 años",
+      "se_vela_en": "Dom. Con. Otinapa, Dgo.",
+      "honras": "Pendientes",
       "descripcion": ""
     },
     {
@@ -21,19 +21,7 @@
       "fecha": "Lunes 05 de Abril",
       "mensaje_corto": "A la edad de 53 años",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Río",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 726,
-      "titulo": "",
-      "nombre": "Martina",
-      "apellido_paterno": "Rodríguez",
-      "apellido_materno": "",
-      "fecha": "Lunes 05 de Abril",
-      "mensaje_corto": "A la edad de 95 años",
-      "se_vela_en": "el poblado Santa Lucía, Canatlán",
-      "honras": "17:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "honras": "Pendientes",
       "descripcion": ""
     },
     {
@@ -51,15 +39,15 @@
   ],
   "obituario_ingles": [
     {
-      "id": 729,
+      "id": 730,
       "titulo": "Niño",
-      "nombre": "Christopher",
-      "apellido_paterno": "Rojas",
-      "apellido_materno": "Ruiz",
-      "fecha": "Tuesday, April 06",
-      "mensaje_corto": "At the age of 6 years",
-      "se_vela_en": " Capilla Diamante Suc. Dolores del Rio",
-      "honras": " Culto Bíblico Iglesia en Valle Verde a las 10.00 hrs. Se despide en panteón Valle de Los Sabinos.",
+      "nombre": "José Renato",
+      "apellido_paterno": "Mata",
+      "apellido_materno": "Beltrán",
+      "fecha": "Wednesday, April 07",
+      "mensaje_corto": "At the age of 11 years",
+      "se_vela_en": "Dom. Con. Otinapa, Dgo.",
+      "honras": "Pendents",
       "descripcion": ""
     },
     {
@@ -68,22 +56,10 @@
       "nombre": "Humberto",
       "apellido_paterno": "Anaya",
       "apellido_materno": "Barrera",
-      "fecha": "Tuesday, April 05",
+      "fecha": "Wednesday, April 05",
       "mensaje_corto": "At the age of 53 years",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Río",
       "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 726,
-      "titulo": "",
-      "nombre": "Martina",
-      "apellido_paterno": "Rodríguez",
-      "apellido_materno": "",
-      "fecha": "Tuesday, April 05",
-      "mensaje_corto": "At the age of 95 years",
-      "se_vela_en": "el poblado Santa Lucía, Canatlán",
-      "honras": "17:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -92,7 +68,7 @@
       "nombre": "Maria",
       "apellido_paterno": "Diaz",
       "apellido_materno": "",
-      "fecha": "Tuesday, April 05",
+      "fecha": "Wednesday, April 05",
       "mensaje_corto": "At the age of 74 years",
       "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
       "honras": " hora aun pendiente. Templo del lugar. Se despide en panteón del lugar.",
