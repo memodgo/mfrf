@@ -1,16 +1,40 @@
 {
   "obituario": [
     {
-      "id": 749,
+      "id": 755,
       "titulo": "",
-      "nombre": "Manuel",
-      "apellido_paterno": "Uviña",
-      "apellido_materno": "Marin",
-      "fecha": "martes 13 de Abril",
-      "mensaje_corto": "A la edad de 70 años",
-      "se_vela_en": "Dom. Con. Los Nopales, Guanaceví, Dgo.",
+      "nombre": "Erick Israel",
+      "apellido_paterno": "Sarabia",
+      "apellido_materno": "Meza",
+      "fecha": "Miercoles 14 de Abril",
+      "mensaje_corto": "A la edad de 32 años",
+      "se_vela_en": "Dom. Con. Santiago Papasquiaro, Durango.",
       "honras": "Pendientes",
       "descripcion": ""
+    },
+    {
+      "id": 754,
+      "titulo": "",
+      "nombre": "Dolores",
+      "apellido_paterno": "Juárez",
+      "apellido_materno": "Velázquez",
+      "fecha": "Miercoles 14 de Abril",
+      "mensaje_corto": "A la edad de 93 años",
+      "se_vela_en": "Capilla Diamante de Suc. Dolores del Río.",
+      "honras": "Se despide en panteón de Oriente a las 12:00 hrs.",
+      "descripcion": ""
+    },
+    {
+      "id": 753,
+      "titulo": "",
+      "nombre": "José",
+      "apellido_paterno": "Alcazar",
+      "apellido_materno": "Ibarra",
+      "fecha": "Miercoles de Abril ",
+      "mensaje_corto": "A la edad de 61 años",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": "Se traslada de Durango a Guaymas, Sonora."
     },
     {
       "id": 748,
@@ -34,30 +58,6 @@
       "mensaje_corto": "A la edad de 64 años",
       "se_vela_en": "Capilla Esmeralda de Suc. Dolores del Río ",
       "honras": "12:00 hrs Templo de Nuestra Sra de los Angeles Se despide en panteon valle de los sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 746,
-      "titulo": "R. N.",
-      "nombre": "José Sebastián",
-      "apellido_paterno": "Arjon",
-      "apellido_materno": "Sariñana",
-      "fecha": "martes 13 de Abril",
-      "mensaje_corto": "",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": ""
-    },
-    {
-      "id": 745,
-      "titulo": "",
-      "nombre": "Dolores",
-      "apellido_paterno": "Juáres",
-      "apellido_materno": "Velázquez",
-      "fecha": "martes 13 de Abril",
-      "mensaje_corto": "A la edad de 93 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio.",
-      "honras": "Se despide directo  en panteón de Oriente el 14 de abril a las 11:00 A.M.",
       "descripcion": ""
     },
     {
@@ -99,16 +99,40 @@
   ],
   "obituario_ingles": [
     {
-      "id": 749,
+      "id": 755,
       "titulo": "",
-      "nombre": "Manuel",
-      "apellido_paterno": "Uviña",
-      "apellido_materno": "Marin",
-      "fecha": "Tuesday, April 13",
-      "mensaje_corto": "At the age of 70 years",
-      "se_vela_en": "Dom. Con. Los Nopales, Guanaceví, Dgo.",
+      "nombre": "Erick Israel",
+      "apellido_paterno": "Sarabia",
+      "apellido_materno": "Meza",
+      "fecha": "Wednesday, April 14",
+      "mensaje_corto": "At the age of 32 years",
+      "se_vela_en": "Dom. Con. Santiago Papasquiaro, Durango.",
       "honras": "Pendents",
       "descripcion": ""
+    },
+    {
+      "id": 754,
+      "titulo": "",
+      "nombre": "Dolores",
+      "apellido_paterno": "Juárez",
+      "apellido_materno": "Velázquez",
+      "fecha": "Wednesday, April 14",
+      "mensaje_corto": "At the age of 93 years",
+      "se_vela_en": "Capilla Diamante de Suc. Dolores del Río.",
+      "honras": "Se despide en panteón de Oriente a las 12:00 hrs.",
+      "descripcion": ""
+    },
+    {
+      "id": 753,
+      "titulo": "",
+      "nombre": "José",
+      "apellido_paterno": "Alcazar",
+      "apellido_materno": "Ibarra",
+      "fecha": "Wednesday, April 14",
+      "mensaje_corto": "At the age of 61 years",
+      "se_vela_en": "Pendent",
+      "honras": "Pendents",
+      "descripcion": "Se traslada de Durango a Guaymas, Sonora."
     },
     {
       "id": 748,
@@ -118,8 +142,8 @@
       "apellido_materno": "Rodriguez",
       "fecha": "Tuesday, April 13",
       "mensaje_corto": "",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
+      "se_vela_en": "Pendent",
+      "honras": "Pendents",
       "descripcion": "Se traslada de Las Vegas Nevada EUA a Durango"
     },
     {
@@ -135,39 +159,15 @@
       "descripcion": ""
     },
     {
-      "id": 746,
-      "titulo": "R. N.",
-      "nombre": "José Sebastián",
-      "apellido_paterno": "Arjon",
-      "apellido_materno": "Sariñana",
-      "fecha": "Tuesday, April 13",      
-      "mensaje_corto": "",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": ""
-    },
-    {
-      "id": 745,
-      "titulo": "",
-      "nombre": "Dolores",
-      "apellido_paterno": "Juáres",
-      "apellido_materno": "Velázquez",
-      "fecha": "Tuesday, April 13",
-      "mensaje_corto": "At the age of 93 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio.",
-      "honras": "Se despide directo  en panteón de Oriente el 14 de abril a las 11:00 A.M.",
-      "descripcion": ""
-    },
-    {
       "id": 744,
       "titulo": "",
       "nombre": "Josefina",
       "apellido_paterno": "Unzueta",
       "apellido_materno": "Navarrete",
-      "fecha": "Tuesday, April 13",      
+      "fecha": "Tuesday, April 13",
       "mensaje_corto": "",
-      "se_vela_en": "Pendint",
-      "honras": "Pendents",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
       "descripcion": "Se traslada de E.U.A. a La Purísima, Tepehuanes, Dgo."
     },
     {
