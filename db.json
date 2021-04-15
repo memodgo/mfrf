@@ -13,24 +13,12 @@
       "descripcion": ""
     },
     {
-      "id": 754,
-      "titulo": "",
-      "nombre": "Dolores",
-      "apellido_paterno": "Juárez",
-      "apellido_materno": "Velázquez",
-      "fecha": "Miercoles 14 de Abril",
-      "mensaje_corto": "A la edad de 93 años",
-      "se_vela_en": "Capilla Diamante de Suc. Dolores del Río.",
-      "honras": "Se despide en panteón de Oriente a las 12:00 hrs.",
-      "descripcion": ""
-    },
-    {
       "id": 753,
       "titulo": "",
       "nombre": "José",
       "apellido_paterno": "Alcazar",
       "apellido_materno": "Ibarra",
-      "fecha": "Miercoles de Abril ",
+      "fecha": "Miercoles 14 de Abril ",
       "mensaje_corto": "A la edad de 61 años",
       "se_vela_en": "Pendiente",
       "honras": "Pendientes",
@@ -49,18 +37,6 @@
       "descripcion": "Se traslada de Las Vegas Nevada EUA a Durango"
     },
     {
-      "id": 747,
-      "titulo": "",
-      "nombre": "Jorge",
-      "apellido_paterno": "Guerrero",
-      "apellido_materno": "Herrera",
-      "fecha": "martes 13 de Abril",
-      "mensaje_corto": "A la edad de 64 años",
-      "se_vela_en": "Capilla Esmeralda de Suc. Dolores del Río ",
-      "honras": "12:00 hrs Templo de Nuestra Sra de los Angeles Se despide en panteon valle de los sabinos",
-      "descripcion": ""
-    },
-    {
       "id": 744,
       "titulo": "",
       "nombre": "Josefina",
@@ -68,32 +44,8 @@
       "apellido_materno": "Navarrete",
       "fecha": "martes 13 de Abril",
       "mensaje_corto": "",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
-      "descripcion": "Se traslada de E.U.A. a La Purísima, Tepehuanes, Dgo."
-    },
-    {
-      "id": 743,
-      "titulo": "",
-      "nombre": "María Matilde",
-      "apellido_paterno": "López",
-      "apellido_materno": "",
-      "fecha": "martes 13 de Abril",
-      "mensaje_corto": "A la edad de 53 años",
-      "se_vela_en": "Calle Rocíos #95 Col. Las Palmas.",
-      "honras": "09:30 hrs Templo Santa Clara de Asis Se despide en panteón de Oriente",
-      "descripcion": ""
-    },
-    {
-      "id": 742,
-      "titulo": "",
-      "nombre": "Manuel",
-      "apellido_paterno": "Mendia",
-      "apellido_materno": "Flores",
-      "fecha": "martes 13 de Abril",
-      "mensaje_corto": "A la edad de 73 años",
-      "se_vela_en": "Tuitan, Nombre de Dios, Dgo.",
-      "honras": "16:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "se_vela_en": "La Purísima, Tepehuanes, Dgo.",
+      "honras": "La Purísima Concepción. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ],
@@ -108,18 +60,6 @@
       "mensaje_corto": "At the age of 32 years",
       "se_vela_en": "Dom. Con. Santiago Papasquiaro, Durango.",
       "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 754,
-      "titulo": "",
-      "nombre": "Dolores",
-      "apellido_paterno": "Juárez",
-      "apellido_materno": "Velázquez",
-      "fecha": "Wednesday, April 14",
-      "mensaje_corto": "At the age of 93 years",
-      "se_vela_en": "Capilla Diamante de Suc. Dolores del Río.",
-      "honras": "Se despide en panteón de Oriente a las 12:00 hrs.",
       "descripcion": ""
     },
     {
@@ -140,23 +80,11 @@
       "nombre": "Juan Miguel",
       "apellido_paterno": "Hernández",
       "apellido_materno": "Rodriguez",
-      "fecha": "Tuesday, April 13",
+      "fecha": "Thursday, April 13",
       "mensaje_corto": "",
       "se_vela_en": "Pendent",
       "honras": "Pendents",
       "descripcion": "Se traslada de Las Vegas Nevada EUA a Durango"
-    },
-    {
-      "id": 747,
-      "titulo": "",
-      "nombre": "Jorge",
-      "apellido_paterno": "Guerrero",
-      "apellido_materno": "Herrera",
-      "fecha": "Tuesday, April 13",
-      "mensaje_corto": "At the age of 64 years",
-      "se_vela_en": "Capilla Esmeralda de Suc. Dolores del Río ",
-      "honras": "12:00 hrs Templo de Nuestra Sra de los Angeles Se despide en panteon valle de los sabinos",
-      "descripcion": ""
     },
     {
       "id": 744,
@@ -164,34 +92,10 @@
       "nombre": "Josefina",
       "apellido_paterno": "Unzueta",
       "apellido_materno": "Navarrete",
-      "fecha": "Tuesday, April 13",
+      "fecha": "Thursday, April 13",
       "mensaje_corto": "",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
-      "descripcion": "Se traslada de E.U.A. a La Purísima, Tepehuanes, Dgo."
-    },
-    {
-      "id": 743,
-      "titulo": "",
-      "nombre": "María Matilde",
-      "apellido_paterno": "López",
-      "apellido_materno": "",
-      "fecha": "Tuesday, April 13",
-      "mensaje_corto": "At the age of 53 years",
-      "se_vela_en": "Calle Rocíos #95 Col. Las Palmas.",
-      "honras": "09:30 hrs Templo Santa Clara de Asis Se despide en panteón de Oriente",
-      "descripcion": ""
-    },
-    {
-      "id": 742,
-      "titulo": "",
-      "nombre": "Manuel",
-      "apellido_paterno": "Mendia",
-      "apellido_materno": "Flores",
-      "fecha": "Tuesday, April 13",
-      "mensaje_corto": "At the age of 73 years",
-      "se_vela_en": "Tuitan, Nombre de Dios, Dgo.",
-      "honras": "16:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "se_vela_en": "La Purísima, Tepehuanes, Dgo.",
+      "honras": "La Purísima Concepción. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ]
