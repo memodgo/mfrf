@@ -1,101 +1,77 @@
 {
   "obituario": [
     {
-      "id": 755,
+      "id": 758,
       "titulo": "",
-      "nombre": "Erick Israel",
-      "apellido_paterno": "Sarabia",
-      "apellido_materno": "Meza",
-      "fecha": "Miercoles 14 de Abril",
-      "mensaje_corto": "A la edad de 32 años",
-      "se_vela_en": "Dom. Con. Santiago Papasquiaro, Durango.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 753,
-      "titulo": "",
-      "nombre": "José",
-      "apellido_paterno": "Alcazar",
-      "apellido_materno": "Ibarra",
-      "fecha": "Miercoles 14 de Abril ",
-      "mensaje_corto": "A la edad de 61 años",
+      "nombre": "Gregorio",
+      "apellido_paterno": "Galarza",
+      "apellido_materno": "Santillano",
+      "fecha": "Sábado 17 de Abril",
+      "mensaje_corto": "",
       "se_vela_en": "Pendiente",
       "honras": "Pendientes",
-      "descripcion": "Se traslada de Durango a Guaymas, Sonora."
+      "descripcion": "Se traslada de Mazatlán a Durango, Dgo."
     },
     {
-      "id": 748,
+      "id": 757,
       "titulo": "",
       "nombre": "Juan Miguel",
       "apellido_paterno": "Hernández",
       "apellido_materno": "Rodriguez",
-      "fecha": "martes 13 de Abril",
+      "fecha": "Sábado 17 de Abril",
       "mensaje_corto": "",
       "se_vela_en": "Pendiente",
       "honras": "Pendientes",
-      "descripcion": "Se traslada de Las Vegas Nevada EUA a Durango"
+      "descripcion": "Se traslada de Las Vegas NV. U.S.A. a Durango, Dgo."
     },
     {
-      "id": 744,
+      "id": 756,
       "titulo": "",
-      "nombre": "Josefina",
-      "apellido_paterno": "Unzueta",
-      "apellido_materno": "Navarrete",
-      "fecha": "martes 13 de Abril",
-      "mensaje_corto": "",
-      "se_vela_en": "La Purísima, Tepehuanes, Dgo.",
-      "honras": "La Purísima Concepción. Se despide en panteón del lugar.",
+      "nombre": "Carlos",
+      "apellido_paterno": "Espinoza",
+      "apellido_materno": "Flores",
+      "fecha": "Sábado 17 de Abril",
+      "mensaje_corto": "A la edad de 58 años",
+      "se_vela_en": "Calle Pasteur entre Paloma y Coronado #213.",
+      "honras": "Se despide en panteón Getsemaní a las 11:30 hrs.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 755,
+      "id": 758,
       "titulo": "",
-      "nombre": "Erick Israel",
-      "apellido_paterno": "Sarabia",
-      "apellido_materno": "Meza",
-      "fecha": "Wednesday, April 14",
-      "mensaje_corto": "At the age of 32 years",
-      "se_vela_en": "Dom. Con. Santiago Papasquiaro, Durango.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 753,
-      "titulo": "",
-      "nombre": "José",
-      "apellido_paterno": "Alcazar",
-      "apellido_materno": "Ibarra",
-      "fecha": "Wednesday, April 14",
-      "mensaje_corto": "At the age of 61 years",
+      "nombre": "Gregorio",
+      "apellido_paterno": "Galarza",
+      "apellido_materno": "Santillano",
+      "fecha": "Saturday, April 17",
+      "mensaje_corto": "",
       "se_vela_en": "Pendent",
       "honras": "Pendents",
-      "descripcion": "Se traslada de Durango a Guaymas, Sonora."
+      "descripcion": "Se traslada de Mazatlán a Durango, Dgo."
     },
     {
-      "id": 748,
+      "id": 757,
       "titulo": "",
       "nombre": "Juan Miguel",
       "apellido_paterno": "Hernández",
       "apellido_materno": "Rodriguez",
-      "fecha": "Thursday, April 13",
+      "fecha": "Saturday, April 17",
       "mensaje_corto": "",
       "se_vela_en": "Pendent",
       "honras": "Pendents",
-      "descripcion": "Se traslada de Las Vegas Nevada EUA a Durango"
+      "descripcion": "Se traslada de Las Vegas NV. U.S.A. a Durango, Dgo."
     },
     {
-      "id": 744,
+      "id": 756,
       "titulo": "",
-      "nombre": "Josefina",
-      "apellido_paterno": "Unzueta",
-      "apellido_materno": "Navarrete",
-      "fecha": "Thursday, April 13",
-      "mensaje_corto": "",
-      "se_vela_en": "La Purísima, Tepehuanes, Dgo.",
-      "honras": "La Purísima Concepción. Se despide en panteón del lugar.",
+      "nombre": "Carlos",
+      "apellido_paterno": "Espinoza",
+      "apellido_materno": "Flores",
+      "fecha": "Saturday, April 17",
+      "mensaje_corto": "At the age of 58 years",
+      "se_vela_en": "Calle Pasteur entre Paloma y Coronado #213.",
+      "honras": "Se despide en panteón Getsemaní a las 11:30 hrs.",
       "descripcion": ""
     }
   ]
