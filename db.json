@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 760,
+      "titulo": "",
+      "nombre": "Antonia",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Bautista",
+      "fecha": "Miércoles 21 de Abril",
+      "mensaje_corto": "A la edad de 45 años",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 759,
       "titulo": "",
       "nombre": "Jesús",
@@ -39,15 +51,27 @@
   ],
   "obituario_ingles": [
     {
+      "id": 760,
+      "titulo": "",
+      "nombre": "Antonia",
+      "apellido_paterno": "Flores",
+      "apellido_materno": "Bautista",
+      "fecha": "Wednesday, April 21",
+      "mensaje_corto": "At the age of 45 years",
+      "se_vela_en": "Pendent",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
       "id": 759,
       "titulo": "",
       "nombre": "Jesús",
       "apellido_paterno": "Pulgarín",
       "apellido_materno": "Covarrubias",
-      "fecha": "Tuesday, April 28",
+      "fecha": "Tuesday, April 20",
       "mensaje_corto": "At the age of 83 years",
       "se_vela_en": "Calle Álvaro Sermeño #710 Col. Valle del Guadiana.",
-      "honras": "Pendents",
+      "honras": "Pendientes",
       "descripcion": ""
     },
     {
@@ -56,7 +80,7 @@
       "nombre": "Gregorio",
       "apellido_paterno": "Galarza",
       "apellido_materno": "Santillano",
-      "fecha": "Tuesday, April 28",
+      "fecha": "Tuesday, April 20",
       "mensaje_corto": "",
       "se_vela_en": "Pendent",
       "honras": "Pendents",
@@ -68,7 +92,7 @@
       "nombre": "Juan Miguel",
       "apellido_paterno": "Hernández",
       "apellido_materno": "Rodriguez",
-      "fecha": "Tuesday, April 28",
+      "fecha": "Tuesday, April 20",      
       "mensaje_corto": "",
       "se_vela_en": "Pendent",
       "honras": "Pendents",
