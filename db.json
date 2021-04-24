@@ -1,6 +1,54 @@
 {
   "obituario": [
     {
+      "id": 768,
+      "titulo": "",
+      "nombre": "Edgar Gustavo",
+      "apellido_paterno": "Gómez",
+      "apellido_materno": "Arreola",
+      "fecha": "Sábado 24 de Abril",
+      "mensaje_corto": "A la edad de 42 años",
+      "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 767,
+      "titulo": "",
+      "nombre": "María del Carmen",
+      "apellido_paterno": "Campos",
+      "apellido_materno": "Pérez",
+      "fecha": "Sábado 24 de Abril",
+      "mensaje_corto": "A la edad de 78 años",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 766,
+      "titulo": "",
+      "nombre": "Silveria",
+      "apellido_paterno": "Hernández",
+      "apellido_materno": "",
+      "fecha": "Sábado 24 de Abril",
+      "mensaje_corto": "A la edad de 82 años",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "16:00 hrs. Templo Divina Providencia.   Se despide para su cremación. ",
+      "descripcion": ""
+    },
+    {
+      "id": 765,
+      "titulo": "Sr.",
+      "nombre": "Librado",
+      "apellido_paterno": "Chaidez",
+      "apellido_materno": "Herrera",
+      "fecha": "Sábado 24 de Abril",
+      "mensaje_corto": "A la edad de 67 años",
+      "se_vela_en": "Dom. Con. Arroyo Chico, Tepehuanes, Dgo. ",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 764,
       "titulo": "",
       "nombre": "Micaela",
@@ -9,7 +57,7 @@
       "fecha": "Viernes 23 de Abril",
       "mensaje_corto": "A la edad de 64 años",
       "se_vela_en": "Calle Orquídea #114 Col. Las Flores.",
-      "honras": "Pendientes",
+      "honras": "13:00 hrs.   Templo Sagrado Corazón (El Saltito)   Se despide en panteón de Tapias. ",
       "descripcion": ""
     },
     {
@@ -21,35 +69,59 @@
       "fecha": "Viernes 23 de Abril",
       "mensaje_corto": "A la edad de 80 años",
       "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
-      "honras": "Pendientes",
+      "honras": " 9:00 hrs.   Templo Santa Rosa de Lima.   Se despide en panteón Oriente. ",
       "descripcion": ""
-    },
-    {
-      "id": 762,
-      "titulo": "",
-      "nombre": "Teresa",
-      "apellido_paterno": "López",
-      "apellido_materno": "Leyva",
-      "fecha": "Viernes 23 de Abril",
-      "mensaje_corto": "A la edad de 50 años",
-      "se_vela_en": "Dom. Con. J. Agustín Castro",
-      "honras": "16.00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 761,
-      "titulo": "",
-      "nombre": "Gregorio",
-      "apellido_paterno": "Galarza",
-      "apellido_materno": "Santillano",
-      "fecha": "Viernes 23 de Abril",
-      "mensaje_corto": "A la edad de 76 años",
-      "se_vela_en": "Capilla Diamante de Suc. Dolores del Río",
-      "honras": "10:00 hrs. Templo Ntrs. Sra. de Talpa",
-      "descripcion": "Se despide en panteón Valle de los Sabinos"
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 768,
+      "titulo": "",
+      "nombre": "Edgar Gustavo",
+      "apellido_paterno": "Gómez",
+      "apellido_materno": "Arreola",
+      "fecha": "Saturday, April 24",
+      "mensaje_corto": "At the age of 42 years",
+      "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 767,
+      "titulo": "",
+      "nombre": "María del Carmen",
+      "apellido_paterno": "Campos",
+      "apellido_materno": "Pérez",
+      "fecha": "Saturday, April 24",
+      "mensaje_corto": "At the age of 78 years",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 766,
+      "titulo": "",
+      "nombre": "Silveria",
+      "apellido_paterno": "Hernández",
+      "apellido_materno": "",
+      "fecha": "Saturday, April 24",
+      "mensaje_corto": "At the age of 82 years",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "16:00 hrs. Templo Divina Providencia.   Se despide para su cremación. ",
+      "descripcion": ""
+    },
+    {
+      "id": 765,
+      "titulo": "Sr.",
+      "nombre": "Librado",
+      "apellido_paterno": "Chaidez",
+      "apellido_materno": "Herrera",
+      "fecha": "Saturday, April 24",
+      "mensaje_corto": "At the age of 67 years",
+      "se_vela_en": "Dom. Con. Arroyo Chico, Tepehuanes, Dgo. ",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 764,
       "titulo": "",
@@ -59,7 +131,7 @@
       "fecha": "Friday, April 23",
       "mensaje_corto": "At the age of 64 years",
       "se_vela_en": "Calle Orquídea #114 Col. Las Flores.",
-      "honras": "Pendents",
+      "honras": "13:00 hrs.   Templo Sagrado Corazón (El Saltito)   Se despide en panteón de Tapias. ",
       "descripcion": ""
     },
     {
@@ -71,32 +143,8 @@
       "fecha": "Friday, April 23",
       "mensaje_corto": "At the age of 80 years",
       "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
-      "honras": "Pendents",
+      "honras": " 9:00 hrs.   Templo Santa Rosa de Lima.   Se despide en panteón Oriente. ",
       "descripcion": ""
-    },
-    {
-      "id": 762,
-      "titulo": "",
-      "nombre": "Teresa",
-      "apellido_paterno": "López",
-      "apellido_materno": "Leyva",
-      "fecha": "Friday, April 23",
-      "mensaje_corto": "At the age of 50 years",
-      "se_vela_en": "Dom. Con. J. Agustín Castro",
-      "honras": "16.00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 761,
-      "titulo": "",
-      "nombre": "Gregorio",
-      "apellido_paterno": "Galarza",
-      "apellido_materno": "Santillano",
-      "fecha": "Friday, April 23",
-      "mensaje_corto": "At the age of 76 years",
-      "se_vela_en": "Capilla Diamante de Suc. Dolores del Río",
-      "honras": "10:00 hrs. Templo Ntrs. Sra. de Talpa",
-      "descripcion": "Se despide en panteón Valle de los Sabinos"
     }
   ]
 }
