@@ -1,28 +1,52 @@
 {
   "obituario": [
     {
-      "id": 774,
+      "id": 778,
       "titulo": "",
-      "nombre": "Martha",
-      "apellido_paterno": "Orta",
-      "apellido_materno": "López",
-      "fecha": "Martes 27 de Abril",
-      "mensaje_corto": "A la edad de 63 años",
-      "se_vela_en": "Capilla Oro y Plata de Suc. Dolores del Río",
+      "nombre": "Lilia",
+      "apellido_paterno": "Martínez",
+      "apellido_materno": "Castañeda",
+      "fecha": "Miércoles 28 de Abril",
+      "mensaje_corto": "A la edad de 67 años",
+      "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
+      "honras": "16:00 hrs Templo Santa Rosa de Lima Se despide para su cremacion ",
+      "descripcion": ""
+    },
+    {
+      "id": 777,
+      "titulo": "",
+      "nombre": "Rosalía",
+      "apellido_paterno": "Herrera",
+      "apellido_materno": "Díaz",
+      "fecha": "Miércoles 28 de Abril",
+      "mensaje_corto": "A la edad de 85 años",
+      "se_vela_en": "domicilio conocido Santa Rosa, Meza de Návar, Tepehuanes",
       "honras": "Pendientes",
       "descripcion": ""
     },
     {
-      "id": 773,
+      "id": 776,
       "titulo": "",
-      "nombre": "Marís del Rosario",
-      "apellido_paterno": "Benavides",
-      "apellido_materno": "Rivas",
-      "fecha": "Martes 27 de Abril",
-      "mensaje_corto": "A la edad de 57 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se despide para su cremación"
+      "nombre": "Toribia",
+      "apellido_paterno": "Núñez",
+      "apellido_materno": "Reyes",
+      "fecha": "Miércoles 28 de Abril",
+      "mensaje_corto": "A la edad de 84 años",
+      "se_vela_en": " Calle Bandera Roja #337 Col. Lucio Cabañas.",
+      "honras": "28 de Abril a las 10:00 a.m. en el templo de San Lorenzo, se le despide en el Panteón Residencial Flores",
+      "descripcion": ""
+    },
+    {
+      "id": 775,
+      "titulo": "",
+      "nombre": "Gloria",
+      "apellido_paterno": "Celia",
+      "apellido_materno": "Adame",
+      "fecha": "Miércoles 28 de Abril",
+      "mensaje_corto": "A la edad de 82 años",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "el día jueves 29 de abril a las 12.00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despidió en panteón de Oriente.",
+      "descripcion": ""
     },
     {
       "id": 770,
@@ -32,35 +56,59 @@
       "apellido_materno": "Ojeda",
       "fecha": "Lunes 26 de Abril",
       "mensaje_corto": "A la edad de 62 años",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
-      "descripcion": "Se traslada de Cd. Juárez, Chih. a Durango, Dgo."
+      "se_vela_en": " Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "10.00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despidió para su cremación.",
+      "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 774,
+      "id": 778,
       "titulo": "",
-      "nombre": "Martha",
-      "apellido_paterno": "Orta",
-      "apellido_materno": "López",
-      "fecha": "Tuesday, April 27",
-      "mensaje_corto": "At the age of 63 years",
-      "se_vela_en": "Capilla Oro y Plata de Suc. Dolores del Río",
-      "honras": "Pendents",
+      "nombre": "Lilia",
+      "apellido_paterno": "Martínez",
+      "apellido_materno": "Castañeda",
+      "fecha": "Wednesday, April 28",
+      "mensaje_corto": "At the age of 67 years",
+      "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
+      "honras": "16:00 hrs Templo Santa Rosa de Lima Se despide para su cremacion ",
       "descripcion": ""
     },
     {
-      "id": 773,
+      "id": 777,
       "titulo": "",
-      "nombre": "Marís del Rosario",
-      "apellido_paterno": "Benavides",
-      "apellido_materno": "Rivas",
-      "fecha": "Tuesday, April 27",
-      "mensaje_corto": "At the age of 57 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se despide para su cremación"
+      "nombre": "Rosalía",
+      "apellido_paterno": "Herrera",
+      "apellido_materno": "Díaz",
+      "fecha": "Wednesday, April 28",
+      "mensaje_corto": "At the age of 85 years",
+      "se_vela_en": "domicilio conocido Santa Rosa, Meza de Návar, Tepehuanes",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 776,
+      "titulo": "",
+      "nombre": "Toribia",
+      "apellido_paterno": "Núñez",
+      "apellido_materno": "Reyes",
+      "fecha": "Wednesday, April 28",
+      "mensaje_corto": "At the age of 84 years",
+      "se_vela_en": " Calle Bandera Roja #337 Col. Lucio Cabañas.",
+      "honras": "28 de Abril a las 10:00 a.m. en el templo de San Lorenzo, se le despide en el Panteón Residencial Flores",
+      "descripcion": ""
+    },
+    {
+      "id": 775,
+      "titulo": "",
+      "nombre": "Gloria",
+      "apellido_paterno": "Celia",
+      "apellido_materno": "Adame",
+      "fecha": "Wednesday, April 28",
+      "mensaje_corto": "At the age of 82 years",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "el día jueves 29 de abril a las 12.00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despidió en panteón de Oriente.",
+      "descripcion": ""
     },
     {
       "id": 770,
@@ -70,9 +118,9 @@
       "apellido_materno": "Ojeda",
       "fecha": "Monday, April 26",
       "mensaje_corto": "At the age of 62 years",
-      "se_vela_en": "Pendent",
-      "honras": "Pendents",
-      "descripcion": "Se traslada de Cd. Juárez, Chih. a Durango, Dgo."
+      "se_vela_en": " Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "10.00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despidió para su cremación.",
+      "descripcion": ""
     }
   ]
 }
