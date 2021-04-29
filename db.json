@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 780,
+      "titulo": "",
+      "nombre": "José Raúl",
+      "apellido_paterno": "Vela",
+      "apellido_materno": "Castillo",
+      "fecha": "Jueves 29 de Abril",
+      "mensaje_corto": "",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": "Se traslada de la Cd. de México a Durango, Dgo."
+    },
+    {
+      "id": 779,
+      "titulo": "",
+      "nombre": "Francisco",
+      "apellido_paterno": "Romo",
+      "apellido_materno": "Carrasco",
+      "fecha": "Jueves 29 de Abril",
+      "mensaje_corto": "A la edad de 46 años",
+      "se_vela_en": "Capilla Esmeralda de Suc. Dolores del Río",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 778,
       "titulo": "",
       "nombre": "Lilia",
@@ -33,7 +57,7 @@
       "fecha": "Miércoles 28 de Abril",
       "mensaje_corto": "A la edad de 84 años",
       "se_vela_en": " Calle Bandera Roja #337 Col. Lucio Cabañas.",
-      "honras": "28 de Abril a las 10:00 a.m. en el templo de San Lorenzo, se le despide en el Panteón Residencial Flores",
+      "honras": "10:00 hrs. Templo San Felipe (IV Centenario) Se despide en panteón Parque Residencial Flores.",
       "descripcion": ""
     },
     {
@@ -47,28 +71,40 @@
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
       "honras": "el día jueves 29 de abril a las 12.00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despidió en panteón de Oriente.",
       "descripcion": ""
-    },
-    {
-      "id": 770,
-      "titulo": "",
-      "nombre": "José Álvarado",
-      "apellido_paterno": "Vázquez",
-      "apellido_materno": "Ojeda",
-      "fecha": "Lunes 26 de Abril",
-      "mensaje_corto": "A la edad de 62 años",
-      "se_vela_en": " Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "10.00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despidió para su cremación.",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 780,
+      "titulo": "",
+      "nombre": "José Raúl",
+      "apellido_paterno": "Vela",
+      "apellido_materno": "Castillo",
+      "fecha": "Thursday, April 29",
+      "mensaje_corto": "",
+      "se_vela_en": "Pendent",
+      "honras": "Pendents",
+      "descripcion": "Se traslada de la Cd. de México a Durango, Dgo."
+    },
+    {
+      "id": 779,
+      "titulo": "",
+      "nombre": "Francisco",
+      "apellido_paterno": "Romo",
+      "apellido_materno": "Carrasco",
+      "fecha": "Thursday, April 29",
+      "mensaje_corto": "Aty the age of 46 years",
+      "se_vela_en": "Capilla Esmeralda de Suc. Dolores del Río",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 778,
       "titulo": "",
       "nombre": "Lilia",
       "apellido_paterno": "Martínez",
       "apellido_materno": "Castañeda",
-      "fecha": "Wednesday, April 28",
+      "fecha": "Wdnesday, April 28",
       "mensaje_corto": "At the age of 67 years",
       "se_vela_en": "Capilla Plata de Suc. Dolores del Río",
       "honras": "16:00 hrs Templo Santa Rosa de Lima Se despide para su cremacion ",
@@ -80,7 +116,7 @@
       "nombre": "Rosalía",
       "apellido_paterno": "Herrera",
       "apellido_materno": "Díaz",
-      "fecha": "Wednesday, April 28",
+      "fecha": "Wdnesday, April 28",
       "mensaje_corto": "At the age of 85 years",
       "se_vela_en": "domicilio conocido Santa Rosa, Meza de Návar, Tepehuanes",
       "honras": "Pendientes",
@@ -92,10 +128,10 @@
       "nombre": "Toribia",
       "apellido_paterno": "Núñez",
       "apellido_materno": "Reyes",
-      "fecha": "Wednesday, April 28",
+      "fecha": "Wdnesday, April 28",
       "mensaje_corto": "At the age of 84 years",
       "se_vela_en": " Calle Bandera Roja #337 Col. Lucio Cabañas.",
-      "honras": "28 de Abril a las 10:00 a.m. en el templo de San Lorenzo, se le despide en el Panteón Residencial Flores",
+      "honras": "10:00 hrs. Templo San Felipe (IV Centenario) Se despide en panteón Parque Residencial Flores.",
       "descripcion": ""
     },
     {
@@ -104,22 +140,10 @@
       "nombre": "Gloria",
       "apellido_paterno": "Celia",
       "apellido_materno": "Adame",
-      "fecha": "Wednesday, April 28",
+      "fecha": "Wdnesday, April 28",
       "mensaje_corto": "At the age of 82 years",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
       "honras": "el día jueves 29 de abril a las 12.00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despidió en panteón de Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 770,
-      "titulo": "",
-      "nombre": "José Álvarado",
-      "apellido_paterno": "Vázquez",
-      "apellido_materno": "Ojeda",
-      "fecha": "Monday, April 26",
-      "mensaje_corto": "At the age of 62 years",
-      "se_vela_en": " Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "10.00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despidió para su cremación.",
       "descripcion": ""
     }
   ]
