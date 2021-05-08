@@ -1,15 +1,63 @@
 {
   "obituario": [
     {
-      "id": 817,
+      "id": 822,
       "titulo": "",
-      "nombre": "Gabriel",
-      "apellido_paterno": "Contreras",
-      "apellido_materno": "Aragón",
-      "fecha": "Viernes, 7 de Mayo",
-      "mensaje_corto": "A la edad de 75 años",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio Velatorio",
-      "honras": "10:00 hrs. Templo Ntra. Sra. de Los Ángeles.",
+      "nombre": "Alicia",
+      "apellido_paterno": "de la Cruz",
+      "apellido_materno": "Andrade",
+      "fecha": "Sábado, 8 de Mayo",
+      "mensaje_corto": "A la edad de 67 años",
+      "se_vela_en": "Calle Nativitas #117 Col. Benigno Montoya.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 821,
+      "titulo": "",
+      "nombre": "María del Refugio Beatriz",
+      "apellido_paterno": "Domínguez",
+      "apellido_materno": "Torres",
+      "fecha": "Sábado, 8 de Mayo",
+      "mensaje_corto": "",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremación"
+    },
+    {
+      "id": 820,
+      "titulo": "",
+      "nombre": "Ignacio",
+      "apellido_paterno": "Chávez",
+      "apellido_materno": "Aguirre",
+      "fecha": "Sábado, 8 de Mayo",
+      "mensaje_corto": "A la edad de 72 años",
+      "se_vela_en": "Garame de Arriba, Santiago Papasquiaro, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 819,
+      "titulo": "",
+      "nombre": "José",
+      "apellido_paterno": "López",
+      "apellido_materno": "Ramírez",
+      "fecha": "Sábado, 8 de Mayo",
+      "mensaje_corto": "A la edad de 80 años",
+      "se_vela_en": "2 Privada de Tacuba #108 Col. Azcapotzalco.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 818,
+      "titulo": "",
+      "nombre": "Bertha",
+      "apellido_paterno": "Torres",
+      "apellido_materno": "",
+      "fecha": "Sábado, 8 de Mayo",
+      "mensaje_corto": "A la edad de 72 años",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "Pendientes",
       "descripcion": ""
     },
     {
@@ -21,19 +69,7 @@
       "fecha": "Viernes, 7 de Mayo",
       "mensaje_corto": "A la edad de 64 años",
       "se_vela_en": "Calle Baz #229 Sur Barrio de Tierra Blanca.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 815,
-      "titulo": "",
-      "nombre": "María Irene",
-      "apellido_paterno": "Mesta",
-      "apellido_materno": "Ceniceros",
-      "fecha": "Viernes, 7 de Mayo",
-      "mensaje_corto": "A la edad de 73 años",
-      "se_vela_en": "Cuencamé, Dgo.",
-      "honras": "16 hrs. Templo San Antonio de Padua. Se despide en panteón del lugar.",
+      "honras": "11:00 hrs. Templo Nitra. Sra. del Refugio. Se despide en panteón  Valle de Los Sabinos.",
       "descripcion": ""
     },
     {
@@ -45,21 +81,69 @@
       "fecha": "Jueves, 6 de Mayo",
       "mensaje_corto": "A la edad de 67 años",
       "se_vela_en": "Capilla Santa Catarina Suc. Tepehuanes, Dgo.",
-      "honras": "Pendientes",
+      "honras": "12.00 hrs. Templo Santa Catarina. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 817,
+      "id": 822,
       "titulo": "",
-      "nombre": "Gabriel",
-      "apellido_paterno": "Contreras",
-      "apellido_materno": "Aragón",
-      "fecha": "Friday, May 7",
-      "mensaje_corto": "At the age of 75 years",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio Velatorio",
-      "honras": "10:00 hrs. Templo Ntra. Sra. de Los Ángeles.",
+      "nombre": "Alicia",
+      "apellido_paterno": "de la Cruz",
+      "apellido_materno": "Andrade",
+      "fecha": "Saturday, May 8",
+      "mensaje_corto": "At the age of 67 years",
+      "se_vela_en": "Calle Nativitas #117 Col. Benigno Montoya.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 821,
+      "titulo": "",
+      "nombre": "María del Refugio Beatriz",
+      "apellido_paterno": "Domínguez",
+      "apellido_materno": "Torres",
+      "fecha": "Saturday, May 8",
+      "mensaje_corto": "",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremación"
+    },
+    {
+      "id": 820,
+      "titulo": "",
+      "nombre": "Ignacio",
+      "apellido_paterno": "Chávez",
+      "apellido_materno": "Aguirre",
+      "fecha": "Saturday, May 8",
+      "mensaje_corto": "At the age of 72 years",
+      "se_vela_en": "Garame de Arriba, Santiago Papasquiaro, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 819,
+      "titulo": "",
+      "nombre": "José",
+      "apellido_paterno": "López",
+      "apellido_materno": "Ramírez",
+      "fecha": "Saturday, May 8",
+      "mensaje_corto": "At the age of 80 years",
+      "se_vela_en": "2 Privada de Tacuba #108 Col. Azcapotzalco.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 818,
+      "titulo": "",
+      "nombre": "Bertha",
+      "apellido_paterno": "Torres",
+      "apellido_materno": "",
+      "fecha": "Saturday, May 8",
+      "mensaje_corto": "At the age of 72 years",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "Pendents",
       "descripcion": ""
     },
     {
@@ -68,22 +152,10 @@
       "nombre": "María Patricia",
       "apellido_paterno": "Gallegos",
       "apellido_materno": "Álvarez",
-      "fecha": "Friday, May 7",
+      "fecha": "Friday, May 7",      
       "mensaje_corto": "At the age of 64 years",
       "se_vela_en": "Calle Baz #229 Sur Barrio de Tierra Blanca.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 815,
-      "titulo": "",
-      "nombre": "María Irene",
-      "apellido_paterno": "Mesta",
-      "apellido_materno": "Ceniceros",
-      "fecha": "Friday, May 7",
-      "mensaje_corto": "At the age of 73 years",
-      "se_vela_en": "Cuencamé, Dgo.",
-      "honras": "16 hrs. Templo San Antonio de Padua. Se despide en panteón del lugar.",
+      "honras": "11:00 hrs. Templo Nitra. Sra. del Refugio. Se despide en panteón  Valle de Los Sabinos.",
       "descripcion": ""
     },
     {
@@ -91,11 +163,11 @@
       "titulo": "",
       "nombre": "Jesús Manuel",
       "apellido_paterno": "Herrera",
-      "apellido_materno": "Sánchez",
-      "fecha": "Thursday, May 6",
+      "apellido_materno": "Sánchez",      
+      "fecha": "Thursday, May 6",      
       "mensaje_corto": "At the age of 67 years",
       "se_vela_en": "Capilla Santa Catarina Suc. Tepehuanes, Dgo.",
-      "honras": "Pendents",
+      "honras": "12.00 hrs. Templo Santa Catarina. Se despide en panteón del lugar.",
       "descripcion": ""
     }
   ]
