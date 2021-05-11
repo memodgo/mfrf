@@ -1,16 +1,40 @@
 {
   "obituario": [
     {
-      "id": 829,
+      "id": 832,
       "titulo": "",
-      "nombre": "María Elena",
-      "apellido_paterno": "Fabián",
-      "apellido_materno": "Castro",
-      "fecha": "Lunes, 10 de Mayo",
-      "mensaje_corto": "A la edad de 78 años",
-      "se_vela_en": "",
-      "honras": "16:00 Hrs. en el templo de los Ángeles",
-      "descripcion": "Se despide para su cremación"
+      "nombre": "Matilde",
+      "apellido_paterno": "Landeros",
+      "apellido_materno": "Montelongo",
+      "fecha": "Martes, 11 de Mayo",
+      "mensaje_corto": "",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": "Se vela a partir de las 15:00 hrs en Capilla Esmeralda Suc. Dolores del Rio "
+    },
+    {
+      "id": 831,
+      "titulo": "",
+      "nombre": "Erika Vanessa",
+      "apellido_paterno": "Martínez",
+      "apellido_materno": "Segovia",
+      "fecha": "Martes, 11 de Mayo",
+      "mensaje_corto": "A la edad de 44 años",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": "Se vela a partir de las 12:00 hrs en Capilla Diamante Suc. Dolores del Rio"
+    },
+    {
+      "id": 830,
+      "titulo": "",
+      "nombre": "Juan",
+      "apellido_paterno": "Calvo",
+      "apellido_materno": "Quiñones",
+      "fecha": "Martes, 11 de Mayo",
+      "mensaje_corto": "A la edad de 67 años",
+      "se_vela_en": " Calle General Fierro #105 Col. Villa de Guadalupe. ",
+      "honras": "Pendientes",
+      "descripcion": ""
     },
     {
       "id": 828,
@@ -20,9 +44,9 @@
       "apellido_materno": "Corral",
       "fecha": "Lunes, 10 de Mayo",
       "mensaje_corto": "A la edad de 93 años",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
-      "descripcion": "Se vela a partir de las 12:30 hrs en Capilla Oro Suc. Dolores del Rio"
+      "se_vela_en": " Capilla Oro Suc. Dolores del Rio",
+      "honras": "Se despide directo en panteón Jardín el día miércoles 12 de mayo a las 16:00 hrs",
+      "descripcion": ""
     },
     {
       "id": 827,
@@ -32,20 +56,8 @@
       "apellido_materno": "Ramos",
       "fecha": "Lunes, 10 de Mayo",
       "mensaje_corto": "A la edad de 39 años",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
-      "descripcion": "Se vela a partir de las 12:00 hrs en Capilla Diamante y Esmeralda Suc. Dolores del Rio"
-    },
-    {
-      "id": 826,
-      "titulo": "",
-      "nombre": "Evelia Teresa",
-      "apellido_paterno": "Meléndez",
-      "apellido_materno": "Rodriguez",
-      "fecha": "Lunes, 10 de Mayo",
-      "mensaje_corto": "A la edad de 71 años",
-      "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
-      "honras": "13:00 hrs. en el templo de Los Ángeles Se despide en panteón Valle de Los Sabinos.",
+      "se_vela_en": "Capilla Diamante y Esmeralda Suc. Dolores del Rio",
+      "honras": "12:00 hrs.   Catedral Basílica Menor.   Se despide en panteón Garrido. ",
       "descripcion": ""
     },
     {
@@ -57,46 +69,46 @@
       "fecha": "Lunes, 10 de Mayo",
       "mensaje_corto": "A la edad de 50 años",
       "se_vela_en": "Capilla de  Guanaceví, Dgo. ",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 824,
-      "titulo": "R. N.",
-      "nombre": "Romina",
-      "apellido_paterno": "Delgado",
-      "apellido_materno": "Alanis",
-      "fecha": "Lunes, 10 de Mayo",
-      "mensaje_corto": "",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "La despidieron para su cremación"
-    },
-    {
-      "id": 823,
-      "titulo": "",
-      "nombre": "Ma. Eva",
-      "apellido_paterno": "Gambino",
-      "apellido_materno": "Rosales",
-      "fecha": "Lunes, 10 de Mayo",
-      "mensaje_corto": "A la edad de 67 años",
-      "se_vela_en": "Capilla Diamante de Suc. Dolores del Río",
-      "honras": "12:00 hrs. Iglesia Camino de Salvación. Se despide en panteón de Garabitos.",
+      "honras": "15:00 hrs.   Templo San Pedro.   Se despide en panteón de San Pedro. ",
       "descripcion": ""
     }
   ],
   "obitiario_ingles": [
     {
-      "id": 829,
+      "id": 832,
       "titulo": "",
-      "nombre": "María Elena",
-      "apellido_paterno": "Fabián",
-      "apellido_materno": "Castro",
-      "fecha": "monday, may 10",
-      "mensaje_corto": "At the age of 78 years",
-      "se_vela_en": "",
-      "honras": "16:00 Hrs. en el templo de los Ángeles",
-      "descripcion": "Se despide para su cremación"
+      "nombre": "Matilde",
+      "apellido_paterno": "Landeros",
+      "apellido_materno": "Montelongo",
+      "fecha": "tuesday, may 11",
+      "mensaje_corto": "",
+      "se_vela_en": "Pendents",
+      "honras": "Pendents",
+      "descripcion": "Se vela a partir de las 15:00 hrs en Capilla Esmeralda Suc. Dolores del Rio "
+    },
+    {
+      "id": 831,
+      "titulo": "",
+      "nombre": "Erika Vanessa",
+      "apellido_paterno": "Martínez",
+      "apellido_materno": "Segovia",
+      "fecha": "tuesday, may 11",
+      "mensaje_corto": "At the age of 44 years",
+      "se_vela_en": "Pendents",
+      "honras": "Pendents",
+      "descripcion": "Se vela a partir de las 12:00 hrs en Capilla Diamante Suc. Dolores del Rio"
+    },
+    {
+      "id": 830,
+      "titulo": "",
+      "nombre": "Juan",
+      "apellido_paterno": "Calvo",
+      "apellido_materno": "Quiñones",
+      "fecha": "tuesday, may 11",
+      "mensaje_corto": "At the age of 67 years",
+      "se_vela_en": " Calle General Fierro #105 Col. Villa de Guadalupe. ",
+      "honras": "Pendents",
+      "descripcion": ""
     },
     {
       "id": 828,
@@ -106,9 +118,9 @@
       "apellido_materno": "Corral",
       "fecha": "monday, may 10",
       "mensaje_corto": "At the age of 93 years",
-      "se_vela_en": "Pendents",
-      "honras": "Pendents",
-      "descripcion": "Se vela a partir de las 12:30 hrs en Capilla Oro Suc. Dolores del Rio"
+      "se_vela_en": " Capilla Oro Suc. Dolores del Rio",
+      "honras": "Se despide directo en panteón Jardín el día miércoles 12 de mayo a las 16:00 hrs",
+      "descripcion": ""
     },
     {
       "id": 827,
@@ -118,20 +130,8 @@
       "apellido_materno": "Ramos",
       "fecha": "monday, may 10",
       "mensaje_corto": "At the age of 39 years",
-      "se_vela_en": "Pendents",
-      "honras": "Pendents",
-      "descripcion": "Se vela a partir de las 12:00 hrs en Capilla Diamante y Esmeralda Suc. Dolores del Rio"
-    },
-    {
-      "id": 826,
-      "titulo": "",
-      "nombre": "Evelia Teresa",
-      "apellido_paterno": "Meléndez",
-      "apellido_materno": "Rodriguez",
-      "fecha": "monday, may 10",
-      "mensaje_corto": "At the age of 71 years",
-      "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
-      "honras": "13:00 hrs. en el templo de Los Ángeles Se despide en panteón Valle de Los Sabinos.",
+      "se_vela_en": "Capilla Diamante y Esmeralda Suc. Dolores del Rio",
+      "honras": "12:00 hrs.   Catedral Basílica Menor.   Se despide en panteón Garrido. ",
       "descripcion": ""
     },
     {
@@ -143,31 +143,7 @@
       "fecha": "monday, may 10",
       "mensaje_corto": "At the age of 50 years",
       "se_vela_en": "Capilla de  Guanaceví, Dgo. ",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 824,
-      "titulo": "R. N.",
-      "nombre": "Romina",
-      "apellido_paterno": "Delgado",
-      "apellido_materno": "Alanis",
-      "fecha": "monday, may 10",
-      "mensaje_corto": "",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "La despidieron para su cremación"
-    },
-    {
-      "id": 823,
-      "titulo": "",
-      "nombre": "Ma. Eva",
-      "apellido_paterno": "Gambino",
-      "apellido_materno": "Rosales",
-      "fecha": "monday, may 10",
-      "mensaje_corto": "At the age of 67 years",
-      "se_vela_en": "Capilla Diamante de Suc. Dolores del Río",
-      "honras": "12:00 hrs. Iglesia Camino de Salvación. Se despide en panteón de Garabitos.",
+      "honras": "15:00 hrs.   Templo San Pedro.   Se despide en panteón de San Pedro. ",
       "descripcion": ""
     }
   ]
