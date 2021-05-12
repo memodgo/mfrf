@@ -1,6 +1,42 @@
 {
   "obituario": [
     {
+      "id": 835,
+      "titulo": "",
+      "nombre": "Bernardo",
+      "apellido_paterno": "Molina",
+      "apellido_materno": "Villarreal",
+      "fecha": "Miércoles, 12 de Mayo",
+      "mensaje_corto": "A la edad de 78 años",
+      "se_vela_en": "Dom. Con. Tepehuanes, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 834,
+      "titulo": "",
+      "nombre": "Quirina",
+      "apellido_paterno": "Rodríguez",
+      "apellido_materno": "Carrera",
+      "fecha": "Miércoles, 12 de Mayo",
+      "mensaje_corto": "A la edad de 77 años",
+      "se_vela_en": "Capilla Ferrocarril Suc. Santiago Papasquiaro, Dgo.",
+      "honras": "16:00 hrs. Templo Santo Santiago Apóstol. Se despide en panteón La Paz.",
+      "descripcion": ""
+    },
+    {
+      "id": 833,
+      "titulo": "",
+      "nombre": "Gerónimo",
+      "apellido_paterno": "Estala",
+      "apellido_materno": "Castañeda",
+      "fecha": "Miércoles, 12 de Mayo",
+      "mensaje_corto": "A la edad de 81 años",
+      "se_vela_en": "dom. con. Registrillo Anexo a Montemorelos.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 832,
       "titulo": "",
       "nombre": "Matilde",
@@ -8,9 +44,9 @@
       "apellido_materno": "Montelongo",
       "fecha": "Martes, 11 de Mayo",
       "mensaje_corto": "",
-      "se_vela_en": "Pendiente",
+      "se_vela_en": " Capilla Esmeralda Suc. Dolores del Rio",
       "honras": "Pendientes",
-      "descripcion": "Se vela a partir de las 15:00 hrs en Capilla Esmeralda Suc. Dolores del Rio "
+      "descripcion": ""
     },
     {
       "id": 831,
@@ -20,9 +56,9 @@
       "apellido_materno": "Segovia",
       "fecha": "Martes, 11 de Mayo",
       "mensaje_corto": "A la edad de 44 años",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
-      "descripcion": "Se vela a partir de las 12:00 hrs en Capilla Diamante Suc. Dolores del Rio"
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio ",
+      "honras": "16:00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide para su cremación.",
+      "descripcion": ""
     },
     {
       "id": 830,
@@ -33,7 +69,7 @@
       "fecha": "Martes, 11 de Mayo",
       "mensaje_corto": "A la edad de 67 años",
       "se_vela_en": " Calle General Fierro #105 Col. Villa de Guadalupe. ",
-      "honras": "Pendientes",
+      "honras": "11:00 hrs. Santuario de Ntra. Sra. de Guadalupe. Se despide en panteón Valle de Los Sabinos.",
       "descripcion": ""
     },
     {
@@ -45,35 +81,47 @@
       "fecha": "Lunes, 10 de Mayo",
       "mensaje_corto": "A la edad de 93 años",
       "se_vela_en": " Capilla Oro Suc. Dolores del Rio",
-      "honras": "Se despide directo en panteón Jardín el día miércoles 12 de mayo a las 16:00 hrs",
-      "descripcion": ""
-    },
-    {
-      "id": 827,
-      "titulo": "",
-      "nombre": "Cesar Noe",
-      "apellido_paterno": "Diaz",
-      "apellido_materno": "Ramos",
-      "fecha": "Lunes, 10 de Mayo",
-      "mensaje_corto": "A la edad de 39 años",
-      "se_vela_en": "Capilla Diamante y Esmeralda Suc. Dolores del Rio",
-      "honras": "12:00 hrs.   Catedral Basílica Menor.   Se despide en panteón Garrido. ",
-      "descripcion": ""
-    },
-    {
-      "id": 825,
-      "titulo": "",
-      "nombre": "Fidel",
-      "apellido_paterno": "Nuñez",
-      "apellido_materno": "Rios",
-      "fecha": "Lunes, 10 de Mayo",
-      "mensaje_corto": "A la edad de 50 años",
-      "se_vela_en": "Capilla de  Guanaceví, Dgo. ",
-      "honras": "15:00 hrs.   Templo San Pedro.   Se despide en panteón de San Pedro. ",
+      "honras": "Se despide en panteón Jardín a las 10.30 hrs",
       "descripcion": ""
     }
   ],
   "obitiario_ingles": [
+    {
+      "id": 835,
+      "titulo": "",
+      "nombre": "Bernardo",
+      "apellido_paterno": "Molina",
+      "apellido_materno": "Villarreal",
+      "fecha": "wednesday, may 12",
+      "mensaje_corto": "At the age of 78 years",
+      "se_vela_en": "Dom. Con. Tepehuanes, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 834,
+      "titulo": "",
+      "nombre": "Quirina",
+      "apellido_paterno": "Rodríguez",
+      "apellido_materno": "Carrera",
+      "fecha": "wednesday, may 12",
+      "mensaje_corto": "At the age of 77 years",
+      "se_vela_en": "Capilla Ferrocarril Suc. Santiago Papasquiaro, Dgo.",
+      "honras": "16:00 hrs. Templo Santo Santiago Apóstol. Se despide en panteón La Paz.",
+      "descripcion": ""
+    },
+    {
+      "id": 833,
+      "titulo": "",
+      "nombre": "Gerónimo",
+      "apellido_paterno": "Estala",
+      "apellido_materno": "Castañeda",
+      "fecha": "wednesday, may 12",
+      "mensaje_corto": "At the age of 81 years",
+      "se_vela_en": "dom. con. Registrillo Anexo a Montemorelos.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 832,
       "titulo": "",
@@ -82,9 +130,9 @@
       "apellido_materno": "Montelongo",
       "fecha": "tuesday, may 11",
       "mensaje_corto": "",
-      "se_vela_en": "Pendents",
+      "se_vela_en": " Capilla Esmeralda Suc. Dolores del Rio",
       "honras": "Pendents",
-      "descripcion": "Se vela a partir de las 15:00 hrs en Capilla Esmeralda Suc. Dolores del Rio "
+      "descripcion": ""
     },
     {
       "id": 831,
@@ -94,9 +142,9 @@
       "apellido_materno": "Segovia",
       "fecha": "tuesday, may 11",
       "mensaje_corto": "At the age of 44 years",
-      "se_vela_en": "Pendents",
-      "honras": "Pendents",
-      "descripcion": "Se vela a partir de las 12:00 hrs en Capilla Diamante Suc. Dolores del Rio"
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio ",
+      "honras": "16:00 hrs. Templo Ntra. Sra. de Los Ángeles. Se despide para su cremación.",
+      "descripcion": ""
     },
     {
       "id": 830,
@@ -107,7 +155,7 @@
       "fecha": "tuesday, may 11",
       "mensaje_corto": "At the age of 67 years",
       "se_vela_en": " Calle General Fierro #105 Col. Villa de Guadalupe. ",
-      "honras": "Pendents",
+      "honras": "11:00 hrs. Santuario de Ntra. Sra. de Guadalupe. Se despide en panteón Valle de Los Sabinos.",
       "descripcion": ""
     },
     {
@@ -119,31 +167,7 @@
       "fecha": "monday, may 10",
       "mensaje_corto": "At the age of 93 years",
       "se_vela_en": " Capilla Oro Suc. Dolores del Rio",
-      "honras": "Se despide directo en panteón Jardín el día miércoles 12 de mayo a las 16:00 hrs",
-      "descripcion": ""
-    },
-    {
-      "id": 827,
-      "titulo": "",
-      "nombre": "Cesar Noe",
-      "apellido_paterno": "Diaz",
-      "apellido_materno": "Ramos",
-      "fecha": "monday, may 10",
-      "mensaje_corto": "At the age of 39 years",
-      "se_vela_en": "Capilla Diamante y Esmeralda Suc. Dolores del Rio",
-      "honras": "12:00 hrs.   Catedral Basílica Menor.   Se despide en panteón Garrido. ",
-      "descripcion": ""
-    },
-    {
-      "id": 825,
-      "titulo": "",
-      "nombre": "Fidel",
-      "apellido_paterno": "Nuñez",
-      "apellido_materno": "Rios",
-      "fecha": "monday, may 10",
-      "mensaje_corto": "At the age of 50 years",
-      "se_vela_en": "Capilla de  Guanaceví, Dgo. ",
-      "honras": "15:00 hrs.   Templo San Pedro.   Se despide en panteón de San Pedro. ",
+      "honras": "Se despide en panteón Jardín a las 10.30 hrs",
       "descripcion": ""
     }
   ]
