@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 842,
+      "titulo": "",
+      "nombre": "Eunice Nazaret",
+      "apellido_paterno": "Gutiérrez",
+      "apellido_materno": "Espino",
+      "fecha": "Viernes, 14 de Mayo",
+      "mensaje_corto": "A la edad de 23 años",
+      "se_vela_en": "Pendiente",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 841,
+      "titulo": "",
+      "nombre": "María Martha",
+      "apellido_paterno": "Ojeda",
+      "apellido_materno": "Villalobos",
+      "fecha": "Viernes, 14 de Mayo",
+      "mensaje_corto": "A la edad de 54 años",
+      "se_vela_en": "Calle Cruz Infante #611 Col. Valle del Guadiana.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 840,
       "titulo": "",
       "nombre": "Consolación",
@@ -9,7 +33,7 @@
       "fecha": "Jueves, 13 de Mayo",
       "mensaje_corto": "A la edad de 77 años",
       "se_vela_en": "capilla Esmeralda Sucursal Dolores del Río",
-      "honras": "Pendientes",
+      "honras": "14:00 hrs. Templo De Analco. Se despidió en panteón de Oriente.",
       "descripcion": ""
     },
     {
@@ -21,47 +45,35 @@
       "fecha": "Jueves, 13 de Mayo",
       "mensaje_corto": "A la edad de 63 años",
       "se_vela_en": "Capilla Plata Suc. Dolores del Rio ",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 838,
-      "titulo": "",
-      "nombre": "Jorge Jordán",
-      "apellido_paterno": "Delgado",
-      "apellido_materno": "",
-      "fecha": "Jueves, 13 de Mayo",
-      "mensaje_corto": "",
-      "se_vela_en": "Calle Tulio #715 Col. Luis Echeverria.",
-      "honras": "",
-      "descripcion": "se le despidió directo en el panteón Getsemaní a las 14:00 hrs."
-    },
-    {
-      "id": 835,
-      "titulo": "",
-      "nombre": "Bernardo",
-      "apellido_paterno": "Molina",
-      "apellido_materno": "Villarreal",
-      "fecha": "Miércoles, 12 de Mayo",
-      "mensaje_corto": "A la edad de 78 años",
-      "se_vela_en": "Dom. Con. Tepehuanes, Dgo.",
-      "honras": "9:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 833,
-      "titulo": "",
-      "nombre": "Gerónimo",
-      "apellido_paterno": "Estala",
-      "apellido_materno": "Castañeda",
-      "fecha": "Miércoles, 12 de Mayo",
-      "mensaje_corto": "A la edad de 81 años",
-      "se_vela_en": "dom. con. Registrillo Anexo a Montemorelos.",
-      "honras": "15.00 hrs. Templo Ntra. Sra. del Carmen. Se despide en panteón de Navacoyan.",
+      "honras": " Conferencia Bíblica misma Capilla Plata a las 12:00 hrs. Se despide para su cremación.",
       "descripcion": ""
     }
   ],
-  "obitiario_ingles": [
+  "obituario_ingles": [
+    {
+      "id": 842,
+      "titulo": "",
+      "nombre": "Eunice Nazaret",
+      "apellido_paterno": "Gutiérrez",
+      "apellido_materno": "Espino",
+      "fecha": "friday, may 14",
+      "mensaje_corto": "At the age of 23 years",
+      "se_vela_en": "Pendents",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 841,
+      "titulo": "",
+      "nombre": "María Martha",
+      "apellido_paterno": "Ojeda",
+      "apellido_materno": "Villalobos",
+      "fecha": "friday, may 14",
+      "mensaje_corto": "At the age of 54 years",
+      "se_vela_en": "Calle Cruz Infante #611 Col. Valle del Guadiana.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 840,
       "titulo": "",
@@ -71,7 +83,7 @@
       "fecha": "Thursday, may 13",
       "mensaje_corto": "At the age of 77 years",
       "se_vela_en": "capilla Esmeralda Sucursal Dolores del Río",
-      "honras": "Pendents",
+      "honras": "14:00 hrs. Templo De Analco. Se despidió en panteón de Oriente.",
       "descripcion": ""
     },
     {
@@ -83,43 +95,7 @@
       "fecha": "Thursday, may 13",
       "mensaje_corto": "At the age of 63 years",
       "se_vela_en": "Capilla Plata Suc. Dolores del Rio ",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 838,
-      "titulo": "",
-      "nombre": "Jorge Jordán",
-      "apellido_paterno": "Delgado",
-      "apellido_materno": "",
-      "fecha": "Thursday, may 13",
-      "mensaje_corto": "",
-      "se_vela_en": "Calle Tulio #715 Col. Luis Echeverria.",
-      "honras": "",
-      "descripcion": "se le despidió directo en el panteón Getsemaní a las 14:00 hrs."
-    },
-    {
-      "id": 835,
-      "titulo": "",
-      "nombre": "Bernardo",
-      "apellido_paterno": "Molina",
-      "apellido_materno": "Villarreal",
-      "fecha": "wednesday, may 12",
-      "mensaje_corto": "At the age of 78 years",
-      "se_vela_en": "Dom. Con. Tepehuanes, Dgo.",
-      "honras": "9:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 833,
-      "titulo": "",
-      "nombre": "Gerónimo",
-      "apellido_paterno": "Estala",
-      "apellido_materno": "Castañeda",
-      "fecha": "wednesday, may 12",
-      "mensaje_corto": "At the age of 81 years",
-      "se_vela_en": "dom. con. Registrillo Anexo a Montemorelos.",
-      "honras": "15.00 hrs. Templo Ntra. Sra. del Carmen. Se despide en panteón de Navacoyan.",
+      "honras": " Conferencia Bíblica misma Capilla Plata a las 12:00 hrs. Se despide para su cremación.",
       "descripcion": ""
     }
   ]
