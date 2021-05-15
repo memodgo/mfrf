@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 843,
+      "titulo": "",
+      "nombre": "Estela",
+      "apellido_paterno": "Moreno",
+      "apellido_materno": "Ávila",
+      "fecha": "Sábado, 15 de Mayo",
+      "mensaje_corto": "A la edad de 81 años",
+      "se_vela_en": "Dom. Con. San José del Molino, Dgo.",
+      "honras": "Pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 842,
       "titulo": "",
       "nombre": "Eunice Nazaret",
@@ -8,9 +20,9 @@
       "apellido_materno": "Espino",
       "fecha": "Viernes, 14 de Mayo",
       "mensaje_corto": "A la edad de 23 años",
-      "se_vela_en": "Pendiente",
-      "honras": "Pendientes",
-      "descripcion": ""
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se traslada de Durango, Dgo a Tijuana, B.C."
     },
     {
       "id": 841,
@@ -21,35 +33,23 @@
       "fecha": "Viernes, 14 de Mayo",
       "mensaje_corto": "A la edad de 54 años",
       "se_vela_en": "Calle Cruz Infante #611 Col. Valle del Guadiana.",
-      "honras": "Pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 840,
-      "titulo": "",
-      "nombre": "Consolación",
-      "apellido_paterno": "Félix",
-      "apellido_materno": "Chávez",
-      "fecha": "Jueves, 13 de Mayo",
-      "mensaje_corto": "A la edad de 77 años",
-      "se_vela_en": "capilla Esmeralda Sucursal Dolores del Río",
-      "honras": "14:00 hrs. Templo De Analco. Se despidió en panteón de Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 839,
-      "titulo": "",
-      "nombre": "José Gerardo",
-      "apellido_paterno": "Ceballos",
-      "apellido_materno": "Villarreal",
-      "fecha": "Jueves, 13 de Mayo",
-      "mensaje_corto": "A la edad de 63 años",
-      "se_vela_en": "Capilla Plata Suc. Dolores del Rio ",
-      "honras": " Conferencia Bíblica misma Capilla Plata a las 12:00 hrs. Se despide para su cremación.",
+      "honras": "11:00 hrs. Templo Milagros de Cristo. Se despide en panteón Getsemaní.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 843,
+      "titulo": "",
+      "nombre": "Estela",
+      "apellido_paterno": "Moreno",
+      "apellido_materno": "Ávila",
+      "fecha": "saturday, may 15",
+      "mensaje_corto": "At the age of 81 years",
+      "se_vela_en": "Dom. Con. San José del Molino, Dgo.",
+      "honras": "Pendents",
+      "descripcion": ""
+    },
     {
       "id": 842,
       "titulo": "",
@@ -58,9 +58,9 @@
       "apellido_materno": "Espino",
       "fecha": "friday, may 14",
       "mensaje_corto": "At the age of 23 years",
-      "se_vela_en": "Pendents",
-      "honras": "Pendents",
-      "descripcion": ""
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se traslada de Durango, Dgo a Tijuana, B.C."
     },
     {
       "id": 841,
@@ -71,31 +71,7 @@
       "fecha": "friday, may 14",
       "mensaje_corto": "At the age of 54 years",
       "se_vela_en": "Calle Cruz Infante #611 Col. Valle del Guadiana.",
-      "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 840,
-      "titulo": "",
-      "nombre": "Consolación",
-      "apellido_paterno": "Félix",
-      "apellido_materno": "Chávez",
-      "fecha": "Thursday, may 13",
-      "mensaje_corto": "At the age of 77 years",
-      "se_vela_en": "capilla Esmeralda Sucursal Dolores del Río",
-      "honras": "14:00 hrs. Templo De Analco. Se despidió en panteón de Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 839,
-      "titulo": "",
-      "nombre": "José Gerardo",
-      "apellido_paterno": "Ceballos",
-      "apellido_materno": "Villarreal",
-      "fecha": "Thursday, may 13",
-      "mensaje_corto": "At the age of 63 years",
-      "se_vela_en": "Capilla Plata Suc. Dolores del Rio ",
-      "honras": " Conferencia Bíblica misma Capilla Plata a las 12:00 hrs. Se despide para su cremación.",
+      "honras": "11:00 hrs. Templo Milagros de Cristo. Se despide en panteón Getsemaní.",
       "descripcion": ""
     }
   ]
