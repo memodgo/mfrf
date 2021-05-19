@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 851,
+      "titulo": "",
+      "nombre": "Gonzalo",
+      "apellido_paterno": "García",
+      "apellido_materno": "Montenegro",
+      "fecha": "Miércoles, 19 de Mayo",
+      "mensaje_corto": "A la edad de 90 años",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": " Culto 12:00 hrs. Templo Cristo de los Santos de los Últimos Días  Se despide en panteón Valle de Los Sabinos.",
+      "descripcion": ""
+    },
+    {
+      "id": 850,
+      "titulo": "",
+      "nombre": "Antonio",
+      "apellido_paterno": "Zamarripa",
+      "apellido_materno": "García",
+      "fecha": "Miércoles, 19 de Mayo",
+      "mensaje_corto": "A la edad de 84 años",
+      "se_vela_en": "dom. con. Lázaro Cárdenas Mpio. de Panuco de Coronado.",
+      "honras": "16:00 hrs. Templo del lugar. Se despide en panteón de Francisco I. Madero.",
+      "descripcion": ""
+    },
+    {
       "id": 849,
       "titulo": "",
       "nombre": "Antonia",
@@ -32,60 +56,36 @@
       "apellido_materno": "",
       "fecha": "Martes, 18 de Mayo",
       "mensaje_corto": "A la edad de 72 años",
-      "se_vela_en": "Pendiente",
+      "se_vela_en": "Tepehuanes, Dgo.",
       "honras": "Pendientes",
-      "descripcion": "e traslada de Oakland, California a Bagres Tepehuanes, Dgo."
-    },
-    {
-      "id": 846,
-      "titulo": "",
-      "nombre": "María Elena",
-      "apellido_paterno": "Diaz",
-      "apellido_materno": "Rocha",
-      "fecha": "Martes, 18 de Mayo",
-      "mensaje_corto": "A la edad de 66 años",
-      "se_vela_en": " Capilla  Baca Ortiz Suc Santiago Papasquiaro, Dgo.",
-      "honras": "16:00  Templo Santo Santiago Apostol se despide en panteon Victor Nevarez ",
       "descripcion": ""
-    },
-    {
-      "id": 845,
-      "titulo": "",
-      "nombre": "Félix",
-      "apellido_paterno": "Zamora",
-      "apellido_materno": "Arroyo",
-      "fecha": "Martes, 18 de Mayo",
-      "mensaje_corto": "A la edad de 84 años",
-      "se_vela_en": "Capilla Ferrocarril Suc. Santiago Papasquiaro, Dgo.",
-      "honras": "16:00 hrs. Santuario de Ntra. Sra. de Guadalupe. Se despide en panteón Víctor Nevárez.",
-      "descripcion": ""
-    },
-    {
-      "id": 844,
-      "titulo": "",
-      "nombre": "Cyndy Paola",
-      "apellido_paterno": "Ávila",
-      "apellido_materno": "García",
-      "fecha": "Martes, 18 de Mayo",
-      "mensaje_corto": "A la edad de 26 años",
-      "se_vela_en": "Dom .Con. Montes de Oca, Dgo.",
-      "honras": "Se despide en panteón de Francisco Montes de Oca a las 17:00 hrs",
-      "descripcion": ""
-    },
-    {
-      "id": 842,
-      "titulo": "",
-      "nombre": "Eunice Nazaret",
-      "apellido_paterno": "Gutiérrez",
-      "apellido_materno": "Espino",
-      "fecha": "Viernes, 14 de Mayo",
-      "mensaje_corto": "A la edad de 23 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se traslada de Durango, Dgo a Tijuana, B.C."
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 851,
+      "titulo": "",
+      "nombre": "Gonzalo",
+      "apellido_paterno": "García",
+      "apellido_materno": "Montenegro",
+      "fecha": "wednesday, may 19",
+      "mensaje_corto": "At the age of 90 years",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": " Culto 12:00 hrs. Templo Cristo de los Santos de los Últimos Días  Se despide en panteón Valle de Los Sabinos.",
+      "descripcion": ""
+    },
+    {
+      "id": 850,
+      "titulo": "",
+      "nombre": "Antonio",
+      "apellido_paterno": "Zamarripa",
+      "apellido_materno": "García",
+      "fecha": "wednesday, may 19",
+      "mensaje_corto": "At the age of 84 years",
+      "se_vela_en": "dom. con. Lázaro Cárdenas Mpio. de Panuco de Coronado.",
+      "honras": "16:00 hrs. Templo del lugar. Se despide en panteón de Francisco I. Madero.",
+      "descripcion": ""
+    },
     {
       "id": 849,
       "titulo": "",
@@ -118,57 +118,9 @@
       "apellido_materno": "",
       "fecha": "tuesday, may 18",
       "mensaje_corto": "At the age of 72 years",
-      "se_vela_en": "Pendents",
+      "se_vela_en": "Tepehuanes, Dgo.",
       "honras": "Pendents",
-      "descripcion": "e traslada de Oakland, California a Bagres Tepehuanes, Dgo."
-    },
-    {
-      "id": 846,
-      "titulo": "",
-      "nombre": "María Elena",
-      "apellido_paterno": "Diaz",
-      "apellido_materno": "Rocha",
-      "fecha": "tuesday, may 18",
-      "mensaje_corto": "At the age of 66 years",
-      "se_vela_en": " Capilla  Baca Ortiz Suc Santiago Papasquiaro, Dgo.",
-      "honras": "16:00  Templo Santo Santiago Apostol se despide en panteon Victor Nevarez ",
       "descripcion": ""
-    },
-    {
-      "id": 845,
-      "titulo": "",
-      "nombre": "Félix",
-      "apellido_paterno": "Zamora",
-      "apellido_materno": "Arroyo",
-      "fecha": "tuesday, may 18",
-      "mensaje_corto": "At the age of 84 years",
-      "se_vela_en": "Capilla Ferrocarril Suc. Santiago Papasquiaro, Dgo.",
-      "honras": "16:00 hrs. Santuario de Ntra. Sra. de Guadalupe. Se despide en panteón Víctor Nevárez.",
-      "descripcion": ""
-    },
-    {
-      "id": 844,
-      "titulo": "",
-      "nombre": "Cyndy Paola",
-      "apellido_paterno": "Ávila",
-      "apellido_materno": "García",
-      "fecha": "tuesday, may 18",
-      "mensaje_corto": "At the age of 26 years",
-      "se_vela_en": "Dom .Con. Montes de Oca, Dgo.",
-      "honras": "Se despide en panteón de Francisco Montes de Oca a las 17:00 hrs",
-      "descripcion": ""
-    },
-    {
-      "id": 842,
-      "titulo": "",
-      "nombre": "Eunice Nazaret",
-      "apellido_paterno": "Gutiérrez",
-      "apellido_materno": "Espino",
-      "fecha": "friday, may 14",
-      "mensaje_corto": "At the age of 23 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se traslada de Durango, Dgo a Tijuana, B.C."
     }
   ]
 }
