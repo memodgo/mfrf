@@ -14,32 +14,6 @@
       "estatus": true
     },
     {
-      "id": 29,
-      "titulo": "R. N.",
-      "nombre": "Jesús",
-      "apellido_paterno": "Coronel.",
-      "apellido_materno": "Coronel.",
-      "fecha": "Viernes, 24 de Septiembre",
-      "mensaje_corto": "A la edad de 0 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "se despide para su cremación",
-      "estatus": true
-    },
-    {
-      "id": 30,
-      "titulo": "",
-      "nombre": "Lidia",
-      "apellido_paterno": "Gallardo",
-      "apellido_materno": "Gallardo",
-      "fecha": "Viernes, 24 de Septiembre",
-      "mensaje_corto": "A la edad de 85 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se despide para su cremación a las 19:00 hrs.",
-      "estatus": true
-    },
-    {
       "id": 31,
       "titulo": "",
       "nombre": "Juan",
@@ -103,6 +77,19 @@
       "honras": "14:00 hrs Templo de San Jose  Se despide en panteon de Oriente",
       "descripcion": "",
       "estatus": true
+    },
+    {
+      "id": 30,
+      "titulo": "",
+      "nombre": "Lidia",
+      "apellido_paterno": "Gallardo",
+      "apellido_materno": "Gallardo",
+      "fecha": "Viernes, 24 de Septiembre",
+      "mensaje_corto": "A la edad de 85 años",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremación a las 19:00 hrs.",
+      "estatus": true
     }
   ],
   "obituario_ingles": [
@@ -117,32 +104,6 @@
       "se_vela_en": "dom. con. El Toboso, Dgo.",
       "honras": "10:00 hrs Templo del lugar Se despide en panteon del lugar ",
       "descripcion": "",
-      "estatus": true
-    },
-    {
-      "id": 29,
-      "titulo": "R. N.",
-      "nombre": "Jesús",
-      "apellido_paterno": "Coronel.",
-      "apellido_materno": "Coronel.",
-      "fecha": "friday, september 24",
-      "mensaje_corto": "At the age of 0 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "se despide para su cremación",
-      "estatus": true
-    },
-    {
-      "id": 30,
-      "titulo": "",
-      "nombre": "Lidia",
-      "apellido_paterno": "Gallardo",
-      "apellido_materno": "Gallardo",
-      "fecha": "friday, september 24",
-      "mensaje_corto": "At the age of 85 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se despide para su cremación a las 19:00 hrs.",
       "estatus": true
     },
     {
@@ -208,6 +169,19 @@
       "se_vela_en": "capilla Esmeralda de Suc. Dolores del Rio",
       "honras": "14:00 hrs Templo de San Jose  Se despide en panteon de Oriente",
       "descripcion": "",
+      "estatus": true
+    },
+    {
+      "id": 30,
+      "titulo": "",
+      "nombre": "Lidia",
+      "apellido_paterno": "Gallardo",
+      "apellido_materno": "Gallardo",
+      "fecha": "friday, september 24",
+      "mensaje_corto": "At the age of 85 years",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremación a las 19:00 hrs.",
       "estatus": true
     }
   ]
