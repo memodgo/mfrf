@@ -1,84 +1,102 @@
 {
   "obituario": [
     {
-      "id": 36,
+      "id": 40,
       "titulo": "",
-      "nombre": "Ma. de la Luz",
-      "apellido_paterno": "Grijalva",
-      "apellido_materno": "Moreno",
-      "fecha": "Sábado, 23 de Octubre",
-      "mensaje_corto": "A la edad de 85 años",
-      "se_vela_en": " Calle Agua y Viento #409 Col. Octavio Paz.",
-      "honras": "Se despide en panteón Getsemaní a las 14:00 hrs.",
-      "descripcion": "",
-      "estatus": true
-    },
-    {
-      "id": 37,
-      "titulo": "",
-      "nombre": "Marcelina",
-      "apellido_paterno": "Zamudio",
-      "apellido_materno": "Monárrez",
-      "fecha": "Sábado, 23 de Octubre",
-      "mensaje_corto": "A la edad de 23 años",
-      "se_vela_en": "Calle Olivos #210 Col. El Ciprés",
-      "honras": "13: 00 hrs. Templo Ntra. Sra. del Rayo. Se despide en panteón Getsemaní.",
-      "descripcion": "",
-      "estatus": true
-    },
-    {
-      "id": 38,
-      "titulo": "",
-      "nombre": "Jesús",
-      "apellido_paterno": "Morales",
-      "apellido_materno": "Castañeda",
-      "fecha": "Sábado, 23 de Octubre",
-      "mensaje_corto": "A la edad de 57 años",
-      "se_vela_en": "La Suceda, Canatlán, Dgo.",
+      "nombre": "Guadalupe",
+      "apellido_paterno": "Alamos",
+      "apellido_materno": "Payan",
+      "fecha": "Martes, 16 de Noviembre",
+      "mensaje_corto": "A la edad de 26 años",
+      "se_vela_en": "Dom. Con. Tepehuanes, Dgo.",
       "honras": "Pendientes",
-      "descripcion": "",
-      "estatus": true
+      "descripcion": ""
+    },
+    {
+      "id": 41,
+      "titulo": "",
+      "nombre": "Claudia Gabriela",
+      "apellido_paterno": "López",
+      "apellido_materno": "Batres",
+      "fecha": "Martes, 16 de Noviembre",
+      "mensaje_corto": "A la edad de 40 años",
+      "se_vela_en": "pendiente",
+      "honras": "pendientes",
+      "descripcion": "Se traslada de Nuevo Laredo, Tamaulipas."
+    },
+    {
+      "id": 42,
+      "titulo": "",
+      "nombre": "Efrén",
+      "apellido_paterno": "Ríos",
+      "apellido_materno": "Escajeda",
+      "fecha": "Martes, 16 de Noviembre",
+      "mensaje_corto": "A la edad de 80 años",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio Velatorio Raúl Flores.",
+      "honras": "16.00 hrs. Templo Ntra. Sra. Del Perpetuo Socorro. Se despide para su cremación.",
+      "descripcion": ""
+    },
+    {
+      "id": 39,
+      "titulo": "",
+      "nombre": "David",
+      "apellido_paterno": "Favela",
+      "apellido_materno": "Cervantes",
+      "fecha": "Martes, 16 de Noviembre",
+      "mensaje_corto": "A la edad de 63 años",
+      "se_vela_en": "Se velo Bagres, Tepehuanes, Dgo.",
+      "honras": "Lo despidieron el día lunes 15 de noviembre en panteón del lugar.",
+      "descripcion": ""
     }
   ],
   "obituario_ingles": [
     {
-      "id": 36,
+      "id": 40,
       "titulo": "",
-      "nombre": "Ma. de la Luz",
-      "apellido_paterno": "Grijalva",
-      "apellido_materno": "Moreno",
-      "fecha": "saturday, october 23",
-      "mensaje_corto": "At the age of 85 years",
-      "se_vela_en": " Calle Agua y Viento #409 Col. Octavio Paz.",
-      "honras": "Se despide en panteón Getsemaní a las 14:00 hrs.",
-      "descripcion": "",
-      "estatus": true
-    },
-    {
-      "id": 37,
-      "titulo": "",
-      "nombre": "Marcelina",
-      "apellido_paterno": "Zamudio",
-      "apellido_materno": "Monárrez",
-      "fecha": "saturday, october 23",
-      "mensaje_corto": "At the age of 23 years",
-      "se_vela_en": "Calle Olivos #210 Col. El Ciprés",
-      "honras": "13: 00 hrs. Templo Ntra. Sra. del Rayo. Se despide en panteón Getsemaní.",
-      "descripcion": "",
-      "estatus": true
-    },
-    {
-      "id": 38,
-      "titulo": "",
-      "nombre": "Jesús",
-      "apellido_paterno": "Morales",
-      "apellido_materno": "Castañeda",
-      "fecha": "saturday, october 23",
-      "mensaje_corto": "At the age of 57 years",
-      "se_vela_en": "La Suceda, Canatlán, Dgo.",
+      "nombre": "Guadalupe",
+      "apellido_paterno": "Alamos",
+      "apellido_materno": "Payan",
+      "fecha": "thursday, november 16",
+      "mensaje_corto": "At the age of 26 years",
+      "se_vela_en": "Dom. Con. Tepehuanes, Dgo.",
       "honras": "Pendents",
-      "descripcion": "",
-      "estatus": true
+      "descripcion": ""
+    },
+    {
+      "id": 41,
+      "titulo": "",
+      "nombre": "Claudia Gabriela",
+      "apellido_paterno": "López",
+      "apellido_materno": "Batres",
+      "fecha": "thursday, november 16",
+      "mensaje_corto": "At the age of 40 years",
+      "se_vela_en": "pendent",
+      "honras": "pendents",
+      "descripcion": "Se traslada de Nuevo Laredo, Tamaulipas."
+    },
+    {
+      "id": 42,
+      "titulo": "",
+      "nombre": "Efrén",
+      "apellido_paterno": "Ríos",
+      "apellido_materno": "Escajeda",
+      "fecha": "thursday, november 16",
+      "mensaje_corto": "At the age of 80 years",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio Velatorio Raúl Flores.",
+      "honras": "16.00 hrs. Templo Ntra. Sra. Del Perpetuo Socorro. Se despide para su cremación.",
+      "descripcion": ""
+    },
+    {
+      "id": 39,
+      "titulo": "",
+      "nombre": "David",
+      "apellido_paterno": "Favela",
+      "apellido_materno": "Cervantes",
+      "fecha": "thursday, november 16",
+      "mensaje_corto": "At the age of 63 years",
+      "se_vela_en": "Se velo Bagres, Tepehuanes, Dgo.",
+      "honras": "Lo despidieron el día lunes 15 de noviembre en panteón del lugar.",
+      "descripcion": ""
     }
   ]
 }
