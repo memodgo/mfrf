@@ -1,150 +1,126 @@
 {
-	"obituario": [
-	  {
-		"id": 51,
-		"titulo": "",
-		"nombre": "María Luisa",
-		"apellido_paterno": "Sosa",
-		"apellido_materno": "Estebane",
-		"fecha": "Jueves, 18 de Noviembre",
-		"mensaje_corto": "A la edad de 68 años",
-		"se_vela_en": "Calle Tlacotal #205 Col. Azcapotzalco.",
-		"honras": "La despidieron el día viernes 19 de noviembre en panteón Oriente.",
-		"descripcion": ""
-	  },
-	  {
-		"id": 47,
-		"titulo": "",
-		"nombre": "Antonio",
-		"apellido_paterno": "Reyes",
-		"apellido_materno": "Jurado",
-		"fecha": "Jueves, 18 de Noviembre",
-		"mensaje_corto": "A la edad de 87 años",
-		"se_vela_en": "se está velando en domicilio conocido Rodeo, Dgo.",
-		"honras": "16:00 hrs.   Templo del lugar.   Se despide en panteón del lugar. ",
-		"descripcion": ""
-	  },
-	  {
-		"id": 52,
-		"titulo": "",
-		"nombre": "Rafael",
-		"apellido_paterno": "Flores",
-		"apellido_materno": "González",
-		"fecha": "Sábado, 20 de Noviembre",
-		"mensaje_corto": "A la edad de 66 años",
-		"se_vela_en": "Calle Cuitzalan #308 Col. Azcapotzalco.",
-		"honras": "pendientes",
-		"descripcion": ""
-	  },
-	  {
-		"id": 48,
-		"titulo": "",
-		"nombre": "Juana",
-		"apellido_paterno": "Alarcón",
-		"apellido_materno": "García",
-		"fecha": "Jueves, 18 de Noviembre",
-		"mensaje_corto": "A la edad de 92 años",
-		"se_vela_en": "se le está velando en domicilio conocido poblado Bagres Tepehuanes",
-		"honras": "La despidieron el día viernes 19 de noviembre en panteón del lugar.",
-		"descripcion": ""
-	  },
-	  {
-		"id": 53,
-		"titulo": "",
-		"nombre": "Antonia",
-		"apellido_paterno": "Mata",
-		"apellido_materno": "Herrera",
-		"fecha": "Sábado, 20 de Noviembre",
-		"mensaje_corto": "A la edad de 91 años",
-		"se_vela_en": "dom. con. Saucedo, Santiago Papasquiaro, Dgo.",
-		"honras": "pendientes",
-		"descripcion": ""
-	  },
-	  {
-		"id": 54,
-		"titulo": "",
-		"nombre": "Isidro",
-		"apellido_paterno": "Romero",
-		"apellido_materno": "Andrade",
-		"fecha": "Sábado, 20 de Noviembre",
-		"mensaje_corto": "A la edad de 0 años",
-		"se_vela_en": " Gomelia, Canatlán, Dgo.",
-		"honras": "pendientes",
-		"descripcion": ""
-	  }
-	],
-	"obituario_ingles": [
-	  {
-		"id": 51,
-		"titulo": "",
-		"nombre": "María Luisa",
-		"apellido_paterno": "Sosa",
-		"apellido_materno": "Estebane",
-		"fecha": "tuesday, november 18",
-		"mensaje_corto": "At the age of 68 years",
-		"se_vela_en": "Calle Tlacotal #205 Col. Azcapotzalco.",
-		"honras": "La despidieron el día viernes 19 de noviembre en panteón Oriente.",
-		"descripcion": ""
-	  },
-	  {
-		"id": 47,
-		"titulo": "",
-		"nombre": "Antonio",
-		"apellido_paterno": "Reyes",
-		"apellido_materno": "Jurado",
-		"fecha": "tuesday, november 18",
-		"mensaje_corto": "At the age of 87 years",
-		"se_vela_en": "se está velando en domicilio conocido Rodeo, Dgo.",
-		"honras": "16:00 hrs.   Templo del lugar.   Se despide en panteón del lugar. ",
-		"descripcion": ""
-	  },
-	  {
-		"id": 52,
-		"titulo": "",
-		"nombre": "Rafael",
-		"apellido_paterno": "Flores",
-		"apellido_materno": "González",
-		"fecha": "saturday, november 20",
-		"mensaje_corto": "At the age of 66 years",
-		"se_vela_en": "Calle Cuitzalan #308 Col. Azcapotzalco.",
-		"honras": "pendents",
-		"descripcion": ""
-	  },
-	  {
-		"id": 48,
-		"titulo": "",
-		"nombre": "Juana",
-		"apellido_paterno": "Alarcón",
-		"apellido_materno": "García",
-		"fecha": "tuesday, november 18",
-		"mensaje_corto": "At the age of 92 years",
-		"se_vela_en": "se le está velando en domicilio conocido poblado Bagres Tepehuanes",
-		"honras": "La despidieron el día viernes 19 de noviembre en panteón del lugar.",
-		"descripcion": ""
-	  },
-	  {
-		"id": 53,
-		"titulo": "",
-		"nombre": "Antonia",
-		"apellido_paterno": "Mata",
-		"apellido_materno": "Herrera",
-		"fecha": "saturday, november 20",
-		"mensaje_corto": "At the age of 91 years",
-		"se_vela_en": "dom. con. Saucedo, Santiago Papasquiaro, Dgo.",
-		"honras": "pendents",
-		"descripcion": ""
-	  },
-	  {
-		"id": 54,
-		"titulo": "",
-		"nombre": "Isidro",
-		"apellido_paterno": "Romero",
-		"apellido_materno": "Andrade",
-		"fecha": "saturday, november 20",
-		"mensaje_corto": "At the age of 0 years",
-		"se_vela_en": " Gomelia, Canatlán, Dgo.",
-		"honras": "pendents",
-		"descripcion": ""
-	  }
-	]
+    "obituario": [
+      {
+        "id": 58,
+        "titulo": "",
+        "nombre": "Francisco Edgar",
+        "apellido_paterno": "Vidaña",
+        "apellido_materno": "",
+        "fecha": "Sábado, 11 de Diciembre",
+        "mensaje_corto": "A la edad de 49 años",
+        "se_vela_en": "Capilla Diamante Suc. Dolores del Rio Velatorio Raúl Flores.",
+        "honras": "Lo despidieron el día viernes 10 de diciembre para su cremación.",
+        "descripcion": ""
+      },
+      {
+        "id": 59,
+        "titulo": "",
+        "nombre": "Luis Enrique",
+        "apellido_paterno": "Hernández",
+        "apellido_materno": "Pérez",
+        "fecha": "Sábado, 11 de Diciembre",
+        "mensaje_corto": "A la edad de 36 años",
+        "se_vela_en": "Canatlán, Dgo.",
+        "honras": "16:00 hrs. Templo San Diego de Alcalá. Se despide en panteón del lugar.",
+        "descripcion": ""
+      },
+      {
+        "id": 60,
+        "titulo": "",
+        "nombre": "María Luisa",
+        "apellido_paterno": "Salazar",
+        "apellido_materno": "Hernández",
+        "fecha": "Sábado, 11 de Diciembre",
+        "mensaje_corto": "A la edad de 98 años",
+        "se_vela_en": "San José de Tuitan, Dgo.",
+        "honras": "14:00 hrs. Templo San José de Tuitan. Se despide en panteón del lugar.",
+        "descripcion": ""
+      },
+      {
+        "id": 61,
+        "titulo": "",
+        "nombre": "José Ángel",
+        "apellido_paterno": "Chávez",
+        "apellido_materno": "Gurrola",
+        "fecha": "Sábado, 11 de Diciembre",
+        "mensaje_corto": "A la edad de 72 años",
+        "se_vela_en": "dom. con. José María Pino Suarez.",
+        "honras": "Se despide el día de hoy sábado 11 de diciembre a las 14:00 hrs en panteón del lugar.",
+        "descripcion": ""
+      },
+      {
+        "id": 62,
+        "titulo": "",
+        "nombre": "Manuel",
+        "apellido_paterno": "Soto",
+        "apellido_materno": "Reyes",
+        "fecha": "Sábado, 11 de Diciembre",
+        "mensaje_corto": "A la edad de 55 años",
+        "se_vela_en": "Calle El Bordo #212 Col. Valentín Gómez Farias.",
+        "honras": "pendientes",
+        "descripcion": ""
+      }
+    ],
+    "obituario_ingles": [
+      {
+        "id": 58,
+        "titulo": "",
+        "nombre": "Francisco Edgar",
+        "apellido_paterno": "Vidaña",
+        "apellido_materno": "",
+        "fecha": "saturday, december 11",
+        "mensaje_corto": "At the age of 49 years",
+        "se_vela_en": "Capilla Diamante Suc. Dolores del Rio Velatorio Raúl Flores.",
+        "honras": "Lo despidieron el día viernes 10 de diciembre para su cremación.",
+        "descripcion": ""
+      },
+      {
+        "id": 59,
+        "titulo": "",
+        "nombre": "Luis Enrique",
+        "apellido_paterno": "Hernández",
+        "apellido_materno": "Pérez",
+        "fecha": "saturday, december 11",
+        "mensaje_corto": "At the age of 36 years",
+        "se_vela_en": "Canatlán, Dgo.",
+        "honras": "16:00 hrs. Templo San Diego de Alcalá. Se despide en panteón del lugar.",
+        "descripcion": ""
+      },
+      {
+        "id": 60,
+        "titulo": "",
+        "nombre": "María Luisa",
+        "apellido_paterno": "Salazar",
+        "apellido_materno": "Hernández",
+        "fecha": "saturday, december 11",
+        "mensaje_corto": "At the age of 98 years",
+        "se_vela_en": "San José de Tuitan, Dgo.",
+        "honras": "14:00 hrs. Templo San José de Tuitan. Se despide en panteón del lugar.",
+        "descripcion": ""
+      },
+      {
+        "id": 61,
+        "titulo": "",
+        "nombre": "José Ángel",
+        "apellido_paterno": "Chávez",
+        "apellido_materno": "Gurrola",
+        "fecha": "saturday, december 11",
+        "mensaje_corto": "At the age of 72 years",
+        "se_vela_en": "dom. con. José María Pino Suarez.",
+        "honras": "Se despide el día de hoy sábado 11 de diciembre a las 14:00 hrs en panteón del lugar.",
+        "descripcion": ""
+      },
+      {
+        "id": 62,
+        "titulo": "",
+        "nombre": "Manuel",
+        "apellido_paterno": "Soto",
+        "apellido_materno": "Reyes",
+        "fecha": "saturday, december 11",
+        "mensaje_corto": "At the age of 55 years",
+        "se_vela_en": "Calle El Bordo #212 Col. Valentín Gómez Farias.",
+        "honras": "pendents",
+        "descripcion": ""
+      }
+    ]
   }
