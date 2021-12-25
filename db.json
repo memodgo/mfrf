@@ -1,174 +1,102 @@
 {
-  "obituario": [
-    {
-      "id": 69,
-      "titulo": "",
-      "nombre": "Antonio",
-      "apellido_paterno": "Abdo",
-      "apellido_materno": "de la Parra",
-      "fecha": "Sábado, 18 de Diciembre",
-      "mensaje_corto": "A la edad de 0 años",
-      "se_vela_en": "pendiente",
-      "honras": "pendientes",
-      "descripcion": "Se traslada de Acapulco a Durango, Dgo."
-    },
-    {
-      "id": 70,
-      "titulo": "",
-      "nombre": "Francisca",
-      "apellido_paterno": "Romero",
-      "apellido_materno": "Leyva",
-      "fecha": "Sábado, 18 de Diciembre",
-      "mensaje_corto": "A la edad de 93 años",
-      "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
-      "honras": "17 de Diciembre a las 11:00 a.m. en el templo del Perpetuo Socorro, se le despide en el Cementerio Valle de los Sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 71,
-      "titulo": "",
-      "nombre": "Concepción",
-      "apellido_paterno": "Rivera",
-      "apellido_materno": "Martínez",
-      "fecha": "Sábado, 18 de Diciembre",
-      "mensaje_corto": "A la edad de 97 años",
-      "se_vela_en": "domicilio conocido Los Herrera Santiago Papasquiaro",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 72,
-      "titulo": "",
-      "nombre": "David Alejandro",
-      "apellido_paterno": "García",
-      "apellido_materno": "Romero",
-      "fecha": "Sábado, 18 de Diciembre",
-      "mensaje_corto": "A la edad de 24 años",
-      "se_vela_en": "pendiente",
-      "honras": "pendientes",
-      "descripcion": "se traslada de Cd. Juárez a Durango"
-    },
-    {
-      "id": 73,
-      "titulo": "",
-      "nombre": "Vicenta",
-      "apellido_paterno": "Robles",
-      "apellido_materno": "Amaro",
-      "fecha": "Sábado, 18 de Diciembre",
-      "mensaje_corto": "A la edad de 90 años",
-      "se_vela_en": "Capilla Diamante de Suc Dolores del Rio",
-      "honras": "15:00 hrs Templo Sagrado Corazón de Jesus (El saltito) Se despide en panteon de Oriente",
-      "descripcion": ""
-    },
-    {
-      "id": 74,
-      "titulo": "",
-      "nombre": "Tomas",
-      "apellido_paterno": "Montenegro",
-      "apellido_materno": "Diaz",
-      "fecha": "Sábado, 18 de Diciembre",
-      "mensaje_corto": "A la edad de 68 años",
-      "se_vela_en": "capilla Santa Catarina de Sucursal Tepehuanes Dgo",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 75,
-      "titulo": "",
-      "nombre": "José Trinidad",
-      "apellido_paterno": "Durán",
-      "apellido_materno": "Rafael",
-      "fecha": "Sábado, 18 de Diciembre",
-      "mensaje_corto": "A la edad de 87 años",
-      "se_vela_en": "calle República de Ecuador #803 colonia Adolfo López Mateos",
-      "honras": "pendientes",
-      "descripcion": ""
-    }
-  ],
-  "obituario_ingles": [
-    {
-      "id": 69,
-      "titulo": "",
-      "nombre": "Antonio",
-      "apellido_paterno": "Abdo",
-      "apellido_materno": "de la Parra",
-      "fecha": "saturday, december 18",
-      "mensaje_corto": "At the age of 0 years",
-      "se_vela_en": "pendent",
-      "honras": "pendents",
-      "descripcion": "Se traslada de Acapulco a Durango, Dgo."
-    },
-    {
-      "id": 70,
-      "titulo": "",
-      "nombre": "Francisca",
-      "apellido_paterno": "Romero",
-      "apellido_materno": "Leyva",
-      "fecha": "saturday, december 18",
-      "mensaje_corto": "At the age of 93 years",
-      "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
-      "honras": "17 de Diciembre a las 11:00 a.m. en el templo del Perpetuo Socorro, se le despide en el Cementerio Valle de los Sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 71,
-      "titulo": "",
-      "nombre": "Concepción",
-      "apellido_paterno": "Rivera",
-      "apellido_materno": "Martínez",
-      "fecha": "saturday, december 18",
-      "mensaje_corto": "At the age of 97 years",
-      "se_vela_en": "domicilio conocido Los Herrera Santiago Papasquiaro",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 72,
-      "titulo": "",
-      "nombre": "David Alejandro",
-      "apellido_paterno": "García",
-      "apellido_materno": "Romero",
-      "fecha": "saturday, december 18",
-      "mensaje_corto": "At the age of 24 years",
-      "se_vela_en": "pendent",
-      "honras": "pendents",
-      "descripcion": "se traslada de Cd. Juárez a Durango"
-    },
-    {
-      "id": 73,
-      "titulo": "",
-      "nombre": "Vicenta",
-      "apellido_paterno": "Robles",
-      "apellido_materno": "Amaro",
-      "fecha": "saturday, december 18",
-      "mensaje_corto": "At the age of 90 years",
-      "se_vela_en": "Capilla Diamante de Suc Dolores del Rio",
-      "honras": "15:00 hrs Templo Sagrado Corazón de Jesus (El saltito) Se despide en panteon de Oriente",
-      "descripcion": ""
-    },
-    {
-      "id": 74,
-      "titulo": "",
-      "nombre": "Tomas",
-      "apellido_paterno": "Montenegro",
-      "apellido_materno": "Diaz",
-      "fecha": "saturday, december 18",
-      "mensaje_corto": "At the age of 68 years",
-      "se_vela_en": "capilla Santa Catarina de Sucursal Tepehuanes Dgo",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 75,
-      "titulo": "",
-      "nombre": "José Trinidad",
-      "apellido_paterno": "Durán",
-      "apellido_materno": "Rafael",
-      "fecha": "saturday, december 18",
-      "mensaje_corto": "At the age of 87 years",
-      "se_vela_en": "calle República de Ecuador #803 colonia Adolfo López Mateos",
-      "honras": "pendents",
-      "descripcion": ""
-    }
-  ]
-}
+    "obituario": [
+      {
+        "id": 76,
+        "titulo": "",
+        "nombre": "Alberto",
+        "apellido_paterno": "Vidales",
+        "apellido_materno": "Blanco`",
+        "fecha": "Sábado, 25 de Diciembre",
+        "mensaje_corto": "A la edad de 62 años",
+        "se_vela_en": " Chalchihuites, Zac.",
+        "honras": "17:00 hrs Templo San Pedro Apostol  Se despide en panteon del lugar ",
+        "descripcion": ""
+      },
+      {
+        "id": 77,
+        "titulo": "",
+        "nombre": "Miguel Ángel",
+        "apellido_paterno": "Ríos",
+        "apellido_materno": "Gutiérrez",
+        "fecha": "Sábado, 25 de Diciembre",
+        "mensaje_corto": "A la edad de 54 años",
+        "se_vela_en": "",
+        "honras": "",
+        "descripcion": "se despide para su cremación"
+      },
+      {
+        "id": 78,
+        "titulo": "",
+        "nombre": "Francisca",
+        "apellido_paterno": "Ruiz",
+        "apellido_materno": "Diaz",
+        "fecha": "Sábado, 25 de Diciembre",
+        "mensaje_corto": "A la edad de 106 años",
+        "se_vela_en": "Chinacates",
+        "honras": "pendientes",
+        "descripcion": ""
+      },
+      {
+        "id": 79,
+        "titulo": "",
+        "nombre": "Maria Edith Del Carmen Gonzalez Ojeda de 55 años y ",
+        "apellido_paterno": "+Esteban Navarro Diaz",
+        "apellido_materno": "",
+        "fecha": "Sábado, 25 de Diciembre",
+        "mensaje_corto": "A la edad de 56 años",
+        "se_vela_en": "Son velados en capilla Diamante y Esmeralda de Suc Dolores del Rio",
+        "honras": "pendientes",
+        "descripcion": ""
+      }
+    ],
+    "obituario_ingles": [
+      {
+        "id": 76,
+        "titulo": "",
+        "nombre": "Alberto",
+        "apellido_paterno": "Vidales",
+        "apellido_materno": "Blanco`",
+        "fecha": "saturday, december 25",
+        "mensaje_corto": "At the age of 62 years",
+        "se_vela_en": " Chalchihuites, Zac.",
+        "honras": "17:00 hrs Templo San Pedro Apostol  Se despide en panteon del lugar ",
+        "descripcion": ""
+      },
+      {
+        "id": 77,
+        "titulo": "",
+        "nombre": "Miguel Ángel",
+        "apellido_paterno": "Ríos",
+        "apellido_materno": "Gutiérrez",
+        "fecha": "saturday, december 25",
+        "mensaje_corto": "At the age of 54 years",
+        "se_vela_en": "",
+        "honras": "",
+        "descripcion": "se despide para su cremación"
+      },
+      {
+        "id": 78,
+        "titulo": "",
+        "nombre": "Francisca",
+        "apellido_paterno": "Ruiz",
+        "apellido_materno": "Diaz",
+        "fecha": "saturday, december 25",
+        "mensaje_corto": "At the age of 106 years",
+        "se_vela_en": "Chinacates",
+        "honras": "pendents",
+        "descripcion": ""
+      },
+      {
+        "id": 79,
+        "titulo": "",
+        "nombre": "Maria Edith Del Carmen Gonzalez Ojeda de 55 años y ",
+        "apellido_paterno": "+Esteban Navarro Diaz",
+        "apellido_materno": "",
+        "fecha": "saturday, december 25",
+        "mensaje_corto": "At the age of 56 years",
+        "se_vela_en": "Son velados en capilla Diamante y Esmeralda de Suc Dolores del Rio",
+        "honras": "pendents",
+        "descripcion": ""
+      }
+    ]
+  }
