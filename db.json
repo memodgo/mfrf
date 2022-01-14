@@ -1,6 +1,66 @@
 {
   "obituario": [
     {
+      "id": 113,
+      "titulo": "",
+      "nombre": "Socorro",
+      "apellido_paterno": "Galindo",
+      "apellido_materno": "Vda. de La Hoya",
+      "fecha": "Viernes, 14 de Enero",
+      "mensaje_corto": "A la edad de 89 años",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 112,
+      "titulo": "",
+      "nombre": "Juan de Dios",
+      "apellido_paterno": "Ríos",
+      "apellido_materno": "Cano",
+      "fecha": "Viernes, 14 de Enero",
+      "mensaje_corto": "A la edad de 89 años",
+      "se_vela_en": "El Sauz, Tepehuanes, Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 111,
+      "titulo": "",
+      "nombre": "María del Socorro",
+      "apellido_paterno": "Santillanes",
+      "apellido_materno": "Quintana",
+      "fecha": "Viernes, 14 de Enero",
+      "mensaje_corto": "A la edad de 69 años",
+      "se_vela_en": "pendiente",
+      "honras": "pendientes",
+      "descripcion": "Se traslada de Delicias Chihuahua a Guanaceví, Dgo."
+    },
+    {
+      "id": 110,
+      "titulo": "",
+      "nombre": "Hilaria Estala",
+      "apellido_paterno": "Castañeda",
+      "apellido_materno": "",
+      "fecha": "Viernes, 14 de Enero",
+      "mensaje_corto": "A la edad de 94 años",
+      "se_vela_en": "Localidad Registrillo, Dgo.",
+      "honras": "el día sábado 15 de enero a las 14:00 hrs. Templo Ntra. Sra. del Carmen. Se despide en panteón del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 109,
+      "titulo": "",
+      "nombre": "María Isabel",
+      "apellido_paterno": "Juárez",
+      "apellido_materno": "Monasterio",
+      "fecha": "Viernes, 14 de Enero",
+      "mensaje_corto": "A la edad de 83 años",
+      "se_vela_en": "Calle Rodolfo Fierro #426 Col. División del Norte.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 108,
       "titulo": "",
       "nombre": "Luis Ángel",
@@ -10,7 +70,7 @@
       "mensaje_corto": "A la edad de 54 años",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio Velatorio Raúl Flores.",
       "honras": "15:00 hrs misma capilla. Se despide para su cremación.",
-      "descripcion": ""
+      "descripcion": "Se velo Capilla Diamante Suc. Dolores del Rio"
     },
     {
       "id": 107,
@@ -27,6 +87,66 @@
   ],
   "obituario_ingles": [
     {
+      "id": 113,
+      "titulo": "",
+      "nombre": "Socorro",
+      "apellido_paterno": "Galindo",
+      "apellido_materno": "Vda. de La Hoya",
+      "fecha": "friday, junuary 14",
+      "mensaje_corto": "At the age of 89 years",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 112,
+      "titulo": "",
+      "nombre": "Juan de Dios",
+      "apellido_paterno": "Ríos",
+      "apellido_materno": "Cano",
+      "fecha": "friday, junuary 14",
+      "mensaje_corto": "At the age of 89 years",
+      "se_vela_en": "El Sauz, Tepehuanes, Dgo.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 111,
+      "titulo": "",
+      "nombre": "María del Socorro",
+      "apellido_paterno": "Santillanes",
+      "apellido_materno": "Quintana",
+      "fecha": "friday, junuary 14",
+      "mensaje_corto": "At the age of 69 years",
+      "se_vela_en": "pendent",
+      "honras": "pendents",
+      "descripcion": "Se traslada de Delicias Chihuahua a Guanaceví, Dgo."
+    },
+    {
+      "id": 110,
+      "titulo": "",
+      "nombre": "Hilaria Estala",
+      "apellido_paterno": "Castañeda",
+      "apellido_materno": "",
+      "fecha": "friday, junuary 14",
+      "mensaje_corto": "At the age of 94 years",
+      "se_vela_en": "Localidad Registrillo, Dgo.",
+      "honras": "el día sábado 15 de enero a las 14:00 hrs. Templo Ntra. Sra. del Carmen. Se despide en panteón del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 109,
+      "titulo": "",
+      "nombre": "María Isabel",
+      "apellido_paterno": "Juárez",
+      "apellido_materno": "Monasterio",
+      "fecha": "friday, junuary 14",
+      "mensaje_corto": "At the age of 83 years",
+      "se_vela_en": "Calle Rodolfo Fierro #426 Col. División del Norte.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
       "id": 108,
       "titulo": "",
       "nombre": "Luis Ángel",
@@ -36,7 +156,7 @@
       "mensaje_corto": "At the age of 54 years",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio Velatorio Raúl Flores.",
       "honras": "15:00 hrs misma capilla. Se despide para su cremación.",
-      "descripcion": ""
+      "descripcion": "Se velo Capilla Diamante Suc. Dolores del Rio"
     },
     {
       "id": 107,
