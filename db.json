@@ -1,6 +1,54 @@
 {
   "obituario": [
     {
+      "id": 128,
+      "titulo": "",
+      "nombre": "Ma. de Refugio",
+      "apellido_paterno": "Valles",
+      "apellido_materno": "Hernandez",
+      "fecha": "Lunes, 17 de Enero",
+      "mensaje_corto": "A la edad de 57 años",
+      "se_vela_en": "Cuauhtémoc, Cuencamé, Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 127,
+      "titulo": "Srita.",
+      "nombre": "Kassandra Karym",
+      "apellido_paterno": "Carrillo",
+      "apellido_materno": "Zamora",
+      "fecha": "Lunes, 17 de Enero",
+      "mensaje_corto": "A la edad de 21 años",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 126,
+      "titulo": "",
+      "nombre": "María Audelia",
+      "apellido_paterno": "Ochoa",
+      "apellido_materno": "Leyva",
+      "fecha": "Lunes, 17 de Enero",
+      "mensaje_corto": "A la edad de 83 años",
+      "se_vela_en": "Los Nogales,  Coneto de Comonfort.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 125,
+      "titulo": "",
+      "nombre": "Vicente",
+      "apellido_paterno": "Rocha",
+      "apellido_materno": "Campos",
+      "fecha": "Lunes, 17 de Enero",
+      "mensaje_corto": "A la edad de 79 años",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 124,
       "titulo": "",
       "nombre": "Anita",
@@ -13,30 +61,6 @@
       "descripcion": ""
     },
     {
-      "id": 123,
-      "titulo": "",
-      "nombre": "José",
-      "apellido_paterno": "Covarrubias",
-      "apellido_materno": "Barraza",
-      "fecha": "Sábado, 15 de Enero",
-      "mensaje_corto": "A la edad de 78 años",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 122,
-      "titulo": "",
-      "nombre": "Manuel de Jesús",
-      "apellido_paterno": "Meráz",
-      "apellido_materno": "",
-      "fecha": "Sábado, 15 de Enero",
-      "mensaje_corto": "A la edad de 85 años",
-      "se_vela_en": "domicilio conocido Santiago Papasquiaro",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
       "id": 121,
       "titulo": "",
       "nombre": "Luis Fernando",
@@ -45,83 +69,59 @@
       "fecha": "Sábado, 15 de Enero",
       "mensaje_corto": "A la edad de 23 años",
       "se_vela_en": "domicilio conocido Rodeo, Dgo.",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 120,
-      "titulo": "",
-      "nombre": "Rosa",
-      "apellido_paterno": "García",
-      "apellido_materno": "Ortega",
-      "fecha": "Sábado, 15 de Enero",
-      "mensaje_corto": "A la edad de 81 años",
-      "se_vela_en": "Poblado Ricardo Flores Magon",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 119,
-      "titulo": "",
-      "nombre": "Jesús Eduardo",
-      "apellido_paterno": "Hernández",
-      "apellido_materno": "Alvarez",
-      "fecha": "Sábado, 15 de Enero",
-      "mensaje_corto": "A la edad de 44 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "se despide para su cremación"
-    },
-    {
-      "id": 117,
-      "titulo": "",
-      "nombre": "María del Socorro",
-      "apellido_paterno": "Santillanes",
-      "apellido_materno": "Quintana",
-      "fecha": "Sábado, 15 de Enero",
-      "mensaje_corto": "A la edad de 69 años",
-      "se_vela_en": " Guanaceví, Dgo.",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 116,
-      "titulo": "",
-      "nombre": "Hilaria",
-      "apellido_paterno": "Estala",
-      "apellido_materno": "Castañeda",
-      "fecha": "Sábado, 15 de Enero",
-      "mensaje_corto": "A la edad de 94 años",
-      "se_vela_en": "Localidad Registrillo, Dgo.",
-      "honras": "10:00 hrs. Templo Ntra. Sra. del Carmen. Se despide en panteón de Navacoyan.",
-      "descripcion": ""
-    },
-    {
-      "id": 114,
-      "titulo": "",
-      "nombre": "Juan Ángel",
-      "apellido_paterno": "Ramos",
-      "apellido_materno": "Romero",
-      "fecha": "Sábado, 15 de Enero",
-      "mensaje_corto": "A la edad de 74 años",
-      "se_vela_en": "Rancho La Loma.",
-      "honras": "12:00 hrs. Templo San Carlos. Se despide en panteón 5 de mayo.",
-      "descripcion": ""
-    },
-    {
-      "id": 113,
-      "titulo": "",
-      "nombre": "Socorro",
-      "apellido_paterno": "Galindo",
-      "apellido_materno": "Vda. de La Hoya",
-      "fecha": "Viernes, 14 de Enero",
-      "mensaje_corto": "A la edad de 89 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "14:00 hrs. Templo San Agustin. Se despide en panteón Oriente.",
+      "honras": "16:00 hrs. Templo San Isidro Labrador. Se despide en panteón Los Angeles.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 128,
+      "titulo": "",
+      "nombre": "Ma. de Refugio",
+      "apellido_paterno": "Valles",
+      "apellido_materno": "Hernandez",
+      "fecha": "monday, junuary 17",
+      "mensaje_corto": "At the age of 57 years",
+      "se_vela_en": "Cuauhtémoc, Cuencamé, Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 127,
+      "titulo": "Srita.",
+      "nombre": "Kassandra Karym",
+      "apellido_paterno": "Carrillo",
+      "apellido_materno": "Zamora",
+      "fecha": "monday, junuary 17",
+      "mensaje_corto": "At the age of 21 years",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 126,
+      "titulo": "",
+      "nombre": "María Audelia",
+      "apellido_paterno": "Ochoa",
+      "apellido_materno": "Leyva",
+      "fecha": "monday, junuary 17",
+      "mensaje_corto": "At the age of 83 years",
+      "se_vela_en": "Los Nogales,  Coneto de Comonfort.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 125,
+      "titulo": "",
+      "nombre": "Vicente",
+      "apellido_paterno": "Rocha",
+      "apellido_materno": "Campos",
+      "fecha": "monday, junuary 17",
+      "mensaje_corto": "At the age of 79 years",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 124,
       "titulo": "",
@@ -135,30 +135,6 @@
       "descripcion": ""
     },
     {
-      "id": 123,
-      "titulo": "",
-      "nombre": "José",
-      "apellido_paterno": "Covarrubias",
-      "apellido_materno": "Barraza",
-      "fecha": "saturday, junuary 15",
-      "mensaje_corto": "At the age of 78 years",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 122,
-      "titulo": "",
-      "nombre": "Manuel de Jesús",
-      "apellido_paterno": "Meráz",
-      "apellido_materno": "",
-      "fecha": "saturday, junuary 15",
-      "mensaje_corto": "At the age of 85 years",
-      "se_vela_en": "domicilio conocido Santiago Papasquiaro",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
       "id": 121,
       "titulo": "",
       "nombre": "Luis Fernando",
@@ -167,79 +143,7 @@
       "fecha": "saturday, junuary 15",
       "mensaje_corto": "At the age of 23 years",
       "se_vela_en": "domicilio conocido Rodeo, Dgo.",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 120,
-      "titulo": "",
-      "nombre": "Rosa",
-      "apellido_paterno": "García",
-      "apellido_materno": "Ortega",
-      "fecha": "saturday, junuary 15",
-      "mensaje_corto": "At the age of 81 years",
-      "se_vela_en": "Poblado Ricardo Flores Magon",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 119,
-      "titulo": "",
-      "nombre": "Jesús Eduardo",
-      "apellido_paterno": "Hernández",
-      "apellido_materno": "Alvarez",
-      "fecha": "saturday, junuary 15",
-      "mensaje_corto": "At the age of 44 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "se despide para su cremación"
-    },
-    {
-      "id": 117,
-      "titulo": "",
-      "nombre": "María del Socorro",
-      "apellido_paterno": "Santillanes",
-      "apellido_materno": "Quintana",
-      "fecha": "saturday, junuary 15",
-      "mensaje_corto": "At the age of 69 years",
-      "se_vela_en": " Guanaceví, Dgo.",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 116,
-      "titulo": "",
-      "nombre": "Hilaria",
-      "apellido_paterno": "Estala",
-      "apellido_materno": "Castañeda",
-      "fecha": "saturday, junuary 15",
-      "mensaje_corto": "At the age of 94 years",
-      "se_vela_en": "Localidad Registrillo, Dgo.",
-      "honras": "10:00 hrs. Templo Ntra. Sra. del Carmen. Se despide en panteón de Navacoyan.",
-      "descripcion": ""
-    },
-    {
-      "id": 114,
-      "titulo": "",
-      "nombre": "Juan Ángel",
-      "apellido_paterno": "Ramos",
-      "apellido_materno": "Romero",
-      "fecha": "saturday, junuary 15",
-      "mensaje_corto": "At the age of 74 years",
-      "se_vela_en": "Rancho La Loma.",
-      "honras": "12:00 hrs. Templo San Carlos. Se despide en panteón 5 de mayo.",
-      "descripcion": ""
-    },
-    {
-      "id": 113,
-      "titulo": "",
-      "nombre": "Socorro",
-      "apellido_paterno": "Galindo",
-      "apellido_materno": "Vda. de La Hoya",
-      "fecha": "friday, junuary 14",
-      "mensaje_corto": "At the age of 89 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "14:00 hrs. Templo San Agustin. Se despide en panteón Oriente.",
+      "honras": "16:00 hrs. Templo San Isidro Labrador. Se despide en panteón Los Angeles.",
       "descripcion": ""
     }
   ]
