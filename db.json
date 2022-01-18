@@ -1,6 +1,90 @@
 {
   "obituario": [
     {
+      "id": 135,
+      "titulo": "",
+      "nombre": "Rufina",
+      "apellido_paterno": "Cervantes",
+      "apellido_materno": "",
+      "fecha": "Martes, 18 de Enero",
+      "mensaje_corto": "A la edad de 0 años",
+      "se_vela_en": "pendiente",
+      "honras": "pendientes",
+      "descripcion": "Se traslada de la Cd. México a Durango, Dgo."
+    },
+    {
+      "id": 134,
+      "titulo": "Hermana",
+      "nombre": "Bertha",
+      "apellido_paterno": "Robles",
+      "apellido_materno": "Nava",
+      "fecha": "Martes, 18 de Enero",
+      "mensaje_corto": "A la edad de 72 años",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremacion."
+    },
+    {
+      "id": 133,
+      "titulo": "",
+      "nombre": "Agustina",
+      "apellido_paterno": "Calderón",
+      "apellido_materno": "Romero",
+      "fecha": "Martes, 18 de Enero",
+      "mensaje_corto": "A la edad de 43 años",
+      "se_vela_en": "Calle Ecosistema #204 Col. Luz y Esperanza.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 132,
+      "titulo": "",
+      "nombre": "Pedro",
+      "apellido_paterno": "Ibarra",
+      "apellido_materno": "Torres",
+      "fecha": "Martes, 18 de Enero",
+      "mensaje_corto": "A la edad de 61 años",
+      "se_vela_en": "domicilio conocido El Conejo",
+      "honras": "16:00 hrs. en el templo de Nuestra Sra. del Refugio, se le despide en el panteón del Tunal",
+      "descripcion": ""
+    },
+    {
+      "id": 131,
+      "titulo": "",
+      "nombre": "Manuel",
+      "apellido_paterno": "Soto",
+      "apellido_materno": "Diaz",
+      "fecha": "Martes, 18 de Enero",
+      "mensaje_corto": "A la edad de 77 años",
+      "se_vela_en": "calle flor de azahar # 316 colonia La Virgen",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 130,
+      "titulo": "",
+      "nombre": "Alma Esmeralda",
+      "apellido_paterno": "Medina",
+      "apellido_materno": "Sánchez",
+      "fecha": "Martes, 18 de Enero",
+      "mensaje_corto": "A la edad de 56 años",
+      "se_vela_en": "Capilla Oro y Plata de Suc. Dolores del Río",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 129,
+      "titulo": "",
+      "nombre": "Macario",
+      "apellido_paterno": "Alvarado",
+      "apellido_materno": "Muñoz",
+      "fecha": "Martes, 18 de Enero",
+      "mensaje_corto": "A la edad de 73 años",
+      "se_vela_en": "pendiente",
+      "honras": "pendientes",
+      "descripcion": "se traslada de Guadalajara a Durango"
+    },
+    {
       "id": 128,
       "titulo": "",
       "nombre": "Ma. de Refugio",
@@ -9,7 +93,7 @@
       "fecha": "Lunes, 17 de Enero",
       "mensaje_corto": "A la edad de 57 años",
       "se_vela_en": "Cuauhtémoc, Cuencamé, Dgo.",
-      "honras": "pendientes",
+      "honras": "16:00 hrs. Templo Ntra. Sra. del Refugio. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -21,7 +105,7 @@
       "fecha": "Lunes, 17 de Enero",
       "mensaje_corto": "A la edad de 21 años",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "honras": "La despidieron el día lunes 17 de enero en panteón Valle de Los Sabino.",
       "descripcion": ""
     },
     {
@@ -33,7 +117,7 @@
       "fecha": "Lunes, 17 de Enero",
       "mensaje_corto": "A la edad de 83 años",
       "se_vela_en": "Los Nogales,  Coneto de Comonfort.",
-      "honras": "pendientes",
+      "honras": "La despidieron el día lunes 17 de enero en panteón del lugar, Servicio Asistido por Funerales Raúl Flores.",
       "descripcion": ""
     },
     {
@@ -45,7 +129,7 @@
       "fecha": "Lunes, 17 de Enero",
       "mensaje_corto": "A la edad de 79 años",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "honras": "Lo despidieron el día lunes 17 de enero.",
       "descripcion": ""
     },
     {
@@ -69,11 +153,95 @@
       "fecha": "Sábado, 15 de Enero",
       "mensaje_corto": "A la edad de 23 años",
       "se_vela_en": "domicilio conocido Rodeo, Dgo.",
-      "honras": "16:00 hrs. Templo San Isidro Labrador. Se despide en panteón Los Angeles.",
+      "honras": "Lo despidieron el día lunes 17 de enero en panteón Los Angeles.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 135,
+      "titulo": "",
+      "nombre": "Rufina",
+      "apellido_paterno": "Cervantes",
+      "apellido_materno": "",
+      "fecha": "thursday, junuary 18",
+      "mensaje_corto": "At the age of 0 years",
+      "se_vela_en": "pendent",
+      "honras": "pendents",
+      "descripcion": "Se traslada de la Cd. México a Durango, Dgo."
+    },
+    {
+      "id": 134,
+      "titulo": "Hermana",
+      "nombre": "Bertha",
+      "apellido_paterno": "Robles",
+      "apellido_materno": "Nava",
+      "fecha": "thursday, junuary 18",
+      "mensaje_corto": "At the age of 72 years",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremacion."
+    },
+    {
+      "id": 133,
+      "titulo": "",
+      "nombre": "Agustina",
+      "apellido_paterno": "Calderón",
+      "apellido_materno": "Romero",
+      "fecha": "thursday, junuary 18",
+      "mensaje_corto": "At the age of 43 years",
+      "se_vela_en": "Calle Ecosistema #204 Col. Luz y Esperanza.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 132,
+      "titulo": "",
+      "nombre": "Pedro",
+      "apellido_paterno": "Ibarra",
+      "apellido_materno": "Torres",
+      "fecha": "thursday, junuary 18",
+      "mensaje_corto": "At the age of 61 years",
+      "se_vela_en": "domicilio conocido El Conejo",
+      "honras": "16:00 hrs. en el templo de Nuestra Sra. del Refugio, se le despide en el panteón del Tunal",
+      "descripcion": ""
+    },
+    {
+      "id": 131,
+      "titulo": "",
+      "nombre": "Manuel",
+      "apellido_paterno": "Soto",
+      "apellido_materno": "Diaz",
+      "fecha": "thursday, junuary 18",
+      "mensaje_corto": "At the age of 77 years",
+      "se_vela_en": "calle flor de azahar # 316 colonia La Virgen",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 130,
+      "titulo": "",
+      "nombre": "Alma Esmeralda",
+      "apellido_paterno": "Medina",
+      "apellido_materno": "Sánchez",
+      "fecha": "thursday, junuary 18",
+      "mensaje_corto": "At the age of 56 years",
+      "se_vela_en": "Capilla Oro y Plata de Suc. Dolores del Río",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 129,
+      "titulo": "",
+      "nombre": "Macario",
+      "apellido_paterno": "Alvarado",
+      "apellido_materno": "Muñoz",
+      "fecha": "thursday, junuary 18",
+      "mensaje_corto": "At the age of 73 years",
+      "se_vela_en": "pendent",
+      "honras": "pendents",
+      "descripcion": "se traslada de Guadalajara a Durango"
+    },
     {
       "id": 128,
       "titulo": "",
@@ -83,7 +251,7 @@
       "fecha": "monday, junuary 17",
       "mensaje_corto": "At the age of 57 years",
       "se_vela_en": "Cuauhtémoc, Cuencamé, Dgo.",
-      "honras": "pendientes",
+      "honras": "16:00 hrs. Templo Ntra. Sra. del Refugio. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -95,7 +263,7 @@
       "fecha": "monday, junuary 17",
       "mensaje_corto": "At the age of 21 years",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "pendents",
+      "honras": "La despidieron el día lunes 17 de enero en panteón Valle de Los Sabino.",
       "descripcion": ""
     },
     {
@@ -107,7 +275,7 @@
       "fecha": "monday, junuary 17",
       "mensaje_corto": "At the age of 83 years",
       "se_vela_en": "Los Nogales,  Coneto de Comonfort.",
-      "honras": "pendents",
+      "honras": "La despidieron el día lunes 17 de enero en panteón del lugar, Servicio Asistido por Funerales Raúl Flores.",
       "descripcion": ""
     },
     {
@@ -119,7 +287,7 @@
       "fecha": "monday, junuary 17",
       "mensaje_corto": "At the age of 79 years",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "pendents",
+      "honras": "Lo despidieron el día lunes 17 de enero.",
       "descripcion": ""
     },
     {
@@ -143,7 +311,7 @@
       "fecha": "saturday, junuary 15",
       "mensaje_corto": "At the age of 23 years",
       "se_vela_en": "domicilio conocido Rodeo, Dgo.",
-      "honras": "16:00 hrs. Templo San Isidro Labrador. Se despide en panteón Los Angeles.",
+      "honras": "Lo despidieron el día lunes 17 de enero en panteón Los Angeles.",
       "descripcion": ""
     }
   ]
