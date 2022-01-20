@@ -1,6 +1,54 @@
 {
   "obituario": [
     {
+      "id": 139,
+      "titulo": "",
+      "nombre": "Bertha",
+      "apellido_paterno": "Leyva",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Miércoles, 19 de Enero",
+      "mensaje_corto": "A la edad de 79 años",
+      "se_vela_en": "Nombre de Dios Dgo",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 138,
+      "titulo": "",
+      "nombre": "Samuel Rosendo",
+      "apellido_paterno": "Duarte",
+      "apellido_materno": "Rodriguez",
+      "fecha": "Miércoles, 19 de Enero",
+      "mensaje_corto": "A la edad de 81 años",
+      "se_vela_en": "poblado 16 de Septiembre",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 137,
+      "titulo": "",
+      "nombre": "Jesús",
+      "apellido_paterno": "Meléndez",
+      "apellido_materno": "Quiñones",
+      "fecha": "Miércoles, 19 de Enero",
+      "mensaje_corto": "A la edad de 88 años",
+      "se_vela_en": "capilla Diamante sucursal Dolores del Río de Funerales Raúl Flores",
+      "honras": "12:00 hrs Templo Santa Ana Se despide en panteón de Oriente ",
+      "descripcion": ""
+    },
+    {
+      "id": 136,
+      "titulo": "",
+      "nombre": "Martin",
+      "apellido_paterno": "Mata",
+      "apellido_materno": "Chairez",
+      "fecha": "Miércoles, 19 de Enero",
+      "mensaje_corto": "A la edad de 58 años",
+      "se_vela_en": "Ignacio López Rayón.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 135,
       "titulo": "",
       "nombre": "Rufina",
@@ -22,7 +70,7 @@
       "mensaje_corto": "A la edad de 72 años",
       "se_vela_en": "",
       "honras": "",
-      "descripcion": "Se despide para su cremacion."
+      "descripcion": "La despidieron para su cremación el día martes 18 de enero."
     },
     {
       "id": 133,
@@ -33,7 +81,7 @@
       "fecha": "Martes, 18 de Enero",
       "mensaje_corto": "A la edad de 43 años",
       "se_vela_en": "Calle Ecosistema #204 Col. Luz y Esperanza.",
-      "honras": "pendientes",
+      "honras": "Sus honras fueron a las  14:00 hrs. Templo San Lorenzo. Se despidió en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -45,19 +93,7 @@
       "fecha": "Martes, 18 de Enero",
       "mensaje_corto": "A la edad de 61 años",
       "se_vela_en": "domicilio conocido El Conejo",
-      "honras": "16:00 hrs. en el templo de Nuestra Sra. del Refugio, se le despide en el panteón del Tunal",
-      "descripcion": ""
-    },
-    {
-      "id": 131,
-      "titulo": "",
-      "nombre": "Manuel",
-      "apellido_paterno": "Soto",
-      "apellido_materno": "Diaz",
-      "fecha": "Martes, 18 de Enero",
-      "mensaje_corto": "A la edad de 77 años",
-      "se_vela_en": "calle flor de azahar # 316 colonia La Virgen",
-      "honras": "pendientes",
+      "honras": "Lo despidieron el día martes 18 de enero en panteón El Tunal. Servicio Asistido por Funerales Raúl Flores.",
       "descripcion": ""
     },
     {
@@ -69,7 +105,7 @@
       "fecha": "Martes, 18 de Enero",
       "mensaje_corto": "A la edad de 56 años",
       "se_vela_en": "Capilla Oro y Plata de Suc. Dolores del Río",
-      "honras": "pendientes",
+      "honras": "Se velo Capilla Oro y Plata Suc. Dolores del Rio Velatorio Raúl Flores. La despidieron en panteón Jardin.",
       "descripcion": ""
     },
     {
@@ -93,71 +129,59 @@
       "fecha": "Lunes, 17 de Enero",
       "mensaje_corto": "A la edad de 57 años",
       "se_vela_en": "Cuauhtémoc, Cuencamé, Dgo.",
-      "honras": "16:00 hrs. Templo Ntra. Sra. del Refugio. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 127,
-      "titulo": "Srita.",
-      "nombre": "Kassandra Karym",
-      "apellido_paterno": "Carrillo",
-      "apellido_materno": "Zamora",
-      "fecha": "Lunes, 17 de Enero",
-      "mensaje_corto": "A la edad de 21 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "La despidieron el día lunes 17 de enero en panteón Valle de Los Sabino.",
-      "descripcion": ""
-    },
-    {
-      "id": 126,
-      "titulo": "",
-      "nombre": "María Audelia",
-      "apellido_paterno": "Ochoa",
-      "apellido_materno": "Leyva",
-      "fecha": "Lunes, 17 de Enero",
-      "mensaje_corto": "A la edad de 83 años",
-      "se_vela_en": "Los Nogales,  Coneto de Comonfort.",
-      "honras": "La despidieron el día lunes 17 de enero en panteón del lugar, Servicio Asistido por Funerales Raúl Flores.",
-      "descripcion": ""
-    },
-    {
-      "id": 125,
-      "titulo": "",
-      "nombre": "Vicente",
-      "apellido_paterno": "Rocha",
-      "apellido_materno": "Campos",
-      "fecha": "Lunes, 17 de Enero",
-      "mensaje_corto": "A la edad de 79 años",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "Lo despidieron el día lunes 17 de enero.",
-      "descripcion": ""
-    },
-    {
-      "id": 124,
-      "titulo": "",
-      "nombre": "Anita",
-      "apellido_paterno": "Hernández",
-      "apellido_materno": "Zamarripa",
-      "fecha": "Sábado, 15 de Enero",
-      "mensaje_corto": "A la edad de 91 años",
-      "se_vela_en": "domicilio conocido La Estancia de Guadalupe, Sombrerete, Zac",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 121,
-      "titulo": "",
-      "nombre": "Luis Fernando",
-      "apellido_paterno": "Maldonado",
-      "apellido_materno": "Enríquez",
-      "fecha": "Sábado, 15 de Enero",
-      "mensaje_corto": "A la edad de 23 años",
-      "se_vela_en": "domicilio conocido Rodeo, Dgo.",
-      "honras": "Lo despidieron el día lunes 17 de enero en panteón Los Angeles.",
+      "honras": "Se velo Cuauhtémoc, Cuencamé, Dgo. La despidieron el dia martes 18 de enero en panteon del lugar.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 139,
+      "titulo": "",
+      "nombre": "Bertha",
+      "apellido_paterno": "Leyva",
+      "apellido_materno": "Rodriguez",
+      "fecha": "wednesday, junuary 19",
+      "mensaje_corto": "At the age of 79 years",
+      "se_vela_en": "Nombre de Dios Dgo",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 138,
+      "titulo": "",
+      "nombre": "Samuel Rosendo",
+      "apellido_paterno": "Duarte",
+      "apellido_materno": "Rodriguez",
+      "fecha": "wednesday, junuary 19",
+      "mensaje_corto": "At the age of 81 years",
+      "se_vela_en": "poblado 16 de Septiembre",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 137,
+      "titulo": "",
+      "nombre": "Jesús",
+      "apellido_paterno": "Meléndez",
+      "apellido_materno": "Quiñones",
+      "fecha": "wednesday, junuary 19",
+      "mensaje_corto": "At the age of 88 years",
+      "se_vela_en": "capilla Diamante sucursal Dolores del Río de Funerales Raúl Flores",
+      "honras": "12:00 hrs Templo Santa Ana Se despide en panteón de Oriente ",
+      "descripcion": ""
+    },
+    {
+      "id": 136,
+      "titulo": "",
+      "nombre": "Martin",
+      "apellido_paterno": "Mata",
+      "apellido_materno": "Chairez",
+      "fecha": "wednesday, junuary 19",
+      "mensaje_corto": "At the age of 58 years",
+      "se_vela_en": "Ignacio López Rayón.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 135,
       "titulo": "",
@@ -180,7 +204,7 @@
       "mensaje_corto": "At the age of 72 years",
       "se_vela_en": "",
       "honras": "",
-      "descripcion": "Se despide para su cremacion."
+      "descripcion": "La despidieron para su cremación el día martes 18 de enero."
     },
     {
       "id": 133,
@@ -191,7 +215,7 @@
       "fecha": "thursday, junuary 18",
       "mensaje_corto": "At the age of 43 years",
       "se_vela_en": "Calle Ecosistema #204 Col. Luz y Esperanza.",
-      "honras": "pendents",
+      "honras": "Sus honras fueron a las  14:00 hrs. Templo San Lorenzo. Se despidió en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -203,19 +227,7 @@
       "fecha": "thursday, junuary 18",
       "mensaje_corto": "At the age of 61 years",
       "se_vela_en": "domicilio conocido El Conejo",
-      "honras": "16:00 hrs. en el templo de Nuestra Sra. del Refugio, se le despide en el panteón del Tunal",
-      "descripcion": ""
-    },
-    {
-      "id": 131,
-      "titulo": "",
-      "nombre": "Manuel",
-      "apellido_paterno": "Soto",
-      "apellido_materno": "Diaz",
-      "fecha": "thursday, junuary 18",
-      "mensaje_corto": "At the age of 77 years",
-      "se_vela_en": "calle flor de azahar # 316 colonia La Virgen",
-      "honras": "pendents",
+      "honras": "Lo despidieron el día martes 18 de enero en panteón El Tunal. Servicio Asistido por Funerales Raúl Flores.",
       "descripcion": ""
     },
     {
@@ -227,7 +239,7 @@
       "fecha": "thursday, junuary 18",
       "mensaje_corto": "At the age of 56 years",
       "se_vela_en": "Capilla Oro y Plata de Suc. Dolores del Río",
-      "honras": "pendents",
+      "honras": "Se velo Capilla Oro y Plata Suc. Dolores del Rio Velatorio Raúl Flores. La despidieron en panteón Jardin.",
       "descripcion": ""
     },
     {
@@ -251,67 +263,7 @@
       "fecha": "monday, junuary 17",
       "mensaje_corto": "At the age of 57 years",
       "se_vela_en": "Cuauhtémoc, Cuencamé, Dgo.",
-      "honras": "16:00 hrs. Templo Ntra. Sra. del Refugio. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 127,
-      "titulo": "Srita.",
-      "nombre": "Kassandra Karym",
-      "apellido_paterno": "Carrillo",
-      "apellido_materno": "Zamora",
-      "fecha": "monday, junuary 17",
-      "mensaje_corto": "At the age of 21 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "La despidieron el día lunes 17 de enero en panteón Valle de Los Sabino.",
-      "descripcion": ""
-    },
-    {
-      "id": 126,
-      "titulo": "",
-      "nombre": "María Audelia",
-      "apellido_paterno": "Ochoa",
-      "apellido_materno": "Leyva",
-      "fecha": "monday, junuary 17",
-      "mensaje_corto": "At the age of 83 years",
-      "se_vela_en": "Los Nogales,  Coneto de Comonfort.",
-      "honras": "La despidieron el día lunes 17 de enero en panteón del lugar, Servicio Asistido por Funerales Raúl Flores.",
-      "descripcion": ""
-    },
-    {
-      "id": 125,
-      "titulo": "",
-      "nombre": "Vicente",
-      "apellido_paterno": "Rocha",
-      "apellido_materno": "Campos",
-      "fecha": "monday, junuary 17",
-      "mensaje_corto": "At the age of 79 years",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "Lo despidieron el día lunes 17 de enero.",
-      "descripcion": ""
-    },
-    {
-      "id": 124,
-      "titulo": "",
-      "nombre": "Anita",
-      "apellido_paterno": "Hernández",
-      "apellido_materno": "Zamarripa",
-      "fecha": "saturday, junuary 15",
-      "mensaje_corto": "At the age of 91 years",
-      "se_vela_en": "domicilio conocido La Estancia de Guadalupe, Sombrerete, Zac",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 121,
-      "titulo": "",
-      "nombre": "Luis Fernando",
-      "apellido_paterno": "Maldonado",
-      "apellido_materno": "Enríquez",
-      "fecha": "saturday, junuary 15",
-      "mensaje_corto": "At the age of 23 years",
-      "se_vela_en": "domicilio conocido Rodeo, Dgo.",
-      "honras": "Lo despidieron el día lunes 17 de enero en panteón Los Angeles.",
+      "honras": "Se velo Cuauhtémoc, Cuencamé, Dgo. La despidieron el dia martes 18 de enero en panteon del lugar.",
       "descripcion": ""
     }
   ]
