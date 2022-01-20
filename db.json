@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 140,
+      "titulo": "",
+      "nombre": "Sebastián",
+      "apellido_paterno": "Soria",
+      "apellido_materno": "Casas",
+      "fecha": "Jueves, 20 de Enero",
+      "mensaje_corto": "A la edad de 77 años",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 139,
       "titulo": "",
       "nombre": "Bertha",
@@ -45,7 +57,7 @@
       "fecha": "Miércoles, 19 de Enero",
       "mensaje_corto": "A la edad de 58 años",
       "se_vela_en": "Ignacio López Rayón.",
-      "honras": "pendientes",
+      "honras": "12:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -55,58 +67,10 @@
       "apellido_paterno": "Cervantes",
       "apellido_materno": "",
       "fecha": "Martes, 18 de Enero",
-      "mensaje_corto": "",
+      "mensaje_corto": "A la edad de 0 años",
       "se_vela_en": "pendiente",
       "honras": "pendientes",
       "descripcion": "Se traslada de la Cd. México a Durango, Dgo."
-    },
-    {
-      "id": 134,
-      "titulo": "Hermana",
-      "nombre": "Bertha",
-      "apellido_paterno": "Robles",
-      "apellido_materno": "Nava",
-      "fecha": "Martes, 18 de Enero",
-      "mensaje_corto": "A la edad de 72 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "La despidieron para su cremación el día martes 18 de enero."
-    },
-    {
-      "id": 133,
-      "titulo": "",
-      "nombre": "Agustina",
-      "apellido_paterno": "Calderón",
-      "apellido_materno": "Romero",
-      "fecha": "Martes, 18 de Enero",
-      "mensaje_corto": "A la edad de 43 años",
-      "se_vela_en": "Calle Ecosistema #204 Col. Luz y Esperanza.",
-      "honras": "Sus honras fueron a las  14:00 hrs. Templo San Lorenzo. Se despidió en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 132,
-      "titulo": "",
-      "nombre": "Pedro",
-      "apellido_paterno": "Ibarra",
-      "apellido_materno": "Torres",
-      "fecha": "Martes, 18 de Enero",
-      "mensaje_corto": "A la edad de 61 años",
-      "se_vela_en": "domicilio conocido El Conejo",
-      "honras": "Lo despidieron el día martes 18 de enero en panteón El Tunal. Servicio Asistido por Funerales Raúl Flores.",
-      "descripcion": ""
-    },
-    {
-      "id": 130,
-      "titulo": "",
-      "nombre": "Alma Esmeralda",
-      "apellido_paterno": "Medina",
-      "apellido_materno": "Sánchez",
-      "fecha": "Martes, 18 de Enero",
-      "mensaje_corto": "A la edad de 56 años",
-      "se_vela_en": "Capilla Oro y Plata de Suc. Dolores del Río",
-      "honras": "Se velo Capilla Oro y Plata Suc. Dolores del Rio Velatorio Raúl Flores. La despidieron en panteón Jardin.",
-      "descripcion": ""
     },
     {
       "id": 129,
@@ -119,21 +83,21 @@
       "se_vela_en": "pendiente",
       "honras": "pendientes",
       "descripcion": "se traslada de Guadalajara a Durango"
-    },
-    {
-      "id": 128,
-      "titulo": "",
-      "nombre": "Ma. de Refugio",
-      "apellido_paterno": "Valles",
-      "apellido_materno": "Hernandez",
-      "fecha": "Lunes, 17 de Enero",
-      "mensaje_corto": "A la edad de 57 años",
-      "se_vela_en": "Cuauhtémoc, Cuencamé, Dgo.",
-      "honras": "Se velo Cuauhtémoc, Cuencamé, Dgo. La despidieron el dia martes 18 de enero en panteon del lugar.",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 140,
+      "titulo": "",
+      "nombre": "Sebastián",
+      "apellido_paterno": "Soria",
+      "apellido_materno": "Casas",
+      "fecha": "tuesday, junuary 20",
+      "mensaje_corto": "At the age of 77 years",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 139,
       "titulo": "",
@@ -179,7 +143,7 @@
       "fecha": "wednesday, junuary 19",
       "mensaje_corto": "At the age of 58 years",
       "se_vela_en": "Ignacio López Rayón.",
-      "honras": "pendents",
+      "honras": "12:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -195,54 +159,6 @@
       "descripcion": "Se traslada de la Cd. México a Durango, Dgo."
     },
     {
-      "id": 134,
-      "titulo": "Hermana",
-      "nombre": "Bertha",
-      "apellido_paterno": "Robles",
-      "apellido_materno": "Nava",
-      "fecha": "thursday, junuary 18",
-      "mensaje_corto": "At the age of 72 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "La despidieron para su cremación el día martes 18 de enero."
-    },
-    {
-      "id": 133,
-      "titulo": "",
-      "nombre": "Agustina",
-      "apellido_paterno": "Calderón",
-      "apellido_materno": "Romero",
-      "fecha": "thursday, junuary 18",
-      "mensaje_corto": "At the age of 43 years",
-      "se_vela_en": "Calle Ecosistema #204 Col. Luz y Esperanza.",
-      "honras": "Sus honras fueron a las  14:00 hrs. Templo San Lorenzo. Se despidió en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 132,
-      "titulo": "",
-      "nombre": "Pedro",
-      "apellido_paterno": "Ibarra",
-      "apellido_materno": "Torres",
-      "fecha": "thursday, junuary 18",
-      "mensaje_corto": "At the age of 61 years",
-      "se_vela_en": "domicilio conocido El Conejo",
-      "honras": "Lo despidieron el día martes 18 de enero en panteón El Tunal. Servicio Asistido por Funerales Raúl Flores.",
-      "descripcion": ""
-    },
-    {
-      "id": 130,
-      "titulo": "",
-      "nombre": "Alma Esmeralda",
-      "apellido_paterno": "Medina",
-      "apellido_materno": "Sánchez",
-      "fecha": "thursday, junuary 18",
-      "mensaje_corto": "At the age of 56 years",
-      "se_vela_en": "Capilla Oro y Plata de Suc. Dolores del Río",
-      "honras": "Se velo Capilla Oro y Plata Suc. Dolores del Rio Velatorio Raúl Flores. La despidieron en panteón Jardin.",
-      "descripcion": ""
-    },
-    {
       "id": 129,
       "titulo": "",
       "nombre": "Macario",
@@ -253,18 +169,6 @@
       "se_vela_en": "pendent",
       "honras": "pendents",
       "descripcion": "se traslada de Guadalajara a Durango"
-    },
-    {
-      "id": 128,
-      "titulo": "",
-      "nombre": "Ma. de Refugio",
-      "apellido_paterno": "Valles",
-      "apellido_materno": "Hernandez",
-      "fecha": "monday, junuary 17",
-      "mensaje_corto": "At the age of 57 years",
-      "se_vela_en": "Cuauhtémoc, Cuencamé, Dgo.",
-      "honras": "Se velo Cuauhtémoc, Cuencamé, Dgo. La despidieron el dia martes 18 de enero en panteon del lugar.",
-      "descripcion": ""
     }
   ]
 }
