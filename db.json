@@ -133,42 +133,6 @@
       "descripcion": "Lo despidieron el día miércoles 26 de enero para su cremación."
     },
     {
-      "id": 151,
-      "titulo": "Ing.",
-      "nombre": "Máximo",
-      "apellido_paterno": "Páez",
-      "apellido_materno": "Flores",
-      "fecha": "Jueves, 27 de Enero",
-      "mensaje_corto": "A la edad de 72 años",
-      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
-      "honras": "Lo despidieron el día miércoles 26 de enero para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 150,
-      "titulo": "",
-      "nombre": "Guillermo",
-      "apellido_paterno": "Salgado",
-      "apellido_materno": "",
-      "fecha": "Jueves, 27 de Enero",
-      "mensaje_corto": "A la edad de 72 años",
-      "se_vela_en": "Guanaceví, Dgo.",
-      "honras": "Lo despidieron el día miércoles 26 de enero en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 149,
-      "titulo": "",
-      "nombre": "José de la Paz",
-      "apellido_paterno": "Legazpe",
-      "apellido_materno": "Samudio",
-      "fecha": "Jueves, 27 de Enero",
-      "mensaje_corto": "A la edad de 37 años",
-      "se_vela_en": "veló en Capilla Suc. Ferrocarril, Santiago Papasquiaro, Dgo.",
-      "honras": "Lo despidieron el día miércoles 26 de enero en panteón Víctor Nevárez.",
-      "descripcion": ""
-    },
-    {
       "id": 129,
       "titulo": "",
       "nombre": "Macario",
@@ -313,42 +277,6 @@
       "se_vela_en": "",
       "honras": "",
       "descripcion": "Lo despidieron el día miércoles 26 de enero para su cremación."
-    },
-    {
-      "id": 151,
-      "titulo": "Ing.",
-      "nombre": "Máximo",
-      "apellido_paterno": "Páez",
-      "apellido_materno": "Flores",
-      "fecha": "tuesday, junuary 27",
-      "mensaje_corto": "At the age of 72 years",
-      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
-      "honras": "Lo despidieron el día miércoles 26 de enero para su cremación.",
-      "descripcion": ""
-    },
-    {
-      "id": 150,
-      "titulo": "",
-      "nombre": "Guillermo",
-      "apellido_paterno": "Salgado",
-      "apellido_materno": "",
-      "fecha": "tuesday, junuary 27",
-      "mensaje_corto": "At the age of 72 years",
-      "se_vela_en": "Guanaceví, Dgo.",
-      "honras": "Lo despidieron el día miércoles 26 de enero en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 149,
-      "titulo": "",
-      "nombre": "José de la Paz",
-      "apellido_paterno": "Legazpe",
-      "apellido_materno": "Samudio",
-      "fecha": "tuesday, junuary 27",
-      "mensaje_corto": "At the age of 37 years",
-      "se_vela_en": "veló en Capilla Suc. Ferrocarril, Santiago Papasquiaro, Dgo.",
-      "honras": "Lo despidieron el día miércoles 26 de enero en panteón Víctor Nevárez.",
-      "descripcion": ""
     },
     {
       "id": 129,
