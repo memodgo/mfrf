@@ -1,15 +1,63 @@
 {
   "obituario": [
     {
+      "id": 166,
+      "titulo": "",
+      "nombre": "Claudia Patricia",
+      "apellido_paterno": "Morales",
+      "apellido_materno": "Castro",
+      "fecha": "Sábado, 29 de Enero",
+      "mensaje_corto": "A la edad de 42 años",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide en panteón aún pendiente."
+    },
+    {
+      "id": 165,
+      "titulo": "Don",
+      "nombre": "Santiago",
+      "apellido_paterno": "Rodríguez",
+      "apellido_materno": "Alvarado",
+      "fecha": "Sábado, 29 de Enero",
+      "mensaje_corto": "A la edad de 91 años",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremación."
+    },
+    {
+      "id": 164,
+      "titulo": "",
+      "nombre": "Domingo",
+      "apellido_paterno": "Unzueta",
+      "apellido_materno": "Soto",
+      "fecha": "Sábado, 29 de Enero",
+      "mensaje_corto": "A la edad de 60 años",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "14:00 hrs. Templo Ntra. Sra. de Lourdes. Se despide en Parque Residencial Flores.",
+      "descripcion": ""
+    },
+    {
+      "id": 163,
+      "titulo": "",
+      "nombre": "María Carmen",
+      "apellido_paterno": "Ramos",
+      "apellido_materno": "García",
+      "fecha": "Sábado, 29 de Enero",
+      "mensaje_corto": "A la edad de 71 años",
+      "se_vela_en": "Dom. Con. Leandro Valle, Rodeo, Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 162,
       "titulo": "",
-      "nombre": "Leon",
+      "nombre": "León",
       "apellido_paterno": "Flores",
       "apellido_materno": "Salazar",
       "fecha": "Jueves, 27 de Enero",
       "mensaje_corto": "A la edad de 62 años",
       "se_vela_en": "calle Carlos Madrazo S/N Col. Hidalgo",
-      "honras": "pendientes",
+      "honras": "15:00 hrs. Templo Sagrado Corazón de Jesús. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -21,7 +69,7 @@
       "fecha": "Jueves, 27 de Enero",
       "mensaje_corto": "A la edad de 68 años",
       "se_vela_en": "capilla Plata y Oro de Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "honras": "11:00 hrs. Templo Ntra. Sra. del Refugio (col. tierra blanca) Se despide en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -33,20 +81,8 @@
       "fecha": "Jueves, 27 de Enero",
       "mensaje_corto": "A la edad de 51 años",
       "se_vela_en": "se estará velando en capilla Diamante de Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "honras": "La despidieron el día viernes 28 de enero en panteón Oriente.",
       "descripcion": ""
-    },
-    {
-      "id": 159,
-      "titulo": "",
-      "nombre": "Antonio",
-      "apellido_paterno": "Chávez",
-      "apellido_materno": "Hernández",
-      "fecha": "Jueves, 27 de Enero",
-      "mensaje_corto": "A la edad de 89 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "se despide para su cremación"
     },
     {
       "id": 158,
@@ -57,80 +93,8 @@
       "fecha": "Jueves, 27 de Enero",
       "mensaje_corto": "A la edad de 74 años",
       "se_vela_en": "San Vicente de Chupaderos, Dgo.",
-      "honras": "15:00 hrs Templo San Vicente  Se despide en panteon del lugar ",
+      "honras": "La despidieron el día viernes 28 de enero en panteón del lugar.",
       "descripcion": ""
-    },
-    {
-      "id": 157,
-      "titulo": "",
-      "nombre": "Judith Esperanza",
-      "apellido_paterno": "Ramírez",
-      "apellido_materno": "Benavente",
-      "fecha": "Jueves, 27 de Enero",
-      "mensaje_corto": "A la edad de 81 años",
-      "se_vela_en": "Se veló en Capilla Plata Suc. Dolores del Rio",
-      "honras": "Sus honras fueron  a las 13:00 hrs. en el templo de san Francisco de Asis se despidió en el cementerio valle de los sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 156,
-      "titulo": "",
-      "nombre": "Micaela",
-      "apellido_paterno": "Reyes",
-      "apellido_materno": "González",
-      "fecha": "Jueves, 27 de Enero",
-      "mensaje_corto": "A la edad de 84 años",
-      "se_vela_en": "Se veló en Garame de Abajo, Santiago Papasquiaro, Dgo.",
-      "honras": "Sus honras fueron a las 14:30 hrs. Templo Santa Rosa de Lima. Se despidió en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 155,
-      "titulo": "",
-      "nombre": "Librada",
-      "apellido_paterno": "Acuña",
-      "apellido_materno": "Cano",
-      "fecha": "Jueves, 27 de Enero",
-      "mensaje_corto": "A la edad de 76 años",
-      "se_vela_en": "Guanaceví, Dgo.",
-      "honras": "Sus honras fueron a las  15:00 hrs. Templo Inmaculada Concepción. Se despidió en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 154,
-      "titulo": "",
-      "nombre": "José",
-      "apellido_paterno": "Triana",
-      "apellido_materno": "Falcon",
-      "fecha": "Jueves, 27 de Enero",
-      "mensaje_corto": "A la edad de 66 años",
-      "se_vela_en": "Calle Parque del Niño #604 Col. Armando del Castillo.",
-      "honras": "fueron a las  11:00 hrs. Templo San Judas Tadeo. (misma colonia) Se despidió en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 153,
-      "titulo": "",
-      "nombre": "Brenda Aurora",
-      "apellido_paterno": "Haro",
-      "apellido_materno": "Torres",
-      "fecha": "Jueves, 27 de Enero",
-      "mensaje_corto": "A la edad de 20 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "Sus honras fueron a las  14:00 hrs. Templo Espíritu Santo. Se despide en panteón aún pendiente.",
-      "descripcion": ""
-    },
-    {
-      "id": 152,
-      "titulo": "",
-      "nombre": "Florentino",
-      "apellido_paterno": "González",
-      "apellido_materno": "Salcedo",
-      "fecha": "Jueves, 27 de Enero",
-      "mensaje_corto": "A la edad de 60 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Lo despidieron el día miércoles 26 de enero para su cremación."
     },
     {
       "id": 129,
@@ -147,15 +111,63 @@
   ],
   "obituario_ingles": [
     {
+      "id": 166,
+      "titulo": "",
+      "nombre": "Claudia Patricia",
+      "apellido_paterno": "Morales",
+      "apellido_materno": "Castro",
+      "fecha": "saturday, junuary 29",
+      "mensaje_corto": "At the age of 42 years",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide en panteón aún pendiente."
+    },
+    {
+      "id": 165,
+      "titulo": "Don",
+      "nombre": "Santiago",
+      "apellido_paterno": "Rodríguez",
+      "apellido_materno": "Alvarado",
+      "fecha": "saturday, junuary 29",
+      "mensaje_corto": "At the age of 91 years",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "Se despide para su cremación."
+    },
+    {
+      "id": 164,
+      "titulo": "",
+      "nombre": "Domingo",
+      "apellido_paterno": "Unzueta",
+      "apellido_materno": "Soto",
+      "fecha": "saturday, junuary 29",
+      "mensaje_corto": "At the age of 60 years",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "14:00 hrs. Templo Ntra. Sra. de Lourdes. Se despide en Parque Residencial Flores.",
+      "descripcion": ""
+    },
+    {
+      "id": 163,
+      "titulo": "",
+      "nombre": "María Carmen",
+      "apellido_paterno": "Ramos",
+      "apellido_materno": "García",
+      "fecha": "saturday, junuary 29",
+      "mensaje_corto": "At the age of 71 years",
+      "se_vela_en": "Dom. Con. Leandro Valle, Rodeo, Dgo.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
       "id": 162,
       "titulo": "",
-      "nombre": "Leon",
+      "nombre": "León",
       "apellido_paterno": "Flores",
       "apellido_materno": "Salazar",
       "fecha": "tuesday, junuary 27",
       "mensaje_corto": "At the age of 62 years",
       "se_vela_en": "calle Carlos Madrazo S/N Col. Hidalgo",
-      "honras": "pendientes",
+      "honras": "15:00 hrs. Templo Sagrado Corazón de Jesús. Se despide en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -167,7 +179,7 @@
       "fecha": "tuesday, junuary 27",
       "mensaje_corto": "At the age of 68 years",
       "se_vela_en": "capilla Plata y Oro de Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "honras": "11:00 hrs. Templo Ntra. Sra. del Refugio (col. tierra blanca) Se despide en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -179,20 +191,8 @@
       "fecha": "tuesday, junuary 27",
       "mensaje_corto": "At the age of 51 years",
       "se_vela_en": "se estará velando en capilla Diamante de Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "honras": "La despidieron el día viernes 28 de enero en panteón Oriente.",
       "descripcion": ""
-    },
-    {
-      "id": 159,
-      "titulo": "",
-      "nombre": "Antonio",
-      "apellido_paterno": "Chávez",
-      "apellido_materno": "Hernández",
-      "fecha": "tuesday, junuary 27",
-      "mensaje_corto": "At the age of 89 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "se despide para su cremación"
     },
     {
       "id": 158,
@@ -203,80 +203,8 @@
       "fecha": "tuesday, junuary 27",
       "mensaje_corto": "At the age of 74 years",
       "se_vela_en": "San Vicente de Chupaderos, Dgo.",
-      "honras": "15:00 hrs Templo San Vicente  Se despide en panteon del lugar ",
+      "honras": "La despidieron el día viernes 28 de enero en panteón del lugar.",
       "descripcion": ""
-    },
-    {
-      "id": 157,
-      "titulo": "",
-      "nombre": "Judith Esperanza",
-      "apellido_paterno": "Ramírez",
-      "apellido_materno": "Benavente",
-      "fecha": "tuesday, junuary 27",
-      "mensaje_corto": "At the age of 81 years",
-      "se_vela_en": "Se veló en Capilla Plata Suc. Dolores del Rio",
-      "honras": "Sus honras fueron  a las 13:00 hrs. en el templo de san Francisco de Asis se despidió en el cementerio valle de los sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 156,
-      "titulo": "",
-      "nombre": "Micaela",
-      "apellido_paterno": "Reyes",
-      "apellido_materno": "González",
-      "fecha": "tuesday, junuary 27",
-      "mensaje_corto": "At the age of 84 years",
-      "se_vela_en": "Se veló en Garame de Abajo, Santiago Papasquiaro, Dgo.",
-      "honras": "Sus honras fueron a las 14:30 hrs. Templo Santa Rosa de Lima. Se despidió en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 155,
-      "titulo": "",
-      "nombre": "Librada",
-      "apellido_paterno": "Acuña",
-      "apellido_materno": "Cano",
-      "fecha": "tuesday, junuary 27",
-      "mensaje_corto": "At the age of 76 years",
-      "se_vela_en": "Guanaceví, Dgo.",
-      "honras": "Sus honras fueron a las  15:00 hrs. Templo Inmaculada Concepción. Se despidió en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 154,
-      "titulo": "",
-      "nombre": "José",
-      "apellido_paterno": "Triana",
-      "apellido_materno": "Falcon",
-      "fecha": "tuesday, junuary 27",
-      "mensaje_corto": "At the age of 66 years",
-      "se_vela_en": "Calle Parque del Niño #604 Col. Armando del Castillo.",
-      "honras": "fueron a las  11:00 hrs. Templo San Judas Tadeo. (misma colonia) Se despidió en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 153,
-      "titulo": "",
-      "nombre": "Brenda Aurora",
-      "apellido_paterno": "Haro",
-      "apellido_materno": "Torres",
-      "fecha": "tuesday, junuary 27",
-      "mensaje_corto": "At the age of 20 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "Sus honras fueron a las  14:00 hrs. Templo Espíritu Santo. Se despide en panteón aún pendiente.",
-      "descripcion": ""
-    },
-    {
-      "id": 152,
-      "titulo": "",
-      "nombre": "Florentino",
-      "apellido_paterno": "González",
-      "apellido_materno": "Salcedo",
-      "fecha": "tuesday, junuary 27",
-      "mensaje_corto": "At the age of 60 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Lo despidieron el día miércoles 26 de enero para su cremación."
     },
     {
       "id": 129,
