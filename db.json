@@ -13,7 +13,8 @@
         "templo":"Cristo Rey",
         "panteon":"Garame de abajo",
         "fechaDesc":"",
-        "descripcion": "foto.png"
+        "descripcion": "",
+        "img":"raul_quinonez.jpeg"
       },
       {
         "id": 187,
@@ -28,7 +29,8 @@
         "templo":"",
         "panteon":"",
         "fechaDesc":"",
-        "descripcion": "Se despide para su cremacion."
+        "descripcion": "Se despide para su cremacion.",
+          "img":"cruz.png"
       },
       {
         "id": 186,
@@ -43,7 +45,8 @@
         "templo":"San Francisco de Asis.",
         "panteon":"Valle de Los Sabinos",
         "fechaDesc":"",
-        "descripcion": ""
+        "descripcion": "",
+          "img":"pedro_valdez.jpeg"
       },
       {
         "id": 185,
@@ -58,7 +61,8 @@
         "templo":"San Diego de Alcala",
         "panteon":"del lugar",
         "fechaDesc":"",
-        "descripcion": ""
+        "descripcion": "",
+          "img":"antonio_moreno.jpeg"
       },
       {
         "id": 184,
@@ -73,7 +77,8 @@
         "templo":"",
         "panteon":"Jardin",
         "fechaDesc":"",
-        "descripcion": ""
+        "descripcion": "",
+          "img":"cruz.png"
       },
       {
         "id": 183,
@@ -88,7 +93,8 @@
         "templo":"",
         "panteon":"Valle de Los Sabinos",
         "fechaDesc":"",
-        "descripcion": ""
+        "descripcion": "",
+          "img":"delfino_moreno.jpeg"
       },
       {
         "id": 182,
@@ -103,7 +109,8 @@
         "templo":"",
         "panteon":"Oriente",
         "fechaDesc":"",
-        "descripcion": ""
+        "descripcion": "",
+          "img":"cruz.png"
       }
     ],
     "obituario_ingles": [
@@ -120,7 +127,8 @@
             "templo":"Cristo Rey",
             "panteon":"Garame de abajo",
             "fechaDesc":"",
-            "descripcion": "foto.png"
+            "descripcion": "",
+            "img":"raul_quinonez.jpeg"
           },
           {
             "id": 187,
@@ -135,7 +143,8 @@
             "templo":"",
             "panteon":"",
             "fechaDesc":"",
-            "descripcion": "Se despide para su cremacion."
+            "descripcion": "Se despide para su cremacion.",
+              "img":"cruz.png"
           },
           {
             "id": 186,
@@ -150,7 +159,8 @@
             "templo":"San Francisco de Asis.",
             "panteon":"Valle de Los Sabinos",
             "fechaDesc":"",
-            "descripcion": ""
+            "descripcion": "",
+            "img":"pedro_valdez.jpeg"
           },
           {
             "id": 185,
@@ -165,7 +175,8 @@
             "templo":"San Diego de Alcala",
             "panteon":"del lugar",
             "fechaDesc":"",
-            "descripcion": ""
+            "descripcion": "",
+            "img":"antonio_moreno.jpeg"
           },
           {
             "id": 184,
@@ -180,7 +191,8 @@
             "templo":"",
             "panteon":"Jardin",
             "fechaDesc":"",
-            "descripcion": ""
+            "descripcion": "",
+              "img":"cruz.png"
           },
           {
             "id": 183,
@@ -195,7 +207,8 @@
             "templo":"",
             "panteon":"Valle de Los Sabinos",
             "fechaDesc":"",
-            "descripcion": ""
+            "descripcion": "",
+            "img":"delfino_moreno.jpeg"
           },
           {
             "id": 182,
@@ -210,7 +223,8 @@
             "templo":"",
             "panteon":"Oriente",
             "fechaDesc":"",
-            "descripcion": ""
+            "descripcion": "",
+              "img":"cruz.png"
           }
     ]
   }
