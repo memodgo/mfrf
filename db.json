@@ -9,7 +9,7 @@
       "fecha": "Lunes, 21 de Febrero",
       "mensaje_corto": "A la edad de 83 años",
       "se_vela_en": "Calle Nombre de Dios #130 Col. Benigno Montoya",
-      "honras": "Pendientes",
+      "honras": "13.00 hrs. Templo Amor Misericordioso de Jesus. Se despide en panteón Getsemani.",
       "descripcion": ""
     },
     {
@@ -20,7 +20,7 @@
       "apellido_materno": "Cazarez",
       "fecha": "Lunes, 21 de Febrero",
       "mensaje_corto": "A la edad de 82 años",
-      "se_vela_en": "Loc. San Jose de Basoco Coneto de Comonfort, Dgo.",
+      "se_vela_en": "Se Veló en Loc. San Jose de Basoco Coneto de Comonfort, Dgo.",
       "honras": "16:00 hrs. Templo del lugar. Se depside en panteon del lugar.",
       "descripcion": ""
     },
@@ -32,7 +32,7 @@
       "apellido_materno": "Chamorro",
       "fecha": "Lunes, 21 de Febrero",
       "mensaje_corto": "A la edad de 89 años",
-      "se_vela_en": "Calle Mercurio #311 Fracc. San Antonio",
+      "se_vela_en": "Se Veló en Calle Mercurio #311 Fracc. San Antonio",
       "honras": "12:00 hrs. Templo San Jose (fracc. guadalupe) Se despide en panteón Getsemani",
       "descripcion": ""
     },
@@ -49,18 +49,6 @@
       "descripcion": ""
     },
     {
-      "id": 202,
-      "titulo": "",
-      "nombre": "David",
-      "apellido_paterno": "Huerta",
-      "apellido_materno": "Leon",
-      "fecha": "Lunes, 21 de Febrero",
-      "mensaje_corto": "A la edad de 45 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se traslada de Durango, Dgo. a Papantla, Veracruz."
-    },
-    {
       "id": 201,
       "titulo": "",
       "nombre": "Jose",
@@ -68,7 +56,7 @@
       "apellido_materno": "Borrego",
       "fecha": "Lunes, 21 de Febrero",
       "mensaje_corto": "A la edad de 84 años",
-      "se_vela_en": "Calle Veracruz #700 Col. Jardines de Cancun",
+      "se_vela_en": "Se Veló en Calle Veracruz #700 Col. Jardines de Cancun",
       "honras": "12:00 hrs. Templo San JuanDieguito. Se despide en panteon Valle de Los Sabinos",
       "descripcion": ""
     },
@@ -80,7 +68,7 @@
       "apellido_materno": "Robles",
       "fecha": "Lunes, 21 de Febrero",
       "mensaje_corto": "A la edad de 77 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "se_vela_en": "Se Veló en Capilla Diamante Suc. Dolores del Rio",
       "honras": "12:00 hrs. Templo Ntra. Sra. de Los Angeles. Se despide en panteón  Oriente",
       "descripcion": ""
     }
@@ -95,7 +83,7 @@
       "fecha": "monday, february 21",
       "mensaje_corto": "At the age of 83 years",
       "se_vela_en": "Calle Nombre de Dios #130 Col. Benigno Montoya",
-      "honras": "Pendents",
+      "honras": "13.00 hrs. Templo Amor Misericordioso de Jesus. Se despide en panteón Getsemani.",
       "descripcion": ""
     },
     {
@@ -106,7 +94,7 @@
       "apellido_materno": "Cazarez",
       "fecha": "monday, february 21",
       "mensaje_corto": "At the age of 82 years",
-      "se_vela_en": "Loc. San Jose de Basoco Coneto de Comonfort, Dgo.",
+      "se_vela_en": "Se Veló en Loc. San Jose de Basoco Coneto de Comonfort, Dgo.",
       "honras": "16:00 hrs. Templo del lugar. Se depside en panteon del lugar.",
       "descripcion": ""
     },
@@ -118,7 +106,7 @@
       "apellido_materno": "Chamorro",
       "fecha": "monday, february 21",
       "mensaje_corto": "At the age of 89 years",
-      "se_vela_en": "Calle Mercurio #311 Fracc. San Antonio",
+      "se_vela_en": "Se Veló en Calle Mercurio #311 Fracc. San Antonio",
       "honras": "12:00 hrs. Templo San Jose (fracc. guadalupe) Se despide en panteón Getsemani",
       "descripcion": ""
     },
@@ -135,18 +123,6 @@
       "descripcion": ""
     },
     {
-      "id": 202,
-      "titulo": "",
-      "nombre": "David",
-      "apellido_paterno": "Huerta",
-      "apellido_materno": "Leon",
-      "fecha": "monday, february 21",
-      "mensaje_corto": "At the age of 45 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Se traslada de Durango, Dgo. a Papantla, Veracruz."
-    },
-    {
       "id": 201,
       "titulo": "",
       "nombre": "Jose",
@@ -154,7 +130,7 @@
       "apellido_materno": "Borrego",
       "fecha": "monday, february 21",
       "mensaje_corto": "At the age of 84 years",
-      "se_vela_en": "Calle Veracruz #700 Col. Jardines de Cancun",
+      "se_vela_en": "Se Veló en Calle Veracruz #700 Col. Jardines de Cancun",
       "honras": "12:00 hrs. Templo San JuanDieguito. Se despide en panteon Valle de Los Sabinos",
       "descripcion": ""
     },
@@ -166,7 +142,7 @@
       "apellido_materno": "Robles",
       "fecha": "monday, february 21",
       "mensaje_corto": "At the age of 77 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "se_vela_en": "Se Veló en Capilla Diamante Suc. Dolores del Rio",
       "honras": "12:00 hrs. Templo Ntra. Sra. de Los Angeles. Se despide en panteón  Oriente",
       "descripcion": ""
     }
