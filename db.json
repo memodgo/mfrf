@@ -1,6 +1,42 @@
 {
   "obituario": [
     {
+      "id": 209,
+      "titulo": "",
+      "nombre": "Jose",
+      "apellido_paterno": "Galindo",
+      "apellido_materno": "Mata",
+      "fecha": "Jueves, 24 de Febrero",
+      "mensaje_corto": "A la edad de 64 años",
+      "se_vela_en": "calle Eugenio Morales #614 Col. Morelos Norte",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 208,
+      "titulo": "",
+      "nombre": "Jorge",
+      "apellido_paterno": "Juarez",
+      "apellido_materno": "Pineda",
+      "fecha": "Jueves, 24 de Febrero",
+      "mensaje_corto": "A la edad de 89 años",
+      "se_vela_en": "Tepehuanes, Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 207,
+      "titulo": "",
+      "nombre": "Luciano",
+      "apellido_paterno": "Ceniceros",
+      "apellido_materno": "Amaya",
+      "fecha": "Jueves, 24 de Febrero",
+      "mensaje_corto": "A la edad de 54 años",
+      "se_vela_en": "Guanacevi Dgo",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 206,
       "titulo": "",
       "nombre": "Catarino",
@@ -8,32 +44,8 @@
       "apellido_materno": "Bringas",
       "fecha": "Lunes, 21 de Febrero",
       "mensaje_corto": "A la edad de 83 años",
-      "se_vela_en": "Calle Nombre de Dios #130 Col. Benigno Montoya",
+      "se_vela_en": "Se Veló en Calle Nombre de Dios #130 Col. Benigno Montoya",
       "honras": "13.00 hrs. Templo Amor Misericordioso de Jesus. Se despide en panteón Getsemani.",
-      "descripcion": ""
-    },
-    {
-      "id": 205,
-      "titulo": "",
-      "nombre": "Genaro",
-      "apellido_paterno": "Quiñones",
-      "apellido_materno": "Cazarez",
-      "fecha": "Lunes, 21 de Febrero",
-      "mensaje_corto": "A la edad de 82 años",
-      "se_vela_en": "Se Veló en Loc. San Jose de Basoco Coneto de Comonfort, Dgo.",
-      "honras": "16:00 hrs. Templo del lugar. Se depside en panteon del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 204,
-      "titulo": "",
-      "nombre": "Leobardo",
-      "apellido_paterno": "Escobedo",
-      "apellido_materno": "Chamorro",
-      "fecha": "Lunes, 21 de Febrero",
-      "mensaje_corto": "A la edad de 89 años",
-      "se_vela_en": "Se Veló en Calle Mercurio #311 Fracc. San Antonio",
-      "honras": "12:00 hrs. Templo San Jose (fracc. guadalupe) Se despide en panteón Getsemani",
       "descripcion": ""
     },
     {
@@ -47,33 +59,45 @@
       "se_vela_en": "Calle Fco. I. Madero #206 Col. 20 de Noviembre",
       "honras": "Pendientes",
       "descripcion": ""
-    },
-    {
-      "id": 201,
-      "titulo": "",
-      "nombre": "Jose",
-      "apellido_paterno": "Retana",
-      "apellido_materno": "Borrego",
-      "fecha": "Lunes, 21 de Febrero",
-      "mensaje_corto": "A la edad de 84 años",
-      "se_vela_en": "Se Veló en Calle Veracruz #700 Col. Jardines de Cancun",
-      "honras": "12:00 hrs. Templo San JuanDieguito. Se despide en panteon Valle de Los Sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 200,
-      "titulo": "",
-      "nombre": "María Guadalupe",
-      "apellido_paterno": "Amaro",
-      "apellido_materno": "Robles",
-      "fecha": "Lunes, 21 de Febrero",
-      "mensaje_corto": "A la edad de 77 años",
-      "se_vela_en": "Se Veló en Capilla Diamante Suc. Dolores del Rio",
-      "honras": "12:00 hrs. Templo Ntra. Sra. de Los Angeles. Se despide en panteón  Oriente",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 209,
+      "titulo": "",
+      "nombre": "Jose",
+      "apellido_paterno": "Galindo",
+      "apellido_materno": "Mata",
+      "fecha": "tuesday, february 24",
+      "mensaje_corto": "At the age of 64 years",
+      "se_vela_en": "calle Eugenio Morales #614 Col. Morelos Norte",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 208,
+      "titulo": "",
+      "nombre": "Jorge",
+      "apellido_paterno": "Juarez",
+      "apellido_materno": "Pineda",
+      "fecha": "tuesday, february 24",
+      "mensaje_corto": "At the age of 89 years",
+      "se_vela_en": "Tepehuanes, Dgo.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 207,
+      "titulo": "",
+      "nombre": "Luciano",
+      "apellido_paterno": "Ceniceros",
+      "apellido_materno": "Amaya",
+      "fecha": "tuesday, february 24",
+      "mensaje_corto": "At the age of 54 years",
+      "se_vela_en": "Guanacevi Dgo",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 206,
       "titulo": "",
@@ -82,32 +106,8 @@
       "apellido_materno": "Bringas",
       "fecha": "monday, february 21",
       "mensaje_corto": "At the age of 83 years",
-      "se_vela_en": "Calle Nombre de Dios #130 Col. Benigno Montoya",
+      "se_vela_en": "Se Veló en Calle Nombre de Dios #130 Col. Benigno Montoya",
       "honras": "13.00 hrs. Templo Amor Misericordioso de Jesus. Se despide en panteón Getsemani.",
-      "descripcion": ""
-    },
-    {
-      "id": 205,
-      "titulo": "",
-      "nombre": "Genaro",
-      "apellido_paterno": "Quiñones",
-      "apellido_materno": "Cazarez",
-      "fecha": "monday, february 21",
-      "mensaje_corto": "At the age of 82 years",
-      "se_vela_en": "Se Veló en Loc. San Jose de Basoco Coneto de Comonfort, Dgo.",
-      "honras": "16:00 hrs. Templo del lugar. Se depside en panteon del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 204,
-      "titulo": "",
-      "nombre": "Leobardo",
-      "apellido_paterno": "Escobedo",
-      "apellido_materno": "Chamorro",
-      "fecha": "monday, february 21",
-      "mensaje_corto": "At the age of 89 years",
-      "se_vela_en": "Se Veló en Calle Mercurio #311 Fracc. San Antonio",
-      "honras": "12:00 hrs. Templo San Jose (fracc. guadalupe) Se despide en panteón Getsemani",
       "descripcion": ""
     },
     {
@@ -120,30 +120,6 @@
       "mensaje_corto": "At the age of 55 years",
       "se_vela_en": "Calle Fco. I. Madero #206 Col. 20 de Noviembre",
       "honras": "Pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 201,
-      "titulo": "",
-      "nombre": "Jose",
-      "apellido_paterno": "Retana",
-      "apellido_materno": "Borrego",
-      "fecha": "monday, february 21",
-      "mensaje_corto": "At the age of 84 years",
-      "se_vela_en": "Se Veló en Calle Veracruz #700 Col. Jardines de Cancun",
-      "honras": "12:00 hrs. Templo San JuanDieguito. Se despide en panteon Valle de Los Sabinos",
-      "descripcion": ""
-    },
-    {
-      "id": 200,
-      "titulo": "",
-      "nombre": "María Guadalupe",
-      "apellido_paterno": "Amaro",
-      "apellido_materno": "Robles",
-      "fecha": "monday, february 21",
-      "mensaje_corto": "At the age of 77 years",
-      "se_vela_en": "Se Veló en Capilla Diamante Suc. Dolores del Rio",
-      "honras": "12:00 hrs. Templo Ntra. Sra. de Los Angeles. Se despide en panteón  Oriente",
       "descripcion": ""
     }
   ]
