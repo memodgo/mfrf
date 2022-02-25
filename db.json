@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 211,
+      "titulo": "",
+      "nombre": "Noel",
+      "apellido_paterno": "Núñez",
+      "apellido_materno": "Duarte",
+      "fecha": "Viernes, 25 de Febrero",
+      "mensaje_corto": "A la edad de 51 años",
+      "se_vela_en": "domicilio conocido Guanaceví, Dgo.",
+      "honras": "16:00 Hrs. en el templo del lugar se le despide en el panteón del lugar",
+      "descripcion": ""
+    },
+    {
+      "id": 210,
+      "titulo": "",
+      "nombre": "María Marcia",
+      "apellido_paterno": "León",
+      "apellido_materno": "Ruiz",
+      "fecha": "Viernes, 25 de Febrero",
+      "mensaje_corto": "A la edad de 73 años",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "se despide para su cremación"
+    },
+    {
       "id": 209,
       "titulo": "",
       "nombre": "Jose",
@@ -9,7 +33,7 @@
       "fecha": "Jueves, 24 de Febrero",
       "mensaje_corto": "A la edad de 64 años",
       "se_vela_en": "calle Eugenio Morales #614 Col. Morelos Norte",
-      "honras": "pendientes",
+      "honras": "12:00 hrs Templo Catedral Basilica Menor Se despide en panteon Getsemani",
       "descripcion": ""
     },
     {
@@ -33,7 +57,7 @@
       "fecha": "Jueves, 24 de Febrero",
       "mensaje_corto": "A la edad de 54 años",
       "se_vela_en": "Guanacevi Dgo",
-      "honras": "pendientes",
+      "honras": "16:00 hrs Templo del lugar Se despide en panteon del lugar ",
       "descripcion": ""
     },
     {
@@ -45,7 +69,7 @@
       "fecha": "Lunes, 21 de Febrero",
       "mensaje_corto": "A la edad de 83 años",
       "se_vela_en": "Se Veló en Calle Nombre de Dios #130 Col. Benigno Montoya",
-      "honras": "13.00 hrs. Templo Amor Misericordioso de Jesus. Se despide en panteón Getsemani.",
+      "honras": "Lo despidieron el día martes 22 de febrero en panteón Getsemaní.-",
       "descripcion": ""
     },
     {
@@ -57,11 +81,35 @@
       "fecha": "Lunes, 21 de Febrero",
       "mensaje_corto": "A la edad de 55 años",
       "se_vela_en": "Calle Fco. I. Madero #206 Col. 20 de Noviembre",
-      "honras": "Pendientes",
+      "honras": "12:00 hrs del dia sabado 26 de feb  Templo Nuestra Sra del Refugio Se despide en panteón de oriente",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 211,
+      "titulo": "",
+      "nombre": "Noel",
+      "apellido_paterno": "Núñez",
+      "apellido_materno": "Duarte",
+      "fecha": "friday, february 25",
+      "mensaje_corto": "At the age of 51 years",
+      "se_vela_en": "domicilio conocido Guanaceví, Dgo.",
+      "honras": "16:00 Hrs. en el templo del lugar se le despide en el panteón del lugar",
+      "descripcion": ""
+    },
+    {
+      "id": 210,
+      "titulo": "",
+      "nombre": "María Marcia",
+      "apellido_paterno": "León",
+      "apellido_materno": "Ruiz",
+      "fecha": "friday, february 25",
+      "mensaje_corto": "At the age of 73 years",
+      "se_vela_en": "",
+      "honras": "",
+      "descripcion": "se despide para su cremación"
+    },
     {
       "id": 209,
       "titulo": "",
@@ -71,7 +119,7 @@
       "fecha": "tuesday, february 24",
       "mensaje_corto": "At the age of 64 years",
       "se_vela_en": "calle Eugenio Morales #614 Col. Morelos Norte",
-      "honras": "pendents",
+      "honras": "12:00 hrs Templo Catedral Basilica Menor Se despide en panteon Getsemani",
       "descripcion": ""
     },
     {
@@ -95,7 +143,7 @@
       "fecha": "tuesday, february 24",
       "mensaje_corto": "At the age of 54 years",
       "se_vela_en": "Guanacevi Dgo",
-      "honras": "pendents",
+      "honras": "16:00 hrs Templo del lugar Se despide en panteon del lugar ",
       "descripcion": ""
     },
     {
@@ -107,7 +155,7 @@
       "fecha": "monday, february 21",
       "mensaje_corto": "At the age of 83 years",
       "se_vela_en": "Se Veló en Calle Nombre de Dios #130 Col. Benigno Montoya",
-      "honras": "13.00 hrs. Templo Amor Misericordioso de Jesus. Se despide en panteón Getsemani.",
+      "honras": "Lo despidieron el día martes 22 de febrero en panteón Getsemaní.-",
       "descripcion": ""
     },
     {
@@ -119,7 +167,7 @@
       "fecha": "monday, february 21",
       "mensaje_corto": "At the age of 55 years",
       "se_vela_en": "Calle Fco. I. Madero #206 Col. 20 de Noviembre",
-      "honras": "Pendents",
+      "honras": "12:00 hrs del dia sabado 26 de feb  Templo Nuestra Sra del Refugio Se despide en panteón de oriente",
       "descripcion": ""
     }
   ]
