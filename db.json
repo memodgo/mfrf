@@ -1,28 +1,28 @@
 {
   "obituario": [
     {
-      "id": 211,
+      "id": 213,
       "titulo": "",
-      "nombre": "Noel",
-      "apellido_paterno": "Núñez",
-      "apellido_materno": "Duarte",
-      "fecha": "Viernes, 25 de Febrero",
-      "mensaje_corto": "A la edad de 51 años",
-      "se_vela_en": "domicilio conocido Guanaceví, Dgo.",
-      "honras": "16:00 Hrs. en el templo del lugar se le despide en el panteón del lugar",
+      "nombre": "José Jerónimo",
+      "apellido_paterno": "Martínez",
+      "apellido_materno": "Gallardo",
+      "fecha": "Sábado, 26 de Febrero",
+      "mensaje_corto": "A la edad de 58 años",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "11:00 hrs Templo Santa Teresita del Niño Jesus Se despide en panteon del arenal ",
       "descripcion": ""
     },
     {
-      "id": 210,
+      "id": 212,
       "titulo": "",
-      "nombre": "María Marcia",
-      "apellido_paterno": "León",
-      "apellido_materno": "Ruiz",
-      "fecha": "Viernes, 25 de Febrero",
-      "mensaje_corto": "A la edad de 73 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "se despide para su cremación"
+      "nombre": "María de los Ángeles",
+      "apellido_paterno": "Olguin",
+      "apellido_materno": "García",
+      "fecha": "Sábado, 26 de Febrero",
+      "mensaje_corto": "A la edad de 89 años",
+      "se_vela_en": "domicilio conocido Nuevo Ideal Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
     },
     {
       "id": 209,
@@ -34,42 +34,6 @@
       "mensaje_corto": "A la edad de 64 años",
       "se_vela_en": "calle Eugenio Morales #614 Col. Morelos Norte",
       "honras": "12:00 hrs Templo Catedral Basilica Menor Se despide en panteon Getsemani",
-      "descripcion": ""
-    },
-    {
-      "id": 208,
-      "titulo": "",
-      "nombre": "Jorge",
-      "apellido_paterno": "Juarez",
-      "apellido_materno": "Pineda",
-      "fecha": "Jueves, 24 de Febrero",
-      "mensaje_corto": "A la edad de 89 años",
-      "se_vela_en": "Tepehuanes, Dgo.",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 207,
-      "titulo": "",
-      "nombre": "Luciano",
-      "apellido_paterno": "Ceniceros",
-      "apellido_materno": "Amaya",
-      "fecha": "Jueves, 24 de Febrero",
-      "mensaje_corto": "A la edad de 54 años",
-      "se_vela_en": "Guanacevi Dgo",
-      "honras": "16:00 hrs Templo del lugar Se despide en panteon del lugar ",
-      "descripcion": ""
-    },
-    {
-      "id": 206,
-      "titulo": "",
-      "nombre": "Catarino",
-      "apellido_paterno": "Nevárez",
-      "apellido_materno": "Bringas",
-      "fecha": "Lunes, 21 de Febrero",
-      "mensaje_corto": "A la edad de 83 años",
-      "se_vela_en": "Se Veló en Calle Nombre de Dios #130 Col. Benigno Montoya",
-      "honras": "Lo despidieron el día martes 22 de febrero en panteón Getsemaní.-",
       "descripcion": ""
     },
     {
@@ -87,28 +51,28 @@
   ],
   "obituario_ingles": [
     {
-      "id": 211,
+      "id": 213,
       "titulo": "",
-      "nombre": "Noel",
-      "apellido_paterno": "Núñez",
-      "apellido_materno": "Duarte",
-      "fecha": "friday, february 25",
-      "mensaje_corto": "At the age of 51 years",
-      "se_vela_en": "domicilio conocido Guanaceví, Dgo.",
-      "honras": "16:00 Hrs. en el templo del lugar se le despide en el panteón del lugar",
+      "nombre": "José Jerónimo",
+      "apellido_paterno": "Martínez",
+      "apellido_materno": "Gallardo",
+      "fecha": "saturday, february 26",
+      "mensaje_corto": "At the age of 58 years",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "11:00 hrs Templo Santa Teresita del Niño Jesus Se despide en panteon del arenal ",
       "descripcion": ""
     },
     {
-      "id": 210,
+      "id": 212,
       "titulo": "",
-      "nombre": "María Marcia",
-      "apellido_paterno": "León",
-      "apellido_materno": "Ruiz",
-      "fecha": "friday, february 25",
-      "mensaje_corto": "At the age of 73 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "se despide para su cremación"
+      "nombre": "María de los Ángeles",
+      "apellido_paterno": "Olguin",
+      "apellido_materno": "García",
+      "fecha": "saturday, february 26",
+      "mensaje_corto": "At the age of 89 years",
+      "se_vela_en": "domicilio conocido Nuevo Ideal Dgo.",
+      "honras": "pendents",
+      "descripcion": ""
     },
     {
       "id": 209,
@@ -120,42 +84,6 @@
       "mensaje_corto": "At the age of 64 years",
       "se_vela_en": "calle Eugenio Morales #614 Col. Morelos Norte",
       "honras": "12:00 hrs Templo Catedral Basilica Menor Se despide en panteon Getsemani",
-      "descripcion": ""
-    },
-    {
-      "id": 208,
-      "titulo": "",
-      "nombre": "Jorge",
-      "apellido_paterno": "Juarez",
-      "apellido_materno": "Pineda",
-      "fecha": "tuesday, february 24",
-      "mensaje_corto": "At the age of 89 years",
-      "se_vela_en": "Tepehuanes, Dgo.",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 207,
-      "titulo": "",
-      "nombre": "Luciano",
-      "apellido_paterno": "Ceniceros",
-      "apellido_materno": "Amaya",
-      "fecha": "tuesday, february 24",
-      "mensaje_corto": "At the age of 54 years",
-      "se_vela_en": "Guanacevi Dgo",
-      "honras": "16:00 hrs Templo del lugar Se despide en panteon del lugar ",
-      "descripcion": ""
-    },
-    {
-      "id": 206,
-      "titulo": "",
-      "nombre": "Catarino",
-      "apellido_paterno": "Nevárez",
-      "apellido_materno": "Bringas",
-      "fecha": "monday, february 21",
-      "mensaje_corto": "At the age of 83 years",
-      "se_vela_en": "Se Veló en Calle Nombre de Dios #130 Col. Benigno Montoya",
-      "honras": "Lo despidieron el día martes 22 de febrero en panteón Getsemaní.-",
       "descripcion": ""
     },
     {
