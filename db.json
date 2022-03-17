@@ -1,6 +1,66 @@
 {
   "obituario": [
     {
+      "id": 247,
+      "titulo": "",
+      "nombre": "Sixto",
+      "apellido_paterno": "Corral",
+      "apellido_materno": "Cano",
+      "fecha": "Jueves, 17 de Marzo",
+      "mensaje_corto": "A la edad de 86 años",
+      "se_vela_en": "Capilla Santa Catarina Suc. Tepehuanes, Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 246,
+      "titulo": "Sra",
+      "nombre": "Trinidad",
+      "apellido_paterno": "Galindo",
+      "apellido_materno": "Ríos",
+      "fecha": "Jueves, 17 de Marzo",
+      "mensaje_corto": "A la edad de 68 años",
+      "se_vela_en": "dom. com. Chupaderos, Dgo. ",
+      "honras": "16:00 hrs. Templo San Vicente de Paul. Se despide en panteón del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 245,
+      "titulo": "",
+      "nombre": "Ma. Cruz",
+      "apellido_paterno": "Jiménez",
+      "apellido_materno": "Nájera",
+      "fecha": "Jueves, 17 de Marzo",
+      "mensaje_corto": "A la edad de 65 años",
+      "se_vela_en": "Se vela Bajío del Alambre, Guanaceví, Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 244,
+      "titulo": "R. N.",
+      "nombre": "Hitaana Aurora",
+      "apellido_paterno": "Rivas",
+      "apellido_materno": "Rodríguez",
+      "fecha": "Jueves, 17 de Marzo",
+      "mensaje_corto": "A la edad de 0 años",
+      "se_vela_en": "",
+      "honras": "La despidieron el día de miércoles 16 de marzo en panteón Oriente.",
+      "descripcion": ""
+    },
+    {
+      "id": 243,
+      "titulo": "",
+      "nombre": "Simón",
+      "apellido_paterno": "Nevárez",
+      "apellido_materno": "González",
+      "fecha": "Miércoles, 16 de Marzo",
+      "mensaje_corto": "A la edad de 39 años",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "Lo despidieron para su cremación el día miércoles 16 de marzo.",
+      "descripcion": ""
+    },
+    {
       "id": 242,
       "titulo": "Sra.",
       "nombre": "Natividad",
@@ -9,59 +69,71 @@
       "fecha": "Martes, 15 de Marzo",
       "mensaje_corto": "A la edad de 65 años",
       "se_vela_en": "Tepehuanes, Dgo.",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 241,
-      "titulo": "",
-      "nombre": "Pedro",
-      "apellido_paterno": "Villa",
-      "apellido_materno": "Marquez",
-      "fecha": "Martes, 15 de Marzo",
-      "mensaje_corto": "A la edad de 76 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "15:00 hrs. Templo Ntra. Sra. De La Salud. Se despide en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 240,
-      "titulo": "",
-      "nombre": "José Manuel",
-      "apellido_paterno": "Quezada",
-      "apellido_materno": "Calderón.",
-      "fecha": "Martes, 15 de Marzo",
-      "mensaje_corto": "A la edad de 49 años",
-      "se_vela_en": "Cuencamé, dgo.",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 239,
-      "titulo": "",
-      "nombre": "Francisco",
-      "apellido_paterno": "García",
-      "apellido_materno": "Lopez",
-      "fecha": "Martes, 15 de Marzo",
-      "mensaje_corto": "A la edad de 64 años",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Lo despidieron el día lunes 14 de marzo para su cremación."
-    },
-    {
-      "id": 203,
-      "titulo": "",
-      "nombre": "José Ignacio",
-      "apellido_paterno": "Mata",
-      "apellido_materno": "Guevara",
-      "fecha": "Lunes, 21 de Febrero",
-      "mensaje_corto": "A la edad de 55 años",
-      "se_vela_en": "Calle Fco. I. Madero #206 Col. 20 de Noviembre",
-      "honras": "12:00 hrs del dia sabado 26 de feb  Templo Nuestra Sra del Refugio Se despide en panteón de oriente",
+      "honras": "La despidieron el día miércoles 16 de marzo en panteón del lugar.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 247,
+      "titulo": "",
+      "nombre": "Sixto",
+      "apellido_paterno": "Corral",
+      "apellido_materno": "Cano",
+      "fecha": "tuesday, march 17",
+      "mensaje_corto": "At the age of 86 years",
+      "se_vela_en": "Capilla Santa Catarina Suc. Tepehuanes, Dgo.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 246,
+      "titulo": "Sra",
+      "nombre": "Trinidad",
+      "apellido_paterno": "Galindo",
+      "apellido_materno": "Ríos",
+      "fecha": "tuesday, march 17",
+      "mensaje_corto": "At the age of 68 years",
+      "se_vela_en": "dom. com. Chupaderos, Dgo. ",
+      "honras": "16:00 hrs. Templo San Vicente de Paul. Se despide en panteón del lugar.",
+      "descripcion": ""
+    },
+    {
+      "id": 245,
+      "titulo": "",
+      "nombre": "Ma. Cruz",
+      "apellido_paterno": "Jiménez",
+      "apellido_materno": "Nájera",
+      "fecha": "tuesday, march 17",
+      "mensaje_corto": "At the age of 65 years",
+      "se_vela_en": "Se vela Bajío del Alambre, Guanaceví, Dgo.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 244,
+      "titulo": "R. N.",
+      "nombre": "Hitaana Aurora",
+      "apellido_paterno": "Rivas",
+      "apellido_materno": "Rodríguez",
+      "fecha": "tuesday, march 17",
+      "mensaje_corto": "At the age of 0 years",
+      "se_vela_en": "",
+      "honras": "La despidieron el día de miércoles 16 de marzo en panteón Oriente.",
+      "descripcion": ""
+    },
+    {
+      "id": 243,
+      "titulo": "",
+      "nombre": "Simón",
+      "apellido_paterno": "Nevárez",
+      "apellido_materno": "González",
+      "fecha": "wednesday, march 16",
+      "mensaje_corto": "At the age of 39 years",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "Lo despidieron para su cremación el día miércoles 16 de marzo.",
+      "descripcion": ""
+    },
     {
       "id": 242,
       "titulo": "Sra.",
@@ -71,55 +143,7 @@
       "fecha": "thursday, march 15",
       "mensaje_corto": "At the age of 65 years",
       "se_vela_en": "Tepehuanes, Dgo.",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 241,
-      "titulo": "",
-      "nombre": "Pedro",
-      "apellido_paterno": "Villa",
-      "apellido_materno": "Marquez",
-      "fecha": "thursday, march 15",
-      "mensaje_corto": "At the age of 76 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "15:00 hrs. Templo Ntra. Sra. De La Salud. Se despide en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 240,
-      "titulo": "",
-      "nombre": "José Manuel",
-      "apellido_paterno": "Quezada",
-      "apellido_materno": "Calderón.",
-      "fecha": "thursday, march 15",
-      "mensaje_corto": "At the age of 49 years",
-      "se_vela_en": "Cuencamé, dgo.",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 239,
-      "titulo": "",
-      "nombre": "Francisco",
-      "apellido_paterno": "García",
-      "apellido_materno": "Lopez",
-      "fecha": "thursday, march 15",
-      "mensaje_corto": "At the age of 64 years",
-      "se_vela_en": "",
-      "honras": "",
-      "descripcion": "Lo despidieron el día lunes 14 de marzo para su cremación."
-    },
-    {
-      "id": 203,
-      "titulo": "",
-      "nombre": "José Ignacio",
-      "apellido_paterno": "Mata",
-      "apellido_materno": "Guevara",
-      "fecha": "monday, february 21",
-      "mensaje_corto": "At the age of 55 years",
-      "se_vela_en": "Calle Fco. I. Madero #206 Col. 20 de Noviembre",
-      "honras": "12:00 hrs del dia sabado 26 de feb  Templo Nuestra Sra del Refugio Se despide en panteón de oriente",
+      "honras": "La despidieron el día miércoles 16 de marzo en panteón del lugar.",
       "descripcion": ""
     }
   ]
