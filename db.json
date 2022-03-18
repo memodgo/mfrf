@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 248,
+      "titulo": "",
+      "nombre": "Julio",
+      "apellido_paterno": "Rojas",
+      "apellido_materno": "Reyes",
+      "fecha": "Viernes, 18 de Marzo",
+      "mensaje_corto": "A la edad de 55 años",
+      "se_vela_en": "dom. con. 1 de mayo, Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 247,
       "titulo": "",
       "nombre": "Sixto",
@@ -9,55 +21,7 @@
       "fecha": "Jueves, 17 de Marzo",
       "mensaje_corto": "A la edad de 86 años",
       "se_vela_en": "Capilla Santa Catarina Suc. Tepehuanes, Dgo.",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 246,
-      "titulo": "Sra",
-      "nombre": "Trinidad",
-      "apellido_paterno": "Galindo",
-      "apellido_materno": "Ríos",
-      "fecha": "Jueves, 17 de Marzo",
-      "mensaje_corto": "A la edad de 68 años",
-      "se_vela_en": "dom. com. Chupaderos, Dgo. ",
-      "honras": "16:00 hrs. Templo San Vicente de Paul. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 245,
-      "titulo": "",
-      "nombre": "Ma. Cruz",
-      "apellido_paterno": "Jiménez",
-      "apellido_materno": "Nájera",
-      "fecha": "Jueves, 17 de Marzo",
-      "mensaje_corto": "A la edad de 65 años",
-      "se_vela_en": "Se vela Bajío del Alambre, Guanaceví, Dgo.",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 244,
-      "titulo": "R. N.",
-      "nombre": "Hitaana Aurora",
-      "apellido_paterno": "Rivas",
-      "apellido_materno": "Rodríguez",
-      "fecha": "Jueves, 17 de Marzo",
-      "mensaje_corto": "A la edad de 0 años",
-      "se_vela_en": "",
-      "honras": "La despidieron el día de miércoles 16 de marzo en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 243,
-      "titulo": "",
-      "nombre": "Simón",
-      "apellido_paterno": "Nevárez",
-      "apellido_materno": "González",
-      "fecha": "Miércoles, 16 de Marzo",
-      "mensaje_corto": "A la edad de 39 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "Lo despidieron para su cremación el día miércoles 16 de marzo.",
+      "honras": "Lo despidieron el día jueves 17 de marzo en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -69,11 +33,23 @@
       "fecha": "Martes, 15 de Marzo",
       "mensaje_corto": "A la edad de 65 años",
       "se_vela_en": "Tepehuanes, Dgo.",
-      "honras": "La despidieron el día miércoles 16 de marzo en panteón del lugar.",
+      "honras": "La despidieron el día jueves 17 de marzo en panteón del lugar. Servicio Asistido por Funerales Raúl Flores.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 248,
+      "titulo": "",
+      "nombre": "Julio",
+      "apellido_paterno": "Rojas",
+      "apellido_materno": "Reyes",
+      "fecha": "friday, march 18",
+      "mensaje_corto": "At the age of 55 years",
+      "se_vela_en": "dom. con. 1 de mayo, Dgo.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 247,
       "titulo": "",
@@ -83,55 +59,7 @@
       "fecha": "tuesday, march 17",
       "mensaje_corto": "At the age of 86 years",
       "se_vela_en": "Capilla Santa Catarina Suc. Tepehuanes, Dgo.",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 246,
-      "titulo": "Sra",
-      "nombre": "Trinidad",
-      "apellido_paterno": "Galindo",
-      "apellido_materno": "Ríos",
-      "fecha": "tuesday, march 17",
-      "mensaje_corto": "At the age of 68 years",
-      "se_vela_en": "dom. com. Chupaderos, Dgo. ",
-      "honras": "16:00 hrs. Templo San Vicente de Paul. Se despide en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 245,
-      "titulo": "",
-      "nombre": "Ma. Cruz",
-      "apellido_paterno": "Jiménez",
-      "apellido_materno": "Nájera",
-      "fecha": "tuesday, march 17",
-      "mensaje_corto": "At the age of 65 years",
-      "se_vela_en": "Se vela Bajío del Alambre, Guanaceví, Dgo.",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 244,
-      "titulo": "R. N.",
-      "nombre": "Hitaana Aurora",
-      "apellido_paterno": "Rivas",
-      "apellido_materno": "Rodríguez",
-      "fecha": "tuesday, march 17",
-      "mensaje_corto": "At the age of 0 years",
-      "se_vela_en": "",
-      "honras": "La despidieron el día de miércoles 16 de marzo en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 243,
-      "titulo": "",
-      "nombre": "Simón",
-      "apellido_paterno": "Nevárez",
-      "apellido_materno": "González",
-      "fecha": "wednesday, march 16",
-      "mensaje_corto": "At the age of 39 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "Lo despidieron para su cremación el día miércoles 16 de marzo.",
+      "honras": "Lo despidieron el día jueves 17 de marzo en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -143,7 +71,7 @@
       "fecha": "thursday, march 15",
       "mensaje_corto": "At the age of 65 years",
       "se_vela_en": "Tepehuanes, Dgo.",
-      "honras": "La despidieron el día miércoles 16 de marzo en panteón del lugar.",
+      "honras": "La despidieron el día jueves 17 de marzo en panteón del lugar. Servicio Asistido por Funerales Raúl Flores.",
       "descripcion": ""
     }
   ]
