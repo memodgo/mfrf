@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 263,
+      "titulo": "",
+      "nombre": "María Graciela",
+      "apellido_paterno": "Velázquez",
+      "apellido_materno": "Contreras",
+      "fecha": "Sábado, 26 de Marzo",
+      "mensaje_corto": "A la edad de 75 años",
+      "se_vela_en": "Calle Niños Héroes #112 Col. José María Morelos (la tinaja)",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 262,
+      "titulo": "Lic.",
+      "nombre": "Fátima Berenice",
+      "apellido_paterno": "Ortiz",
+      "apellido_materno": "Barrera",
+      "fecha": "Sábado, 26 de Marzo",
+      "mensaje_corto": "A la edad de 37 años",
+      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 261,
       "titulo": "",
       "nombre": "Eva",
@@ -33,7 +57,7 @@
       "fecha": "Viernes, 25 de Marzo",
       "mensaje_corto": "A la edad de 0 años",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "honras": "15:00 hrs. Templo de Práxedis, Guerrero. Se despide en panteón del lugar de Práxedis, Guerreo.",
       "descripcion": ""
     },
     {
@@ -56,12 +80,36 @@
       "apellido_materno": "Hernandez",
       "fecha": "Miércoles, 23 de Marzo",
       "mensaje_corto": "A la edad de 79 años",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "se_vela_en": "Se velo Capilla Esmeralda Suc. Dolores del Rio",
       "honras": "11:00 hrs. Templo San Felipe de Jesus. Se despide en panteón Getsemani.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 263,
+      "titulo": "",
+      "nombre": "María Graciela",
+      "apellido_paterno": "Velázquez",
+      "apellido_materno": "Contreras",
+      "fecha": "saturday, march 26",
+      "mensaje_corto": "At the age of 75 years",
+      "se_vela_en": "Calle Niños Héroes #112 Col. José María Morelos (la tinaja)",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 262,
+      "titulo": "Lic.",
+      "nombre": "Fátima Berenice",
+      "apellido_paterno": "Ortiz",
+      "apellido_materno": "Barrera",
+      "fecha": "saturday, march 26",
+      "mensaje_corto": "At the age of 37 years",
+      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 261,
       "titulo": "",
@@ -70,7 +118,7 @@
       "apellido_materno": "",
       "fecha": "friday, march 25",
       "mensaje_corto": "At the age of 0 years",
-      "se_vela_en": "pendent",
+      "se_vela_en": "pendene",
       "honras": "pendents",
       "descripcion": "Se traslada de E.E.U.U. a dom. con.  Sandias Tepehuanes, Dgo."
     },
@@ -95,7 +143,7 @@
       "fecha": "friday, march 25",
       "mensaje_corto": "At the age of 0 years",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "pendents",
+      "honras": "15:00 hrs. Templo de Práxedis, Guerrero. Se despide en panteón del lugar de Práxedis, Guerreo.",
       "descripcion": ""
     },
     {
@@ -118,7 +166,7 @@
       "apellido_materno": "Hernandez",
       "fecha": "wednesday, march 23",
       "mensaje_corto": "At the age of 79 years",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "se_vela_en": "Se velo Capilla Esmeralda Suc. Dolores del Rio",
       "honras": "11:00 hrs. Templo San Felipe de Jesus. Se despide en panteón Getsemani.",
       "descripcion": ""
     }
