@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 278,
+      "titulo": "",
+      "nombre": "Juan",
+      "apellido_paterno": "Vergara",
+      "apellido_materno": "Quiñonez",
+      "fecha": "Miércoles, 6 de Abril",
+      "mensaje_corto": "A la edad de 89 años",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 277,
       "titulo": "",
       "nombre": "Bertha",
@@ -9,7 +21,7 @@
       "fecha": "Miércoles, 6 de Abril",
       "mensaje_corto": "A la edad de 91 años",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "12:00 hrs. Catedral Basílica Menor. Se despide para si cremación.",
+      "honras": "fueron a las 12:00 hrs Catedral Basilica menor Se despide para su cremacion ",
       "descripcion": ""
     },
     {
@@ -21,7 +33,7 @@
       "fecha": "Miércoles, 6 de Abril",
       "mensaje_corto": "A la edad de 69 años",
       "se_vela_en": " Chalchihuites, Zac.",
-      "honras": "14:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "honras": "fueron a las 8:00 hrs Templo del lugar Se despidio en panteon del lugar ",
       "descripcion": ""
     },
     {
@@ -39,6 +51,18 @@
   ],
   "obituario_ingles": [
     {
+      "id": 278,
+      "titulo": "",
+      "nombre": "Juan",
+      "apellido_paterno": "Vergara",
+      "apellido_materno": "Quiñonez",
+      "fecha": "wednesday, april 6",
+      "mensaje_corto": "At the age of 89 years",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
       "id": 277,
       "titulo": "",
       "nombre": "Bertha",
@@ -47,7 +71,7 @@
       "fecha": "wednesday, april 6",
       "mensaje_corto": "At the age of 91 years",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "12:00 hrs. Catedral Basílica Menor. Se despide para si cremación.",
+      "honras": "fueron a las 12:00 hrs Catedral Basilica menor Se despide para su cremacion ",
       "descripcion": ""
     },
     {
@@ -59,7 +83,7 @@
       "fecha": "wednesday, april 6",
       "mensaje_corto": "At the age of 69 years",
       "se_vela_en": " Chalchihuites, Zac.",
-      "honras": "14:00 hrs. Templo del lugar. Se despide en panteón del lugar.",
+      "honras": "fueron a las 8:00 hrs Templo del lugar Se despidio en panteon del lugar ",
       "descripcion": ""
     },
     {
