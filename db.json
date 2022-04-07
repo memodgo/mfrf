@@ -8,7 +8,7 @@
       "apellido_materno": "Quiñonez",
       "fecha": "Miércoles, 6 de Abril",
       "mensaje_corto": "A la edad de 89 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "se_vela_en": "El Durazno, Mpio. de Tamazula.",
       "honras": "pendientes",
       "descripcion": ""
     },
@@ -35,18 +35,6 @@
       "se_vela_en": " Chalchihuites, Zac.",
       "honras": "fueron a las 8:00 hrs Templo del lugar Se despidio en panteon del lugar ",
       "descripcion": ""
-    },
-    {
-      "id": 275,
-      "titulo": "",
-      "nombre": "Lauro",
-      "apellido_paterno": "Parada",
-      "apellido_materno": "Ayala",
-      "fecha": "Miércoles, 6 de Abril",
-      "mensaje_corto": "A la edad de 79 años",
-      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
-      "honras": "Lo despidieron el día martes 05 de abril en panteón Oriente.",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
@@ -58,7 +46,7 @@
       "apellido_materno": "Quiñonez",
       "fecha": "wednesday, april 6",
       "mensaje_corto": "At the age of 89 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "se_vela_en": "El Durazno, Mpio. de Tamazula.",
       "honras": "pendents",
       "descripcion": ""
     },
@@ -84,18 +72,6 @@
       "mensaje_corto": "At the age of 69 years",
       "se_vela_en": " Chalchihuites, Zac.",
       "honras": "fueron a las 8:00 hrs Templo del lugar Se despidio en panteon del lugar ",
-      "descripcion": ""
-    },
-    {
-      "id": 275,
-      "titulo": "",
-      "nombre": "Lauro",
-      "apellido_paterno": "Parada",
-      "apellido_materno": "Ayala",
-      "fecha": "wednesday, april 6",
-      "mensaje_corto": "At the age of 79 years",
-      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
-      "honras": "Lo despidieron el día martes 05 de abril en panteón Oriente.",
       "descripcion": ""
     }
   ]
