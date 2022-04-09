@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 283,
+      "titulo": "",
+      "nombre": "Cecilio",
+      "apellido_paterno": "García",
+      "apellido_materno": "Velázquez",
+      "fecha": "Sábado, 9 de Abril",
+      "mensaje_corto": "A la edad de 75 años",
+      "se_vela_en": "Capilla Baca Ortiz Suc. Santiago Papasquiaro, Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 282,
+      "titulo": "R. N.",
+      "nombre": "Ángel",
+      "apellido_paterno": "Romero",
+      "apellido_materno": "Romero",
+      "fecha": "Sábado, 9 de Abril",
+      "mensaje_corto": "A la edad de 0 años",
+      "se_vela_en": "Calle 24 de mayo #705 Col. Miguel de la Madrid. ",
+      "honras": "Se despide en panteón Oriente a las 14:00 hrs.",
+      "descripcion": ""
+    },
+    {
       "id": 281,
       "titulo": "",
       "nombre": "Margarita",
@@ -9,7 +33,7 @@
       "fecha": "Viernes, 8 de Abril",
       "mensaje_corto": "A la edad de 58 años",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "honras": "10:00 hrs. Templo San Juan Bautista de Analco. Se despide en panteón Valle de Los Sabinos.",
       "descripcion": ""
     },
     {
@@ -21,7 +45,7 @@
       "fecha": "Viernes, 8 de Abril",
       "mensaje_corto": "A la edad de 85 años",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "honras": "14.00 hrs. Templo Divina Asuncion (fracc Benito juarez) Se despide en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -35,21 +59,33 @@
       "se_vela_en": "Calle Ilinio #205 Col. Luis Echeverria",
       "honras": "el día sábado 09 de abril a las 12:00 hrs. Templo De La Santa Cruz. Se despide en panteón Oriente.",
       "descripcion": ""
-    },
-    {
-      "id": 278,
-      "titulo": "",
-      "nombre": "Juan",
-      "apellido_paterno": "Vergara",
-      "apellido_materno": "Quiñonez",
-      "fecha": "Miércoles, 6 de Abril",
-      "mensaje_corto": "A la edad de 89 años",
-      "se_vela_en": "El Durazno, Mpio. de Tamazula.",
-      "honras": "pendientes",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 283,
+      "titulo": "",
+      "nombre": "Cecilio",
+      "apellido_paterno": "García",
+      "apellido_materno": "Velázquez",
+      "fecha": "saturday, april 9",
+      "mensaje_corto": "At the age of 75 years",
+      "se_vela_en": "Capilla Baca Ortiz Suc. Santiago Papasquiaro, Dgo.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 282,
+      "titulo": "R. N.",
+      "nombre": "Ángel",
+      "apellido_paterno": "Romero",
+      "apellido_materno": "Romero",
+      "fecha": "saturday, april 9",
+      "mensaje_corto": "At the age of 0 years",
+      "se_vela_en": "Calle 24 de mayo #705 Col. Miguel de la Madrid. ",
+      "honras": "Se despide en panteón Oriente a las 14:00 hrs.",
+      "descripcion": ""
+    },
     {
       "id": 281,
       "titulo": "",
@@ -59,7 +95,7 @@
       "fecha": "friday, april 8",
       "mensaje_corto": "At the age of 58 years",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "pendents",
+      "honras": "10:00 hrs. Templo San Juan Bautista de Analco. Se despide en panteón Valle de Los Sabinos.",
       "descripcion": ""
     },
     {
@@ -71,7 +107,7 @@
       "fecha": "friday, april 8",
       "mensaje_corto": "At the age of 85 years",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "pendents",
+      "honras": "14.00 hrs. Templo Divina Asuncion (fracc Benito juarez) Se despide en panteón Oriente.",
       "descripcion": ""
     },
     {
@@ -84,18 +120,6 @@
       "mensaje_corto": "At the age of 88 years",
       "se_vela_en": "Calle Ilinio #205 Col. Luis Echeverria",
       "honras": "el día sábado 09 de abril a las 12:00 hrs. Templo De La Santa Cruz. Se despide en panteón Oriente.",
-      "descripcion": ""
-    },
-    {
-      "id": 278,
-      "titulo": "",
-      "nombre": "Juan",
-      "apellido_paterno": "Vergara",
-      "apellido_materno": "Quiñonez",
-      "fecha": "wednesday, april 6",
-      "mensaje_corto": "At the age of 89 years",
-      "se_vela_en": "El Durazno, Mpio. de Tamazula.",
-      "honras": "pendientes",
       "descripcion": ""
     }
   ]
