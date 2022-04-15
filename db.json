@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 295,
+      "titulo": "",
+      "nombre": "Saraí",
+      "apellido_paterno": "Barrón",
+      "apellido_materno": "Flores",
+      "fecha": "Viernes, 15 de Abril",
+      "mensaje_corto": "A la edad de 17 años",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 294,
       "titulo": "",
       "nombre": "Karem",
@@ -50,6 +62,18 @@
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 295,
+      "titulo": "",
+      "nombre": "Saraí",
+      "apellido_paterno": "Barrón",
+      "apellido_materno": "Flores",
+      "fecha": "friday, april 15",
+      "mensaje_corto": "At the age of 17 years",
+      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 294,
       "titulo": "",
