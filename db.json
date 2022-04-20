@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 306,
+      "titulo": "",
+      "nombre": "Jesús",
+      "apellido_paterno": "Aldama",
+      "apellido_materno": "Salgado",
+      "fecha": "Miércoles, 20 de Abril",
+      "mensaje_corto": "A la edad de 60 años",
+      "se_vela_en": "pendiente",
+      "honras": "pendientes",
+      "descripcion": "Se traslada a Ciénega de Escobar Tepehuanes, Dgo"
+    },
+    {
       "id": 305,
       "titulo": "",
       "nombre": "Rafael",
@@ -9,7 +21,7 @@
       "fecha": "Lunes, 18 de Abril",
       "mensaje_corto": "A la edad de 60 años",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "11:00 hrs. Templo Ntra. Sra. de Los Dolores. Se despide en panteón Getsemaní.",
+      "honras": "La despidieron el dia martes 19 de abril en panteón Getsemaní. ",
       "descripcion": ""
     },
     {
@@ -21,95 +33,23 @@
       "fecha": "Lunes, 18 de Abril",
       "mensaje_corto": "A la edad de 87 años",
       "se_vela_en": "Domicilio conocido Lerdo Durango",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 303,
-      "titulo": "",
-      "nombre": "Fernando",
-      "apellido_paterno": "Carrillo",
-      "apellido_materno": "Morales",
-      "fecha": "Lunes, 18 de Abril",
-      "mensaje_corto": "A la edad de 61 años",
-      "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
-      "honras": "Lo despidieron el día lunes 18 de abril   panteón Valle de Los Sabinos.",
-      "descripcion": ""
-    },
-    {
-      "id": 302,
-      "titulo": "",
-      "nombre": "Jose Luis Gonzalo",
-      "apellido_paterno": "Valdelamar",
-      "apellido_materno": "Valdez",
-      "fecha": "Domingo, 17 de Abril",
-      "mensaje_corto": "A la edad de 77 años",
-      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
-      "honras": "15:00 hrs. en la Parroquia de nuestra Sra. de Guadalupe, se le despide en el panteón Garrido.",
-      "descripcion": ""
-    },
-    {
-      "id": 301,
-      "titulo": "",
-      "nombre": "Armando",
-      "apellido_paterno": "Vega",
-      "apellido_materno": "Lopez",
-      "fecha": "Domingo, 17 de Abril",
-      "mensaje_corto": "A la edad de 90 años",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "11:00 hrs   Templo: De la divina Providencia   Se despide en el panteón Valle de Los Sabinos. ",
-      "descripcion": ""
-    },
-    {
-      "id": 300,
-      "titulo": "",
-      "nombre": "Misael Adrian",
-      "apellido_paterno": "Escobedo",
-      "apellido_materno": "Chavez",
-      "fecha": "Sábado, 16 de Abril",
-      "mensaje_corto": "A la edad de 25 años",
-      "se_vela_en": "calle Hilario Moreno #102 Col. Asentamientos humanos",
-      "honras": "14: 00 hrs   Templo: Santa Teresita del Niño Jesús   Se despide en el panteón Getsemaní ",
-      "descripcion": ""
-    },
-    {
-      "id": 299,
-      "titulo": "",
-      "nombre": "Mabel Estefania",
-      "apellido_paterno": "Escobedo",
-      "apellido_materno": "Leyva",
-      "fecha": "Sábado, 16 de Abril",
-      "mensaje_corto": "A la edad de 2 años",
-      "se_vela_en": "calle Hilario Moreno #102 Col. Asentamientos humanos",
-      "honras": "14: 00 hrs   Templo: Santa Teresita del Niño Jesús   Se despide en el panteón Getsemaní ",
-      "descripcion": ""
-    },
-    {
-      "id": 298,
-      "titulo": "",
-      "nombre": "Lina Monserrat",
-      "apellido_paterno": "Escobedo",
-      "apellido_materno": "Leyva",
-      "fecha": "Sábado, 16 de Abril",
-      "mensaje_corto": "A la edad de 6 años",
-      "se_vela_en": "calle Hilario Moreno #102 Col. Asentamientos humanos",
-      "honras": "14: 00 hrs   Templo: Santa Teresita del Niño Jesús   Se despide en el panteón Getsemaní ",
-      "descripcion": ""
-    },
-    {
-      "id": 297,
-      "titulo": "",
-      "nombre": "Chantal Joanna",
-      "apellido_paterno": "Mendoza",
-      "apellido_materno": "Reyes",
-      "fecha": "Sábado, 16 de Abril",
-      "mensaje_corto": "A la edad de 20 años",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "10:00  hrs.  Templo: De la resurrección   Se despide en el Panteón: Jardín.",
+      "honras": "Lo despidieron el día martes 19 de abril en panteón del lugar.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 306,
+      "titulo": "",
+      "nombre": "Jesús",
+      "apellido_paterno": "Aldama",
+      "apellido_materno": "Salgado",
+      "fecha": "wednesday, april 20",
+      "mensaje_corto": "At the age of 60 years",
+      "se_vela_en": "pendent",
+      "honras": "pendents",
+      "descripcion": "Se traslada a Ciénega de Escobar Tepehuanes, Dgo"
+    },
     {
       "id": 305,
       "titulo": "",
@@ -119,7 +59,7 @@
       "fecha": "monday, april 18",
       "mensaje_corto": "At the age of 60 years",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "11:00 hrs. Templo Ntra. Sra. de Los Dolores. Se despide en panteón Getsemaní.",
+      "honras": "La despidieron el dia martes 19 de abril en panteón Getsemaní. ",
       "descripcion": ""
     },
     {
@@ -131,91 +71,7 @@
       "fecha": "monday, april 18",
       "mensaje_corto": "At the age of 87 years",
       "se_vela_en": "Domicilio conocido Lerdo Durango",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 303,
-      "titulo": "",
-      "nombre": "Fernando",
-      "apellido_paterno": "Carrillo",
-      "apellido_materno": "Morales",
-      "fecha": "monday, april 18",
-      "mensaje_corto": "At the age of 61 years",
-      "se_vela_en": "Capilla Plata Suc. Dolores del Rio",
-      "honras": "Lo despidieron el día lunes 18 de abril   panteón Valle de Los Sabinos.",
-      "descripcion": ""
-    },
-    {
-      "id": 302,
-      "titulo": "",
-      "nombre": "Jose Luis Gonzalo",
-      "apellido_paterno": "Valdelamar",
-      "apellido_materno": "Valdez",
-      "fecha": "sunday, april 17",
-      "mensaje_corto": "At the age of 77 years",
-      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
-      "honras": "15:00 hrs. en la Parroquia de nuestra Sra. de Guadalupe, se le despide en el panteón Garrido.",
-      "descripcion": ""
-    },
-    {
-      "id": 301,
-      "titulo": "",
-      "nombre": "Armando",
-      "apellido_paterno": "Vega",
-      "apellido_materno": "Lopez",
-      "fecha": "sunday, april 17",
-      "mensaje_corto": "At the age of 90 years",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "11:00 hrs   Templo: De la divina Providencia   Se despide en el panteón Valle de Los Sabinos. ",
-      "descripcion": ""
-    },
-    {
-      "id": 300,
-      "titulo": "",
-      "nombre": "Misael Adrian",
-      "apellido_paterno": "Escobedo",
-      "apellido_materno": "Chavez",
-      "fecha": "saturday, april 16",
-      "mensaje_corto": "At the age of 25 years",
-      "se_vela_en": "calle Hilario Moreno #102 Col. Asentamientos humanos",
-      "honras": "14: 00 hrs   Templo: Santa Teresita del Niño Jesús   Se despide en el panteón Getsemaní ",
-      "descripcion": ""
-    },
-    {
-      "id": 299,
-      "titulo": "",
-      "nombre": "Mabel Estefania",
-      "apellido_paterno": "Escobedo",
-      "apellido_materno": "Leyva",
-      "fecha": "saturday, april 16",
-      "mensaje_corto": "At the age of 2 years",
-      "se_vela_en": "calle Hilario Moreno #102 Col. Asentamientos humanos",
-      "honras": "14: 00 hrs   Templo: Santa Teresita del Niño Jesús   Se despide en el panteón Getsemaní ",
-      "descripcion": ""
-    },
-    {
-      "id": 298,
-      "titulo": "",
-      "nombre": "Lina Monserrat",
-      "apellido_paterno": "Escobedo",
-      "apellido_materno": "Leyva",
-      "fecha": "saturday, april 16",
-      "mensaje_corto": "At the age of 6 years",
-      "se_vela_en": "calle Hilario Moreno #102 Col. Asentamientos humanos",
-      "honras": "14: 00 hrs   Templo: Santa Teresita del Niño Jesús   Se despide en el panteón Getsemaní ",
-      "descripcion": ""
-    },
-    {
-      "id": 297,
-      "titulo": "",
-      "nombre": "Chantal Joanna",
-      "apellido_paterno": "Mendoza",
-      "apellido_materno": "Reyes",
-      "fecha": "saturday, april 16",
-      "mensaje_corto": "At the age of 20 years",
-      "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "10:00  hrs.  Templo: De la resurrección   Se despide en el Panteón: Jardín.",
+      "honras": "Lo despidieron el día martes 19 de abril en panteón del lugar.",
       "descripcion": ""
     }
   ]
