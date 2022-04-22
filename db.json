@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 310,
+      "titulo": "",
+      "nombre": "Miguel Ángel",
+      "apellido_paterno": "Rodríguez",
+      "apellido_materno": "",
+      "fecha": "Viernes, 22 de Abril",
+      "mensaje_corto": "A la edad de 74 años",
+      "se_vela_en": "Calle Francisco Villa #419 Col. Arturo Gamiz.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 309,
       "titulo": "",
       "nombre": "Santiago",
@@ -8,8 +20,8 @@
       "apellido_materno": "Monárrez",
       "fecha": "Jueves, 21 de Abril",
       "mensaje_corto": "A la edad de 51 años",
-      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "se_vela_en": "Se vela en Presidios de abajo, Tepehuanes, Dgo.  (La candela). ",
+      "honras": "Rosario a las 12:00 pm mismo domicilio y posteriormente se sepulta en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -21,7 +33,7 @@
       "fecha": "Jueves, 21 de Abril",
       "mensaje_corto": "A la edad de 64 años",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "pendientes",
+      "honras": "Se despide a las 10:00 a.m. en Panteón Parque Residencial Flores.",
       "descripcion": ""
     },
     {
@@ -33,35 +45,23 @@
       "fecha": "Jueves, 21 de Abril",
       "mensaje_corto": "A la edad de 79 años",
       "se_vela_en": "Calle Doroteo Arango #329 Col. José Revueltas.",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 306,
-      "titulo": "",
-      "nombre": "Jesús",
-      "apellido_paterno": "Aldama",
-      "apellido_materno": "Salgado",
-      "fecha": "Miércoles, 20 de Abril",
-      "mensaje_corto": "A la edad de 60 años",
-      "se_vela_en": "Ciénega de Escobar, Tepehuanes, Dgo.",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 305,
-      "titulo": "",
-      "nombre": "Rafael",
-      "apellido_paterno": "Rivera",
-      "apellido_materno": "Boltor",
-      "fecha": "Lunes, 18 de Abril",
-      "mensaje_corto": "A la edad de 60 años",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "La despidieron el dia martes 19 de abril en panteón Getsemaní. ",
+      "honras": "11:00 hrs Templo San Antonio de Padua Se despide en panteón de Oriente.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 310,
+      "titulo": "",
+      "nombre": "Miguel Ángel",
+      "apellido_paterno": "Rodríguez",
+      "apellido_materno": "",
+      "fecha": "friday, april 22",
+      "mensaje_corto": "At the age of 74 years",
+      "se_vela_en": "Calle Francisco Villa #419 Col. Arturo Gamiz.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 309,
       "titulo": "",
@@ -70,8 +70,8 @@
       "apellido_materno": "Monárrez",
       "fecha": "tuesday, april 21",
       "mensaje_corto": "At the age of 51 years",
-      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
-      "honras": "pendents",
+      "se_vela_en": "Se vela en Presidios de abajo, Tepehuanes, Dgo.  (La candela). ",
+      "honras": "Rosario a las 12:00 pm mismo domicilio y posteriormente se sepulta en panteón del lugar.",
       "descripcion": ""
     },
     {
@@ -83,7 +83,7 @@
       "fecha": "tuesday, april 21",
       "mensaje_corto": "At the age of 64 years",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "pendents",
+      "honras": "Se despide a las 10:00 a.m. en Panteón Parque Residencial Flores.",
       "descripcion": ""
     },
     {
@@ -95,31 +95,7 @@
       "fecha": "tuesday, april 21",
       "mensaje_corto": "At the age of 79 years",
       "se_vela_en": "Calle Doroteo Arango #329 Col. José Revueltas.",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 306,
-      "titulo": "",
-      "nombre": "Jesús",
-      "apellido_paterno": "Aldama",
-      "apellido_materno": "Salgado",
-      "fecha": "wednesday, april 20",
-      "mensaje_corto": "At the age of 60 years",
-      "se_vela_en": "Ciénega de Escobar, Tepehuanes, Dgo.",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 305,
-      "titulo": "",
-      "nombre": "Rafael",
-      "apellido_paterno": "Rivera",
-      "apellido_materno": "Boltor",
-      "fecha": "monday, april 18",
-      "mensaje_corto": "At the age of 60 years",
-      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "La despidieron el dia martes 19 de abril en panteón Getsemaní. ",
+      "honras": "11:00 hrs Templo San Antonio de Padua Se despide en panteón de Oriente.",
       "descripcion": ""
     }
   ]
