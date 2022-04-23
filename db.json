@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 312,
+      "titulo": "",
+      "nombre": "Rufina Mercedes",
+      "apellido_paterno": "Ramírez",
+      "apellido_materno": "",
+      "fecha": "Sábado, 23 de Abril",
+      "mensaje_corto": "A la edad de 90 años",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 311,
+      "titulo": "",
+      "nombre": "Maria Consuelo",
+      "apellido_paterno": "Lopez",
+      "apellido_materno": "Márquez",
+      "fecha": "Sábado, 23 de Abril",
+      "mensaje_corto": "A la edad de 77 años",
+      "se_vela_en": "dom. con. El Rincón, Santiago Papasquiaro, Dgo.",
+      "honras": "el día domingo 24 de abril a las 16:00 hrs. Templo Virgen de Guadalupe. Se despide en panteón del Poblado El Tambor.",
+      "descripcion": ""
+    },
+    {
       "id": 310,
       "titulo": "",
       "nombre": "Miguel Ángel",
@@ -9,7 +33,7 @@
       "fecha": "Viernes, 22 de Abril",
       "mensaje_corto": "A la edad de 74 años",
       "se_vela_en": "Calle Francisco Villa #419 Col. Arturo Gamiz.",
-      "honras": "pendientes",
+      "honras": " 14:00 hrs. Templo San Rafael. Se despide en panteón aún pendiente.",
       "descripcion": ""
     },
     {
@@ -21,7 +45,7 @@
       "fecha": "Jueves, 21 de Abril",
       "mensaje_corto": "A la edad de 51 años",
       "se_vela_en": "Se vela en Presidios de abajo, Tepehuanes, Dgo.  (La candela). ",
-      "honras": "Rosario a las 12:00 pm mismo domicilio y posteriormente se sepulta en panteón del lugar.",
+      "honras": "Lo despidieron el dia viernes 22 de abril en panteón de Presidios de Abajo, Tepehuanes, Dgo.",
       "descripcion": ""
     },
     {
@@ -33,7 +57,7 @@
       "fecha": "Jueves, 21 de Abril",
       "mensaje_corto": "A la edad de 64 años",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "Se despide a las 10:00 a.m. en Panteón Parque Residencial Flores.",
+      "honras": "Lo despidieron el día viernes 22 de abril en panteón Parque Residencial Flores.",
       "descripcion": ""
     },
     {
@@ -45,11 +69,35 @@
       "fecha": "Jueves, 21 de Abril",
       "mensaje_corto": "A la edad de 79 años",
       "se_vela_en": "Calle Doroteo Arango #329 Col. José Revueltas.",
-      "honras": "11:00 hrs Templo San Antonio de Padua Se despide en panteón de Oriente.",
+      "honras": "La despidieron el día viernes 22 de abril en panteón Oriente.",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 312,
+      "titulo": "",
+      "nombre": "Rufina Mercedes",
+      "apellido_paterno": "Ramírez",
+      "apellido_materno": "",
+      "fecha": "saturday, april 23",
+      "mensaje_corto": "At the age of 90 years",
+      "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 311,
+      "titulo": "",
+      "nombre": "Maria Consuelo",
+      "apellido_paterno": "Lopez",
+      "apellido_materno": "Márquez",
+      "fecha": "saturday, april 23",
+      "mensaje_corto": "At the age of 77 years",
+      "se_vela_en": "dom. con. El Rincón, Santiago Papasquiaro, Dgo.",
+      "honras": "el día domingo 24 de abril a las 16:00 hrs. Templo Virgen de Guadalupe. Se despide en panteón del Poblado El Tambor.",
+      "descripcion": ""
+    },
     {
       "id": 310,
       "titulo": "",
@@ -59,7 +107,7 @@
       "fecha": "friday, april 22",
       "mensaje_corto": "At the age of 74 years",
       "se_vela_en": "Calle Francisco Villa #419 Col. Arturo Gamiz.",
-      "honras": "pendents",
+      "honras": " 14:00 hrs. Templo San Rafael. Se despide en panteón aún pendiente.",
       "descripcion": ""
     },
     {
@@ -71,7 +119,7 @@
       "fecha": "tuesday, april 21",
       "mensaje_corto": "At the age of 51 years",
       "se_vela_en": "Se vela en Presidios de abajo, Tepehuanes, Dgo.  (La candela). ",
-      "honras": "Rosario a las 12:00 pm mismo domicilio y posteriormente se sepulta en panteón del lugar.",
+      "honras": "Lo despidieron el dia viernes 22 de abril en panteón de Presidios de Abajo, Tepehuanes, Dgo.",
       "descripcion": ""
     },
     {
@@ -83,7 +131,7 @@
       "fecha": "tuesday, april 21",
       "mensaje_corto": "At the age of 64 years",
       "se_vela_en": "Capilla Esmeralda Suc. Dolores del Rio",
-      "honras": "Se despide a las 10:00 a.m. en Panteón Parque Residencial Flores.",
+      "honras": "Lo despidieron el día viernes 22 de abril en panteón Parque Residencial Flores.",
       "descripcion": ""
     },
     {
@@ -95,7 +143,7 @@
       "fecha": "tuesday, april 21",
       "mensaje_corto": "At the age of 79 years",
       "se_vela_en": "Calle Doroteo Arango #329 Col. José Revueltas.",
-      "honras": "11:00 hrs Templo San Antonio de Padua Se despide en panteón de Oriente.",
+      "honras": "La despidieron el día viernes 22 de abril en panteón Oriente.",
       "descripcion": ""
     }
   ]
