@@ -9,7 +9,7 @@
       "fecha": "Martes, 26 de Abril",
       "mensaje_corto": "A la edad de 34 años",
       "se_vela_en": "Calle 20 de septiembre #207 Col. Asentamientos Humanos.",
-      "honras": "pendientes",
+      "honras": "13:00 hrs Templo Santo Domingo y se despide en panteón de Oriente  ",
       "descripcion": ""
     },
     {
@@ -19,45 +19,9 @@
       "apellido_paterno": "Amador",
       "apellido_materno": "Montes",
       "fecha": "Martes, 26 de Abril",
-      "mensaje_corto": "A la edad de 3 años",
-      "se_vela_en": "pendiente",
-      "honras": "pendientes",
-      "descripcion": ""
-    },
-    {
-      "id": 315,
-      "titulo": "",
-      "nombre": "Rubén",
-      "apellido_paterno": "Casas",
-      "apellido_materno": "Gurrola",
-      "fecha": "Lunes, 25 de Abril",
-      "mensaje_corto": "A la edad de 85 años",
-      "se_vela_en": "Se veló en  El Arenal, Dgo.",
-      "honras": "Sus honras fueron a las 15:00 hrs. Templo del lugar. Se despidió en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 314,
-      "titulo": "",
-      "nombre": "José Luis",
-      "apellido_paterno": "Flores",
-      "apellido_materno": "Mendoza",
-      "fecha": "Lunes, 25 de Abril",
-      "mensaje_corto": "A la edad de 74 años",
+      "mensaje_corto": "A la edad de 2 años",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "Sus honras fueron a las  11:00 hrs. Templo Ntra. Sra. de La Salud. Se despidió en panteón Jardín.",
-      "descripcion": ""
-    },
-    {
-      "id": 313,
-      "titulo": "",
-      "nombre": "Luis",
-      "apellido_paterno": "Pulido",
-      "apellido_materno": "Morales",
-      "fecha": "Lunes, 25 de Abril",
-      "mensaje_corto": "A la edad de 73 años",
-      "se_vela_en": "Se veló en dom. con. Héroes de Nacozari.",
-      "honras": "fueron a las  10:00 hrs. Templo San Isidro Labrados. Se despidió en panteón del lugar.",
+      "honras": "15:00 hrs Templo San Miguel y se despide en pantón de Oriente",
       "descripcion": ""
     }
   ],
@@ -71,7 +35,7 @@
       "fecha": "thursday, april 26",
       "mensaje_corto": "At the age of 34 years",
       "se_vela_en": "Calle 20 de septiembre #207 Col. Asentamientos Humanos.",
-      "honras": "pendents",
+      "honras": "13:00 hrs Templo Santo Domingo y se despide en panteón de Oriente  ",
       "descripcion": ""
     },
     {
@@ -81,45 +45,9 @@
       "apellido_paterno": "Amador",
       "apellido_materno": "Montes",
       "fecha": "thursday, april 26",
-      "mensaje_corto": "At the age of 3 years",
-      "se_vela_en": "pendent",
-      "honras": "pendents",
-      "descripcion": ""
-    },
-    {
-      "id": 315,
-      "titulo": "",
-      "nombre": "Rubén",
-      "apellido_paterno": "Casas",
-      "apellido_materno": "Gurrola",
-      "fecha": "monday, april 25",
-      "mensaje_corto": "At the age of 85 years",
-      "se_vela_en": "Se veló en  El Arenal, Dgo.",
-      "honras": "Sus honras fueron a las 15:00 hrs. Templo del lugar. Se despidió en panteón del lugar.",
-      "descripcion": ""
-    },
-    {
-      "id": 314,
-      "titulo": "",
-      "nombre": "José Luis",
-      "apellido_paterno": "Flores",
-      "apellido_materno": "Mendoza",
-      "fecha": "monday, april 25",
-      "mensaje_corto": "At the age of 74 years",
+      "mensaje_corto": "At the age of 2 years",
       "se_vela_en": "Capilla Diamante Suc. Dolores del Rio",
-      "honras": "Sus honras fueron a las  11:00 hrs. Templo Ntra. Sra. de La Salud. Se despidió en panteón Jardín.",
-      "descripcion": ""
-    },
-    {
-      "id": 313,
-      "titulo": "",
-      "nombre": "Luis",
-      "apellido_paterno": "Pulido",
-      "apellido_materno": "Morales",
-      "fecha": "monday, april 25",
-      "mensaje_corto": "At the age of 73 years",
-      "se_vela_en": "Se veló en dom. con. Héroes de Nacozari.",
-      "honras": "fueron a las  10:00 hrs. Templo San Isidro Labrados. Se despidió en panteón del lugar.",
+      "honras": "15:00 hrs Templo San Miguel y se despide en pantón de Oriente",
       "descripcion": ""
     }
   ]
