@@ -1,6 +1,18 @@
 {
   "obituario": [
     {
+      "id": 324,
+      "titulo": "",
+      "nombre": "Albina",
+      "apellido_paterno": "Adame",
+      "apellido_materno": "González",
+      "fecha": "Viernes, 29 de Abril",
+      "mensaje_corto": "A la edad de 77 años",
+      "se_vela_en": "Barrio El Salto La Loma, San Juan del Rio, Dgo.",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 323,
       "titulo": "",
       "nombre": "Aránzazu",
@@ -33,7 +45,7 @@
       "fecha": "Jueves, 28 de Abril",
       "mensaje_corto": "A la edad de 77 años",
       "se_vela_en": "Calle Tomas Urbina #410 Col. División del Norte.",
-      "honras": "pendientes",
+      "honras": " 09:00 hrs del día sábado 30 de abril  Templo Nuestra Sra. de Guadalupe  Se despide para su cremación ",
       "descripcion": ""
     },
     {
@@ -57,7 +69,7 @@
       "fecha": "Jueves, 28 de Abril",
       "mensaje_corto": "A la edad de 18 años",
       "se_vela_en": "Calle Encinos L18 M18 Col. El Madroño.",
-      "honras": "pendientes",
+      "honras": "Se despide en panteón del tunal a las 11:00 hrs",
       "descripcion": ""
     },
     {
@@ -69,11 +81,23 @@
       "fecha": "Jueves, 28 de Abril",
       "mensaje_corto": "A la edad de 77 años",
       "se_vela_en": "Se vela Arroyo Chico, Tepehuanes, Dgo.",
-      "honras": "pendientes",
+      "honras": "La despidieron el día 28 de abril en panteón del lugar ",
       "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 324,
+      "titulo": "",
+      "nombre": "Albina",
+      "apellido_paterno": "Adame",
+      "apellido_materno": "González",
+      "fecha": "friday, april 29",
+      "mensaje_corto": "At the age of 77 years",
+      "se_vela_en": "Barrio El Salto La Loma, San Juan del Rio, Dgo.",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 323,
       "titulo": "",
@@ -94,7 +118,7 @@
       "apellido_materno": "",
       "fecha": "tuesday, april 28",
       "mensaje_corto": "At the age of 0 years",
-      "se_vela_en": "pendene",
+      "se_vela_en": "pendent",
       "honras": "Pendents",
       "descripcion": "Se traslada de Las Vegas  a Tepehuanes, Dgo."
     },
@@ -107,7 +131,7 @@
       "fecha": "tuesday, april 28",
       "mensaje_corto": "At the age of 77 years",
       "se_vela_en": "Calle Tomas Urbina #410 Col. División del Norte.",
-      "honras": "pendents",
+      "honras": " 09:00 hrs del día sábado 30 de abril  Templo Nuestra Sra. de Guadalupe  Se despide para su cremación ",
       "descripcion": ""
     },
     {
@@ -131,7 +155,7 @@
       "fecha": "tuesday, april 28",
       "mensaje_corto": "At the age of 18 years",
       "se_vela_en": "Calle Encinos L18 M18 Col. El Madroño.",
-      "honras": "pendents",
+      "honras": "Se despide en panteón del tunal a las 11:00 hrs",
       "descripcion": ""
     },
     {
@@ -143,7 +167,7 @@
       "fecha": "tuesday, april 28",
       "mensaje_corto": "At the age of 77 years",
       "se_vela_en": "Se vela Arroyo Chico, Tepehuanes, Dgo.",
-      "honras": "pendents",
+      "honras": "La despidieron el día 28 de abril en panteón del lugar ",
       "descripcion": ""
     }
   ]
