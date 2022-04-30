@@ -1,6 +1,30 @@
 {
   "obituario": [
     {
+      "id": 326,
+      "titulo": "Joven",
+      "nombre": "Roberto Manuel",
+      "apellido_paterno": "Mireles",
+      "apellido_materno": "Galván",
+      "fecha": "Sábado, 30 de Abril",
+      "mensaje_corto": "A la edad de 15 años",
+      "se_vela_en": "dom. con. Parra de La Fuente",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
+      "id": 325,
+      "titulo": "",
+      "nombre": "Alfonso",
+      "apellido_paterno": "García",
+      "apellido_materno": "González",
+      "fecha": "Sábado, 30 de Abril",
+      "mensaje_corto": "A la edad de 74 años",
+      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
+      "honras": "pendientes",
+      "descripcion": ""
+    },
+    {
       "id": 324,
       "titulo": "",
       "nombre": "Albina",
@@ -71,21 +95,33 @@
       "se_vela_en": "Calle Encinos L18 M18 Col. El Madroño.",
       "honras": "Se despide en panteón del tunal a las 11:00 hrs",
       "descripcion": ""
-    },
-    {
-      "id": 318,
-      "titulo": "",
-      "nombre": "Guadalupe",
-      "apellido_paterno": "Cárdenas",
-      "apellido_materno": "Favela",
-      "fecha": "Jueves, 28 de Abril",
-      "mensaje_corto": "A la edad de 77 años",
-      "se_vela_en": "Se vela Arroyo Chico, Tepehuanes, Dgo.",
-      "honras": "La despidieron el día 28 de abril en panteón del lugar ",
-      "descripcion": ""
     }
   ],
   "obituario_ingles": [
+    {
+      "id": 326,
+      "titulo": "Joven",
+      "nombre": "Roberto Manuel",
+      "apellido_paterno": "Mireles",
+      "apellido_materno": "Galván",
+      "fecha": "saturday, april 30",
+      "mensaje_corto": "At the age of 15 years",
+      "se_vela_en": "dom. con. Parra de La Fuente",
+      "honras": "pendents",
+      "descripcion": ""
+    },
+    {
+      "id": 325,
+      "titulo": "",
+      "nombre": "Alfonso",
+      "apellido_paterno": "García",
+      "apellido_materno": "González",
+      "fecha": "saturday, april 30",
+      "mensaje_corto": "At the age of 74 years",
+      "se_vela_en": "Capilla Oro Suc. Dolores del Rio",
+      "honras": "pendents",
+      "descripcion": ""
+    },
     {
       "id": 324,
       "titulo": "",
@@ -156,18 +192,6 @@
       "mensaje_corto": "At the age of 18 years",
       "se_vela_en": "Calle Encinos L18 M18 Col. El Madroño.",
       "honras": "Se despide en panteón del tunal a las 11:00 hrs",
-      "descripcion": ""
-    },
-    {
-      "id": 318,
-      "titulo": "",
-      "nombre": "Guadalupe",
-      "apellido_paterno": "Cárdenas",
-      "apellido_materno": "Favela",
-      "fecha": "tuesday, april 28",
-      "mensaje_corto": "At the age of 77 years",
-      "se_vela_en": "Se vela Arroyo Chico, Tepehuanes, Dgo.",
-      "honras": "La despidieron el día 28 de abril en panteón del lugar ",
       "descripcion": ""
     }
   ]
